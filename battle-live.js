@@ -230,6 +230,9 @@ function join(prefill = '', err = '') {
     <div class="mark">Join a game</div>
     <h2>Enter the room code</h2>
     <p class="sub">The host sees it on their screen, or they can send you the link.</p>
+    <label class="lab" for="jnick">Your name for this game</label>
+    <input class="field" id="jnick" maxlength="16" placeholder="Player" value="${esc(S.nick)}" autocomplete="off">
+    <label class="lab" for="code">Room code</label>
     <form id="jf"><input class="field" id="code" placeholder="FROG-42" maxlength="7" autocomplete="off" value="${esc(prefill)}" style="text-transform:uppercase;font-family:var(--mono);letter-spacing:.08em"></form>
     <div class="msg bad" id="jmsg">${esc(err)}</div>
     <div class="row"><button class="btn" id="go">Join</button><button class="textlink" id="back">Back</button></div>
@@ -237,13 +240,14 @@ function join(prefill = '', err = '') {
   const go = async () => {
     const code = cleanCode($('#code').value);
     if (!code) { $('#jmsg').textContent = 'Codes look like FROG-42'; return; }
+    S.nick = $('#jnick').value.trim().slice(0, 16); store.set('battle-nick', S.nick);
     $('#go').disabled = true; $('#jmsg').textContent = '';
     try { await joinRoom(code); } catch (e) { $('#jmsg').textContent = e.message; $('#go').disabled = false; }
   };
   $('#jf').onsubmit = e => { e.preventDefault(); go(); };
   $('#go').onclick = go;
   $('#back').onclick = home;
-  $('#code').focus();
+  (prefill && !err ? $('#jnick') : $('#code')).focus();
 }
 async function joinRoom(code) {
   S.code = code;
@@ -469,7 +473,8 @@ function results(key) {
   const namesOf = uid => Object.values((r.names || {})[uid] || {}).sort((a, b) => (a.t || 0) - (b.t || 0)).map(v => v.name || v);
   const tie = rank.length > 1 && st.mode !== 'turns' && (rank[0].count || 0) === (rank[1].count || 0) && !rank[0].finishedAt;
   const top = [rank[1], rank[0], rank[2]];
-  const dur = (r.meta.endedAt || now()) - r.meta.startAt;
+  let dur = (r.meta.endedAt || now()) - r.meta.startAt;
+  if (r.meta.endAt) dur = Math.min(dur, r.meta.endAt - r.meta.startAt);
   const usedAfter = new Set([...Object.keys(r.used || {}), ...Object.values(r.names || {}).flatMap(o => Object.keys(o))]).size;
   $('#root').innerHTML = `<div class="wrap">
     <div class="mark">Round ${r.meta.round || 1} · ${esc(label(st.cat))}</div>
@@ -526,7 +531,12 @@ function offline(why) {
   const code = k === 'room' ? cleanCode(v) : cleanCode(sess.get('battle-room'));
   if (k === 'host') { S.local = 'settings'; return settings(false); }
   if (code) {
-    try { await joinRoom(code); return; }
+    try {
+      S.code = code; const r = (await F.get(R())).val(); S.code = null;
+      const mine = r && r.players && r.players[S.uid];
+      if (!mine && k === 'room' && r && r.meta && r.meta.state === 'lobby') { sess.set('battle-room', null); return join(code); }   // invite link: pick a name first
+      await joinRoom(code); return;
+    }
     catch (e) { sess.set('battle-room', null); history.replaceState(null, '', location.pathname + location.search); return k === 'room' ? join(code, e.message) : home(); }
   }
   home();
