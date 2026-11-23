@@ -58,7 +58,8 @@ async function connect() {
   const base = `https://www.gstatic.com/firebasejs/${FB_VER}/`;
   const [appM, authM, dbM] = await Promise.all([import(base + 'firebase-app.js'), import(base + 'firebase-auth.js'), import(base + 'firebase-database.js')]);
   const app = appM.initializeApp(FB_CONFIG);
-  const auth = authM.getAuth(app);
+  // per-tab sign-in: a reload keeps your seat, a new tab (or device) is a new player
+  const auth = authM.initializeAuth(app, { persistence: authM.browserSessionPersistence });
   db = dbM.getDatabase(app);
   F = dbM;
   const user = await new Promise((res, rej) => {
