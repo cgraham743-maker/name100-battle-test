@@ -1,0 +1,125 @@
+#Team
+Arizona Cardinals	NFL
+Atlanta Falcons|Falcons	NFL
+Baltimore Ravens|Ravens	NFL
+Buffalo Bills|Bills	NFL
+Carolina Panthers	NFL
+Chicago Bears|Bears	NFL
+Cincinnati Bengals|Bengals	NFL
+Cleveland Browns|Browns	NFL
+Dallas Cowboys|Cowboys	NFL
+Denver Broncos|Broncos	NFL
+Detroit Lions|Lions	NFL
+Green Bay Packers|Packers	NFL
+Houston Texans|Texans	NFL
+Indianapolis Colts|Colts	NFL
+Jacksonville Jaguars|Jaguars|Jags	NFL
+Kansas City Chiefs|Chiefs	NFL
+Las Vegas Raiders|Raiders|Oakland Raiders	NFL
+Los Angeles Chargers|LA Chargers|Chargers	NFL
+Los Angeles Rams|LA Rams|Rams	NFL
+Miami Dolphins|Dolphins	NFL
+Minnesota Vikings|Vikings	NFL
+New England Patriots|Patriots|Pats	NFL
+New Orleans Saints|Saints	NFL
+New York Giants|NY Giants	NFL
+New York Jets|NY Jets	NFL
+Philadelphia Eagles|Eagles	NFL
+Pittsburgh Steelers|Steelers	NFL
+San Francisco 49ers|49ers|Niners	NFL
+Seattle Seahawks|Seahawks	NFL
+Tampa Bay Buccaneers|Buccaneers|Bucs	NFL
+Tennessee Titans|Titans	NFL
+Washington Commanders|Commanders	NFL
+Atlanta Hawks|Hawks	NBA
+Boston Celtics|Celtics	NBA
+Brooklyn Nets|Nets	NBA
+Charlotte Hornets|Hornets	NBA
+Chicago Bulls|Bulls	NBA
+Cleveland Cavaliers|Cavaliers|Cavs	NBA
+Dallas Mavericks|Mavericks|Mavs	NBA
+Denver Nuggets|Nuggets	NBA
+Detroit Pistons|Pistons	NBA
+Golden State Warriors|Warriors	NBA
+Houston Rockets|Rockets	NBA
+Indiana Pacers|Pacers	NBA
+Los Angeles Clippers|LA Clippers|Clippers	NBA
+Los Angeles Lakers|LA Lakers|Lakers	NBA
+Memphis Grizzlies|Grizzlies	NBA
+Miami Heat|Heat	NBA
+Milwaukee Bucks|Bucks	NBA
+Minnesota Timberwolves|Timberwolves|Wolves	NBA
+New Orleans Pelicans|Pelicans	NBA
+New York Knicks|Knicks	NBA
+Oklahoma City Thunder|OKC Thunder|Thunder	NBA
+Orlando Magic|Magic	NBA
+Philadelphia 76ers|76ers|Sixers	NBA
+Phoenix Suns|Suns	NBA
+Portland Trail Blazers|Trail Blazers|Blazers	NBA
+Sacramento Kings	NBA
+San Antonio Spurs|Spurs	NBA
+Toronto Raptors|Raptors	NBA
+Utah Jazz|Jazz	NBA
+Washington Wizards|Wizards	NBA
+Arizona Diamondbacks|Diamondbacks|D-backs	MLB
+Atlanta Braves|Braves	MLB
+Baltimore Orioles|Orioles	MLB
+Boston Red Sox|Red Sox	MLB
+Chicago Cubs|Cubs	MLB
+Chicago White Sox|White Sox	MLB
+Cincinnati Reds|Reds	MLB
+Cleveland Guardians|Guardians	MLB
+Colorado Rockies|Rockies	MLB
+Detroit Tigers|Tigers	MLB
+Houston Astros|Astros	MLB
+Kansas City Royals|Royals	MLB
+Los Angeles Angels|LA Angels|Angels	MLB
+Los Angeles Dodgers|LA Dodgers|Dodgers	MLB
+Miami Marlins|Marlins	MLB
+Milwaukee Brewers|Brewers	MLB
+Minnesota Twins|Twins	MLB
+New York Mets|Mets	MLB
+New York Yankees|Yankees	MLB
+Athletics|Oakland Athletics|Sacramento Athletics|Oakland A's|A's	MLB
+Philadelphia Phillies|Phillies	MLB
+Pittsburgh Pirates|Pirates	MLB
+San Diego Padres|Padres	MLB
+San Francisco Giants|SF Giants	MLB
+Seattle Mariners|Mariners	MLB
+St. Louis Cardinals|Saint Louis Cardinals	MLB
+Tampa Bay Rays|Rays	MLB
+Texas Rangers	MLB
+Toronto Blue Jays|Blue Jays	MLB
+Washington Nationals|Nationals|Nats	MLB
+Anaheim Ducks|Ducks	NHL
+Boston Bruins|Bruins	NHL
+Buffalo Sabres|Sabres	NHL
+Calgary Flames|Flames	NHL
+Carolina Hurricanes|Hurricanes|Canes	NHL
+Chicago Blackhawks|Blackhawks	NHL
+Colorado Avalanche|Avalanche|Avs	NHL
+Columbus Blue Jackets|Blue Jackets	NHL
+Dallas Stars|Stars	NHL
+Detroit Red Wings|Red Wings	NHL
+Edmonton Oilers|Oilers	NHL
+Florida Panthers	NHL
+Los Angeles Kings|LA Kings	NHL
+Minnesota Wild|Wild	NHL
+Montreal Canadiens|Montréal Canadiens|Canadiens|Habs	NHL
+Nashville Predators|Predators|Preds	NHL
+New Jersey Devils|Devils	NHL
+New York Islanders|Islanders	NHL
+New York Rangers|NY Rangers	NHL
+Ottawa Senators|Senators|Sens	NHL
+Philadelphia Flyers|Flyers	NHL
+Pittsburgh Penguins|Penguins	NHL
+San Jose Sharks|Sharks	NHL
+Seattle Kraken|Kraken	NHL
+St. Louis Blues|Saint Louis Blues|Blues	NHL
+Tampa Bay Lightning|Lightning	NHL
+Toronto Maple Leafs|Maple Leafs|Leafs	NHL
+Utah Mammoth|Mammoth|Utah Hockey Club	NHL
+Vancouver Canucks|Canucks	NHL
+Vegas Golden Knights|Golden Knights|Vegas	NHL
+Washington Capitals|Capitals|Caps	NHL
+Winnipeg Jets	NHL

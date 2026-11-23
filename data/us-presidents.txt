@@ -1,0 +1,46 @@
+#US president
+George Washington|Washington	1st · 1789–1797
+John Adams	2nd · 1797–1801
+Thomas Jefferson|Jefferson	3rd · 1801–1809
+James Madison|Madison	4th · 1809–1817
+James Monroe|Monroe	5th · 1817–1825
+John Quincy Adams|JQA	6th · 1825–1829
+Andrew Jackson|Jackson	7th · 1829–1837
+Martin Van Buren|Van Buren	8th · 1837–1841
+William Henry Harrison	9th · 1841
+John Tyler|Tyler	10th · 1841–1845
+James K. Polk|James Polk|Polk	11th · 1845–1849
+Zachary Taylor|Taylor	12th · 1849–1850
+Millard Fillmore|Fillmore	13th · 1850–1853
+Franklin Pierce|Pierce	14th · 1853–1857
+James Buchanan|Buchanan	15th · 1857–1861
+Abraham Lincoln|Lincoln|Abe Lincoln	16th · 1861–1865
+Andrew Johnson	17th · 1865–1869
+Ulysses S. Grant|Ulysses Grant|Grant	18th · 1869–1877
+Rutherford B. Hayes|Rutherford Hayes|Hayes	19th · 1877–1881
+James A. Garfield|James Garfield|Garfield	20th · 1881
+Chester A. Arthur|Chester Arthur|Arthur	21st · 1881–1885
+Grover Cleveland|Cleveland	22nd & 24th · 1885–1889, 1893–1897
+Benjamin Harrison	23rd · 1889–1893
+William McKinley|McKinley	25th · 1897–1901
+Theodore Roosevelt|Teddy Roosevelt	26th · 1901–1909
+William Howard Taft|Taft	27th · 1909–1913
+Woodrow Wilson|Wilson	28th · 1913–1921
+Warren G. Harding|Warren Harding|Harding	29th · 1921–1923
+Calvin Coolidge|Coolidge	30th · 1923–1929
+Herbert Hoover|Hoover	31st · 1929–1933
+Franklin D. Roosevelt|Franklin Roosevelt|FDR	32nd · 1933–1945
+Harry S. Truman|Harry Truman|Truman	33rd · 1945–1953
+Dwight D. Eisenhower|Dwight Eisenhower|Eisenhower|Ike	34th · 1953–1961
+John F. Kennedy|John Kennedy|JFK|Kennedy	35th · 1961–1963
+Lyndon B. Johnson|Lyndon Johnson|LBJ	36th · 1963–1969
+Richard Nixon|Nixon	37th · 1969–1974
+Gerald Ford|Ford	38th · 1974–1977
+Jimmy Carter|Carter	39th · 1977–1981
+Ronald Reagan|Reagan	40th · 1981–1989
+George H. W. Bush|George HW Bush|George Bush Sr	41st · 1989–1993
+Bill Clinton|Clinton	42nd · 1993–2001
+George W. Bush|George Bush Jr|Dubya	43rd · 2001–2009
+Barack Obama|Obama	44th · 2009–2017
+Donald Trump|Trump	45th & 47th · 2017–2021, 2025–
+Joe Biden|Biden	46th · 2021–2025

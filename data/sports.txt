@@ -1,0 +1,393 @@
+#Ball & team sports
+American football|gridiron football
+Soccer|association football|footy
+Basketball
+Baseball
+Softball
+Ice hockey|NHL hockey
+Field hockey
+Volleyball
+Beach volleyball
+Handball|team handball
+Rugby union
+Rugby league
+Rugby sevens
+Australian rules football|Aussie rules|AFL
+Gaelic football
+Hurling
+Camogie
+Shinty
+Lacrosse
+Cricket|Test cricket|T20|Twenty20|Twenty20 cricket|one-day cricket|ODI
+Water polo
+Netball
+Korfball
+Kabaddi
+Sepak takraw
+Futsal
+Beach soccer
+Floorball
+Bandy
+Rink hockey|roller hockey
+Inline hockey
+Underwater hockey
+Underwater rugby
+Ultimate|ultimate frisbee|ultimate disc
+Disc golf|frisbee golf
+Flag football
+Canadian football
+Arena football
+Touch football
+Touch rugby
+Dodgeball
+Kickball
+Wiffle ball
+Stickball
+Rounders
+Pesäpallo|Finnish baseball
+Polo
+Water skiing
+Bicycle polo
+Elephant polo
+Canoe polo
+Horseball
+Buzkashi
+Quidditch|quadball
+Tchoukball
+Goalball
+Wheelchair basketball
+Wheelchair rugby|murderball
+Sitting volleyball
+Boccia
+Roundnet|Spikeball
+Footvolley
+Teqball
+Cornhole
+Pickleball
+Padel|paddle tennis
+Platform tennis
+Tennis
+Table tennis|ping pong
+Badminton
+Squash
+Racquetball
+Racquets|rackets
+Real tennis|court tennis|jeu de paume
+Jai alai|pelota|Basque pelota
+Fives
+Paddleball
+Speedminton|crossminton
+Sepak raga
+Hacky sack|footbag
+Golf
+Mini golf|miniature golf|putt putt
+Croquet
+Bowling|ten-pin bowling|tenpin bowling
+Candlepin bowling
+Duckpin bowling
+Lawn bowls|bowls|lawn bowling
+Bocce
+Pétanque|petanque|boules
+Curling
+Billiards|cue sports
+Pool|pocket billiards
+Snooker
+Carom billiards
+Darts
+Shuffleboard
+Skee-ball
+Horseshoes|horseshoe pitching
+Cornish hurling
+Calcio storico
+Hornussen
+Sport stacking|cup stacking
+#Combat sports
+Boxing
+Kickboxing
+Muay Thai|Thai boxing
+Mixed martial arts|MMA|cage fighting|UFC
+Wrestling|amateur wrestling|Freestyle wrestling|Greco-Roman wrestling|Folkstyle wrestling|collegiate wrestling
+Professional wrestling|pro wrestling
+Sumo|sumo wrestling
+Judo
+Jujutsu|jiu-jitsu|ju-jitsu
+Brazilian jiu-jitsu|BJJ
+Karate
+Taekwondo
+Kung fu|wushu
+Sanda|sanshou
+Aikido
+Kendo
+Iaido
+Kyudo
+Capoeira
+Krav Maga
+Savate
+Sambo
+Hapkido
+Silat|pencak silat
+Kalaripayattu
+Lethwei|Burmese boxing
+Bokator
+Glima
+Schwingen|Swiss wrestling
+Oil wrestling|yağlı güreş
+Arm wrestling
+Fencing
+Eskrima|Arnis|Kali
+Bare-knuckle boxing
+Shoot boxing
+Thumb wrestling
+#Athletics & endurance
+Athletics|track and field|track & field|track|Sprinting|Hurdling|hurdles|Steeplechase|Long jump|Triple jump|High jump|Pole vault|Shot put|Discus throw|discus|Javelin throw|javelin|Hammer throw|Decathlon|Heptathlon|100m|100 metres|100 meters|100 meter dash|200m|400m|800m|1500m|5000m|10000m|10,000 metres|relay|relay race|middle-distance running|sprint|sprints|field events|throwing events
+Running|road running|jogging|Marathon|marathon running|half marathon|long-distance running|distance running
+Ultramarathon|ultrarunning
+Cross country running|cross-country running
+Trail running
+Fell running
+Racewalking|race walking
+Modern pentathlon
+Triathlon|Ironman|Ironman triathlon
+Duathlon
+Aquathlon
+Biathlon
+Orienteering
+Rogaining
+Obstacle course racing|OCR
+Parkour|freerunning
+Adventure racing
+Highland games
+Strongman
+Powerlifting
+Weightlifting|Olympic weightlifting
+Bodybuilding
+CrossFit|fitness racing
+Hyrox
+Calisthenics
+Tug of war
+Caber toss
+Stair climbing|tower running
+#Gymnastics & dance
+Gymnastics
+Artistic gymnastics
+Rhythmic gymnastics
+Trampolining|trampoline
+Tumbling
+Acrobatic gymnastics
+Aerobic gymnastics|aerobics|sport aerobics
+Cheerleading|competitive cheerleading
+Baton twirling
+Breaking|breakdancing|breakdance
+Dancesport|ballroom dancing|competitive dance
+Pole sport|pole dancing
+Jump rope|rope skipping|skipping rope|skipping|double dutch
+#Water sports
+Swimming|competitive swimming
+Open water swimming|marathon swimming
+Diving
+High diving|cliff diving
+Synchronized swimming|artistic swimming
+Surfing
+Bodyboarding|boogie boarding
+Bodysurfing
+Stand-up paddleboarding|paddleboarding|SUP
+Windsurfing
+Kitesurfing|kiteboarding|kite surfing|kite boarding
+Wakeboarding
+Wakesurfing
+Kneeboarding
+Skimboarding
+Rowing|crew|Coastal rowing
+Dragon boat racing|dragon boating
+Canoeing
+Kayaking
+Canoe slalom|whitewater slalom
+Canoe sprint
+Whitewater rafting|rafting
+Sailing|yachting|sailboat racing|yacht racing
+Ice yachting|iceboating
+Powerboat racing|powerboating
+Jet skiing|personal watercraft racing
+Scuba diving|underwater diving
+Freediving
+Spearfishing
+Finswimming
+Lifesaving|surf lifesaving
+Fishing|angling|sport fishing|Ice fishing|Fly fishing
+Cable skiing
+Flyboarding
+#Winter sports
+Skiing
+Alpine skiing|downhill skiing|slalom|giant slalom|super-G|super G|downhill|downhill racing
+Cross-country skiing|Nordic skiing
+Ski jumping
+Nordic combined
+Freestyle skiing|Mogul skiing|moguls|Aerial skiing|aerials|Ski cross
+Ski mountaineering|skimo
+Telemark skiing
+Backcountry skiing
+Snowboarding|Snowboard cross|boardercross
+Figure skating|ice skating|Ice dance|ice dancing
+Speed skating
+Short track speed skating|short track
+Synchronized skating
+Bobsleigh|bobsled
+Luge
+Skeleton
+Tobogganing|Sledding
+Snowshoeing|snowshoe running
+Snowmobile racing|snocross
+Dog sledding|sled dog racing|mushing
+Skijoring
+Ice climbing
+Ice stock sport|Bavarian curling
+Broomball
+Ringette
+Kick sledding
+#Wheels & racing
+Cycling|cycle sport|bike racing|bicycle racing
+Road cycling|road bicycle racing
+Track cycling|keirin
+Mountain biking|mountain bike racing
+BMX|BMX racing
+BMX freestyle
+Cyclo-cross|cyclocross
+Gravel cycling|gravel racing
+Artistic cycling
+Cycle ball|cycle-ball
+Unicycling
+Skateboarding
+Longboarding
+Roller skating
+Inline skating|rollerblading
+Roller derby
+Roller speed skating|speed skating on wheels
+Aggressive inline skating
+Scootering|freestyle scootering
+Motorsport|motor racing|auto racing
+Rally|rallying|rally racing
+Rallycross
+Drag racing
+Karting|go-kart racing|kart racing
+Touring car racing
+Drifting
+Hill climb|hillclimbing
+Demolition derby
+Truck racing
+Monster truck|monster truck racing
+Motorcycle racing|motorcycling|motorcycle sport|motorbike racing
+Motocross
+Supercross
+Speedway|motorcycle speedway
+Enduro
+Trials|motorcycle trials
+Freestyle motocross|FMX
+Sidecar racing
+Air racing
+Soapbox racing|soap box derby
+Land sailing|land yachting
+#Animal sports
+Horse racing
+Harness racing
+Equestrian|equestrianism|horse riding|horseback riding|equestrian sport|riding
+Show jumping
+Dressage
+Eventing|three-day eventing
+Endurance riding
+Polocrosse
+Rodeo|Barrel racing|Bull riding|Bronc riding|Calf roping|tie-down roping|Team roping|Steer wrestling|bulldogging
+Reining
+Vaulting|equestrian vaulting
+Camel racing
+Greyhound racing
+Dog agility|agility
+Pigeon racing
+Falconry
+Bullfighting
+#Precision & target
+Archery
+Shooting|sport shooting|shooting sports|target shooting|rifle shooting|pistol shooting
+Clay pigeon shooting|trap shooting|skeet shooting
+Crossbow shooting
+Axe throwing
+Knife throwing
+Paintball
+Airsoft
+Laser tag
+Field target|airgun shooting
+#Air & extreme
+Skydiving|parachuting
+BASE jumping
+Wingsuit flying
+Paragliding
+Hang gliding
+Gliding|soaring
+Aerobatics
+Bungee jumping
+Rock climbing|climbing|sport climbing
+Bouldering
+Speed climbing
+Mountaineering|alpinism
+Canyoning|canyoneering
+Caving|spelunking
+Slacklining
+Highlining
+Zorbing
+Sandboarding
+Sport kiting|kite flying|kiting
+Drone racing
+Ballooning|hot air ballooning
+#Mind & table
+Chess|Speed chess|blitz chess|Chess960|correspondence chess|blindfold chess|fast chess|rapid chess|bullet chess
+Go|weiqi|baduk
+Shogi
+Xiangqi|Chinese chess
+Checkers|draughts
+Bridge|contract bridge
+Poker|Texas hold 'em|texas holdem
+Backgammon
+Mahjong
+Scrabble
+Esports|electronic sports|competitive gaming
+Speedcubing|Rubik's cube|cubing
+Competitive eating
+Foosball|table football
+Air hockey
+Beer pong
+Table shuffleboard
+Bossaball
+Hobby horsing
+Cheese rolling
+Wife carrying
+Bog snorkelling|bog snorkeling
+Toe wrestling
+Lumberjack sports|timbersports
+Log rolling|birling
+Sheep shearing
+Formula racing|Formula One|Formula 1|F1|IndyCar|IndyCar racing|Formula E
+Stock car racing|NASCAR|stock car racing
+Sports car racing|Endurance racing|sports car racing
+Motorcycle road racing|MotoGP|Grand Prix motorcycle racing|Superbike racing
+#More
+Pankration
+3x3 basketball|three-on-three basketball
+Chess boxing|chessboxing
+Fistball
+Kurash
+Chariot racing
+Ssireum|Korean wrestling
+Beach handball
+Sled hockey|para ice hockey|sledge hockey
+Gilli-danda|gilli danda
+Jallikattu
+Cuju
+Kemari
+Mesoamerican ballgame|ulama
+Submission grappling|grappling|no-gi
+Nordic walking
+Winter swimming|ice swimming
+Wheelchair tennis
+Wheelchair racing
+Blind football|football 5-a-side
+Para athletics
+Sledge racing

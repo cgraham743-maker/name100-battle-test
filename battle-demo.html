@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#14110b">
+<title>Battle Mode (Demo)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..600&family=Spline+Sans+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{--bg:#14110b;--ink:#efe7d6;--muted:rgba(239,231,214,.68);--faint:rgba(239,231,214,.4);--line:rgba(239,231,214,.18);
+    --accent:#e0683b;--card:rgba(239,231,214,.04);--serif:"Fraunces",Georgia,serif;--mono:"Spline Sans Mono",ui-monospace,Menlo,monospace}
+  *{box-sizing:border-box}
+  html,body{margin:0;min-height:100%;background:var(--bg);color:var(--ink);font-family:var(--serif);-webkit-font-smoothing:antialiased}
+  button,input,select{font:inherit;color:inherit}
+  .proto{font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;text-align:center;color:var(--bg);background:var(--accent);padding:6px 10px}
+  .wrap{max-width:640px;margin:0 auto;padding:22px 20px 60px}
+  .mark{font-family:var(--mono);font-size:10.5px;letter-spacing:.32em;text-transform:uppercase;color:var(--muted)}
+  h1{font-weight:400;font-size:clamp(40px,9vw,64px);letter-spacing:-.02em;line-height:1;margin:14px 0 8px;font-variation-settings:"opsz" 144}
+  h2{font-weight:420;font-size:30px;margin:0 0 6px;letter-spacing:-.01em;font-variation-settings:"opsz" 144}
+  p.sub{color:var(--muted);font-size:15.5px;line-height:1.55;margin:0 0 22px}
+  .lab{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);margin:22px 0 8px}
+  .field{width:100%;background:transparent;border:0;border-bottom:1px solid var(--line);color:var(--ink);font-size:26px;padding:6px 0;outline:none;caret-color:var(--accent)}
+  .field:focus{border-color:var(--accent)} .field::placeholder{color:var(--faint)}
+  .btn{font-family:var(--mono);text-transform:uppercase;font-size:12.2px;letter-spacing:.1em;border:0;background:var(--accent);color:var(--bg);border-radius:100px;padding:13px 24px;cursor:pointer}
+  .btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+  .btn:disabled{opacity:.4;cursor:default}
+  .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-top:18px}
+  .textlink{font-family:var(--mono);text-transform:uppercase;font-size:11px;letter-spacing:.16em;color:var(--muted);background:none;border:0;border-bottom:1px solid var(--line);padding:0 0 2px;cursor:pointer}
+  .choice{display:grid;gap:8px}
+  .opt{display:block;text-align:left;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;cursor:pointer;width:100%}
+  .opt b{display:block;font-weight:420;font-size:20px;font-variation-settings:"opsz" 144}
+  .opt span{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:3px;line-height:1.5}
+  .opt.on{border-color:var(--accent);background:rgba(224,104,59,.08)}
+  .chips{display:flex;gap:6px;flex-wrap:wrap}
+  .chip{font-family:var(--mono);text-transform:uppercase;font-size:11px;letter-spacing:.1em;border:1px solid var(--line);border-radius:100px;padding:8px 13px;cursor:pointer;background:transparent;color:var(--muted)}
+  .chip.on{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+  select.field{font-size:20px;appearance:none;cursor:pointer}
+  select option,select optgroup{background:var(--bg);color:var(--ink)}
+  .toggle{display:flex;justify-content:space-between;align-items:center;gap:14px;border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin-top:8px}
+  .toggle div{font-size:16px} .toggle small{display:block;font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:3px}
+  .sw{width:46px;height:26px;border-radius:13px;background:var(--line);border:0;position:relative;cursor:pointer;flex:none}
+  .sw:after{content:"";position:absolute;top:3px;left:3px;width:20px;height:20px;border-radius:50%;background:var(--ink);transition:left .2s}
+  .sw.on{background:var(--accent)} .sw.on:after{left:23px}
+  .code{font-family:var(--mono);font-size:clamp(44px,12vw,72px);letter-spacing:.08em;margin:6px 0}
+  .players{display:grid;gap:8px;margin-top:8px}
+  .pl{display:flex;align-items:center;gap:12px;border:1px solid var(--line);border-radius:14px;padding:10px 14px;animation:pop .3s ease}
+  @keyframes pop{from{opacity:0;transform:translateY(-4px)}}
+  .av{width:34px;height:34px;border-radius:8px;display:grid;place-items:center;font-size:17px;background:rgba(224,104,59,.14);color:var(--accent);flex:none}
+  .pl .n{flex:1;font-size:18px} .pl .t{font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+  .summary{font-family:var(--mono);font-size:11px;letter-spacing:.06em;line-height:1.7;color:var(--muted);border:1px dashed var(--line);border-radius:12px;padding:10px 14px;margin-top:16px}
+  .summary b{color:var(--ink);font-weight:600}
+  /* game */
+  .game{display:flex;flex-direction:column;min-height:100vh}
+  .gtop{display:flex;justify-content:space-between;align-items:center;padding:14px 18px;border-bottom:1px solid var(--line)}
+  .gtop .mode{font-family:var(--mono);font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted)}
+  .clock{font-family:var(--mono);font-size:22px;font-variant-numeric:tabular-nums}
+  .board{display:flex;gap:8px;overflow-x:auto;padding:12px 18px;border-bottom:1px solid var(--line)}
+  .sc{flex:none;min-width:110px;border:1px solid var(--line);border-radius:12px;padding:8px 10px;position:relative}
+  .sc.me{border-color:var(--accent)} .sc.turn{box-shadow:0 0 0 2px var(--accent)} .sc.out{opacity:.4}
+  .sc .nm{font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .sc .ct{font-size:28px;line-height:1.1;font-variation-settings:"opsz" 144}
+  .sc .bar{height:3px;background:var(--line);border-radius:2px;margin-top:4px;overflow:hidden}
+  .sc .bar i{display:block;height:100%;background:var(--accent);width:0;transition:width .3s}
+  .sc .lives{font-family:var(--mono);font-size:10px;color:var(--accent);letter-spacing:.1em}
+  .entry{text-align:center;padding:22px 18px 10px}
+  .entry .lab{margin-top:0}
+  #ans{display:block;width:100%;background:transparent;border:0;outline:none;color:var(--ink);caret-color:var(--accent);text-align:center;font-size:clamp(30px,7vw,52px);padding:4px 0;font-variation-settings:"opsz" 144}
+  #ans::placeholder{color:var(--muted)} #ans:disabled{opacity:.35}
+  .rule{width:min(300px,70%);height:1px;background:var(--line);margin:8px auto 14px}
+  .msg{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);min-height:16px;margin-top:12px}
+  .msg.bad{color:var(--accent)}
+  .feed{flex:1;padding:6px 18px 24px;display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:8px;align-content:start}
+  .it{border:1px solid var(--line);border-radius:12px;padding:9px 12px;font-size:16px;animation:pop .3s}
+  .it small{display:block;font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-top:2px}
+  .it.them{opacity:.6;border-style:dashed}
+  .turnbar{height:4px;background:var(--line);margin:0 18px;border-radius:2px;overflow:hidden}
+  .turnbar i{display:block;height:100%;background:var(--accent);width:100%}
+  .count3{position:fixed;inset:0;background:rgba(10,8,5,.92);display:grid;place-items:center;font-size:160px;font-variation-settings:"opsz" 144;z-index:5}
+  /* results */
+  .podium{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;align-items:end;margin:20px 0}
+  .pod{border:1px solid var(--line);border-radius:14px 14px 0 0;text-align:center;padding:12px 6px}
+  .pod .pl2{font-size:17px} .pod .pc{font-size:34px;font-variation-settings:"opsz" 144} .pod .pp{font-family:var(--mono);font-size:10px;letter-spacing:.14em;color:var(--muted)}
+  .pod.p1{border-color:var(--accent);padding-top:34px} .pod.p2{padding-top:22px}
+  details{border:1px solid var(--line);border-radius:12px;padding:10px 14px;margin-top:8px}
+  summary{cursor:pointer;font-size:17px} details p{font-size:14px;color:var(--muted);line-height:1.6;margin:8px 0 0}
+  .note{font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;color:var(--muted);line-height:1.6;margin-top:22px;border-top:1px solid var(--line);padding-top:14px}
+  .banner{border:1px solid var(--accent);border-radius:14px;padding:14px 16px;margin:16px 0}
+  .banner b{font-size:22px;font-weight:420;display:block} .banner span{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+  .catpick{display:block;width:100%;text-align:left;background:transparent;border:0;border-bottom:1px solid var(--line);padding:6px 0 8px;cursor:pointer}
+  .catpick b{display:block;font-weight:400;font-size:26px;font-variation-settings:"opsz" 144}
+  .catpick b:after{content:" ▾";color:var(--accent);font-size:18px}
+  .catpick span{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-top:2px}
+  .modal{position:fixed;inset:0;background:rgba(10,8,5,.85);display:flex;align-items:center;justify-content:center;padding:16px;z-index:10}
+  .sheet{background:var(--bg);border:1px solid var(--line);border-radius:14px;max-width:520px;width:100%;max-height:calc(100vh - 32px);overflow:auto;padding:24px}
+  .cats{display:grid;gap:10px;margin-top:10px}
+  .grp{display:block;width:100%;text-align:left;background:transparent;border:1px solid var(--line);border-radius:14px;padding:12px 16px;cursor:pointer}
+  .grp b{display:block;font-weight:420;font-size:22px;font-variation-settings:"opsz" 144}
+  .grp b:after{content:" +";color:var(--accent);font-family:var(--mono);font-size:16px} .grp.open b:after{content:" –"}
+  .grp span{display:block;font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:4px;line-height:1.5}
+  .grp.open{border-color:var(--accent)} .grp.open span{display:none}
+  .grpbox{display:grid;gap:8px;padding:0 0 6px 14px;border-left:1px solid var(--accent);margin-left:10px}
+  .cat{display:block;width:100%;text-align:left;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:10px 14px;cursor:pointer}
+  .cat b{display:block;font-weight:420;font-size:19px;font-variation-settings:"opsz" 144}
+  .cat span{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-top:4px}
+  .cat.on{border-color:var(--accent)}
+  [hidden]{display:none!important}
+</style>
+</head>
+<body>
+<div class="proto">Offline demo · other players are simulated · answers aren't checked · live battles run on the website</div>
+<div id="root"></div>
+<script>
+// ======== Data for the prototype ========
+const GROUPS = {
+  'People': ['Women','Men','People of Color','LGBTQ+ People'],
+  'Entertainment': ['Actors','Singers','Oscar Winners','Movies','TV Shows','Books','Best Picture Winners','Tony Best Musicals'],
+  'Fiction': ['Fictional Women','Fictional Men','Pokémon','Disney Characters','Heroes & Villains','Video Game Characters'],
+  'United States': ['US Presidents','US States','State Capitals'],
+  'World': ['Cities','Countries','World Capitals'],
+  'Sports': ['Athletes','Sports','Sports Teams'],
+  'Things': ['Brands','Animals']
+};
+const FINITE = {'US Presidents':45,'US States':50,'State Capitals':50,'Countries':197,'World Capitals':197,'Best Picture Winners':98,'Tony Best Musicals':78,'Sports Teams':124};
+const goalOpts = cat => { const n = FINITE[cat]; return n ? [...[25,50,100].filter(g=>g<n), n] : [25,50,100]; };
+const goalLabel = (g, cat) => FINITE[cat] === g ? 'all '+g : String(g);
+const MODES = {
+  race:  { name:'Race', blurb:'First to the goal wins' },
+  timed: { name:'Timed', blurb:'Most names before the clock runs out' },
+  steal: { name:'Steal', blurb:'Shared pool · once a name is used, it is gone for everyone · names are visible' },
+  turns: { name:'Taking Turns', blurb:'One name each per turn · blank, repeat or time out and you lose a life' }
+};
+const BOTNAMES = ['Sam','Priya','Jordan','Mia','Theo','Ava','Leo'];
+const SAMPLE = ['Beyoncé','Oprah Winfrey','Serena Williams','Taylor Swift','Frida Kahlo','Malala Yousafzai','Rosa Parks','Marie Curie','Michelle Obama','Dolly Parton','Simone Biles','Amelia Earhart','Rihanna','Lady Gaga','Meryl Streep','Billie Eilish','Zendaya','Adele','Cleopatra','Joan of Arc','Ruth Bader Ginsburg','Kamala Harris','Jane Austen','Maya Angelou','Toni Morrison','Madonna','Cher','Whitney Houston','Ariana Grande','Emma Watson','Greta Thunberg','Harriet Tubman','Queen Elizabeth II','Princess Diana','Coco Chanel','Audrey Hepburn','Marilyn Monroe','Lucille Ball','Betty White','Tina Fey','Amy Poehler','Mindy Kaling','Lizzo','Shakira','Selena','Jennifer Lopez','Sofía Vergara','Ellen DeGeneres','Venus Williams','Naomi Osaka'];
+
+// ======== State ========
+const S = {
+  nick: (()=>{ try{return localStorage.getItem('battle-nick')||'';}catch{return '';} })(),
+  host: true,
+  settings: { group:'People', cat:'Women', mode:'race', goal:100, minutes:5, turnSecs:15, lives:3, maxPlayers:8, rematchOff:true },
+  players: [], code:'', round:1, sessionUsed:[], timers:[]
+};
+const $ = s => document.querySelector(s);
+const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const norm = s => s.normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
+function clearTimers(){ S.timers.forEach(t=>{clearInterval(t);clearTimeout(t);}); S.timers=[]; }
+function myName(){ return S.nick.trim() || 'You'; }
+function randomCode(){ const w=['FROG','MOON','TACO','PEAR','LIME','STAR','WAVE','FERN','PLUM','KITE']; return w[Math.floor(Math.random()*w.length)]+'-'+(10+Math.floor(Math.random()*90)); }
+function modeLine(st=S.settings){
+  const m = MODES[st.mode].name;
+  if (st.mode==='race') return `${m} · first to ${goalLabel(st.goal, st.cat)}`;
+  if (st.mode==='timed') return `${m} · ${st.minutes} min`;
+  if (st.mode==='steal') return `${m} · ${st.goal ? 'first to '+goalLabel(st.goal, st.cat) : st.minutes+' min'}`;
+  return `${m} · ${st.turnSecs}s turns · ${st.lives} ${st.lives===1?'life':'lives'}`;
+}
+
+// ======== Screens ========
+function home(){
+  clearTimers();
+  $('#root').innerHTML = `<div class="wrap">
+    <div class="row" style="margin:0 0 14px"> <a class="textlink" href="index.html${S.fromId?'#'+esc(S.fromId):''}" style="text-decoration:none">← Back to solo game</a></div>
+    <div class="mark">Can you name 100?</div>
+    <h1>Battle</h1>
+    <p class="sub">Race your friends. One person hosts and picks the rules, everyone else joins with a code. No account needed.</p>
+    <label class="lab" for="nick">Your name for this game (optional)</label>
+    <input class="field" id="nick" maxlength="16" placeholder="Player" value="${esc(S.nick)}" autocomplete="off">
+    <div class="row">
+      <button class="btn" id="hostBtn">Host a game</button>
+      <button class="btn ghost" id="joinBtn">Join with a code</button>
+    </div>
+    <div class="row"><button class="textlink" id="chalBtn">Preview: challenge link (no room needed)</button></div>
+    <p class="note">How it would work for real: the host's phone creates a room on a small live server. Friends type the code or tap the link, pick a name, and play on their own phones at the same time. Names are just for the game, like Jackbox or Kahoot, and are remembered on that phone only.</p>
+  </div>`;
+  const save = () => { S.nick = $('#nick').value; try{localStorage.setItem('battle-nick',S.nick);}catch{} };
+  $('#hostBtn').onclick = () => { save(); S.host = true; settings(); };
+  $('#joinBtn').onclick = () => { save(); join(); };
+  $('#chalBtn').onclick = () => { save(); challengePreview(); };
+}
+
+function fixGoal(){ const st = S.settings, opts = goalOpts(st.cat);
+  if (st.mode==='steal' && st.goal===0) return;
+  if (!opts.includes(st.goal)) st.goal = FINITE[st.cat] ? FINITE[st.cat] : 100; }
+let openGroup = '';
+function catModal(pick){
+  const st = S.settings; openGroup = openGroup || st.group;
+  const m = document.createElement('div'); m.className = 'modal';
+  const draw = () => {
+    m.innerHTML = `<div class="sheet"><h2>Pick a Category</h2><div class="cats">${Object.entries(GROUPS).map(([g,cats]) => `
+      <button class="grp ${g===openGroup?'open':''}" data-g="${g}"><b>${g}</b><span>${cats.join(' · ')}</span></button>
+      ${g===openGroup ? `<div class="grpbox">${cats.map(c=>`<button class="cat ${c===st.cat?'on':''}" data-c="${c}" data-g="${g}"><b>${c}</b><span>${FINITE[c]?'Name all '+FINITE[c]:'Name 100'}</span></button>`).join('')}</div>` : ''}`).join('')}</div>
+      <div class="row"><button class="textlink" id="mclose">Cancel</button></div></div>`;
+    m.querySelectorAll('.grp').forEach(b => b.onclick = () => { openGroup = openGroup===b.dataset.g ? '' : b.dataset.g; draw(); });
+    m.querySelectorAll('.cat').forEach(b => b.onclick = () => { m.remove(); pick({cat:b.dataset.c, group:b.dataset.g}); });
+    m.querySelector('#mclose').onclick = () => m.remove();
+  };
+  m.onclick = e => { if (e.target === m) m.remove(); };
+  document.body.appendChild(m); draw();
+}
+function settings(){
+  clearTimers();
+  const st = S.settings;
+  const chips = (key, vals, fmt) => `<div class="chips">${vals.map(v=>`<button class="chip ${st[key]===v?'on':''}" data-k="${key}" data-v="${v}">${fmt(v)}</button>`).join('')}</div>`;
+  $('#root').innerHTML = `<div class="wrap">
+    <div class="mark">Host settings</div>
+    <h2>Set up your game</h2>
+    <p class="sub">You pick the rules. Everyone who joins plays by them.</p>
+    <label class="lab">Category</label>
+    <button class="catpick" id="cat"><b>${esc(st.cat)}</b><span>${esc(st.group)}${FINITE[st.cat]?' · '+FINITE[st.cat]+' total':''}</span></button>
+    <label class="lab">Mode</label>
+    <div class="choice">${Object.entries(MODES).map(([k,m])=>`<button class="opt ${st.mode===k?'on':''}" data-mode="${k}"><b>${m.name}</b><span>${m.blurb}</span></button>`).join('')}</div>
+    <div id="modeOpts"></div>
+    <label class="lab">Max players</label>
+    ${chips('maxPlayers',[2,3,4,5,6,7,8],v=>v)}
+    <label class="lab">Between rounds</label>
+    <div class="toggle"><div>Names from earlier rounds are off-limits<small>Only within this room's rematches · you can clear it anytime</small></div><button class="sw ${st.rematchOff?'on':''}" id="swOff" aria-label="Toggle"></button></div>
+    <div class="summary" id="sum"></div>
+    <div class="row"><button class="btn" id="create">Create room</button><button class="textlink" id="back">Back</button></div>
+  </div>`;
+  const modeOpts = () => {
+    let h = '';
+    if (st.mode==='race') h = `<label class="lab">Goal</label>${chips('goal',goalOpts(st.cat),v=>FINITE[st.cat]===v?'Name all '+v:v+' names')}`;
+    if (st.mode==='timed') h = `<label class="lab">Time limit</label>${chips('minutes',[1,3,5,10],v=>v+' min')}`;
+    if (st.mode==='steal') h = `<label class="lab">Game ends</label>${chips('goal',[...goalOpts(st.cat),0],v=>v?('first to '+goalLabel(v,st.cat)):'when time runs out')}${st.goal===0?`<label class="lab">Time limit</label>${chips('minutes',[1,3,5,10],v=>v+' min')}`:''}`;
+    if (st.mode==='turns') h = `<label class="lab">Time per turn</label>${chips('turnSecs',[5,10,15,20,30],v=>v+'s')}<label class="lab">Lives</label>${chips('lives',[1,2,3],v=>v)}`;
+    $('#modeOpts').innerHTML = h;
+    $('#sum').innerHTML = `<b>${esc(st.cat)}</b> · ${modeLine()} · up to ${st.maxPlayers} players · earlier names ${st.rematchOff?'off-limits':'allowed'} in rematches`;
+    bindChips();
+  };
+  const bindChips = () => document.querySelectorAll('.chip').forEach(b => b.onclick = () => { st[b.dataset.k] = +b.dataset.v; settings(); });
+  document.querySelectorAll('.opt').forEach(b => b.onclick = () => { st.mode = b.dataset.mode; fixGoal(); settings(); });
+  $('#cat').onclick = () => catModal(c => { st.cat = c.cat; st.group = c.group; fixGoal(); settings(); });
+  $('#swOff').onclick = () => { st.rematchOff = !st.rematchOff; settings(); };
+  $('#create').onclick = () => { S.code = randomCode(); S.round = 1; S.sessionUsed = []; S.players = [{name:myName(), me:true, host:true}]; lobby(); };
+  $('#back').onclick = home;
+  modeOpts();
+}
+
+function join(){
+  $('#root').innerHTML = `<div class="wrap">
+    <div class="mark">Join a game</div>
+    <h2>Enter the room code</h2>
+    <p class="sub">The host sees it on their screen. Or they can send you the link.</p>
+    <input class="field" id="code" placeholder="FROG-42" maxlength="7" autocomplete="off" style="text-transform:uppercase;font-family:var(--mono);letter-spacing:.08em">
+    <div class="row"><button class="btn" id="go">Join</button><button class="textlink" id="back">Back</button></div>
+  </div>`;
+  $('#go').onclick = () => {
+    S.host = false; S.code = ($('#code').value || 'FROG-42').toUpperCase();
+    S.settings = {...S.settings, cat:'Women', mode:'steal', goal:100, minutes:5};
+    S.round = 1; S.sessionUsed = [];
+    S.players = [{name:'Carly', host:true}, {name:myName(), me:true}];
+    lobby();
+  };
+  $('#back').onclick = home;
+}
+
+function lobby(){
+  clearTimers();
+  const st = S.settings;
+  const render = () => {
+    $('#root').innerHTML = `<div class="wrap">
+      <div class="mark">${S.round>1?'Round '+S.round+' · ':''}Lobby</div>
+      <h2>${S.host ? 'Share this code' : 'You\'re in!'}</h2>
+      <div class="code">${S.code}</div>
+      ${S.host ? `<div class="row" style="margin-top:4px"><button class="btn ghost" id="copy">Copy invite link</button></div>` : ''}
+      <div class="summary"><b>${esc(st.cat)}</b> · ${modeLine()}<br>${S.sessionUsed.length && st.rematchOff ? `${S.sessionUsed.length} names from earlier rounds are off-limits` : 'Counts only during the game' + (st.mode==='steal'?' · in Steal mode everyone sees every name':'') + ', all names revealed at the end'}</div>
+      <label class="lab">Players ${S.players.length}/${st.maxPlayers}</label>
+      <div class="players">${S.players.map(p=>`<div class="pl"><div class="av">${esc(p.name[0])}</div><div class="n">${esc(p.name)}${p.me?' (you)':''}</div><div class="t">${p.host?'host':''}</div></div>`).join('')}</div>
+      <div class="row">
+        ${S.host ? `<button class="btn" id="start" ${S.players.length<2?'disabled':''}>Start game</button><button class="btn ghost" id="edit">Change settings</button>${S.sessionUsed.length?'<button class="textlink" id="clearOff">Clear off-limits</button>':''}`
+                 : `<div class="mark">Waiting for the host to start…</div>`}
+      </div>
+      ${S.host ? `<div class="row"><button class="textlink" id="addBot">Prototype: add a test player</button></div>` : ''}
+      <div class="row"><button class="textlink" id="leave">Leave room</button></div>
+    </div>`;
+    if (S.host) {
+      $('#copy').onclick = e => { e.target.textContent = 'Copied: name100.netlify.app/battle#' + S.code; };
+      $('#start').onclick = countdown;
+      $('#edit').onclick = settings;
+      $('#addBot').onclick = addBot;
+      if ($('#clearOff')) $('#clearOff').onclick = () => { S.sessionUsed = []; render(); };
+    }
+    $('#leave').onclick = home;
+  };
+  const addBot = () => {
+    if (S.players.length >= st.maxPlayers) return;
+    const used = new Set(S.players.map(p=>p.name));
+    const n = BOTNAMES.find(b=>!used.has(b)); if (!n) return;
+    S.players.push({name:n, bot:true}); render();
+  };
+  S.lobbyAdd = addBot;
+  render();
+  if (S.players.length < 2) S.timers.push(setTimeout(addBot, 1200));
+  if (!S.host) S.timers.push(setTimeout(() => { S.players.push({name:'Sam', bot:true}); render(); }, 1500), setTimeout(countdown, 4500));
+}
+
+function countdown(){
+  clearTimers();
+  const el = document.createElement('div'); el.className = 'count3'; document.body.appendChild(el);
+  let n = 3; el.textContent = n;
+  const t = setInterval(() => { n--; if (n === 0) { clearInterval(t); el.remove(); play(); } else el.textContent = n; }, 800);
+  S.timers.push(t);
+}
+
+function play(){
+  const st = S.settings, M = st.mode;
+  S.players.forEach(p => { p.count = 0; p.names = []; p.lives = st.lives; p.out = false; p.finishedAt = null; });
+  const pool = new Map();   // steal: name -> player
+  const off = new Set(st.rematchOff ? S.sessionUsed.map(norm) : []);
+  const goal = (M==='race' || (M==='steal' && st.goal)) ? st.goal : null;
+  const timeLimit = (M==='timed' || (M==='steal' && !st.goal)) ? st.minutes*60 : null;
+  const t0 = Date.now(); let over = false, turnIdx = 0, turnLeft = st.turnSecs;
+  const me = S.players.find(p=>p.me);
+  $('#root').innerHTML = `<div class="game">
+    <div class="gtop"><div class="mode">${esc(st.cat)} · ${modeLine()}</div><div class="clock" id="clock">0:00</div></div>
+    <div class="board" id="board"></div>
+    ${M==='turns'?'<div class="turnbar"><i id="tb"></i></div>':''}
+    <div class="entry">
+      <div class="lab" id="prompt">${M==='turns'?'':'Type a name — press enter ↵'}</div>
+      <form id="f"><input id="ans" autocomplete="off" autocapitalize="words" spellcheck="false" placeholder="Start typing"></form>
+      <div class="rule"></div>
+      <div class="msg" id="msg">${M==='steal'?'Steal mode: every name shows below as it is taken':'You only see everyone\'s count. Names are revealed at the end.'}</div>
+    </div>
+    <div class="feed" id="feed"></div>
+  </div>`;
+  const fmt = s => Math.floor(s/60)+':'+String(Math.floor(s%60)).padStart(2,'0');
+  const board = () => {
+    const sorted = [...S.players].sort((a,b)=> (b.count-a.count));
+    $('#board').innerHTML = sorted.map(p => `<div class="sc ${p.me?'me':''} ${M==='turns'&&S.players[turnIdx]===p&&!over?'turn':''} ${p.out?'out':''}">
+      <div class="nm">${esc(p.name)}${p.me?' (you)':''}</div><div class="ct">${p.count}</div>
+      ${M==='turns'?`<div class="lives">${'♥'.repeat(Math.max(0,p.lives))}${p.out?' out':''}</div>`:`<div class="bar"><i style="width:${goal?Math.min(100,p.count/goal*100):Math.min(100,p.count)}%"></i></div>`}</div>`).join('');
+  };
+  const setMsg = (t, bad) => { const m = $('#msg'); m.textContent = t; m.className = 'msg' + (bad?' bad':''); };
+  const addFeed = (name, p) => {
+    if (M!=='steal' && !p.me) return;
+    const d = document.createElement('div'); d.className = 'it' + (p.me?'':' them');
+    d.innerHTML = esc(name) + `<small>${p.me?'you':esc(p.name)}</small>`;
+    $('#feed').prepend(d);
+  };
+  const take = (p, name) => {
+    const k = norm(name);
+    if (!k || k.length < 2) return 'Type a name';
+    if (off.has(k)) return `"${name}" was used in an earlier round`;
+    if (p.names.some(n=>norm(n)===k)) return `You already named ${name}`;
+    if ((M==='steal' || M==='turns') && pool.has(k)) return M==='steal' ? `${pool.get(k).me?'You':pool.get(k).name} already took ${name}` : `${name} was already said`;
+    p.names.push(name); p.count++; if (M==='steal'||M==='turns') pool.set(k,p);
+    addFeed(name, p); board();
+    if (goal && p.count >= goal) { p.finishedAt = Date.now(); end(p); }
+    return null;
+  };
+  // ---- your input
+  $('#f').onsubmit = e => {
+    e.preventDefault(); if (over) return;
+    const v = $('#ans').value.trim(); if (!v) return;
+    if (M==='turns' && S.players[turnIdx] !== me) return;
+    const err = take(me, v);
+    if (err) { setMsg(err, true); if (M==='turns') loseLife(me); }
+    else { setMsg(M==='steal' ? `${v} is yours` : `${v} counts`); $('#ans').value = ''; if (M==='turns') nextTurn(); }
+  };
+  // ---- simulated players
+  const botPick = () => { const avail = SAMPLE.filter(n => !pool.has(norm(n)) && !off.has(norm(n))); return avail.length ? avail[Math.floor(Math.random()*avail.length)] : 'Name '+Math.floor(Math.random()*9999); };
+  if (M!=='turns') S.players.filter(p=>p.bot).forEach(p => {
+    const speed = 1800 + Math.random()*2600;
+    const tick = () => { if (over) return; const nm = M==='steal' ? botPick() : 'hidden'; if (M==='steal') take(p, nm); else { p.names.push(SAMPLE[(p.count*7+p.name.length)%SAMPLE.length]); p.count++; board(); if (goal && p.count>=goal){ p.finishedAt=Date.now(); end(p);} } S.timers.push(setTimeout(tick, speed*(0.6+Math.random()*0.8))); };
+    S.timers.push(setTimeout(tick, speed));
+  });
+  // ---- turns
+  const alive = () => S.players.filter(p=>!p.out);
+  const loseLife = p => { p.lives--; if (p.lives <= 0) { p.out = true; setMsg(`${p.me?'You are':p.name+' is'} out`, true); } board(); if (alive().length <= 1) { end(alive()[0] || p); return; } nextTurn(); };
+  const nextTurn = () => {
+    if (over) return;
+    do { turnIdx = (turnIdx + 1) % S.players.length; } while (S.players[turnIdx].out);
+    turnLeft = st.turnSecs; board(); runTurn();
+  };
+  const runTurn = () => {
+    const p = S.players[turnIdx];
+    $('#ans').disabled = !p.me; $('#prompt').textContent = p.me ? 'Your turn — press enter ↵' : `${p.name}'s turn…`;
+    if (p.me) $('#ans').focus();
+    if (p.bot) S.timers.push(setTimeout(() => { if (over || S.players[turnIdx]!==p) return; if (Math.random() < 0.12) loseLife(p); else { take(p, botPick()); nextTurn(); } }, 1200 + Math.random()*2500));
+  };
+  // ---- clock
+  S.timers.push(setInterval(() => {
+    if (over) return;
+    const el = (Date.now()-t0)/1000;
+    $('#clock').textContent = timeLimit ? fmt(Math.max(0,timeLimit-el)) : fmt(el);
+    if (timeLimit && el >= timeLimit) end(null);
+    if (M==='turns') { turnLeft -= 0.25; $('#tb').style.width = Math.max(0, turnLeft/st.turnSecs*100)+'%'; if (turnLeft <= 0) { const p = S.players[turnIdx]; setMsg(`${p.me?'You ran':p.name+' ran'} out of time`, true); loseLife(p); } }
+  }, 250));
+  const end = winner => {
+    if (over) return; over = true; clearTimers(); $('#ans').disabled = true;
+    S.lastElapsed = (Date.now()-t0)/1000;
+    S.players.forEach(p => p.names.forEach(n => S.sessionUsed.includes(n) || S.sessionUsed.push(n)));
+    setTimeout(results, 700);
+  };
+  board(); if (M==='turns') { turnIdx = S.players.indexOf(me); runTurn(); } else $('#ans').focus();
+}
+
+function results(){
+  const st = S.settings, M = st.mode;
+  const rank = [...S.players].sort((a,b) => M==='turns' ? ((a.out-b.out) || (b.count-a.count)) : (b.count-a.count) || ((a.finishedAt||9e15)-(b.finishedAt||9e15)));
+  const top = [rank[1], rank[0], rank[2]];
+  const fmt = s => Math.floor(s/60)+':'+String(Math.floor(s%60)).padStart(2,'0');
+  $('#root').innerHTML = `<div class="wrap">
+    <div class="mark">Round ${S.round} · ${esc(st.cat)}</div>
+    <h2>${rank[0].me ? 'You win!' : esc(rank[0].name)+' wins!'}</h2>
+    <p class="sub">${modeLine()} · ${fmt(S.lastElapsed)}</p>
+    <div class="podium">${top.map((p,i)=> p ? `<div class="pod ${['p2','p1','p3'][i]}"><div class="pp">${['2ND','1ST','3RD'][i]}</div><div class="pl2">${esc(p.name)}${p.me?' (you)':''}</div><div class="pc">${p.count}</div></div>` : '<div></div>').join('')}</div>
+    <label class="lab">Everyone's names</label>
+    ${rank.map(p=>`<details ${p.me?'open':''}><summary>${esc(p.name)}${p.me?' (you)':''} · ${p.count}</summary><p>${p.names.length ? p.names.map(esc).join(', ') : 'No names'}</p></details>`).join('')}
+    <div class="row">
+      ${S.host ? `<button class="btn" id="again">Rematch</button><button class="btn ghost" id="edit">Change settings</button>` : `<div class="mark">Waiting for the host…</div>`}
+      <button class="btn ghost" id="share">Share results</button>
+    </div>
+    ${S.host && st.rematchOff ? `<p class="note">Rematch keeps the same room and rules. The ${S.sessionUsed.length} names used so far become off-limits for the next round (only in this room). You can clear them from the lobby.</p>` : ''}
+    <div class="row"><button class="textlink" id="leave">Leave room</button></div>
+  </div>`;
+  if (S.host) { $('#again').onclick = () => { S.round++; S.players.forEach(p=>{p.names=[];p.count=0;}); lobby(); }; $('#edit').onclick = () => { S.round++; settings(); }; }
+  $('#share').onclick = e => { e.target.textContent = 'Copied!'; };
+  $('#leave').onclick = home;
+}
+
+function challengePreview(){
+  const name = myName()==='You' ? 'Carly' : myName();
+  const ch = S.challenge || {cat:'Women', n:100, goal:100, time:'16:19', plural:'women'};
+  $('#root').innerHTML = `<div class="wrap">
+    <div class="mark">Challenge links · preview</div>
+    <h2>What your friend sees</h2>
+    <p class="sub">After any solo game, tap "Challenge a friend" and send the link. No room, no waiting. Any number of people can take the same challenge.</p>
+    <div class="banner"><span>Challenge from ${esc(name)} · ${esc(ch.cat)}</span><b>Beat ${ch.n} ${esc(ch.plural)} in ${esc(ch.time)}</b><span>Same category · same rules · your own off-limits list doesn't count</span></div>
+    <label class="lab">And at the end</label>
+    <div class="podium" style="grid-template-columns:1fr 1fr"><div class="pod p1"><div class="pp">CHALLENGER</div><div class="pl2">${esc(name)}</div><div class="pc">${ch.n}</div><div class="pp">${esc(ch.time)}</div></div><div class="pod p2"><div class="pp">YOU</div><div class="pl2">Jordan</div><div class="pc">100</div><div class="pp">14:02 · you win</div></div></div>
+    <div class="row"><button class="btn" id="back">Back</button>${S.fromId?`<a class="textlink" href="index.html#${esc(S.fromId)}" style="text-decoration:none">Back to solo game</a>`:''}</div>
+  </div>`;
+  $('#back').onclick = home;
+}
+
+// Arriving from the solo game
+(() => {
+  const h = decodeURIComponent(location.hash.slice(1));
+  const [k, v] = [h.split('=')[0], h.split('=').slice(1).join('=')];
+  const findGroup = cat => Object.keys(GROUPS).find(g => GROUPS[g].includes(cat));
+  const [cv, cid] = v.split('|'); if (k !== 'challenge') { S.fromId = cid; }
+  if (k === 'from' && findGroup(cv)) { S.from = true; S.settings.cat = cv; S.settings.group = findGroup(cv); fixGoal(); return home(); }
+  if (k === 'host' && findGroup(cv)) { S.from = true; S.settings.cat = cv; S.settings.group = findGroup(cv); fixGoal(); S.host = true; return settings(); }
+  if (k === 'challenge') { const [cat, n, goal, time, plural, cid2] = v.split('|'); S.challenge = {cat, n:+n, goal:+goal, time, plural}; S.from = true; S.fromId = cid2; return challengePreview(); }
+  home();
+})();
+</script>
+</body>
+</html>

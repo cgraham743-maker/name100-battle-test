@@ -1,0 +1,1851 @@
+#Disney character
+Maleficent	Sleeping Beauty
+Ursula	The Little Mermaid
+Jafar	Aladdin
+Scar|Askari|Taka	The Lion King
+Cruella de Vil|Cruella DeVil	One Hundred and One Dalmatians
+The Evil Queen|La reina malvada Grimhilde|Reina Grimhilde|Reina malvada	Snow White and the Seven Dwarfs
+Lady Tremaine	Cinderella
+Anastasia Tremaine	Cinderella
+Drizella Tremaine	Cinderella
+Captain Hook|James Hook	Peter Pan
+Hades|Plouton|Pluton	Hercules
+Gaston|Gaston LeGume	Beauty and the Beast
+Mother Gothel	Tangled
+Dr. Facilier	The Princess and the Frog
+Shere Khan	The Jungle Book
+Kaa|Khaa	The Jungle Book
+Ratigan|Professor Ratigan	The Great Mouse Detective
+Madame Medusa	The Rescuers
+Queen of Hearts	Alice in Wonderland
+Chernabog	Fantasia
+Judge Claude Frollo|Frollo|Claude Frollo	The Hunchback of Notre Dame
+Governor Ratcliffe	Pocahontas
+Shan Yu	Mulan
+Clayton	Tarzan
+Yzma	The Emperor's New Groove
+Kronk	The Emperor's New Groove
+Rourke|Lyle Tiberius Rourke	Atlantis: The Lost Empire
+Gantu|Captain Gantu	Lilo & Stitch
+Prince John	Robin Hood
+Sheriff of Nottingham	Robin Hood
+Sir Hiss	Robin Hood
+Edgar Balthazar	The Aristocats
+Horned King|The Horned King	The Black Cauldron
+Sykes	Oliver & Company
+Percival C. McLeach|McLeach	The Rescuers Down Under
+Madam Mim|Mad Madam Mim	The Sword in the Stone
+Stromboli	Pinocchio
+Honest John	Pinocchio
+Monstro	Pinocchio
+Lampwick	Pinocchio
+The Coachman	Pinocchio
+Mr. Smee	Peter Pan
+Tick-Tock the Crocodile|Tick-Tock	Peter Pan
+Hans	Frozen
+King Candy|Turbo	Wreck-It Ralph
+Bellwether|Dawn Bellwether	Zootopia
+Callaghan|Professor Callaghan|Yokai	Big Hero 6
+Tamatoa	Moana
+Te Kā	Moana
+King Magnifico	Wish
+Namaari	Raya and the Last Dragon
+Druun	Raya and the Last Dragon
+Lotso	Toy Story 3
+Sid Phillips	Toy Story
+Stinky Pete	Toy Story 2
+Emperor Zurg	Toy Story 2
+Gabby Gabby	Toy Story 4
+Randall Boggs	Monsters, Inc.
+Henry J. Waternoose|Waternoose	Monsters, Inc.
+Hopper	A Bug's Life
+Syndrome	The Incredibles
+Charles Muntz	Up
+Chick Hicks	Cars
+Ernesto de la Cruz	Coco
+Chef Skinner|Skinner	Ratatouille
+AUTO	WALL-E
+Darla Sherman	Finding Nemo
+Bruce	Finding Nemo
+Mor'du	Brave
+Captain Hector Barbossa|Hector Barbossa|Barbossa	Pirates of the Caribbean
+Davy Jones	Pirates of the Caribbean
+Pete|Big Bad Pete|Black Pete|Peg-Leg Pete|Peter Pete Senior|Peter Pete Sr.	Mickey Mouse
+The Big Bad Wolf|Big Bad Wolf	Three Little Pigs
+Magica De Spell	DuckTales
+Flintheart Glomgold	DuckTales
+The Beagle Boys|Beagle Boys	DuckTales
+Bill Cipher	Gravity Falls
+Heinz Doofenshmirtz|Doofenshmirtz|Dr. Doofenshmirtz|Dr. Heinz Doofenshmirtz|Professor Time	Phineas and Ferb
+Dr. Drakken	Kim Possible
+Shego	Kim Possible
+Negaduck	Darkwing Duck
+Lucifer	Cinderella
+Si and Am	Lady and the Tramp
+Amos Slade	The Fox and the Hound
+Zira	The Lion King II: Simba's Pride
+Mickey Mouse	Mickey Mouse
+Minnie Mouse|Minerva Mouse	Mickey Mouse
+Donald Duck	Donald Duck
+Daisy Duck	Donald Duck
+Goofy|Dippy Dawg|George Geef|Goofy Goof	Mickey Mouse
+Pluto	Mickey Mouse
+Chip	Chip 'n' Dale
+Dale	Chip 'n' Dale
+Huey, Dewey and Louie	Donald Duck
+Scrooge McDuck|Mr. McD|Unca Scrooge|Uncle Scrooge	DuckTales
+Launchpad McQuack	DuckTales
+Oswald the Lucky Rabbit|Oswald Rabbit|Oswald the Rabbit	Oswald the Lucky Rabbit
+Snow White	Snow White and the Seven Dwarfs
+Doc	Snow White and the Seven Dwarfs
+Grumpy	Snow White and the Seven Dwarfs
+Happy	Snow White and the Seven Dwarfs
+Sleepy	Snow White and the Seven Dwarfs
+Bashful	Snow White and the Seven Dwarfs
+Sneezy	Snow White and the Seven Dwarfs
+Dopey	Snow White and the Seven Dwarfs
+Prince Florian|The Prince	Snow White and the Seven Dwarfs
+Pinocchio|Marionette|Pinnochio	Pinocchio
+Jiminy Cricket	Pinocchio
+Geppetto|Mastro Geppetto|Mister Geppetto|Polendina	Pinocchio
+Figaro	Pinocchio
+Cleo	Pinocchio
+Blue Fairy	Pinocchio
+Dumbo	Dumbo
+Timothy Q. Mouse|Timothy Mouse	Dumbo
+Bambi	Bambi
+Thumper	Bambi
+Flower	Bambi
+Faline	Bambi
+Cinderella	Cinderella
+Prince Charming	Cinderella
+Fairy Godmother	Cinderella
+Jaq	Cinderella
+Gus	Cinderella
+Alice	Alice in Wonderland
+The Hatter|Hatta|Mad Hatter|The Mad Hatter	Alice in Wonderland
+March Hare|Haigha	Alice in Wonderland
+Cheshire Cat|Cheshire Puss	Alice in Wonderland
+White Rabbit|The White Rabbit|W. Rabbit	Alice in Wonderland
+Tweedledee and Tweedledum|Tweedledum	Alice in Wonderland
+Caterpillar|Absolem	Alice in Wonderland
+Peter Pan|Peter Banning|The Boy Who Wouldn't Grow Up	Peter Pan
+Tinker Bell	Peter Pan
+Wendy Darling|Wendy Moira Angela Darling	Peter Pan
+John Darling	Peter Pan
+Michael Darling	Peter Pan
+Tiger Lily	Peter Pan
+Lady	Lady and the Tramp
+Tramp	Lady and the Tramp
+Aurora|Goddess Aurora	Sleeping Beauty
+Prince Phillip	Sleeping Beauty
+Flora	Sleeping Beauty
+Fauna|Fatidica|Fatua|Favna	Sleeping Beauty
+Merryweather	Sleeping Beauty
+Pongo	One Hundred and One Dalmatians
+Perdita	One Hundred and One Dalmatians
+Roger Radcliffe	One Hundred and One Dalmatians
+Arthur	The Sword in the Stone
+Merlin|Ambrose Merlin|Ambrosinus|Merlin Ambrosius|Merlinus|Merloch|Myrddhin|Myrddin	The Sword in the Stone
+Archimedes	The Sword in the Stone
+Mowgli	The Jungle Book
+Baloo	The Jungle Book
+Bagheera	The Jungle Book
+King Louie	The Jungle Book
+Duchess	The Aristocats
+Thomas O'Malley|O'Malley	The Aristocats
+Marie	The Aristocats
+Robin Hood|Robert Fitzooth|Robert Hode|Robert Huntingdon|Robin de Courtenay|Robin of Locksley|Robin of Loxley|Robin of Sherwood|Robyn Hod	Robin Hood
+Maid Marian|Clorinda|Lady Marion of Leaford|Maid Marion|Marian Fitzwalter|Marian Fitzwater|Marian Lancaster|Matilda	Robin Hood
+Little John	Robin Hood
+Friar Tuck|Frere Tuck	Robin Hood
+Winnie the Pooh|Edward Bear|Pooh Bear	Winnie the Pooh
+Piglet	Winnie the Pooh
+Tigger	Winnie the Pooh
+Eeyore	Winnie the Pooh
+Rabbit	Winnie the Pooh
+Owl	Winnie the Pooh
+Kanga	Winnie the Pooh
+Roo	Winnie the Pooh
+Christopher Robin	Winnie the Pooh
+Heffalump	Winnie the Pooh
+Bernard	The Rescuers
+Miss Bianca|Bianca	The Rescuers
+Tod	The Fox and the Hound
+Copper	The Fox and the Hound
+Basil of Baker Street	The Great Mouse Detective
+Oliver|Olivier	Oliver & Company
+Dodger	Oliver & Company
+Ariel|Arael|Ariael	The Little Mermaid
+Prince Eric	The Little Mermaid
+Sebastian	The Little Mermaid
+Flounder	The Little Mermaid
+King Triton	The Little Mermaid
+Scuttle	The Little Mermaid
+Belle	Beauty and the Beast
+The Beast|Beast|Prince Adam	Beauty and the Beast
+Lumière	Beauty and the Beast
+Cogsworth	Beauty and the Beast
+Mrs. Potts	Beauty and the Beast
+Chip Potts	Beauty and the Beast
+LeFou	Beauty and the Beast
+Maurice	Beauty and the Beast
+Aladdin|Aladin	Aladdin
+Jasmine|Princess Jasmine	Aladdin
+Genie	Aladdin
+Abu	Aladdin
+Iago|Yago	Aladdin
+Rajah	Aladdin
+Magic Carpet|Carpet	Aladdin
+The Sultan	Aladdin
+Simba	The Lion King
+Nala	The Lion King
+Mufasa	The Lion King
+Timon	The Lion King
+Pumbaa	The Lion King
+Rafiki	The Lion King
+Zazu	The Lion King
+Sarabi	The Lion King
+Kiara	The Lion King II: Simba's Pride
+Kovu	The Lion King II: Simba's Pride
+Jack Skellington|The Pumpkin King	The Nightmare Before Christmas
+Sally	The Nightmare Before Christmas
+Oogie Boogie	The Nightmare Before Christmas
+Zero	The Nightmare Before Christmas
+Pocahontas	Pocahontas
+The Doctor|Doctor Who|Dr Who|John Smith|Last of the Time Lords|The Oncoming Storm	Pocahontas
+Meeko	Pocahontas
+Grandmother Willow	Pocahontas
+Quasimodo	The Hunchback of Notre Dame
+Esmeralda	The Hunchback of Notre Dame
+Phoebus	The Hunchback of Notre Dame
+Hercules	Hercules
+Megara	Hercules
+Philoctetes|Philocretes	Hercules
+Pegasus	Hercules
+Pain and Panic|Panic	Hercules
+Mulan|Fa Mulan	Mulan
+Mushu	Mulan
+Li Shang|Shang	Mulan
+Tarzan|John Clayton II|Lord Greystoke|Viscount Greystoke	Tarzan
+Jane Porter|Jane Clayton|Jane Clayton, Lady Greystoke|Lady Greystoke	Tarzan
+Terk	Tarzan
+Kuzco	The Emperor's New Groove
+Pacha	The Emperor's New Groove
+Milo Thatch	Atlantis: The Lost Empire
+Kida	Atlantis: The Lost Empire
+Lilo Pelekai	Lilo & Stitch
+Stitch	Lilo & Stitch
+Nani Pelekai	Lilo & Stitch
+Jumba Jookiba	Lilo & Stitch
+Pleakley	Lilo & Stitch
+Jim Hawkins	Treasure Planet
+Long John Silver|John Silver	Treasure Planet
+Kenai	Brother Bear
+Koda	Brother Bear
+Chicken Little	Chicken Little
+Bolt	Bolt
+Rhino|Aleksei Mikhailovich Sytsevich|Aleksei Sytsevich|Alex O'Hirn	Bolt
+Tiana|Princess Tiana|Tiana Rogers	The Princess and the Frog
+Prince Naveen|Naveen	The Princess and the Frog
+Louis	The Princess and the Frog
+Ray	The Princess and the Frog
+Rapunzel|Princess Rapunzel	Tangled
+Eugene Fitzherbert|Flynn Rider	Tangled
+Pascal	Tangled
+Maximus	Tangled
+Wreck-It Ralph	Wreck-It Ralph
+Vanellope von Schweetz	Wreck-It Ralph
+Fix-It Felix Jr.|Fix-It Felix	Wreck-It Ralph
+Sergeant Calhoun|Calhoun	Wreck-It Ralph
+Elsa|Elsa of Arendelle|Princess Elsa|Princess Elsa of Arendelle|Queen Elsa|Queen Elsa of Arendelle	Frozen
+Anna|Anna the Prophetess	Frozen
+Olaf	Frozen
+Kristoff	Frozen
+Sven	Frozen
+Hiro Hamada	Big Hero 6
+Baymax	Big Hero 6
+Judy Hopps	Zootopia
+Nick Wilde	Zootopia
+Flash|Flash superhero|The Flash|Barry Allen|Bartholomew Henry Allen	Zootopia
+Chief Bogo	Zootopia
+Moana|Moana of Motunui|Moana Waialiki|Moana Waialiki of Motunui|Vaiana	Moana
+Māui	Moana
+Heihei	Moana
+Pua	Moana
+Gramma Tala	Moana
+Raya	Raya and the Last Dragon
+Sisu	Raya and the Last Dragon
+Mirabel Madrigal	Encanto
+Bruno Madrigal	Encanto
+Luisa Madrigal	Encanto
+Isabela Madrigal	Encanto
+Abuela Alma|Alma Madrigal	Encanto
+Asha	Wish
+Star	Wish
+Valentino	Wish
+Ethan Clade	Strange World
+Woody|Sheriff Woody|Sheriff Woody Pride|Woody Pride	Toy Story
+Buzz Lightyear	Toy Story
+Jessie|Jessie Pride|Jessie the Yodeling Cowgirl|Sheriff Jessie	Toy Story 2
+Bullseye|Benjamin Poindexter	Toy Story 2
+Mr. Potato Head	Toy Story
+Mrs. Potato Head	Toy Story
+Rex	Toy Story
+Hamm	Toy Story
+Slinky Dog	Toy Story
+Bo Peep	Toy Story
+Andy Davis	Toy Story
+Forky	Toy Story 4
+Duke Caboom	Toy Story 4
+Aliens|Little Green Men	Toy Story
+Flik	A Bug's Life
+Atta	A Bug's Life
+Sulley|James P. Sullivan	Monsters, Inc.
+Mike Wazowski|Michael Wazowski mide 1.6 metros	Monsters, Inc.
+Boo	Monsters, Inc.
+Roz	Monsters, Inc.
+Celia Mae	Monsters, Inc.
+Nemo	Finding Nemo
+Marlin	Finding Nemo
+Dory	Finding Nemo
+Crush	Finding Nemo
+Squirt	Finding Nemo
+Gill	Finding Nemo
+Hank	Finding Dory
+Mr. Incredible|Bob Parr|Robert Parr	The Incredibles
+Elastigirl|Helen Parr|Mrs. Incredible	The Incredibles
+Violet Parr	The Incredibles
+Dash Parr	The Incredibles
+Jack-Jack Parr	The Incredibles
+Frozone	The Incredibles
+Edna Mode	The Incredibles
+Lightning McQueen	Cars
+Mater|Sir Tow Mater|Tow Mater	Cars
+Sally Carrera	Cars
+Doc Hudson|The Fabulous Hudson Hornet	Cars
+Luigi	Cars
+Guido	Cars
+Cruz Ramirez	Cars 3
+Remy	Ratatouille
+Alfredo Linguini	Ratatouille
+Colette Tatou	Ratatouille
+Anton Ego	Ratatouille
+Auguste Gusteau|Gusteau	Ratatouille
+Emile	Ratatouille
+WALL·E	WALL-E
+Eve|Chavah|Yves	WALL-E
+M-O	WALL-E
+Carl Fredricksen	Up
+Russell	Up
+Dug	Up
+KEVIN	Up
+Ellie Fredricksen	Up
+Merida	Brave
+Queen Elinor	Brave
+Joy	Inside Out
+Sadness	Inside Out
+Anger	Inside Out
+Fear	Inside Out
+Disgust	Inside Out
+Anxiety	Inside Out 2
+Bing Bong	Inside Out
+Riley Andersen	Inside Out
+Arlo	The Good Dinosaur
+Miguel Rivera	Coco
+Hector	Coco
+Mamá Imelda|Imelda	Coco
+Dante	Coco
+Ian Lightfoot	Onward
+Barley Lightfoot	Onward
+Joe Gardner	Soul
+22	Soul
+Luca Paguro	Luca
+Alberto Scorfano	Luca
+Meilin Lee|Mei Lee	Turning Red
+Ember Lumen	Elemental
+Wade Ripple	Elemental
+Elio	Elio
+Miley Stewart|Hannah Montana	Hannah Montana
+Lizzie McGuire	Lizzie McGuire
+Raven Baxter	That's So Raven
+Zack Martin	The Suite Life of Zack & Cody
+Cody Martin	The Suite Life of Zack & Cody
+London Tipton	The Suite Life of Zack & Cody
+Alex Russo	Wizards of Waverly Place
+Phineas Flynn	Phineas and Ferb
+Ferb Fletcher	Phineas and Ferb
+Perry the Platypus|Agent P	Phineas and Ferb
+Candace Flynn|Candace Gertrude Flynn	Phineas and Ferb
+Isabella Garcia-Shapiro	Phineas and Ferb
+Dipper Pines|Mason Pines	Gravity Falls
+Mabel Pines	Gravity Falls
+Grunkle Stan	Gravity Falls
+Soos	Gravity Falls
+Kim Possible	Kim Possible
+Ron Stoppable	Kim Possible
+Rufus	Kim Possible
+Doc McStuffins	Doc McStuffins
+Sofia the First	Sofia the First
+Star Butterfly	Star vs. the Forces of Evil
+Marco Diaz	Star vs. the Forces of Evil
+Anne Boonchuy	Amphibia
+Luz Noceda	The Owl House
+Darkwing Duck	Darkwing Duck
+Gosalyn Mallard	Darkwing Duck
+Kit Cloudkicker	TaleSpin
+Gadget Hackwrench	Chip 'n Dale: Rescue Rangers
+Max Goof	Goof Troop
+Troy Bolton	High School Musical
+Gabriella Montez	High School Musical
+Sharpay Evans	High School Musical
+Mal	Descendants
+Evie	Descendants
+Mary Poppins	Mary Poppins
+Bert	Mary Poppins
+Jack Sparrow|Captain Jack Sparrow	Pirates of the Caribbean
+Will Turner|William Turner|William Turner Jr.	Pirates of the Caribbean
+Elizabeth Swann|Elizabeth Turner	Pirates of the Caribbean
+Herbie	The Love Bug
+Tron	Tron
+Kevin Flynn	Tron
+Enchanted Giselle|Giselle	Enchanted
+Figment	Journey into Imagination
+Chip 'n' Dale|Chip and Dale|Chip & Dale|Chip 'n Dale	Private Pluto
+Captain Nemo|Nowan|Prince Dakkar	Nadia: The Secret of Blue Water
+Clarabelle Cow	Disney
+Ludwig Von Drake	Disney
+Huckleberry Finn|Huck|Huck Finn	Tom Sawyer's Conspiracy
+Gladstone Gander	DuckTales
+Horace Horsecollar	Disney
+Timon and Pumbaa|Timon & Pumbaa	The Lion King
+The Mickey Mouse Club|Mouseketeer	Disney
+José Carioca|Ze Carioca	Blame It on the Samba
+Fethry Duck	DuckTales
+M. Bison|Bison|Dictator|Vega	Wreck-It Ralph
+Panchito Pistoles|José Francisco Alisandro de Lima y de la Loma|Pancho el Charro	DuckTales
+Ken Masters	Super Smash Bros. for Nintendo 3DS and Wii U
+Gus Goose	Donald's Cousin Gus
+General Hux|Armitage Hux|General Armitage Hux	Disney
+Akela	Mowgli. The Battle
+The Genie	Disney
+Fifteenth Doctor|15th Doctor	The Giggle
+Lilly Truscott	Hannah Montana
+Jessica Rabbit	Who Framed Roger Rabbit
+Della Duck|Della Thelma Duck|Dumbella Duck|Thelma Duck	DuckTales
+~Mortimer Mouse|Mortimer Rodent	Mickey's Rival
+~Princess Leia's bikini|Princess Leia's metal bikini	Disney
+~Zangief|Red Cyclone	Wreck-It Ralph
+~Clara Cluck	Orphan's Benefit
+~Greg Heffley|Gregory Heffley	Diary of a Wimpy Kid
+~Erik Selvig|Dr. Selvig	Disney
+~Okoye	Disney
+~Alice Comedies	Disney
+~Goldie O'Gilt|Glittering Goldie	DuckTales
+~Badroulbadour|Badr al‐Budur|Princess Badr al‐Budur	Aladdin and the Wonderful Lamp
+~Weyland-Yutani Corporation|The Company|Weyland Yutani	Disney
+~Humphrey the Bear	Disney
+~Cutler Beckett	Pirates of the Caribbean: At World's End
+~Scamp	Lady and the Tramp
+~Tia Dalma	Pirates of the Caribbean: Dead Man's Chest
+~James Norrington	Pirates of the Caribbean: The Curse of the Black Pearl
+~Hope van Dyne	Disney
+~Robby Stewart	Hannah Montana
+~Tadashi Hamada	Disney
+~Roger Rabbit	Roller Coaster Rabbit
+~Dr. Livesey|Doctor Livesey	Treasure Island
+~Drax	Disney
+~Rocket	Disney
+~Disney anthology television series	Disney
+~Bill Turner	Pirates of the Caribbean: Dead Man's Chest
+~Peter Pig	The Wise Little Hen
+~Ruby Sunday	The Church on Ruby Road
+~Battle of Hoth	Disney
+~Wicket W. Warrick	Disney
+~Kraglin	Disney
+~Jackson Stewart	Hannah Montana
+~Witch Hazel	Trick or Treat
+~Gopher	The Many Adventures of Winnie the Pooh
+~Prince	Prince of Persia: The Fallen King
+~Raksha	The Jungle Book
+~Webby Vanderquack	DuckTales
+~P.J. Pete	Goof Troop
+~Julius the Cat	Alice Comedies
+~Oliver Oken	Hannah Montana
+~Bailey Pickett	The Suite Life on Deck
+~Angelica	Pirates of the Caribbean: On Stranger Tides
+~Bimbo	Betty Boop's Bizzy Bee
+~Little Hiawatha	Little Hiawatha
+~Aracuan Bird	The Three Caballeros
+~Ramonda	Disney
+~Lobot	Disney
+~Br'er Bear	Song of the South
+~Chad Danforth	High School Musical
+~Fenton Crackshell	DuckTales
+~Br'er Fox	Song of the South
+~Bucky Bug	Silly Symphony
+~Weatherby Swann	Pirates of the Caribbean: Dead Man's Chest
+~Biggs Darklighter	Disney
+~General Dodonna	Disney
+~Captain Teague	Pirates of the Caribbean: At World's End
+~Louie Duck	Mickey's Once Upon a Christmas
+~Dewey Duck	DuckTales
+~David Dunn	Glass
+~Mia Thermopolis	The Princess Diaries
+~Darcy Lewis	Disney
+~Zuckuss	Disney
+~Dengar	Disney
+~Kevin McCallister	Disney
+~The Rocketeer	The Rocketeer
+~Huey Duck	DuckTales
+~David Xanatos	Gargoyles
+~Mozenrath	Aladdin
+~Jackson Storm	Cars 3
+~Duff Killigan	Kim Possible
+~Br'er Rabbit|Brother Rabbit|Bruh Rabbit	Song of the South
+~Donna Duck	Don Donald
+~Vitani	The Lion King II: Simba's Pride
+~Willie the Giant	Mickey and the Beanstalk
+~Demona	Gargoyles
+~Goliath|Calut|Goliah|Goliath the Gittite	Gargoyles
+~Kopa	The Lion Guard
+~Kronk Pepikrankenitz	The Emperor's New Groove
+~Jim	The Adventures of Huck Finn
+~White Knight	Through the Looking Glass
+~Sheriff	Cars
+~Fillmore	Cars
+~Ponda Baba	Disney
+~Max Rebo	Disney
+~General Madine	Disney
+~Sy Snootles	Disney
+~Pietro Maximoff	Disney
+~Zuri	Disney
+~Salacious Crumb	Disney
+~Dryden Vos	Disney
+~Ian Mercer	Pirates of the Caribbean: At World's End
+~Shane Gray	Camp Rock
+~Monkey Fist	Kim Possible
+~Taylor McKessie	High School Musical
+~Professor Dementor	Kim Possible
+~Ma Beagle	DuckTales
+~Mr. Moseby	The Suite Life on Deck
+~Syrena	Pirates of the Caribbean: On Stranger Tides
+~Pierre Aronnax	Twenty Thousand Leagues Under the Sea
+~Lumpy the Heffalump	Pooh's Heffalump Movie
+~Santiago Muñez	Goal III: Taking on the World
+~Duckworth	DuckTales
+~Fräulein Rottenmeier	Heidi and Peter
+~Sao Feng	Pirates of the Caribbean: At World's End
+~Carina Smyth	Pirates of the Caribbean: Dead Men Tell no Tales
+~Doctor Claw	Inspector Gadget
+~Ryan Evans	High School Musical 3: Senior Year
+~Bushroot	Darkwing Duck
+~Elisa Maza	Gargoyles
+~Ned Land	Twenty Thousand Leagues Under the Sea
+~Roxy Roker	Hannah Montana
+~Megavolt	Darkwing Duck
+~Fat Cat	Chip 'n Dale Rescue Rangers
+~Lord Glenarvan	In Search of the Castaways
+~Judge Doom	Who Framed Roger Rabbit
+~Bonnie Rockwaller	Kim Possible
+~Miles Axlerod	Disney
+~Flo	Cars
+~Bonnie Anderson	Disney
+~Ramone	Cars
+~Lieutenant Connix	Disney
+~Mack	Cars
+~Finn McMissile	Disney
+~P.T. Flea	Disney
+~Sarge	Cars
+~Noa Briqualon	Ewoks: The Battle for Endor
+~Oola	Disney
+~Lady Sif	Disney
+~W'Kabi	Disney
+~Dr. Evazan	Disney
+~Madam Medusa	The Rescuers
+~Gideon Goat	The Band Concert
+~Abis Mal	The Return of Jafar
+~Basil	The Great Mouse Detective
+~Lewis Hamilton	Disney
+~Jenny the Burro	Don Donald
+~The Underminer	The Incredibles: Rise of the Underminer
+~Meg Murry	A Wrinkle in Time
+~James Possible	Kim Possible
+~Baljeet Tjinder	Phineas and Ferb the Movie: Candace Against the Universe
+~Suzy Johnson	Phineas and Ferb
+~Conseil	Twenty Thousand Leagues Under the Sea
+~Philip Swift	Pirates of the Caribbean: On Stranger Tides
+~Ford Pines	Weirdmageddon 3: Take Back The Falls
+~CeCe Jones	Shake It Up
+~Bentina Beakley	DuckTales
+~Ann Possible	Kim Possible: A Sitch in Time
+~Go Go Tomago	Disney
+~Robert Callaghan	Disney
+~Jeremy Johnson	Phineas and Ferb the Movie: Across the 2nd Dimension
+~Captain Salazar	Pirates of the Caribbean: Dead Men Tell no Tales
+~Gideon|Gedeon	Disney
+~Rocky Blue	Shake It Up
+~Nuka	The Lion King II: Simba's Pride
+~Sarafina	The Lion King
+~Bubba the Caveduck	DuckTales
+~Carmen Cortez	Spy Kids
+~Don Karnage	TaleSpin
+~Hudson	Gargoyles
+~Kelsi Nielsen	High School Musical
+~Macbeth	Gargoyles
+~Milo James Thatch	Atlantis: Milo's Return
+~Theodore Groves	Pirates of the Caribbean: The Curse of the Black Pearl
+~Honker Muddlefoot	Darkwing Duck
+~Kevin Wendell Crumb	Split
+~Motor Ed	Kim Possible
+~Buford Van Stomm	Phineas and Ferb the Movie: Candace Against the Universe
+~Eddie Valiant	Who Censored Roger Rabbit?
+~Monastario	Zorro
+~Heidi	Heidi
+~Chloé Bourgeois	Ladybug & Cat Noir: The Movie
+~Stacy Hirano	Phineas and Ferb the Movie: Across the 2nd Dimension
+~Percival McLeach	The Rescuers Down Under
+~Strip Weathers	Cars
+~Tess Tyler	Camp Rock
+~Soos Ramirez	Gravity Falls
+~The Queen	Disney
+~Abby Mallard	Disney
+~Gary De'Snake	Disney
+~Pawbert Lynxley	Disney
+~Benjamin Gates	Disney
+~Professor Zündapp	Disney
+~Darrell Cartrip	Cars
+~Al McWhiggin	Disney
+~Momaw Nadon	Disney
+~Grace Le Domas	Ready or Not
+~Vincent DiStephano	Disney
+~Annalee Call	Disney
+~Het Nkik	Disney
+~Newt Jorden	Disney
+~Everett K. Ross	Disney
+~Castor Troy	Face/Off
+~Steven Hiller	Disney
+~Elijah Price	Unbreakable
+~Widdle Warrick	Disney
+~Ephant Mon	Disney
+~Maria Rambeau	Disney
+~Sergeant Garcia	Zorro: The Chronicles
+~Vanessa Doofenshmirtz	Phineas and Ferb the Movie: Candace Against the Universe
+~Tilly Green	Big City Greens (Shorts)
+~Alya Césaire	Miraculous: Tales of Ladybug & Cat Noir
+~Hannah Phillips	Disney
+~Molly Davis	Disney
+~Dusty Crophopper	Planes: Fire & Rescue
+~Princess Katharine	Gargoyles
+~Quentin Trembley	Gravity Falls
+~The Mad Doctor	The Mad Doctor
+~Elena of Avalor	Elena and the Secret of Avalor
+~Doug Funnie	Doug
+~Jeff Gorvette	Cars 3
+~Nigel Gearsley	Cars 2
+~Francesco Bernoulli	Cars 2
+~Jim Possible	Kim Possible
+~Sofia la princesss	Elena and the Secret of Avalor
+~Brick Flagg	Kim Possible
+~Winnie Foster	Tuck Everlasting
+~Charlene Doofenshmirtz	Phineas and Ferb
+~Ty Blue	Shake It Up
+~The Emperor of China	Mulan
+~Poe De Spell	Chip 'n' Dale: Park Life
+~Tim Possible	Kim Possible
+~Jim Douglas	The Love Bug
+~Scott Calvin	The Santa Clause 3: The Escape Clause
+~Snap Wexley	Disney
+~The Blue Fairy	Disney
+~The Ringmaster	Disney
+~Happy Medium	A Wrinkle in Time
+~Mertle Edmonds	Lilo & Stitch
+~Duke of Weselton	Frozen
+~Queen Iduna	Frozen
+~Brer Terrapin	Song of the South
+~Alameda Slim	Home on the Range
+~Bonkers D. Bobcat	Raw Toonage
+~Henry Turner	Pirates of the Caribbean: At World's End
+~The Peddler	Disney
+~Max Hare	The Tortoise and the Hare
+~Duke Igthorn	Disney's Adventures of the Gummi Bears
+~Maggie the Cat	Gargoyles
+~The Liquidator	Darkwing Duck
+~Lucky Piquel	Bonkers
+~Mitchie Torres	Camp Rock 2: The Final Jam
+~Linda Flynn-Fletcher	Phineas and Ferb
+~Lawrence Fletcher	Phineas and Ferb the Movie: Across the 2nd Dimension
+~Major Monogram	Phineas and Ferb the Movie: Across the 2nd Dimension
+~Carl Karl	Phineas and Ferb
+~Alonzo Hawk	Son of Flubber
+~Rick Dicker	Incredibles 2
+~Gilbert Huph	Disney
+~Darby O'Gill	Darby O'Gill and the Good People
+~Lt. Gillette	Pirates of the Caribbean: On Stranger Tides
+~Ferdinand VI of Spain	Pirates of the Caribbean: On Stranger Tides
+~George II of Great Britain	Pirates of the Caribbean: On Stranger Tides
+~Ikki, porcupine	The Jungle Book
+~Juni Cortez	Spy Kids: All the Time in the World
+~Lynda Weathers	Cars
+~Steve Barkin	Kim Possible
+~Little Red Riding Hood|Red Riding Hood	Who Framed Roger Rabbit
+~Holley Shiftwell	Cars 2
+~Jenny Brown	Phineas and Ferb
+~Roger Doofenshmirtz	Phineas and Ferb
+~Gideon Gleeful	The Hand That Rocks the Mabel
+~Philip Sherman	Disney
+~Sofia the Seagull	Pinocchio
+~Detective Armstrong	102 Dalmatians
+~Forest Rangers	Disney
+~Nibbles Maplestick	Disney
+~Ambrister Minion	Disney
+~Chloe Simon	102 Dalmatians
+~Big Mama	The Fox and the Hound
+~Widow Tweed	The Fox and the Hound
+~Grand Councilwoman	Lilo & Stitch
+~Actor Sif	Disney
+~Lead Scrapper	Disney
+~Cousin Carlo	Disney
+~Dave the Barbarian	Dave the Barbarian
+~Combat Carl	Disney
+~Cull Obsidian	Disney
+~Mayor of Halloween Town	Disney
+~Prince Ali Ababwa	Disney
+~Peter La Fleur	Disney
+~Lak Sivrak	Disney
+~Cane Adiss	Disney
+~Pello Scrambas	Disney
+~Cherry Sunday	The Church on Ruby Road
+~Carla Sunday	The Church on Ruby Road
+~Peter McCallister	Disney
+~Droopy McCool	Disney
+~Brea Tonnika	Disney
+~Senni Tonnika	Disney
+~General Joe Greller	Disney
+~Major Kathleen Sparr	Disney
+~Vasily Karpov	Disney
+~Irani Rael	Disney
+~Isabela Alvarez	Disney
+~Frost Giant Sentry	Disney
+~Johann Schmidt	Disney
+~James Paxton	Disney
+~Maggie Lang	Disney
+~Security Guard	Disney
+~UN Staffer Gibson	Disney
+~Zemo's Wife	Disney
+~Hydra Buyer	Disney
+~David Levinson	Disney
+~Councilwoman Hawley	Disney
+~Ron Johner	Disney
+~Howard the Duck|The avenger and Spider-Man	Disney
+~Alexander Pierce	Disney
+~Rhomann Dey	Disney
+~Meredith Quill	Disney
+~Cameron Klein	Disney
+~Cooper Barton	Disney
+~Jack McGee	Disney
+~Georgi Luchkov	Disney
+~Senator Boynton	Disney
+~Shawna Lynde	Disney
+~Ian Boothby	Disney
+~Moloka Dar	Disney
+~Councilman Rockwell	Disney
+~Steven Danvers	Disney
+~Joseph Danvers	Disney
+~Councilman Yen	Disney
+~Jack Rollins	Disney
+~Nagendra Singh	Disney
+~Laura Barton	Disney
+~Nathaniel Pietro Barton	Disney
+~Lila Barton	Disney
+~Helen Cho	Disney
+~Madame B	Disney
+~Doctor List	Disney
+~Roger Harrington	Disney
+~Richard Madison	Disney
+~Garthan Saal	Disney
+~Tom the Neighbor	Disney
+~Gideon Malick	Disney
+~General Thade	Planet of the Apes
+~Sprig Plantar	Amphibia
+~Hop Pop Plantar	Amphibia
+~Penny (Inspector Gadget)	Inspector Gadget
+~Penny Proud	The Proud Family
+~Winifred Fletcher	Phineas and Ferb
+~Reginald Fletcher	Phineas and Ferb
+~Reginald Fletcher's father	Phineas and Ferb
+~Reginald Fletcher's mother	Phineas and Ferb
+~Adrian Fletcher	Phineas and Ferb
+~Clyde Flynn	Phineas and Ferb
+~Betty Jo Flynn	Phineas and Ferb
+~Tiana Webber	Phineas and Ferb
+~Bob Webber	Phineas and Ferb
+~Amanda Johnson	Phineas and Ferb
+~José Doofenshmirtz	Phineas and Ferb
+~Polly Plantar	Amphibia
+~Nino Lahiffe	Ladybug & Cat Noir: The Movie
+~Chief Quimby	Inspector Gadget 2
+~Jim Craig	The Man from Snowy River II
+~Bill Sullivan	Disney
+~Jessica Harrison	The Man from Snowy River
+~Alistair Patton	The Man from Snowy River II
+~Milo Murphy	Milo Murphy's Law
+~Ken Carson|Kenneth Carson	Barbie: A Fashion Fairytale
+~Corvus Von Drake	DuckTales
+~Klara Von Drake	DuckTales
+~Anya Von Drake	DuckTales
+~Sasha Waybright	Amphibia
+~Candy Chiu	Gravity Falls
+~Bud Gleeful	Gravity Falls
+~Old Man McGucket	Gravity Falls
+~Grenda Grendinator	Gravity Falls
+~Marcy Wu	Amphibia
+~Al the Alligator	Lady and the Tramp
+~Black Murphy	Disney
+~Pacifica Northwest	The Golf War
+~Sanderson Sisters	Hocus Pocus 2
+~Winifred Sanderson	Hocus Pocus
+~Sarah Sanderson	Disney Heroes: Battle Mode
+~Mary Sanderson	Disney Magic Kingdoms
+~Thackery Binx	Disney Emoji Blitz
+~Ice Cream Man	Leroy & Stitch
+~Raoul ÇaRoule	Cars 2
+~Miguel Camino	Cars 2
+~Max Schnell	Cars 2
+~Rip Clutchgoneski	Disney
+~Shu Todoroki	Cars 2
+~Carla Veloso	Cars 2
+~Larry Daley	Night at the Museum
+~Lieutenant Mattias	Once Upon a Studio
+~Johnny J. Worthington III	Disney
+~Professor Derek Knight	Disney
+~Abigail Hardscrabble	Disney
+~Karen Graves	Disney
+~Don Carlton	Disney
+~Scott Squibbles	Disney
+~Chet Alexander	Disney
+~Sheri Squibbles	Disney
+~Frank McCay	Disney
+~Peanut Otter	PB&J Otter
+~Butter Otter	PB&J Otter
+~Jelly Otter	PB&J Otter
+~Munchy Beaver	PB&J Otter
+~Ernest Otter	PB&J Otter
+~Opal Otter	PB&J Otter
+~Nadar Kessard	Disney
+~Solene LeClaire	Disney
+~Abusive Boyfriend	Disney
+~Abusive Girlfriend	Disney
+~Robert Philip	Enchanted
+~Prince Edward	Enchanted
+~Morgan Philip	Enchanted
+~Nancy Tremaine	Enchanted
+~Queen Narissa	Enchanted
+~T.J. Detweiler	Lax
+~Gabriel Agreste	Miraculous: Tales of Ladybug & Cat Noir
+~Nathalie Sancoeur	Miraculous: Tales of Ladybug & Cat Noir
+~Wang Fu	Miraculous: Tales of Ladybug & Cat Noir
+~Sabine Cheng	Ladybug & Cat Noir: The Movie
+~Nathaniel Kurtzberg	Miraculous: Tales of Ladybug & Cat Noir
+~Max Kanté	Miraculous: Tales of Ladybug & Cat Noir
+~Ivan Bruel	Ladybug & Cat Noir: The Movie
+~Sabrina Raincomprix	Miraculous: Tales of Ladybug & Cat Noir
+~Emilie Agreste	Ladybug & Cat Noir: The Movie
+~Milton Lynxley	Disney
+~Cattrick Lynxley	Disney
+~Kitty Lynxley	Disney
+~Brian Winddancer	Disney
+~Paul Moledebrandt	Disney
+~Molly Hopps	Zootopia+
+~Ma Duskerton	Gravity Falls
+~Pa Duskerton	Gravity Falls
+~Preston Northwest	Northwest Mansion Mystery
+~Pacifica's mother	Gravity Falls
+~Böri Khan	Mulan
+~Captain B. McCrea	Disney
+~Shelby Forthright	Disney
+~Olivia Flaversham	The Great Mouse Detective
+~Hiram Flaversham	The Great Mouse Detective
+~Queen Mousetoria	The Great Mouse Detective
+~Abigail Chase	Disney
+~Patrick Gates	Disney
+~Peter Sadusky	Disney
+~Ian Howe	Disney
+~Riley Poole	Disney
+~John Adams Gates	Disney
+~Agent Johnson	Disney
+~Agent Hendricks	Disney
+~Stan Herbert	Disney
+~Guard Woodruff	Disney
+~Mitch Wilkinson	Disney
+~Emily Appleton Gates	Disney
+~The President	Disney
+~Thomas Gates	Disney
+~Leodore Lionheart	Disney
+~Benjamin Clawhauser	Zootopia+
+~Bonnie Hopps	Zootopia+
+~Stu Hopps	Zootopia+
+~Duke Weaselton	Zootopia+
+~Jane Banks	Mary Poppins Returns
+~Michael Banks	Mary Poppins Returns
+~Grace Meacham	Pete's Dragon
+~Carlos de Vil	Descendants 3
+~Harry Hook	Descendants 2
+~Passenger Carl	Disney
+~Dave Douglas	The Shaggy Dog
+~Gideon Grey	Disney
+~Drill Sergeant	Disney
+~Mother Robinson	Swiss Family Robinson
+~Margaret Carey	Summer Magic
+~Uncle Hiram Douglas	So Dear to My Heart
+~Jerry Jumbeaux Jr.	Disney
+~Jebidiah Farnsworth	Atlantis: The Lost Empire
+~Another Seaman	The Finest Hours
+~Catherine Paine	The Finest Hours
+~Dave Ryder	The Finest Hours
+~Domingo Garcia	The Finest Hours
+~Carl Nickerson	The Finest Hours
+~Tchuda Southerland	The Finest Hours
+~Badger Doctor	Disney
+~Frantic Pig	Disney
+~Fru Fru	Zootopia+
+~Peter Moosebridge	Disney
+~Bucky Oryx-Antlerson	Disney
+~Pronk Oryx-Antlerson	Disney
+~Mouse Foreman	Disney
+~Danish Boy	Q19689203
+~Danish Boy’s Father	Q19689203
+~Danish Boy’s Mother	Q19689203
+~Danish Driver’s Wife	Q19689203
+~Pygmy hog	Disney
+~Infant Mowgli’s Father	The Jungle Book
+~Neelgai Deer	Disney
+~Hatter Tarrant Hightopp	Disney
+~Alice Kingsleigh	Disney
+~Napoleon Wilson	Napoleon and Samantha
+~Angelo 'Snaps' Provolone	Oscar
+~Hank Cooper	Gus
+~Lyle Straight	The Straight Story
+~Piper Drummer	Q19689203
+~Zanik Hightopp	Disney
+~Helen Kingsleigh	Disney
+~Lady Ascot	Disney
+~King Oleron	Disney
+~James Harcourt	Disney
+~Elizabeth Ham	Secretariat
+~Vice Principal Gupta	The Princess Diaries
+~Philip Brainard	Disney
+~Dan Rayburn	Disney
+~Sam Cahill	Operation Dumbo Drop
+~Ken Hollister	The Shaggy Dog
+~George Knox	Angels in the Outfield
+~Martha George	Disney
+~Opposing Coach	Freaky Friday
+~E.L.F.S. Leader	Disney
+~John Slade	The Shaggy D.A.
+~Andrei Strasser	Mighty Joe Young
+~Ed Dillinger	Disney
+~Desk Sergeant	Disney
+~Karen Tehama	Fillmore!
+~Marva Kulp, Jr.	The Parent Trap
+~Sugar Plum Fairy	The Nutcracker and the Four Realms
+~Mother Ginger	The Nutcracker and the Four Realms
+~Deputy Smalls	Pete's Dragon
+~Doctor Marquez	Pete's Dragon
+~Nurse Merriwether	Pete's Dragon
+~Freckled Kid	Pete's Dragon
+~Lena Gogan	Pete's Dragon
+~Ranger Wentworth	Pete's Dragon
+~Patient's Mom	Pete's Dragon
+~Little Girl Patient	Pete's Dragon
+~EMT Staffer	Pete's Dragon
+~Deputy West	Pete's Dragon
+~Billy Brown	Pete's Dragon
+~Citation Driver	Pete's Dragon
+~School Bus Driver	Pete's Dragon
+~Unfortunate Ambulance Patient	Pete's Dragon
+~Chess King	Disney
+~Queen Elsemere	Disney
+~Tyva Hightopp	Disney
+~Bim Hightopp	Disney
+~Bumalig Hightopp	Disney
+~Poomally Hightopp	Disney
+~Paloo Hightopp	Disney
+~Pimlick Hightopp	Disney
+~First Mate	Disney
+~Board Member	Disney
+~Ray Peyton Sr.	Herbie: Fully Loaded
+~Grandpa Goodman	G-Force
+~Ben Archer	Man of the House
+~Sir George's Servant	Squanto: A Warrior's Tale
+~Stacey Hinkhouse	Disney
+~Skeeter Bronson	Bedtime Stories
+~Lance Strictland	The Shaggy Dog
+~Pop McCormick	Tex
+~Deirdre Lafever	Disney's The Kid
+~Mugabi Brian	Queen of Katwe
+~London Hobo	Around the World in 80 Days
+~The Director	Disney
+~Jake's Dad	I'll Be Home for Christmas
+~Chief Tui	Disney
+~Alice's sister	Alice in Wonderland
+~Jim Dear	Lady and the Tramp
+~Aunt Sarah	Lady and the Tramp
+~King Stefan	Sleeping Beauty
+~King Hubert	Sleeping Beauty
+~Anita Radcliffe	101 Dalmatians II: Patch's London Adventure
+~Sergeant Tibbs	One Hundred and One Dalmatians
+~Jim Crow	Disney
+~Elephant Matriarch	Disney
+~Sir Ector	The Sword in the Stone
+~Sir Kay	The Sword in the Stone
+~Sir Pellinore	The Sword in the Stone
+~Sir Bart	The Sword in the Stone
+~Barry Tarberry	The 100 Lives of Black Jack Savage
+~Black Jack Savage	The 100 Lives of Black Jack Savage
+~Logan Murphy	The 100 Lives of Black Jack Savage
+~Danielle St. Claire	The 100 Lives of Black Jack Savage
+~Abel Vasquez	The 100 Lives of Black Jack Savage
+~Kevin Shepherd	102 Dalmatians
+~Jean Pierre Le Pelt	102 Dalmatians
+~Dijonay Jones	The Proud Family Movie
+~Colonel Hathi	The Jungle Book
+~Bambi's Mother	Disney
+~Friend Owl	Disney
+~The Great Prince of the Forest	Disney
+~The Grand Duke	Cinderella
+~Ash Williams|Ash Housewares|Evil Ash|Man from Future|The King	Cinderella
+~Hildy Gloom	The 7D
+~Grim Gloom	The 7D
+~Queen Delightful	The 7D
+~Abigail Gabble	The Aristocats
+~Amelia Gabble	The Aristocats
+~Uncle Waldo	The Aristocats
+~Adelaide Bonfamille	The Aristocats
+~Scat Cat	The Aristocats
+~Shun Gon	The Aristocats
+~Hit Cat	The Aristocats
+~Billy Boss	The Aristocats
+~Georges Hautecourt	The Aristocats
+~King Richard	Disney
+~Lady Kluck	Disney
+~Sexton Mouse	Disney
+~Little Sister	Disney
+~Mother Rabbit	Disney
+~Captain Crocodile	Disney
+~Ned Brainard	The Absent-Minded Professor
+~Betsy Carlisle	The Absent-Minded Professor
+~Fire Chief	The Absent-Minded Professor
+~Biff Hawk	The Absent-Minded Professor
+~Rufus Daggett	The Absent-Minded Professor
+~Shelby Ashton	The Absent-Minded Professor
+~Defense Secretary	The Absent-Minded Professor
+~Ellie Mae	The Rescuers
+~Deacon Owl	The Rescuers
+~Fflewddur Fflam	The Black Cauldron
+~King Eidilleg	The Black Cauldron
+~William Weatherall Wilkins	Mary Poppins Returns
+~Bill the Lizard	The Great Mouse Detective
+~King of Hearts	Alice in Wonderland
+~Bill Sykes	Oliver & Company
+~Chef Louis	Disney
+~Poker Polly	The Apple Dumpling Gang
+~bus passenger	Freaky Friday
+~Monsieur D'Arque	Beauty and the Beast
+~Prince Achmed	Disney
+~George Darling	Disney
+~Mary Darling	Disney
+~Indian Chief	Disney
+~Charles Wallace	A Wrinkle in Time
+~Chief Powhatan	Pocahontas
+~Roy Preston	Magic Camp
+~Quasimodo's Mother	The Hunchback of Notre Dame
+~Jack Bruno	Race to Witch Mountain
+~Brutish Guard	The Hunchback of Notre Dame
+~Oafish Guard	The Hunchback of Notre Dame
+~Henry Burke	Race to Witch Mountain
+~Sheriff Antony	Race to Witch Mountain
+~Natalie Gann	Race to Witch Mountain
+~Scullery Maid	The Sword in the Stone
+~Imperial Stormtrooper Ciardi	Race to Witch Mountain
+~Imperial Stormtrooper Gray	Race to Witch Mountain
+~Analyst D. Pleasence	Race to Witch Mountain
+~Four-Star General V. Lewton	Race to Witch Mountain
+~Grandmother Fa	Mulan
+~Fa Zhou	Mulan
+~Fa Li	Mulan
+~General Li	Mulan
+~Archimedes Q. Porter	Tarzan & Jane
+~Tarzan's Mother	Disney
+~Tarzan's father	Disney
+~Tantor's Mother	Disney
+~Grand Duke	Cinderella
+~Ella's Mother	Cinderella
+~Ella's Father	Cinderella
+~Theme Song Guy	The Emperor's New Groove
+~Master Phineus	Cinderella
+~Princess Chelina of Zaragosa	Cinderella
+~Royal Crier	Cinderella
+~Gaetan Molière	Atlantis: The Lost Empire
+~Palace Official	Cinderella
+~Lord Veneering	Cinderella
+~Stable Boy	Cinderella
+~Royal Crier’s Assistant	Cinderella
+~King's Doctor	Cinderella
+~Ballroom Palace Guard	Cinderella
+~Helga Sinclair	Atlantis: The Lost Empire
+~Preston B. Whitmore	Atlantis: The Lost Empire
+~Joshua Sweet	Atlantis: The Lost Empire
+~Kashekim Nedakh	Atlantis: The Lost Empire
+~Vincenzo Santorini	Atlantis: The Lost Empire
+~Audrey Ramirez	Atlantis: The Lost Empire
+~Wilhelmina Packard	Atlantis: The Lost Empire
+~Fenton Q. Harcourt	Atlantis: The Lost Empire
+~Cobra Bubbles	Plusaversary
+~David Kawena	Lilo & Stitch
+~Rescue Lady	Lilo & Stitch: The Series
+~Moses Puloki	Lilo & Stitch
+~Billy Bones	Treasure Planet
+~Doctor Doppler	Treasure Planet
+~Captain Amelia	Treasure Planet
+~Walt Disney	Walt Before Mickey
+~Captain Nathaniel Flint	Treasure Planet
+~Sarah Hawkins	Treasure Planet
+~Bird Brain Mary	Treasure Planet
+~Cheryl White	McFarland, USA
+~Charlotte La Bouff	Disney
+~Mama Odie	Disney
+~Eli La Bouff	Disney
+~Two Fingers	Disney
+~Henry Fenner	Disney
+~Harvey Fenner	Disney
+~Stabbington Brother	Tangled
+~Captain of the Guards	Tangled
+~Hook Hand	Tangled
+~Big Nose	Tangled: Before Ever After
+~Queen Arianna	Tangled: Before Ever After
+~King Frederic	Tangled: Before Ever After
+~Taffyta Muttonfudge	Wreck-It Ralph
+~Stan Litwak	Wreck-It Ralph
+~General Hologram	Wreck-It Ralph
+~Moppet Girl	Wreck-It Ralph
+~Beard Papa	Wreck-It Ralph
+~Sour Bill	Wreck-It Ralph
+~Rancis Fluggerbutter	Wreck-It Ralph
+~Jubileena Bing Bing	Wreck-It Ralph
+~Crumbelina di Caramello	Wreck-It Ralph
+~Surge Protector	Wreck-It Ralph
+~Grand Pabbie	Frozen 2
+~King Agnarr	Frozen
+~Spanish Dignitary	Frozen
+~German Dignitary	Frozen
+~Irish Dignitary	Frozen
+~Alistair Krei	Disney
+~Aunt Cass	Disney
+~Abigail Callaghan	Disney
+~Fred's Father	Disney
+~Man on Boda	Queen of Katwe
+~Christine Namaganda	Queen of Katwe
+~Rwabushenyi Official	Queen of Katwe
+~Rwabushenyi President	Queen of Katwe
+~Hippo Girl	Disney
+~Fabienne Growley	Disney
+~Chess Federation Secretary	Queen of Katwe
+~Hospital Administrator	Queen of Katwe
+~Budo Secretary	Queen of Katwe
+~Benjamin's Opponent	Queen of Katwe
+~Gloria's Opponent	Queen of Katwe
+~Brian's Opponent	Queen of Katwe
+~Pritchard's Friend	Queen of Katwe
+~Snooty Lady in Car	Queen of Katwe
+~Manicure Lady	Queen of Katwe
+~Corn Farmer	Queen of Katwe
+~Ggaba Merchant	Queen of Katwe
+~Bookie Student	Queen of Katwe
+~Kikomando Kid	Queen of Katwe
+~Geography Teacher	Queen of Katwe
+~Chief Guest	Queen of Katwe
+~Katende's Mother	Queen of Katwe
+~Katende's Grandmother	Queen of Katwe
+~Chess Pioneers	Queen of Katwe
+~Julie White	McFarland, USA
+~Thomas Valles	McFarland, USA
+~J. Thaddeus Toad	The Adventures of Ichabod and Mr. Toad
+~Cyril Proudbottom	The Wind in the Willows
+~Angus MacBadger	The Wind in the Willows
+~Water Rat	Mickey's Christmas Carol
+~Te Fiti	Disney
+~Bird in the Tree	Alice in Wonderland
+~The Rose	Alice in Wonderland
+~The Dogcatcher	Lady and the Tramp
+~Man in Pet Shop	Lady and the Tramp
+~Hugh Fitzooth	The Story of Robin Hood and His Merrie Men
+~Midge the Miller	The Story of Robin Hood and His Merrie Men
+~Major John Wesley	Ten Who Dared
+~Merlin Jones	The Misadventures of Merlin Jones
+~Judge Holmsby	The Monkey's Uncle
+~Professor Shattuck	The Misadventures of Merlin Jones
+~Hoodoo Henderson	Follow Me, Boys!
+~Frankie Martin	Follow Me, Boys!
+~Quong Lee	Follow Me, Boys!
+~George Russel	Davy Crockett and the River Pirates
+~first mate of Nautilus	Disney
+~John Howard	Disney
+~shipping agent	Disney
+~shipping clerk	Disney
+~Casey Moore	Disney
+~mate of Lincoln	Disney
+~Bill Watkins	Disney
+~Dorothy Williams	Disney
+~Sam Grant	Disney
+~Julie Williams	Disney
+~Lewis's wife	Disney
+~Pete Williams	Disney
+~Captain Anderson	Disney
+~Tom Hadley	Disney
+~Ram Singh	Disney
+~Joe Riley	Disney
+~Vern Goodman	Disney
+~Uncle Harry	Disney
+~Bob Evans	Disney
+~Betty Collins	Disney
+~governor's adviser	Disney
+~Josef Pietz	Disney
+~Director Eisinger	Almost Angels
+~Frau Fiala	Almost Angels
+~wardrobe mistress	Almost Angels
+~Peter Schaefer	Almost Angels
+~Friedel Schmidt	Almost Angels
+~music teacher	Almost Angels
+~Father Fiala	Almost Angels
+~Max Heller	Almost Angels
+~radio commentator	Almost Angels
+~Toni Fiala	Almost Angels
+~mathematics teacher	Almost Angels
+~Felix Meinl	Almost Angels
+~The Toymaker	Babes in Toyland
+~Mary Contrary	Babes in Toyland
+~Boy Blue	Babes in Toyland
+~Tom Piper	Babes in Toyland
+~Mother Goose|Dame Goose|Jemima Goose|Jemima Gooſe|Ma’am Goose|Mother Gooſe|Mrs. Goose	Babes in Toyland
+~Willie Winkie	Babes in Toyland
+~The Little Boy	Babes in Toyland
+~Simple Simon	Babes in Toyland
+~Bobby Shaftoe	Babes in Toyland
+~James Haggin	Big Red
+~Emile Fornet	Big Red
+~Farmer Mariot	Big Red
+~Therese Fornet	Big Red
+~Rene Dumont	Big Red
+~The Grasshopper	Grasshopper and the Ants
+~Hyacinth Hippo	Who Framed Roger Rabbit
+~Katie Willard	Bon Voyage!
+~The Girl	Bon Voyage!
+~Nick O'Mara	Bon Voyage!
+~Elliott Willard	Bon Voyage!
+~Amy Willard	Bon Voyage!
+~The Tight Suit	Bon Voyage!
+~Harry Willard	Bon Voyage!
+~Skipper Willard	Bon Voyage!
+~Judge Henderson	Bon Voyage!
+~sewer guide	Bon Voyage!
+~Shamra's father	Bon Voyage!
+~Michael McBride	Darby O'Gill and the Little People
+~Katie O'Gill	Darby O'Gill and the Little People
+~Father Murphy	Darby O'Gill and the Little People
+~Phadrig Oge	Darby O'Gill and the Little People
+~Pony Sugrue	Darby O'Gill and the Little People
+~Tom Kerrigan	Darby O'Gill and the Little People
+~King Brian	Darby O'Gill and the Little People
+~Lord Fitzpatrick	Darby O'Gill and the Little People
+~Paddy Scanlon	Darby O'Gill and the Little People
+~Molly Malloy	Darby O'Gill and the Little People
+~Colonel Plug	Davy Crockett and the River Pirates
+~Cap'n Cobb	Davy Crockett and the River Pirates
+~saloon owner	Davy Crockett and the River Pirates
+~Sam Mason	Davy Crockett and the River Pirates
+~Mike Fink	Davy Crockett and the River Pirates
+~Big Harpe	Davy Crockett and the River Pirates
+~Little Harpe	Davy Crockett and the River Pirates
+~Andrew Jackson	Davy Crockett, King of the Wild Frontier
+~Colonel Jim Bowie	Davy Crockett, King of the Wild Frontier
+~Colonel Billy Travis	Davy Crockett, King of the Wild Frontier
+~Bigfoot Mason	Davy Crockett, King of the Wild Frontier
+~Polly Crockett	Davy Crockett, King of the Wild Frontier
+~Tobias Norton	Davy Crockett, King of the Wild Frontier
+~Chief Red Stick	Davy Crockett, King of the Wild Frontier
+~Charlie Two Shirts	Davy Crockett, King of the Wild Frontier
+~Vida Downey	Follow Me, Boys!
+~P.O.W. sergeant	Follow Me, Boys!
+~Hetty Seibert	Follow Me, Boys!
+~Melody Murphy	Follow Me, Boys!
+~Lemuel Siddons	Follow Me, Boys!
+~Nora White	Follow Me, Boys!
+~Edward White, Jr.	Follow Me, Boys!
+~first P.O.W. soldier	Follow Me, Boys!
+~John Everett Hughes	Follow Me, Boys!
+~Mayor Hi Plommer	Follow Me, Boys!
+~P.O.W. lieutenant	Follow Me, Boys!
+~Ralph's lawyer	Follow Me, Boys!
+~Ralph Hastings	Follow Me, Boys!
+~Cora Anderson	Follow Me, Boys!
+~Edward White, Sr.	Follow Me, Boys!
+~tank captain	Follow Me, Boys!
+~scout at cliff	Follow Me, Boys!
+~Doctor Ferris	Follow Me, Boys!
+~Hetty's lawyer	Follow Me, Boys!
+~Beefy Smith	Follow Me, Boys!
+~Mickey Doyle	Follow Me, Boys!
+~Ronnie Larsen	Follow Me, Boys!
+~third scout in war games	Follow Me, Boys!
+~farmer's daughter	Greyfriars Bobby
+~James Brown	Greyfriars Bobby
+~Lord Provost	Greyfriars Bobby
+~old woman caretaker	Greyfriars Bobby
+~farmer's wife	Greyfriars Bobby
+~first lady	Greyfriars Bobby
+~Old Jock	Greyfriars Bobby
+~constable MacLean	Greyfriars Bobby
+~Mary Grant	In Search of the Castaways
+~Thomas Ayerton	In Search of the Castaways
+~Bill Gaye	In Search of the Castaways
+~John Glenarvan	In Search of the Castaways
+~Josiah Quincy	Johnny Tremain
+~Cilla Lapham	Johnny Tremain
+~Rab Silsbee	Johnny Tremain
+~Jonathan Lyte	Johnny Tremain
+~Major Pitcairn	Johnny Tremain
+~Admiral Montagu	Johnny Tremain
+~Ephraim Lapham	Johnny Tremain
+~Colonel Smith	Johnny Tremain
+~Paul Revere	Johnny Tremain
+~Johnny Tremain	Johnny Tremain
+~James Otis	Johnny Tremain
+~General Gage	Johnny Tremain
+~Samuel Adams	Johnny Tremain
+~horse tender	Johnny Tremain
+~Prissy's owner	One Hundred and One Dalmatians
+~Robin Oig MacGregor	Kidnapped
+~Uncle Ebenezer	Kidnapped
+~Alan Breck Stewart	Kidnapped
+~Captain Hoseason	Kidnapped
+~Colin Roy Campbell	Kidnapped
+~David Balfour	Catriona
+~Cluny MacPherson	Kidnapped
+~the ferryman	Kidnapped
+~The Highlander	Kidnapped
+~Jennet Clouston	Kidnapped
+~Donald Dhu MacLaren	Kidnapped
+~Lt. Robin Crusoe	Lt. Robin Crusoe, U.S.N.
+~umbrella man	Lt. Robin Crusoe, U.S.N.
+~crew chief	Lt. Robin Crusoe, U.S.N.
+~General Tellheim	Miracle of the White Stallions
+~Vedena Podhajsky	Miracle of the White Stallions
+~Countess Arco-Valley	Miracle of the White Stallions
+~General Stryker	Miracle of the White Stallions
+~Rider Hans	Miracle of the White Stallions
+~Captain Ranhoff	Miracle of the White Stallions
+~Rider Otto	Miracle of the White Stallions
+~Major Hoffman	Miracle of the White Stallions
+~southern G.I.	Miracle of the White Stallions
+~U.S. general	Miracle of the White Stallions
+~Orderly Tellheim	Miracle of the White Stallions
+~German M.P. captain	Miracle of the White Stallions
+~Groom Sascha	Miracle of the White Stallions
+~first rider	Miracle of the White Stallions
+~General Patton	Miracle of the White Stallions
+~woman railroad official	Miracle of the White Stallions
+~refugee leader	Miracle of the White Stallions
+~Colonel Reed	Miracle of the White Stallions
+~Att. Carl	Miracle of the White Stallions
+~Brooklyn G.I.	Miracle of the White Stallions
+~Stryker's adjutant	Miracle of the White Stallions
+~TV Announcer	The Rescuers
+~Father Sylvain	Monkeys, Go Home!
+~Maria Riserau	Monkeys, Go Home!
+~Hank Dussard	Monkeys, Go Home!
+~M. Piastillio	Monkeys, Go Home!
+~Marcel Cartucci	Monkeys, Go Home!
+~Emile Paraulis	Monkeys, Go Home!
+~Sidoni Riserau	Monkeys, Go Home!
+~Yolande Angelli	Monkeys, Go Home!
+~Mayor Gaston Lou	Monkeys, Go Home!
+~Major General John Vanneman	Moon Pilot
+~Agent Brown	Moon Pilot
+~secretary of the air force	Moon Pilot
+~Captain Richmond Talbot	Moon Pilot
+~Walter Tabot	Moon Pilot
+~Air Force officer	Moon Pilot
+~medical officer	Moon Pilot
+~Colonel Briggs	Moon Pilot
+~Senator McGuire	Moon Pilot
+~fat woman in lineup	Moon Pilot
+~Jacques LeBeau	Nikki, Wild Dog of the North
+~Andre Dupas	Nikki, Wild Dog of the North
+~Reverend Paul Ford	Pollyanna
+~Aunt Polly	Pollyanna
+~Nancy Furman	Pollyanna
+~Mayor Karl Warren	Pollyanna
+~Tillie Lagerlof	Pollyanna
+~George Dodds	Pollyanna
+~Jimmy Bean	Pollyanna
+~Ben Tarbell	Pollyanna
+~Mildred Snow	Pollyanna
+~Bandy Legs	Savage Sam
+~Uncle Beck	Savage Sam
+~Wily Crup	Savage Sam
+~Pack Underwood	Savage Sam
+~young warrior	Savage Sam
+~Lester White	Savage Sam
+~Comanche chief	Savage Sam
+~Broken Nose	Savage Sam
+~Ben Todd	Savage Sam
+~Granny Kincaid	So Dear to My Heart
+~Jeremiah Kincaid	Midnight and Jeremiah
+~horse trainer	So Dear to My Heart
+~Lady Mouse	The Great Mouse Detective
+~Bar Maid	The Great Mouse Detective
+~A. J. Allen	Son of Flubber
+~woman in television commercial	Son of Flubber
+~announcer in commercial	Son of Flubber
+~husband in commercial	Son of Flubber
+~Judge Murdock	Son of Flubber
+~sign painter	Son of Flubber
+~Rutland coach	Son of Flubber
+~first juror	Son of Flubber
+~Rutland student manager	Son of Flubber
+~first bailiff	Son of Flubber
+~man in television commercial	Son of Flubber
+~Desiree de la Roche	Son of Flubber
+~mother in commercial	Son of Flubber
+~first football player	Son of Flubber
+~second juror	Son of Flubber
+~assistant to the defense attorney	Son of Flubber
+~baby Walter in commercial	Son of Flubber
+~wife in commercial	Son of Flubber
+~Nancy Carey	Summer Magic
+~Maria Popham	Summer Magic
+~Osh Popham	Summer Magic
+~Charles Bryan	Summer Magic
+~Digby Popham	Summer Magic
+~Tom Hamilton	Summer Magic
+~Gilly Carey	Summer Magic
+~Cousin Julia	Summer Magic
+~Peter Carey	Summer Magic
+~Lallie Joy	Summer Magic
+~William Robinson	Swiss Family Robinson
+~pirate chief	Swiss Family Robinson
+~Francis Robinson	Swiss Family Robinson
+~Fritz Robinson	Swiss Family Robinson
+~Captain Moreland	Swiss Family Robinson
+~Ernst Robinson	Swiss Family Robinson
+~George Bradley	Ten Who Dared
+~Walter Powell	Ten Who Dared
+~Jim Baker	Ten Who Dared
+~Oramel Howland	Ten Who Dared
+~Frank Goodman	Ten Who Dared
+~Seneca Howland	Ten Who Dared
+~Jack Sumner	Ten Who Dared
+~Indian woman	Ten Who Dared
+~Patti Randall	That Darn Cat!
+~Gregory Benson	That Darn Cat!
+~Ingrid Randall	That Darn Cat!
+~Margaret Miller	That Darn Cat!
+~Zeke Kelso	That Darn Cat!
+~drive-in manager	That Darn Cat!
+~Supervisor Newton	That Darn Cat!
+~police officer	That Darn Cat!
+~Candy man	That Darn Cat!
+~General Singer	The Absent-Minded Professor
+~Admiral Olmstead	The Absent-Minded Professor
+~General Hotchkiss	The Absent-Minded Professor
+~rival basketball coach	The Absent-Minded Professor
+~voice of army alert	The Absent-Minded Professor
+~pilot on radio	The Absent-Minded Professor
+~radio announcer	The Absent-Minded Professor
+~TV newsman	The Absent-Minded Professor
+~Reverend Bosworth	The Absent-Minded Professor
+~air force captain	The Absent-Minded Professor
+~General Poynter	The Absent-Minded Professor
+~Judge Higgins	The Adventures of Bullwhip Griffin
+~Arabella Flagg	The Adventures of Bullwhip Griffin
+~Bullwhip Griffin	The Adventures of Bullwhip Griffin
+~chief executioner	The Adventures of Bullwhip Griffin
+~Sam Trimble	The Adventures of Bullwhip Griffin
+~Quentin Bartlett	The Adventures of Bullwhip Griffin
+~Mountain Ox	The Adventures of Bullwhip Griffin
+~bandido leader	The Adventures of Bullwhip Griffin
+~Joe Turner	The Adventures of Bullwhip Griffin
+~Captain Swain	The Adventures of Bullwhip Griffin
+~Jack Flagg	The Adventures of Bullwhip Griffin
+~Sean O'Toole	The Fighting Prince of Donegal
+~Lord MacSweeney	The Fighting Prince of Donegal
+~Kathleen MacSweeney	The Fighting Prince of Donegal
+~head of O'Neill clan	The Fighting Prince of Donegal
+~Captain Leeds	The Fighting Prince of Donegal
+~Henry O'Neill	The Fighting Prince of Donegal
+~William A. Fuller	The Great Locomotive Chase
+~James J. Andrews	The Great Locomotive Chase
+~Jacob Parrott	The Great Locomotive Chase
+~Anthony Murphy	The Great Locomotive Chase
+~Marion A. Ross	The Great Locomotive Chase
+~Pete Bracken	The Great Locomotive Chase
+~William Bensinger	The Great Locomotive Chase
+~Wilson Brown	The Great Locomotive Chase
+~William Pittenger	The Great Locomotive Chase
+~Robert Buffum	The Great Locomotive Chase
+~William Knight	The Great Locomotive Chase
+~Henry Haney	The Great Locomotive Chase
+~J. A. Wilson	The Great Locomotive Chase
+~Jess McIntyre	The Great Locomotive Chase
+~John Wollam	The Great Locomotive Chase
+~John M. Scott	The Great Locomotive Chase
+~Aunt Mary	The Happiest Millionaire
+~Cordelia Drexel Biddle	The Happiest Millionaire
+~Walter Blakely	The Happiest Millionaire
+~John Lawless	The Happiest Millionaire
+~Sergeant Flanagan	The Happiest Millionaire
+~Angie Duke	The Happiest Millionaire
+~Aunt Gladys	The Happiest Millionaire
+~Charlie Taylor	The Happiest Millionaire
+~Carl Nurmi	The Incredible Journey
+~John Longridge	The Incredible Journey
+~Professor Jim Hunter	The Incredible Journey
+~James MacKenzie	The Incredible Journey
+~Bert Oakes	The Incredible Journey
+~The Hermit	The Incredible Journey
+~Helvi Nurmi	The Incredible Journey
+~Peter Hunter	The Incredible Journey
+~Nell MacKenzie	The Incredible Journey
+~Cody's mother	The Rescuers Down Under
+~Nurse Mouse	The Rescuers Down Under
+~Myra Butler	The Light in the Forest
+~Milly Elder	The Light in the Forest
+~Kate Owens	The Light in the Forest
+~Del Hardy	The Light in the Forest
+~John Butler	The Light in the Forest
+~John Elder	The Light in the Forest
+~Wilson Owens	The Light in the Forest
+~Chief Cuyloga	The Light in the Forest
+~Harry Butler	The Light in the Forest
+~Half Arrow	The Light in the Forest
+~Colonel Henry Bouquet	The Light in the Forest
+~George Owens	The Light in the Forest
+~General Torres	The Littlest Outlaw
+~Señor García	The Littlest Outlaw
+~Police Captain Loomis	The Misadventures of Merlin Jones
+~Detective Hutchins	The Misadventures of Merlin Jones
+~Anthony Gamble	The Moon-Spinners
+~Madame Habib	The Moon-Spinners
+~Nicky Ferris	The Moon-Spinners
+~Aunt Frances	The Moon-Spinners
+~yacht captain	The Moon-Spinners
+~Mark Camford	The Moon-Spinners
+~police lieutenant	The Moon-Spinners
+~hearse driver	The Moon-Spinners
+~bus driver	The Moon-Spinners
+~Jean the Potter	Disney
+~Père Robert	Disney
+~Old Woman	Disney
+~Tavern Keeper	Disney
+~Belle's Mother	Disney
+~Maggie McKendrick	The Parent Trap
+~Sharon McKendrick	The Parent Trap
+~Susan Evers	The Parent Trap
+~Louise McKendrick	The Parent Trap
+~Mitch Evers	The Parent Trap
+~Reverend Mosby	The Parent Trap
+~Charles McKendrick	The Parent Trap
+~Vicky Robinson	The Parent Trap
+~Edna Robinson	The Parent Trap
+~orchestra leader	The Reluctant Dragon
+~studio artist	The Reluctant Dragon
+~Studio guide	The Reluctant Dragon
+~Studio cop	The Reluctant Dragon
+~The Dragon	The Reluctant Dragon
+~Bart Simpson|Bartholomew Jo-Jo Simpson|Bartman|El Barto|Ratboy|The Bartman|The Boy	The Reluctant Dragon
+~Sir Giles	The Reluctant Dragon
+~The Old Heretic	The Hunchback of Notre Dame
+~Frieda Daniels	Disney
+~Allison D'Alledio	Disney
+~Wilson Daniels	Disney
+~police broadcaster	Disney
+~Moochie Daniels	Disney
+~Professor Plumcutt	Disney
+~Wilby Daniels	Disney
+~Captain Scanlon	Disney
+~Buzz Miller	Disney
+~Franceska Andrassy	Disney
+~E. P. Hackett	Disney
+~Flirtatious Farmer	Disney
+~Pretty Female Fishmonger	Disney
+~Head Washer	Disney
+~Nasty Headmaster	Disney
+~Washer Woman	Disney
+~Cheese Maker	Disney
+~Village Lass's Mother	Disney
+~Wood Carrier	Disney
+~Jam Seller	Disney
+~Bread Buyer	Disney
+~Apothecary's Patient	Disney
+~First Ancestor	Mulan
+~Old Lady Bear	Brother Bear
+~Male Lover Bear	Brother Bear
+~Female Lover Bear	Brother Bear
+~Foreign (Croatian) Bear	Brother Bear
+~Sheriff Sam Brown	Home on the Range
+~Audrey, the Chicken	Home on the Range
+~Ollie, the Pig	Home on the Range
+~Larry, the Duck	Home on the Range
+~Lucky Jack	Home on the Range
+~Marlon the Gator	Disney
+~Ian the Gator	Disney
+~Cousin Randy	Disney
+~Tap Dancing Kid	Disney
+~The Walrus	Alice in Wonderland
+~The Carpenter	Alice in Wonderland
+~Drunken Lackey	Sleeping Beauty
+~Sonia the duck	Peter and the Wolf
+~policeman at zoo	Lady and the Tramp
+~Madame Upanova	Who Framed Roger Rabbit
+~Johnny Appleseed	Johnny Appleseed
+~The Herald	Cinderella
+~The Duke	Adventures of Huckleberry Finn
+~Tom Trimble	Unidentified Flying Oddball
+~Senator Milburn	Unidentified Flying Oddball
+~Aunt Louise	Herbie Goes Bananas
+~Captain Blythe	Herbie Goes Bananas
+~Armando Moccia	Herbie Goes Bananas
+~Chief Steward	Herbie Goes Bananas
+~Loud American Wife	Herbie Goes Bananas
+~Jimmy Wolf	One Little Indian
+~Trail Boss	One Little Indian
+~Capt. Stewart	One Little Indian
+~Old Indian	One Little Indian
+~Lt. Cummins	One Little Indian
+~Stage Driver	One Little Indian
+~Sir Anthony Ross	The Island at the Top of the World
+~Prof. Ivarsson	The Island at the Top of the World
+~Captain Brieux	The Island at the Top of the World
+~Dexter Riley	Now You See Him, Now You Don't
+~A.J. Arno	Now You See Him, Now You Don't
+~Dean Higgins	Now You See Him, Now You Don't
+~Timothy Forsythe	Now You See Him, Now You Don't
+~Dean Collingsgood	Now You See Him, Now You Don't
+~Richard Schuyler	Now You See Him, Now You Don't
+~Cece Proud	The Proud Family
+~LaCienega Boulevardez	The Proud Family
+~Bobby Proud	The Proud Family: Louder and Prouder
+~Oscar Proud	The Proud Family: Louder and Prouder
+~Trudy Parker-Proud	The Proud Family
+~Dutch Puppet	Disney
+~Carnival Barker	Disney
+~Thumper's Mother	Disney
+~Aunt Ena	Disney
+~Female Pheasant	Disney
+~Quail Mother	Disney
+~Old Settler	Johnny Appleseed
+~Johnny's Angel	Johnny Appleseed
+~Perla Mouse	Cinderella
+~White Rose	Alice in Wonderland
+~Impound Clerk	Bad Hair Day
+~DMV Women	Bad Hair Day
+~The Chief	Bad Hair Day
+~DMV Official	Bad Hair Day
+~Hippy Guy	Bad Hair Day
+~Mall Cop	Bad Hair Day
+~Wrong Man	Bad Hair Day
+~Wrong Man's Date	Bad Hair Day
+~Hot Dog Vendor	Bad Hair Day
+~Cute Boy	Bad Hair Day
+~Right Man	Bad Hair Day
+~Bike Rental Guy	Bad Hair Day
+~Allie Thompson	The Ultimate Christmas Present
+~Joey Thompson	The Ultimate Christmas Present
+~Michelle Thompson	The Ultimate Christmas Present
+~Samantha Kwan	The Ultimate Christmas Present
+~Steve Thompson	The Ultimate Christmas Present
+~Edwin Hadley	The Ultimate Christmas Present
+~Linda Kwan	The Ultimate Christmas Present
+~Mary Jo	The Ultimate Christmas Present
+~Mary Jo's Mother	The Ultimate Christmas Present
+~Snowmobile Driver	The Ultimate Christmas Present
+~National Weather Person	The Ultimate Christmas Present
+~Frank Walker	Disney
+~Casey Newton	Disney
+~Eddie Newton	Disney
+~Frank's Dad	Disney
+~Nate Newton	Disney
+~Dave Clark	Disney
+~Jenny Newton	Disney
+~Small World Operator	Disney
+~Skyscraper Foreman	Disney
+~History Teacher	Disney
+~Science Teacher	Disney
+~English Teacher	Disney
+~Beefy Cop	Disney
+~Jail Desk Jockey	Disney
+~Jail Punk	Disney
+~Jetpack Dexter	Disney
+~Jetpack Buddy	Disney
+~Monorail Mother	Disney
+~Young Astronaut	Disney
+~Astronaut's Father	Disney
+~Astronaut's Mother	Disney
+~Pickup Driver	Disney
+~Police Captain	Disney
+~Pierre Clark	Disney
+~Tough Guard	Disney
+~Young British Recruiter	Disney
+~Guitar Player	Disney
+~GM Plant Worker	Disney
+~Haitian Woman	Disney
+~Ben Cooper	Disney
+~Kelly Cooper	Disney
+~Alexander Cooper	Disney
+~Anthony Cooper	Disney
+~Emily Cooper	Disney
+~Baby Trevor	Disney
+~Becky Gibson	Disney
+~Paul Dumphy	Disney
+~Philip Parker	Disney
+~Elliot Gibson	Disney
+~Audrey Gibson	Disney
+~Yoga Instructor	Disney
+~Receptionist Abby	Disney
+~High School Teacher	Disney
+~Video Game Receptionist	Disney
+~Video Game Exec Yoshi	Disney
+~Bookstore Employee	Disney
+~Tux Shop Employee	Disney
+~Actor John Darling	Disney
+~Actor Wendy Darling	Disney
+~Nagamaki Host	Disney
+~Stage Hand	Disney
+~Pregnant Sheila	Disney
+~Neil Miller	Disney
+~Charlie Calvin	Disney
+~Detective Nunzio	Disney
+~Little Girl	Disney
+~Elf at North Pole	Disney
+~Elf in Hangar	Disney
+~Kid Two	Disney
+~Kid Three	Disney
+~Ad Executive	Disney
+~Ballet Girl	Disney
+~Fax Kid	Disney
+~Bobby's Dad	Disney
+~Elf One	Disney
+~Elf Two	Disney
+~Santa in Street	Disney
+~Child One	Disney
+~Child Two	Disney
+~Tinsel Man	Disney
+~Japanese Businessman	Disney
+~Coffee Cop	Disney
+~Truck Driver	Disney
+~Reverend Palliser	The Jennie Project
+~Project Director	The Jennie Project
+~Theater Attendant	The Jennie Project
+~Woman in Car	The Jennie Project
+~Woman in Curlers	The Jennie Project
+~Emergency Room Nurse	The Jennie Project
+~Emergency Room Kid	The Jennie Project
+~Jackal Johnson	The Cheetah Girls
+~Ivana the Hairdresser	The Cheetah Girls
+~Connie Torres	Camp Rock
+~Caitlyn Geller	Camp Rock
+~Dee La Duke	Camp Rock
+~Brown Cesario	Camp Rock
+~T.J. Tyler	Camp Rock
+~Girl Singing Shane's Song	Camp Rock
+~Opera Girl	Camp Rock
+~Girl w/ Folk Voice	Camp Rock
+~Steve Torres	Camp Rock
+~T.V. Reporter	Camp Rock
+~Screaming Girl	Camp Rock
+~German Mouse	The Rescuers
+~Sue Jensen	16 Wishes
+~Bob Jensen	16 Wishes
+~Mike Jensen	16 Wishes
+~Joey Lockhart	16 Wishes
+~Snooty Saleswoman	16 Wishes
+~Harold Dmv Tester	16 Wishes
+~Apt Landlord	16 Wishes
+~Dizzy Tremaine	Descendants 2
+~Young Usher / Guard	Descendants 2
+~Chad Charming	Descendants
+~Angry Customer	Descendants 2
+~Evil Queen	Descendants
+~Limo Driver	Descendants
+~Queen Leah	Descendants
+~Royal Tailor	Descendants
+~Tourney Announcer	Descendants
+~Georgina Farlow	Camp Rock 2: The Final Jam
+~Junior Rocker Trevor	Camp Rock 2: The Final Jam
+~Junior Rocker Jamal	Camp Rock 2: The Final Jam
+~Woody Fink	The Suite Life Movie
+~Junior Rocker Gage	Camp Rock 2: The Final Jam
+~Nellie Smith	The Suite Life Movie
+~Kellie Smith	The Suite Life Movie
+~Fish Monger	The Suite Life Movie
+~Sea Captain	The Suite Life Movie
+~Junior Rocker Erin	Camp Rock 2: The Final Jam
+~Junior Rocker Audrey	Camp Rock 2: The Final Jam
+~Camp Star Stage Manager	Camp Rock 2: The Final Jam
+~Star Camper Christine	Camp Rock 2: The Final Jam
+~Star Camper Rachel	Camp Rock 2: The Final Jam
+~Counselor Bob	Camp Rock 2: The Final Jam
+~Girl at Pool	High School Musical 2
+~Jack Bolton	High School Musical
+~Chem Teacher	High School Musical
+~Lucille Bolton	High School Musical
+~Martha Cox	High School Musical 2
+~Assistant Pro	High School Musical 2
+~Sharpay's Dog Boi	High School Musical 2
+~Peyton Leverett	Sharpay's Fabulous Adventure
+~Amber Lee Adams	Sharpay's Fabulous Adventure
+~Roger Elliston	Sharpay's Fabulous Adventure
+~Jerry Taylor	Sharpay's Fabulous Adventure
+~Stage Manager	Sharpay's Fabulous Adventure
+~Judith / Nell	Sharpay's Fabulous Adventure
+~Sound Engineer	Sharpay's Fabulous Adventure
+~Card Player	Sharpay's Fabulous Adventure
+~Kamal Uncle	The Cheetah Girls: One World
+~Irving Du Bois	Phineas and Ferb
+~Joseph Dunn	Glass
+~Bomb Voyage	The Incredibles
+~Lady Lightbug	Mr. Incredible and Pals
+~Warp Darkmatter	Buzz Lightyear of Star Command
+~Suga Mama	The Proud Family: Louder and Prouder
+~Bebe Proud	The Proud Family
+~Casey Cooke	Split
+~Evelyn Deavor	Incredibles 2
+~Honey Best	Incredibles 2
+~Amy Medford	Amy
+~Josh Framm	Air Bud
+~Norm Snively	Air Bud
+~Brandy Harrington	Brandy & Mr. Whiskers
+~Flynn Jones	Shake It Up
+~Balthazar Blake	The Sorcerer's Apprentice
+~Percival Fauncewater	One Hundred and One Dalmatians
+~Dirty Dawson	One Hundred and One Dalmatians
+~Leonard Helperman	Teacher's Pet
+~Mary Helperman	Teacher's Pet
+~Inspector Gadget	Inspector Gadget
+~Prince Anders	Aladdin
+~Thaddeus Thatch	Atlantis: The Lost Empire
+~Cal Weathers	Cars 3
+~Giggle McDimples	Disney
+~Peter Penguin	Peculiar Penguins
+~Rebecca Cunningham	TaleSpin
+~Lola Cep	Confessions of a Teenage Drama Queen
+~Colonel Pickering	Confessions of a Teenage Drama Queen
+~Quiz Master	One Hundred and One Dalmatians
+~TV inspector	One Hundred and One Dalmatians
+~Wendy Corduroy	Gravity Falls
+~Lazy Susan	Weirdmageddon 3: Take Back The Falls
+~Blendin Blandin	Blendin's Game
+~Tyler Cutebiker	Weirdmageddon 3: Take Back The Falls
+~Robbie Valentino	Gravity Falls
+~Sheriff Blubs	The Legend of the Gobblewonker

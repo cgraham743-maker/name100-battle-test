@@ -1,0 +1,1974 @@
+#Hero or villain
+Invincible|Mark Grayson|Markus Grayson|Markus Sebastian Grayson	Invincible
+Omni-Man|Nolan Grayson|Omniman	Invincible
+Atom Eve	Invincible
+Hellboy|Anung un Rama|Roger the Homunculus	Hellboy
+Spawn|Al Simmon	Spawn
+Mr. Incredible|Bob Parr|Robert Parr	The Incredibles
+Elastigirl|Helen Parr|Mrs. Incredible	The Incredibles
+Frozone	The Incredibles
+Syndrome	The Incredibles
+Dash Parr	The Incredibles
+Violet Parr	The Incredibles
+Jack-Jack Parr	The Incredibles
+Edna Mode	The Incredibles
+Screenslaver	The Incredibles
+Blossom	The Powerpuff Girls
+Bubbles	The Powerpuff Girls
+Buttercup	The Powerpuff Girls
+Mojo Jojo	The Powerpuff Girls
+HIM	The Powerpuff Girls
+Leonardo	TMNT
+Donatello|Donnie|Donny	TMNT
+Raphael|Raph	TMNT
+Michelangelo|Michaelangelo|Mike|Mikey	TMNT
+Shredder|Oroku Saki	TMNT
+Splinter	TMNT
+Krang|1987 Krang	TMNT
+Bebop	TMNT
+Rocksteady	TMNT
+Casey Jones	TMNT
+Megamind	Megamind
+Metro Man	Megamind
+Usagi Tsukino|Bunny|Bunny Tsukino|Odango Atama|Sailor Moon|Serena Tsukino|Tsukino Usagi|Usako	Sailor Moon
+Sailor Mercury|Ami Mizuno|Dark Mercury|Princess Mercury	Sailor Moon
+Sailor Mars|Princess Mars|Raye Hino|Rei Hino	Sailor Moon
+Sailor Jupiter|Makoto Kino	Sailor Moon
+Sailor Venus|Codename Sailor V|Mina Aino|Minako Aino|Sailor V	Sailor Moon
+All Might	My Hero Academia
+Izuku Midoriya|Deku|Midoriya Izuku	My Hero Academia
+Katsuki Bakugo	My Hero Academia
+Shoto Todoroki	My Hero Academia
+Ochaco Uraraka	My Hero Academia
+Endeavor	My Hero Academia
+All For One	My Hero Academia
+Tomura Shigaraki	My Hero Academia
+Saitama|One-Punch Man	One-Punch Man
+Genos	One-Punch Man
+Homelander	The Boys
+Starlight	The Boys
+Billy Butcher	The Boys
+Queen Maeve	The Boys
+A-Train	The Boys
+The Deep	The Boys
+Black Noir	The Boys
+Soldier Boy	The Boys
+Stormfront	The Boys
+Red Ranger	Power Rangers
+Pink Ranger	Power Rangers
+Rita Repulsa	Power Rangers
+Darkwing Duck	Disney
+Ben Tennyson|Ben 10|Benjamin Kirby Tennyson|Benjamin Tennyson	Ben 10
+Danny Phantom	Danny Phantom
+Mighty Mouse	Terrytoons
+Underdog	Underdog
+The Tick	The Tick
+Captain Underpants	Captain Underpants
+Kick-Ass	Kick-Ass
+Hit-Girl	Kick-Ass
+Judge Dredd|Joe Dredd|Joseph Dredd|Judge Joe Dredd	2000 AD
+Astro Boy	Astro Boy
+Ultraman	Ultraman
+Kamen Rider	Kamen Rider
+Hancock	Hancock
+Captain Planet	Captain Planet
+He-Man|Prince Pedro	Masters of the Universe
+She-Ra|Adora|Despara|Princess Adora|Princess Of Power|SheRa	She-Ra
+Skeletor|Keldor	Masters of the Universe
+Mr. Freeze|Dr. Schimmell|Dr. Victor Fries|Mister Freeze|Mr. Zero|Victor Fries	DC
+Bane|Eduardo Dorrance	DC
+Darkseid|Uxas	DC
+Doctor Octopus|Doc Ock	Marvel
+Static	DC
+Miles Morales|Miles Gonzalo Morales|Ultimate Spider-Man	Marvel
+Spider-Gwen|Ghost-Spider|Gwen Stacy	Marvel
+Kim Possible	Disney
+Ladybug|Marinette Dupain-Cheng	Miraculous
+Adrien Agreste|Aqua Noir|Aspik|Astro Cat|Cat Blanc|Cat Noir|Cat Walker|Celesticat|Ephemeral	Miraculous
+Hawk Moth	Miraculous
+Dr. Horrible	Dr. Horrible
+Captain Hammer	Dr. Horrible
+Rorschach|Walter Joseph Kovacs|Walter Kovacs	Watchmen
+Doctor Manhattan|Dr. Manhattan|Jonathan Osterman|Jon Osterman	Watchmen
+Ozymandias	Watchmen
+Nite Owl	Watchmen
+Silk Spectre	Watchmen
+The Comedian	Watchmen
+Brightburn	Brightburn
+Spider-Man|Peter Benjamin Parker|Peter Parker|Spiderman|Spidey|The Amazing Spider-Man|The Fantastic Spider-Man|The Human Spider	Marvel
+Batman|Bat-Man|Caped Crusader|Matches Malone|Mordecai Wayne|Sir Hemingford Grey|Bruce Wayne	DC
+Superman|Clark Jerome Kent|Clark Joseph Kent|Clark Kent / Superman|Last Son of Krypton|The Man of Steel|The Man of Tomorrow|Clark Kent|Kal-El|Kal-Il	DC
+Wonder Woman|Diana Prince|Princess Diana|Wonder Women	DC
+Hulk|David Banner|Green Hulk|Robert Bruce Banner|The Hulk|The Incredible Hulk|Bruce Banner	Marvel
+Iron Man|Anthony Edward Stark|Anthony Stark|Tony Stark	Marvel
+Captain America|Steven Rogers|Steve Rogers|The Star Spangled Man With A Plan	Marvel
+Joker|The Joker|Arthur Fleck|Clown Prince of Crime|DC Joker|Dryad|Eric Border|Harlequin of Hate|Jack Napier|Jack White	DC
+Wolverine|Agent Ten|Experiment X|James Howlett|Jim Logan|Logan|Patch|Scarlett|Weapon X	Marvel
+Thor|Donar|Ðunor|Thunor	Marvel
+Daredevil|Devil of Hell's Kitchen|Man Without Fear|Matthew Michael Murdock|Matthew Murdock|Matt Murdock	Marvel
+Catwoman|Irena Dubrovna|Selina Kyle|The Cat	DC
+Deadpool|Merc with a Mouth|Wade Winston Wilson|Wade Wilson	Marvel
+Thanos|Dione	Marvel
+Flash|Flash superhero|The Flash|Barry Allen|Bartholomew Henry Allen	DC
+Hal Jordan|Green Lantern|Parallax|Spectre	DC
+Aquaman|King of the Seven Seas|Arthur Curry	DC
+Doctor Strange|Dr. Stephen Vincent Strange|Dr. Strange|Stephen Strange|Stephen Vincent Strange	Marvel
+Harley Quinn|Dr. Harleen Frances Quinzel|Harleen Frances Quinzel|Harleen Quinzel	DC
+Professor X|Professor Xavier|Prof X|Charles Xavier	Marvel
+Black Panther|Tchalla	Marvel
+Green Arrow|Oliver Jonas Queen|Oliver Queen|Ollie Queen	DC
+Scarlet Witch|Ana Maximoff|Wanda Frank|Wanda Magnus|Wanda Maximoff	Marvel
+Venom|Eddie Brock|Anti-Venom|Edward Brock|Edward Charles Brock|King in Black|Toxin	Marvel
+Two-Face|Harvey Dent	DC
+Jean Grey|Dark Phoenix|Jean Elaine Gray|Jean Elaine Grises Summers|Jean Grey-Summers|Marvel Girl|Phoenix	Marvel
+Punisher|Charles Fort|Francis G. Castle|Frank Castiglione|Frank Castle|Frank Rook|Johnny Tower|Mr. Smith|The Punisher	Marvel
+Black Widow|Natalia Alianovna Romanova|Natalie Rushman|Natasha Romanoff|Natasha Romanova	Marvel
+Lex Luthor|Alexander Joseph Luthor	DC
+Hawkeye|Clinton Barton|Ronin|Clint Barton	Marvel
+Batgirl|Barbara Gordon|Oracle	DC
+Doctor Doom|Dr. Doom|Emperor Doom|Victor Domashev|Victor von Doom	Marvel
+Robin|Boy Wonder|Robin the Boy Wonder|The Boy Wonder|The Girl Wonder|Dick Grayson|Nightwing|Robin Dick Grayson	DC
+Riddler|Edward Nashton|Edward Nygma|E. Nigma|The Riddler	DC
+Silver Surfer|Norrin Radd	Marvel
+Captain Marvel (DC)|Captain Marvel|Billy Batson|Captain Thunder|Shazam|William Joseph Batson	DC
+Magneto|Erik Lehnsherr|Magnus|Max Eisenhardt	Marvel
+Poison Ivy|Dr. Pamela Isley|Pamela Isley|Pamela Lillian Isley|Pamela Lillian Isley, PhD	DC
+Supergirl|Ariella Kent|Cir-El|Kara Zor-El|Linda Danvers|Kara Danvers	DC
+Ra's al Ghul|Demon's Head|Henri Ducard|Terry Gene Kase|The Demon	DC
+Storm|Ororo Munroe	Marvel
+Lois Lane	DC
+Nick Fury|Nicholas Fury|Nicholas Joseph Fury|Nick Fury Sr.	Marvel
+Gambit|Remy Etienne LeBeau|Remy LeBeau	Marvel
+The Penguin|DC Penguin|Oswald Chesterfield Cobblepot|Oswald Cobblepot|Oz Cobb|Penguin	DC
+Jim Gordon|Commissioner Gordon|Commissioner James Gordon|Commissioner Jim Gordon|James Gordon	DC
+Kingpin|White King|Wilson Fisk|Wilson Grant Fisk	Marvel
+Martian Manhunter|John Jones|J'onn J'onzz	DC
+Blade|Daywalker|Eric Brooks|Eric Stokes Brooks|Frank Blade|Hannibal Francis Blade	Marvel
+Loki|Loki Laufeyson|Loki Odinson	Marvel
+Galactus|Devourer of Worlds|Galan|Galen	Marvel
+Cyborg|Victor Stone	DC
+Mary Jane Watson|Mary Jane Parker|Mary Jane Watson-Parker	Marvel
+Beast|Hank McCoy|Henry McCoy	Marvel
+Star-Lord|Peter Quill|Starlord	Marvel
+Human Torch|Jonathan Lowell Spencer Storm|Jonathan Storm|Johnny Storm	Marvel
+Mystique|Raven Darkholme	Marvel
+Cyclops|Scott Summers|Slim	Marvel
+Lizard|Curt Connors|Curtis Connors|The Lizard	Marvel
+Scarecrow|Dr. Jonathan Crane|Jonathan Crane|The Scarecrow	DC
+kryptonite	DC
+Wasp|Janet van Dyne|Jan van Dyne|The Wasp	Marvel
+She-Hulk|Jennifer Walters|Jen Walters	Marvel
+Quicksilver	Marvel
+Alfred Pennyworth|Alfred Beagle|Alfred Crane Pennyworth|Alfred Jarvis Pennyworth|Alfred J. Pennyworth|Alfred Thaddeus Crane Pennyworth|Alfred Thaddeus Pennyworth|Pennyworth|Thaddeus Crane	DC
+Red Skull	Marvel
+Vision|Victor Shade	Marvel
+Groot	Marvel
+Nightcrawler|Kurt Wagner	Marvel
+War Machine|James Rhodes	Marvel
+Mister Fantastic|Mr Fantastic|Reed Richards	Marvel
+Sabretooth	Marvel
+Flash Gordon	Comics
+Invisible Woman|Invisible Girl|Sue Richards|Sue Storm|Susan Storm|Susan Storm-Richards	Marvel
+Deadshot|Floyd Lawton	DC
+Colossus	Marvel
+Krypton	DC
+Carol Danvers|Binary|Carol Susan Jane Danvers|Ms. Marvel|Warbird|Kamala Khan	Marvel
+Warren Worthington III|Archangel|Avenging Angel|Dark Angel|Warren Kenneth Worthington III	Marvel
+Iceman|Bobby Drake|Ice Man|Robert Drake	Marvel
+Rogue|Anna Marie|Anna Marie LeBeau|Anna Raven|Mrs. Lebeau	Marvel
+Johnny Blaze|Ghost Rider|Johnathon Blaze|Spirit of Vengeance	Marvel
+Thing|Benjamin Jacob Grimm|The Thing|Ben Grimm	Marvel
+Black Cat|Felicia Hardy	Marvel
+Carnage|Cletus Kasady	Marvel
+Henry Pym|Ant-Man|Giant-Man|Hank Pym|Henry Jonathan Pym|Yellowjacket|Scott Lang|Ant-Man II|Astonishing Ant-Man|Scott Edward Harris Lang	Marvel
+Electro|Max Dillon|Maxwell Dillon	Marvel
+Deathstroke|Deathstroke the Terminator|Slade Wilson|The Terminator	DC
+Ultron	Marvel
+Bucky Barnes|James Barnes|James Buchanan Barnes|Revolution|Winter Soldier	Marvel
+Rhino|Aleksei Mikhailovich Sytsevich|Aleksei Sytsevich|Alex O'Hirn	Marvel
+Elektra|Elektra Natchios	Marvel
+Moon Knight|Marc Spector	Marvel
+Sandman|Dustman|Olé Luckoiè|Ole‐Luk‐Oie|Sand Man|Sandmann	Marvel
+Morbius|Doctor Michael Morbius|Dr. Michael Morbius|Michael Morbius|Morbius, the Living Vampire	Marvel
+Adam Warlock|The Magus|Warlock	Marvel
+J. Jonah Jameson|John Jonah Jameson Jr.|Jonah Jameson	Marvel
+Mysterio	Marvel
+Guardians of the Galaxy	Marvel
+Kitty Pryde|Captain Kate Pryde|Kate Pryde|Katherine Pryde|Red Queen|Shadowcat|Shadowkat|Sprite	Marvel
+Falcon|Samuel Wilson|Sam Wilson	Marvel
+Juggernaut|Crimson Gem of Cyttorak	Marvel
+Maria Hill	Marvel
+Batmobile	DC
+Maleficent	Sleeping Beauty
+Ursula	The Little Mermaid
+Jafar	Aladdin
+Scar|Askari|Taka	The Lion King
+Cruella de Vil|Cruella DeVil	One Hundred and One Dalmatians
+The Evil Queen|La reina malvada Grimhilde|Reina Grimhilde|Reina malvada	Snow White and the Seven Dwarfs
+Lady Tremaine	Cinderella
+Anastasia Tremaine	Cinderella
+Drizella Tremaine	Cinderella
+Captain Hook|James Hook	Peter Pan
+Hades|Plouton|Pluton	Hercules
+Gaston|Gaston LeGume	Beauty and the Beast
+Mother Gothel	Tangled
+Dr. Facilier	The Princess and the Frog
+Shere Khan	The Jungle Book
+Kaa|Khaa	The Jungle Book
+Ratigan|Professor Ratigan	The Great Mouse Detective
+Madame Medusa	The Rescuers
+Queen of Hearts	Alice in Wonderland
+Chernabog	Fantasia
+Judge Claude Frollo|Frollo|Claude Frollo	The Hunchback of Notre Dame
+Governor Ratcliffe	Pocahontas
+Shan Yu	Mulan
+Clayton	Tarzan
+Yzma	The Emperor's New Groove
+Kronk	The Emperor's New Groove
+Rourke|Lyle Tiberius Rourke	Atlantis: The Lost Empire
+Gantu|Captain Gantu	Lilo & Stitch
+Prince John	Robin Hood
+Sheriff of Nottingham	Robin Hood
+Sir Hiss	Robin Hood
+Edgar Balthazar	The Aristocats
+Horned King|The Horned King	The Black Cauldron
+Sykes	Oliver & Company
+Percival C. McLeach|McLeach	The Rescuers Down Under
+Madam Mim|Mad Madam Mim	The Sword in the Stone
+Stromboli	Pinocchio
+Honest John	Pinocchio
+Monstro	Pinocchio
+Lampwick	Pinocchio
+The Coachman	Pinocchio
+Mr. Smee	Peter Pan
+Tick-Tock the Crocodile|Tick-Tock	Peter Pan
+Hans	Frozen
+King Candy|Turbo	Wreck-It Ralph
+Bellwether|Dawn Bellwether	Zootopia
+Callaghan|Professor Callaghan|Yokai	Big Hero 6
+Tamatoa	Moana
+Te Kā	Moana
+King Magnifico	Wish
+Namaari	Raya and the Last Dragon
+Druun	Raya and the Last Dragon
+Lotso	Toy Story 3
+Sid Phillips	Toy Story
+Stinky Pete	Toy Story 2
+Emperor Zurg	Toy Story 2
+Gabby Gabby	Toy Story 4
+Randall Boggs	Monsters, Inc.
+Henry J. Waternoose|Waternoose	Monsters, Inc.
+Hopper	A Bug's Life
+Charles Muntz	Up
+Chick Hicks	Cars
+Ernesto de la Cruz	Coco
+Chef Skinner|Skinner	Ratatouille
+AUTO	WALL-E
+Darla Sherman	Finding Nemo
+Bruce	Finding Nemo
+Mor'du	Brave
+Captain Hector Barbossa|Hector Barbossa|Barbossa	Pirates of the Caribbean
+Davy Jones	Pirates of the Caribbean
+Pete|Big Bad Pete|Black Pete|Peg-Leg Pete|Peter Pete Senior|Peter Pete Sr.	Mickey Mouse
+The Big Bad Wolf|Big Bad Wolf	Three Little Pigs
+Magica De Spell	DuckTales
+Flintheart Glomgold	DuckTales
+The Beagle Boys|Beagle Boys	DuckTales
+Bill Cipher	Gravity Falls
+Heinz Doofenshmirtz|Doofenshmirtz|Dr. Doofenshmirtz|Dr. Heinz Doofenshmirtz|Professor Time	Phineas and Ferb
+Dr. Drakken	Kim Possible
+Shego	Kim Possible
+Negaduck	Darkwing Duck
+Lucifer	Cinderella
+Si and Am	Lady and the Tramp
+Amos Slade	The Fox and the Hound
+Zira	The Lion King II: Simba's Pride
+Mace Windu	Star Wars
+Darth Maul|Maul	Star Wars
+Count Dooku|Count Dooku of Serenno|Darth Tyranus|Dooku|Dooku of Serenno|Tyranus	Star Wars
+Jar Jar Binks|Jar Jar	Star Wars
+Jabba the Hutt	Star Wars
+Jango Fett	Star Wars
+Watto	Star Wars
+Nute Gunray	Star Wars
+Finis Valorum|Chancellor Valorum|Valorum	Star Wars
+Bib Fortuna	Star Wars
+Darth Malak	Star Wars
+Agen Kolar	Star Wars
+Sebulba	Star Wars
+Wat Tambor	Star Wars
+Boss Nass	Star Wars
+Oppo Rancisis	Star Wars
+Jolee Bindo	Star Wars
+Coleman Trebor	Star Wars
+Canderous Ordo	Star Wars
+Mas Amedda	Star Wars
+Ajunta Pall	Star Wars
+Carth Onasi	Star Wars
+Lott Dod	Star Wars
+Sio Bibble	Star Wars
+Dexter Jettster	Star Wars
+Quarsh Panaka	Star Wars
+Lama Su	Star Wars
+Zayne Carrick	Star Wars
+T3-M4	Star Wars
+Zaalbar	Star Wars
+Captain Typho	Star Wars
+Vandar Tokare	Star Wars
+Zett Jukassa	Star Wars
+San Hill	Star Wars
+Orn Free Taa	Star Wars
+Ody Mandrell	Star Wars
+Ask Aak	Star Wars
+Joclad Danva	Star Wars
+Po Nudo	Star Wars
+Passel Argente	Star Wars
+Aayla Secura	Star Wars
+Shmi Skywalker	Star Wars
+Shaak Ti	Star Wars
+Beru Lars|Aunt Beru|Beru Whitesun|Beru Whitesun Lars	Star Wars
+Zam Wesell	Star Wars
+Yaddle	Star Wars
+Adi Gallia	Star Wars
+Bastila Shan	Star Wars
+Darth Traya	Star Wars
+Aurra Sing	Star Wars
+Juhani	Star Wars
+Jocasta Nu	Star Wars
+Sabé	Star Wars
+Taun We	Star Wars
+Mission Vao	Star Wars
+Queen Jamillia	Star Wars
+Sly Moore	Star Wars
+Krynda Draay	Star Wars
+Nayama	Star Wars
+Q'Anilia	Star Wars
+Yuthura Ban	Star Wars
+Supreme Leader Snoke|Snoke	Star Wars
+Rey|Rey Palpatine|Rey Skywalker	Star Wars
+Finn|FN-2187	Star Wars
+Poe Dameron	Star Wars
+Phasma|Captain Phasma	Star Wars
+~Nien Nunb	Star Wars
+Qui-Gon Jinn|Qui-Gon	Star Wars
+Obi-Wan Kenobi|Ben Kenobi|General Kenobi|Master Kenobi|Obi Wan|Ratio Tile	Star Wars
+Luke Skywalker|Luke Starkiller	Star Wars
+Palpatine|Chancellor Palpatine|Darth Sidious|Emperor Palpatine|Sheev Palpatine|The Senate	Star Wars
+Princess Leia|General Organa|Leia Organa|Leia Organa Solo|Princess Leia Organa|Princess Leia Organa of Alderaan	Star Wars
+Han Solo	Star Wars
+Chewbacca	Star Wars
+~Jacen Solo	Star Wars
+Darth Vader|Vader|Anakin Skywalker|Anakin|General Skywalker	Star Wars
+Kylo Ren|Ben Solo	Star Wars
+~An'ya Kuro	Star Wars
+~Ludo Kressh	Star Wars
+~Lumiya	Star Wars
+~Ulic Qel-Droma	Star Wars
+~Jaina Solo|Jaina Solo Fel	Star Wars
+~Owen Lars|Uncle Owen	Star Wars
+~Marka Ragnos	Star Wars
+Jyn Erso	Star Wars
+~Ezra Bridger	Star Wars
+Mon Mothma	Star Wars
+~Prince Xizor	Star Wars
+~Cade Skywalker	Star Wars
+~Greedo	Star Wars
+~Naga Sadow	Star Wars
+~Durge	Star Wars
+~Hera Syndulla	Star Wars
+~Arca Jeth	Star Wars
+~Cay Qel-Droma	Star Wars
+~Empatojayos Brand	Star Wars
+Yoda|Grandmaster Yoda|Master Yoda	Star Wars
+Ahsoka Tano|Ashla|Fulcrum|Snips	Star Wars
+~Freedon Nadd	Star Wars
+Grand Admiral Thrawn|Kivu'raw'nuru|Mitth'raw'nuru|Mitth'raw'nuruodo|Th'raw'n|Vurawn	Star Wars
+C-3PO|C3PO|See-Threepio|Threepio	Star Wars
+R2-D2|Artoo|Artoo-Detoo|R2D2	Star Wars
+Padmé Amidala|Padme Naberrie|Queen Amidala|Senator Amidala	Star Wars
+Boba Fett	Star Wars
+General Grievous|Grievous|Qymaen jai Sheelal	Star Wars
+Lando Calrissian|Landonis Balthazar Calrissian|Landonis Balthazar Calrissian III	Star Wars
+Wilhuff Tarkin|Governor Tarkin|Grand Moff Tarkin|Grand Moff Wilhuff Tarkin	Star Wars
+Admiral Ackbar|Gial Ackbar	Star Wars
+Wedge Antilles	Star Wars
+~Cad Bane	Star Wars
+Ki-Adi-Mundi	Star Wars
+Bail Organa	Star Wars
+Plo Koon	Star Wars
+~Doctor Aphra	Star Wars
+~Exar Kun	Star Wars
+Kit Fisto	Star Wars
+~Lowbacca	Star Wars
+~Echuu Shen-Jon	Star Wars
+~Jerec	Star Wars
+~Galak Fyyar	Star Wars
+Asajj Ventress	Star Wars
+~Visas Marr	Star Wars
+~Atton Rand	Star Wars
+~Bao-Dur	Star Wars
+~Serra Keto	Star Wars
+~Jan Ors	Star Wars
+~IG-88	Star Wars
+~Saw Gerrera	Star Wars
+~Darth Nihilus	Star Wars
+~Kanan Jarrus|Caleb Dume	Star Wars
+~Sabine Wren	Star Wars
+~Dash Rendar	Star Wars
+~Meetra Surik	Star Wars
+~Tavion Axmis	Star Wars
+~Tarfful	Star Wars
+~Desann	Star Wars
+~Bossk	Star Wars
+~Orson Krennic	Star Wars
+~Jaden Korr	Star Wars
+~Kazdan Paratus	Star Wars
+~Savage Opress	Star Wars
+~Hanharr	Star Wars
+~Mira	Star Wars
+~Kyle Katarn	Star Wars
+Revan|Darth Revan	Star Wars
+Starkiller|Galen Marek	Star Wars
+~Darth Sion	Star Wars
+~Gizor Dellso	Star Wars
+~Demetrius Zaarin	Star Wars
+~Cal Kestis	Star Wars
+~Rosh Penin	Star Wars
+~Mok Shaiz	Star Wars
+~Roth-Del Masona	Star Wars
+Din Djarin|Mandalorian|Mando|The Mandalorian	Star Wars
+Cable|Nathan Christopher Charles Summers|Nathan Dayspring Askani'Son|Nathan Summers|Nathan Winters|Soldier X	Marvel
+Luke Cage|Carl Lucas|Power Man	Marvel
+Gamora	Marvel
+Beast Boy|Changeling|Garfield Logan|Garfield Mark Logan|Gar Logan|Garro	DC
+Black Canary|Dinah Drake|Dinah Drake-Lance|Dinah Laurel Lance|Sarah Lance|Dinah Lance	DC
+Namor|King Namor|Namor McKenzie|Namor the Sub-Mariner|Prince Namor|The Sub-Mariner	Marvel
+Rocket Raccoon	Marvel
+Kraven the Hunter|Sergei Kravinoff|Sergei Nikolaevich Kravinoff|Sergei Nikolaevich Kravinov	Marvel
+Killer Croc|Croc|King Croc|Waylon Jones	DC
+Arkham Asylum|Arkham State Hospital	DC
+Swamp Thing|Aaron Hayley|Albert Höllerer|Alec Holland|Alex Olsen|Allan Hallman|Tefe Holland|Tefé Holland	DC
+Harry Osborn|Goblin Prince|Harold Osborn|New Goblin	Marvel
+Shocker|Herman Schultz	Marvel
+Hawkgirl|Hawkwoman|Kendra Saunders|Shayera Hol|Shiera Sanders Hall	DC
+Vulture	Marvel
+Hela	Marvel
+Clayface|Basil Karlo|Clayface-Prime|Claything|Dr. Peter Malley|Johnny Williams|Lady Clay|Matt Hagen|Preston Payne|Sondra Fuller|The Clayface of Japan|Todd Russell	DC
+Zatanna|Zatanna Zatara	DC
+Tim Drake|Alvin Draper|Caroline Hill|Drake|Mr. Sarcastic|Red Robin|Robin III|Timothy Drake	DC
+Sinister Six	Marvel
+Jessica Jones|Jessica Campbell Jones Cage|Jewel|Knightress|Power Woman	Marvel
+Hawkman	DC
+John Constantine|Constantine|Hellblazer	DC
+Nebula|Infinity Union	Marvel
+Black Adam|Teth-Adam|Theo Adam	DC
+Brainiac|Milton Fine|Vril Dox	DC
+Havok|Alexander Summers|Alex Summers	Marvel
+Pepper Potts|Iron Woman|Rescue|Virginia Potts	Marvel
+Doctor Fate	DC
+Apocalypse|En Sabah Nur|Genesis|The First One	Marvel
+General Zod|Dru-Zod	DC
+Uncle Ben|Benjamin Franklin Parker|Benjamin Parker|Ben Parker	Marvel
+Hydra|Marvel Hydra	Marvel
+Starfire|Koriand'r|Kory Anders	DC
+Flash Thompson|Agent Anti-Venom|Agent Venom|Eugene|Eugene Thompson	Marvel
+Abomination|Emil Blonsky	Marvel
+Captain Cold|Leonard Snart	DC
+The Hatter|Hatta|Hatter|Mad Hatter|The Mad Hatter	DC
+Hobgoblin	Marvel
+Drax the Destroyer|Arthur Douglas	Marvel
+Jonah Hex|Jonah Woodson Hex	DC
+Emma Frost|Emma Grace Frost|Sleeping Beauty|The Lady of Lies|The Lady of the Night|The Queen of Diamonds|The Queen of Hellfire club|The White Rose|White Queen|Princess Aurora|Briar Rose	Marvel
+Jor-El|Cor-Vex|Jor-L|Mr. Oz	DC
+Polaris|Lorna Dane	Marvel
+Shang-Chi|Brother Hand|Commander Hand|Deadly Hands|Master of Kung Fu|Rising and Advancing of the Spirit|Zheng Shang-Chi	Marvel
+Agatha Harkness	Marvel
+Peggy Carter|Margaret Carter|Margaret Elizabeth Carter|The Dryad	Marvel
+Black Bolt|Blackagar Boltagon	Marvel
+Betsy Braddock|Captain Britain|Psylocke	Marvel
+Jason Todd|Arkham Knight|Jason Peter Todd|Red Hood	DC
+Iron Fist|Daniel Rand|Danny Rand	Marvel
+Jane Foster|All-Mother of Asgard|Dr. Jane Foster|Goddess of Thunder|Lady Thor|Mighty Thor|Thordis|Thorita	Marvel
+Thunderbolt Ross|General Ross|Red Hulk|Rulk|Thaddeus E. Ross|Thaddeus Ross	Marvel
+X-23|Laura X|Talon|X23-23	Marvel
+Bullseye|Benjamin Poindexter|Lester	Marvel
+Lobo|Lobo the Main Man	DC
+Jubilee|Jubilation Lee	Marvel
+Jamie Reyes|Blue Beetle	DC
+Doomsday	DC
+Odin|Othin|Wodin	Marvel
+Man-Bat|Dr. Kirk Langstrom|Kirk Langstrom	DC
+Green Goblin|Norman Osborn|Goblin King|Gold Goblin|Iron Patriot|Mason Banks|Norman Virgil Osborn|Red Goblin	Marvel
+Mantis	Marvel
+Hugo Strange|Doctor Hugo Strange|Dr. Hugo Strange	DC
+Bishop|Lucas Bishop|Red Bishop	Marvel
+Mephisto|Beelzebub|Lord of Evil|Maya|Prince of Devils|Prince of Lies	Marvel
+Aunt May|Maybelle Parker|May Parker|May Reilly	Marvel
+Raven	DC
+Taskmaster|Anthony Masters|Tony Masters	Marvel
+U.S. Agent|Jack Daniels|John F. Walker jr|John Walker|Liegeman|Super-Patriot	Marvel
+Mister Sinister|Mr Sinister|Nathaniel Essex	Marvel
+Yelena Belova	Marvel
+Chameleon|Dmitri Anatoly Smerdyakov Kravinoff|Dmitri Smerdyakov	Marvel
+Damian Wayne|Damian al Ghul	DC
+Shuri|Aja-Adanna	Marvel
+The Shadow|Kent Allard|Lamont Cranston	DC
+Wonder Man|Simon Williams	Marvel
+Heimdall|Heimdal|Heimdali|Heimdallr|Heimdalr|Vindhlér	Marvel
+Lucius Fox	DC
+Dormammu	Marvel
+Spider-Man 2099|Miguel O'Hara	Marvel
+Spider-Woman|Gwenom|White Widow|Jessica Drew|Jess Drew	Marvel
+Valkyrie	Marvel
+Mandarin|Gene Kahn|Zhang Tong	Marvel
+Cheetah|Barbara Ann Minerva|Deborah Domaine|Priscilla Rich|Sebastian Ballesteros	DC
+Monica Rambeau|Photon|Pulsar|Spectrum	Marvel
+America Chavez|Miss America	Marvel
+Mera	DC
+Wally West|Kid Flash	DC
+April O'Neil	TMNT
+Plastic Man|Eel O'Brian|Patrick O'Brian|Plas	DC
+Peacemaker	DC
+Happy Hogan	Marvel
+Red Sonja|Red Sonya	Marvel
+Jimmy Olsen|Elastic Lad|Flamebird|James Bartholomew Olsen|Mister Action|Turtle Boy	DC
+Ronan the Accuser	Marvel
+Hydro-Man|Morris Bench	Marvel
+Sif	Marvel
+Question|Charles Victor Szasz|The Question|Vic Sage	DC
+Madame Web|Cassandra Webb	Marvel
+The Leader|Leader|Samuel Sterns	Marvel
+Black Manta|David Hyde|David Kane	DC
+Carmine Falcone|Don Falcone|Falcone|The Roman	DC
+Victor Zsasz	DC
+Ironheart|Riri Williams	Marvel
+Talia al Ghul|Daughter of the Demon's Head|Leviathan|Miranda Tate|Talia Head	DC
+Collector|Taneleer Tivan|The Collector	Marvel
+Booster Gold|Michael Jon Carter	DC
+Steppenwolf	DC
+Hercules|Heracles|Hercules Panhellenios	Marvel
+Bizarro	DC
+Banshee|Sean Cassidy	Marvel
+Mockingbird|Barbara Morse|Bobbi Barton|Bobbi Morse|Bobbi Morse-Barton|Huntress	Marvel
+Howard Stark|Howard Anthony Walter Stark	Marvel
+Power Girl|Kara Zor-L|Karen Starr|Paige Stetler	DC
+Superboy	DC
+Daisy Johnson|Quake	Marvel
+Bart Allen|Bartholomew Henry Allen II|Impulse	DC
+Silk|Cindy Moon	Marvel
+Silver Sable|Silver Sablinova|Silvija Sablinova	Marvel
+Ocean Master|Orm Marius	DC
+Black Mask|Roman Sionis	DC
+Perry White	DC
+Ben Reilly|Benjamin Reilly|Jackal|Scarlet Spider|Spider-Carnage	Marvel
+Ancient One	Marvel
+Baron Mordo|Baron Karl Amadeus Mordo|Karl Amadeus Mordo|Karl Mordo	Marvel
+John Stewart	DC
+Eobard Thawne|Black Flash|Professor Zoom|Reverse-Flash	DC
+Killer Frost|Caitlin Snow|Crystal Frost|Louise Lincoln	DC
+Ventriloquist	DC
+Stephanie Brown|Spoiler	DC
+Erik Killmonger|N'Jadaka	Marvel
+Edwin Jarvis|Jarvis	Marvel
+Enchantress	Marvel
+Gorilla Grodd|Grodd	DC
+Yondu|Yondu Udonta	Marvel
+Sharon Carter	Marvel
+Jay Garrick|Jason Peter Garrick|Joel Ciclone	DC
+Firestorm|Arkadin|Dr. Mikhail Denisovitch|Jason Thomas Rusch|Professor Martin Stein|Ronald Roy Raymond|Ronnie Raymond	DC
+Mister Mxyzptlk|Mr. Mxyzptlk|Mxyzptlk	DC
+Alan Scott	DC
+Beta Ray Bill|Beta Ray Thor	Marvel
+Hope Pym	Marvel
+Amanda Waller|Amanda Blake Waller	DC
+Metallo|John Corben|Roger Corben	DC
+Sinestro|Thaal Sinestro	DC
+Hush|Dr. Thomas Elliot|Thomas Elliot|Tommy Elliot	DC
+Pyro|John Allerdyce|Saint-John Allerdyce|St. John Allerdyce	Marvel
+Vandal Savage|Blackbeard|Genghis Khan|Jack the Ripper|Khafre|Vandar Adg	DC
+Echo	Marvel
+William Stryker	Marvel
+Captain Boomerang|George Harkness	DC
+Dazzler|Alison Blaire|Disco Dazzler	Marvel
+Ego the Living Planet|Egros	Marvel
+Magik|Darkchilde|Illyana Nikolievna Rasputina|Illyana Rasputin|Illyana Rasputina	Marvel
+Surtur	Marvel
+Cassandra Cain|Black Bat|Cassandra Wayne|Cass Cain|Cass Wayne|Orphan|The Nothing	DC
+Medusa	Marvel
+Grandmaster|En Dwi Gast	Marvel
+Guy Gardner	DC
+Domino|Neena Thurman	Marvel
+Betty Ross|Betty Banner|Elizabeth Ross Banner|Harpy|Red She-Hulk	Marvel
+Black Lightning|Jefferson Pierce	DC
+Lana Lang|Gravity Girl|Insect Queen|Superwoman	DC
+Gorr the God Butcher	Marvel
+~Metamorpho|Rex Mason	DC
+~Steel|John Henry Irons	DC
+~V	DC
+~Zoom|Hunter Zolomon	DC
+~Spider-Girl|Mayday Parker	Marvel
+~Karen Page	Marvel
+~Batroc the Leaper|Georges Batroc	Marvel
+~Ikaris	Marvel
+~Nova|Richard Rider	Marvel
+~Toad|Kinopio|Mushroom|Mushroom Retainer	Marvel
+~Crystal|Corystalia Amaquelin Maximoff|Crystalia Amaquelin	Marvel
+~Black Knight|Dane Whitman	Marvel
+~Firefly|Garfield Lynns	DC
+~Arnim Zola	Marvel
+~Justin Hammer	Marvel
+~Klaw|Ulysses Klaue|Ulysses Klaw	Marvel
+~Purple Man|Zebediah Kilgrave	Marvel
+~Squirrel Girl|Doreen Allene Green|Doreen Green	Marvel
+~Sentry	Marvel
+~Elongated Man|Ralph Dibny|Randolph Dibny|Randolph William Dibny	DC
+~Tombstone|Lonnie Thompson Lincoln	Marvel
+~Crossbones|Brock Rumlow	Marvel
+~Clock King|Temple Fugate|William Tockman	DC
+~Rick Flag	DC
+~Annihilus	Marvel
+~Mar-Vell|Captain Mar-Vell	Marvel
+~Adam Strange	DC
+~Super-Skrull|Kl'rt	Marvel
+~Patsy Walker|Hellcat|Patricia Walker|Patricia Walker Baxter Hellstrom|Trish Walker	Marvel
+~Beyonder	Marvel
+~Solomon Grundy|Cyrus Gold	DC
+~Red Tornado|Tornado Champion|Tornado Tyrant of Rann|Ulthoon	DC
+~Harvey Bullock	DC
+~Steve Trevor|Steven Rockwell Trevor	DC
+~Lady Deathstrike|Yuriko Oyama	Marvel
+~Iron Monger	Marvel
+~High Evolutionary|Herbert Edgar Wyndham|Herbert Wyndham	Marvel
+~Rachel Summers|Askani|Mother Askani|Prestige|Rachel Anne Summers|Rachel Grey|Rachel Grey-Summers	Marvel
+~Tinkerer|Phineas Mason|Phineas T. Mason	Marvel
+~Betty Brant|Elizabeth Brant	Marvel
+~Wonder Girl	DC
+~Hammerhead	Marvel
+~Death|Bill Door	Marvel
+~Kyle Rayner	DC
+~Ghost	Marvel
+~Ned Leeds|Edward Leeds	Marvel
+~Donna Troy|Darkstar|Troia	DC
+~Spider-Man Noir	Marvel
+~Wong	Marvel
+~Anarky|Lonnie Machin	DC
+~Captain Atom|Allen Adam|Nathaniel Adam|Nathaniel C Adam|Nathaniel Christopher Adam	DC
+~Katana|Tatsu Yamashiro|Yamashiro Tatsu	DC
+~Etrigan the Demon|Jason Blood	DC
+~Molecule Man|Owen Reece	Marvel
+~Forge	Marvel
+~Captain Marvel Jr.|Captain Shazam Jr.|Freddy Freeman|Frederick Christopher Freeman|Shazam Jr.	DC
+~Foggy Nelson|Franklin Nelson|Franklin Percy|Franklin Percy Nelson|Franklin P. Nelson	Marvel
+~Liz Allan|Elizabeth Allan|Elizabeth Allan-Osborn|Liz Allen	Marvel
+~Cannonball|Sam Guthrie|Samuel Guthrie|Samuel Zachery Guthrie	Marvel
+~Conner Kent|Carl Krummet|Kon-El|The Boy of Steel	DC
+~Speedy|Mia Dearden|Roy Harper|Thea Queen	DC
+~Kaine|Kaine Parker|Tarantula|The Other	Marvel
+~Killer Moth	DC
+~Giganta|Dr. Doris Zeul	DC
+~John Jameson|Colonel Jupiter|John Jonah Jameson III|Man-Wolf|Stargod	Marvel
+~Ares	DC
+~Mongul	DC
+~Jamie Madrox|James Arthur Madrox|James Madrox|Multiple|Multiple Man	Marvel
+~Batwoman|Kate Kane|Batwoman, Kate Kane|Katherine Kane|Katherine Rebecca Kane	DC
+~Jessica Cruz|Power Ring	DC
+~Wiccan|Asgardian|Billy Kaplan|William Kaplan	Marvel
+~Dream|Kai'ckul|Lord shaper|Oneiros|The Sandman	DC
+~Swordsman|Jacques Duquesne	Marvel
+~Calendar Man|Julian Day|Julian Gregory Day	DC
+~Franklin Richards|Avatar|Ego-Spawn|Franklin Benjamin Richards|Psi-Lord|Tattletale	Marvel
+~King Shark|Nanaue	DC
+~Executioner|Skurge	Marvel
+~Man-Ape|M'Baku	Marvel
+~Malekith the Accursed	Marvel
+~Mister Negative|Martin Li	Marvel
+~Doctor Sivana|Thaddeus Bodog Sivana|Thaddeus Sivana	DC
+~Hippolyta|Hippolytë	DC
+~Cassandra Lang|Cassie Lang|Miniatura|Stature	Marvel
+~Kilowog	DC
+~Mary Marvel|Lady Shazam|Mary Batson|Mary Bromfield	DC
+~Viper|Madame Hydra|Ophelia Sarkissian	Marvel
+~Atom|Ray Palmer|The Atom	DC
+~Baron Strucker|Wolfgang von Strucker	Marvel
+~Spirit|Denny Colt	DC
+~Uatu|The Watcher|Uatu the Watcher|Watcher	Marvel
+~Sam Alexander|Samuel Alexander	Marvel
+~Thena	Marvel
+~Knull	Marvel
+~Sunfire|Shiro Yoshida	Marvel
+~Thomas Wayne	DC
+~Dracula|Count Dracula|Dr. Vlad|Father Death|Justin Drake|Kaziglu Bey/Impaler Prince|Lord of the Damned, Undead and Vampires|Prince of Darkness|The Devi|The Impaler|Vladimir Tepesch|Vlad Tepes Dracula	Marvel
+~Ben Urich|Benjamin Urich	Marvel
+~Jesse Chambers|Jesse Quick|Liberty Belle	DC
+~Eric O'Grady|Ant-Man III|Irredeemable Ant-Man	Marvel
+~Colleen Wing	Marvel
+~Angela|Aldrif Odinsdottir	Marvel
+~Doc Samson|Leonard Samson	Marvel
+~Darwin|Armando Muñoz	Marvel
+~Rupert Thorne	DC
+~Jade	DC
+~Absorbing Man|Carl Creel|Crusher Creel	Marvel
+~Wildcat|Hector Ramirez|Ted Grant|Tom Bronson	DC
+~Joe Chill|Joseph Chilton	DC
+~Molten Man|Mark Raxton	Marvel
+~Terry McGinnis|Batman Beyond|Terrence McGinnis	DC
+~Blink|Clarice Ferguson|Clarice Fong	Marvel
+~Pete Ross|Peter Joseph Ross	DC
+~Sersi	Marvel
+~Gorgon|Gorgon Petragon	Marvel
+~Ratcatcher|Otis Flannegan	DC
+~Blob|Fred Dukes|Frederick Dukes|Frederick J. Dukes|The Blob	Marvel
+~Iris West|Iris Ann Russell West|Iris Ann West|Iris West-Allen	DC
+~Amadeus Cho|Mastermind Excello	Marvel
+~Bloodsport	DC
+~Sunspot|Bobby|Bobby da Costa|Roberto da Costa	Marvel
+~Heat Wave|Mick Rory	DC
+~Tabitha Smith|Boom Boom|Boomer|Meltdown|Time Bomb	Marvel
+~Cassandra Nova	Marvel
+~Chloe Sullivan|Chloe Anne Sullivan|Watchtower	DC
+~Silver Samurai|Kenuichio Harada	Marvel
+~Martha Wayne|Martha Kane	DC
+~Robbie Robertson|Joe Robertson|Joseph Robertson	Marvel
+~Evey Hammond	DC
+~Karla Sofen|Meteorite|Moonstone	Marvel
+~Legion|David Charles Haller|David Haller	Marvel
+~Dr. Jekyll|Mister Hyde|Mr. Hyde|Edward Hyde|Dr Jekyll and Mr Hyde	Marvel
+~Maxwell Lord	DC
+~Shade, the Changing Man|Mad Mod Poeta Dios|Rac Shade	DC
+~Phantom Stranger	DC
+~Blackheart	Marvel
+~Garth|Aqualad|Tempest	DC
+~Dust|Sooraya Qadir	Marvel
+~Ebony Maw	Marvel
+~Bat-Mite	DC
+~Sebastian Shaw|Black King|Klaus Schmidt|Lord Imperial|Sebastian Hiram Shaw	Marvel
+~Avalanche|Dominic Petros|Dominic Szilard Janos Petros|Dominikos Petrakis	Marvel
+~Siryn|Morrigan|Theresa Cassidy|Theresa Maeve Rourke Cassidy|Theresa Rourke Cassidy	Marvel
+~Clea|Clea Strange	Marvel
+~Omega Red|Arkady Gregorivich|Arkady Gregorivich Rossovich|Arkady Rossovich|Vasyliev Arkady	Marvel
+~Renee Montoya	DC
+~Lara Lor-Van|Lara El|Lora	DC
+~Hood|Parker Robbins	Marvel
+~Typhoid Mary|Mary Walker|Mutant Zero|Walker	Marvel
+~Amazo	DC
+~Superboy-Prime|Prime|Superman-Prime|Time Trapper	DC
+~Vixen|Mari Jiwe McCabe|Mari McCabe	DC
+~Terra	DC
+~Bumblebee	DC
+~Mac Gargan|MacDonald Gargan|Virus	Marvel
+~Korath the Pursuer	Marvel
+~Circe|Kirke	DC
+~Blind Al|Althea|Blind Alfred	Marvel
+~Mister Terrific	DC
+~Speed|Thomas Shepherd|Tommy Shepherd	Marvel
+~Negasonic Teenage Warhead|Ellie Phimister|Eloise Phimister	Marvel
+~Vicki Vale|Victoria Vale	DC
+~Animal Man	DC
+~The Batman Who Laughs	DC
+~Professor Pyg|Lazlo Valentin	DC
+~Danielle Moonstar|Dani Moonstar|Mirage|Moonstar	Marvel
+~Abin Sur	DC
+~Callisto|Kallisto	Marvel
+~Nico Minoru|Sister Grimm	Marvel
+~Warpath|James Proudstar|Jimmy Proudstar|Thunderbird	Marvel
+~Wolfsbane|Rahne Sinclair	Marvel
+~Congorilla	DC
+~Deadman	DC
+~Phyla-Vell	Marvel
+~Jimmy Woo	Marvel
+~Skaar	Marvel
+~Shadow King	Marvel
+~Owlman	DC
+~Doctor Alchemy	DC
+~Corvus Glaive	Marvel
+~Demogoblin	Marvel
+~Proxima Midnight	Marvel
+~Moondragon	Marvel
+~Terrax	Marvel
+~Owl	Marvel
+~Shriek	Marvel
+~Werewolf by Night	Marvel
+~Eternity	Marvel
+~Julia Carpenter	Marvel
+~Orion	DC
+~Moira MacTaggert	Marvel
+~Mister Miracle	DC
+~Atrocitus	DC
+~Weather Wizard	DC
+~Balder	Marvel
+~Silvermane	Marvel
+~Northstar	Marvel
+~Lockjaw	Marvel
+~Karma	Marvel
+~Vulcan|Iunonigena|Junonigena|Molsiber|Mulciber|Volcanus	Marvel
+~Machine Man	Marvel
+~Boomerang	Marvel
+~Anya Corazón	Marvel
+~Mirror Master	DC
+~Saturn Girl	DC
+~Dum Dum Dugan	Marvel
+~Maximus	Marvel
+~Eradicator	DC
+~Daken	Marvel
+~Sal Maroni	DC
+~Krona	DC
+~Merlyn	DC
+~Count Nefaria	Marvel
+~Death of the Endless	DC
+~Leatherhead	TMNT
+~Bronze Tiger	DC
+~Valentina Allegra de Fontaine	Marvel
+~Zeus|Dias|Jove|Jupiter	Marvel
+~Spider-Ham	Comics
+~Vibe	DC
+~Ajax	Marvel
+~Alexander Goodwin Pierce	Marvel
+~Ajak	Marvel
+~Firestar	Marvel
+~Titania|Queen Titania|Titania Regina	Marvel
+~Peni Parker	Comics
+~Isis	DC
+~The Creeper	DC
+~Mojo	Marvel
+~Spider-Punk	Marvel
+~Luna Snow	Marvel
+~Silver Banshee	DC
+~Madelyne Pryor	Marvel
+~Azrael|Izrail	DC
+~B'wana Beast	DC
+~Ka-Zar	Marvel
+~Jigsaw|John Kramer|The Jigsaw Killer	Marvel
+~Fire	DC
+~Longshot	Marvel
+~Catman	DC
+~Eclipso	DC
+~Anne Weying	Marvel
+~Starman	DC
+~Jonathan Kent	DC
+~Felix Faust	DC
+~Pied Piper	DC
+~Claire Temple	Marvel
+~Darren Cross	Marvel
+~Onslaught	Marvel
+~Mattie Franklin	Marvel
+~Albert Rothstein	DC
+~Lockheed	Marvel
+~Black Tom Cassidy	Marvel
+~Madame Masque	Marvel
+~Gladiator	Marvel
+~Anti-Monitor	DC
+~Mole Man	Marvel
+~Quentin Quire	Marvel
+~Hulkling	Marvel
+~Tigra	Marvel
+~Karl Ruprect Kroenen	Hellboy
+~Rick Jones	Marvel
+~Ultra-Humanite	DC
+~Zarathos	Marvel
+~Silver Fox	Marvel
+~Azazel|Scapegoat	Marvel
+~Baxter Stockman	TMNT
+~Aurora|Dawn|Goddess Aurora	Marvel
+~Star Sapphire	DC
+~Triton	Marvel
+~Ulik	Marvel
+~Abe Sapien	Hellboy
+~Sabra	Marvel
+~Jon Kent	DC
+~Helmut Zemo	Marvel
+~Alicia Masters	Marvel
+~Grey Gargoyle	Marvel
+~Copycat	Marvel
+~Carrie Kelley	DC
+~Despero	DC
+~Spot	Marvel
+~Korvac	Marvel
+~Graviton	Marvel
+~Isaiah Bradley	Marvel
+~Karnak	Marvel
+~Presence	DC
+~Lena Luthor	DC
+~Mangog	Marvel
+~KGBeast	DC
+~Negative Man	DC
+~Golden Glider	DC
+~Fandral	Marvel
+~Savitar	DC
+~Duela Dent	DC
+~Bolivar Trask	Marvel
+~Lady Shiva	DC
+~Misty Knight	Marvel
+~Ambush Bug	DC
+~Simon Baz	DC
+~Etta Candy	DC
+~Trickster	DC
+~Mastermind	Marvel
+~Rat King	TMNT
+~Bat Lash	DC
+~Kamandi	DC
+~Rose Wilson	DC
+~Jasper Sitwell	Marvel
+~Kismet	Marvel
+~Blackfire	DC
+~Robert Kelly	Marvel
+~Stick	Marvel
+~Night Nurse	Marvel
+~Polka-Dot Man	DC
+~Wizard	Marvel
+~Kalibak	DC
+~Genis-Vell	Marvel
+~Count Vertigo	DC
+~Red Ghost	Marvel
+~Arcade	Marvel
+~Kite Man	DC
+~Rip Hunter	DC
+~Radioactive Man	Marvel
+~Destiny	Marvel
+~Lucy Lane	DC
+~Connor Hawke	DC
+~Puppet Master	Marvel
+~Max Mercury	DC
+~Jinx|Powder|The Loose Cannon	DC
+~Shanna the She-Devil	Marvel
+~Ice	DC
+~Diablo	Marvel
+~Doctor Occult	DC
+~Doctor Poison	DC
+~Patriot	Marvel
+~Weasel	Marvel
+~Iron Lad	Marvel
+~Songbird	Marvel
+~Mad Thinker	Marvel
+~Highfather	DC
+~Desaad	DC
+~Alphonso MacKenzie	Marvel
+~Tomar-Re	DC
+~Menace	Marvel
+~Ted Kord	DC
+~Ray	DC
+~Quasar	Marvel
+~Brainiac 5	DC
+~Mercury|Mercurius	Marvel
+~Volcana	Marvel
+~Black Dwarf	Marvel
+~Surge	Marvel
+~Liz Sherman	Hellboy
+~Toyman	DC
+~Attuma	Marvel
+~Hope Summers	Marvel
+~Larfleeze	DC
+~Firelord	Marvel
+~Russian	Marvel
+~Cypher	Marvel
+~Jocasta|Epicaste|Iocaste|Iokasta|Iokaste|Jocaste	Marvel
+~Savage Dragon	Image Comics
+~Pixie	Marvel
+~Carol Ferris	DC
+~Puma	Marvel
+~Bill Foster	Marvel
+~Hector Hammond	DC
+~Magma	Marvel
+~Hank Henshaw	DC
+~Husk	Marvel
+~Bette Kane	DC
+~Big Barda	DC
+~Captain Nazi	DC
+~Kevin Sydney	Marvel
+~Lady Octopus	Marvel
+~Robbie Reyes	Marvel
+~Doctor Light	DC
+~Antiope|Nycteis	DC
+~Calypso	Marvel
+~Cat Grant	DC
+~Elsa Bloodstone	Marvel
+~Spencer Smythe	Marvel
+~Rom	Marvel
+~Sgt. Rock	DC
+~Prometheus	DC
+~Floronic Man	DC
+~Cheshire	DC
+~Aleksander Lukin	Marvel
+~Robotman	DC
+~Selene	Marvel
+~Maria Stark	Marvel
+~Martha Kent	DC
+~Helena Wayne	DC
+~Damage	DC
+~Amethyst	DC
+~Jericho	DC
+~Ho Yinsen	Marvel
+~Sin|Dilimbabbar|Nanna|Suen	Marvel
+~David North	Marvel
+~Blastaar	Marvel
+~Blue Devil	DC
+~Granny Goodness	DC
+~Trigon	DC
+~Proteus	Marvel
+~Valeria Richards	Marvel
+~Shalla-Bal	Marvel
+~Metron	DC
+~Tobias Whale	DC
+~George Stacy	Marvel
+~Vanessa Fisk	Marvel
+~Volstagg	Marvel
+~Yon-Rogg	Marvel
+~Union Jack	Marvel
+~Faora	DC
+~Hordak	Masters of the Universe
+~Rockslide	Marvel
+~Ion	DC
+~Chamber	Marvel
+~Harbinger	DC
+~Leslie Thompkins	DC
+~Lynn Minmay	Comics
+~Jeff the Land Shark	Marvel
+~Conan	Marvel
+~Baron Blood	Marvel
+~Battlestar	Marvel
+~Jack Flag	Marvel
+~Joaquín Torres	Marvel
+~Ming the Merciless	Comics
+~Enemy Ace	DC
+~Barney Barton	Marvel
+~Mikhail Rasputin	Marvel
+~Namora	Marvel
+~Morlun	Marvel
+~Battle Cat	Masters of the Universe
+~Hellion	Marvel
+~Ursa	DC
+~Deacon Frost	Marvel
+~Sportsmaster	DC
+~Guardian	DC
+~Plastique	DC
+~Zatara	DC
+~Ragman	DC
+~Abra Kadabra	DC
+~Shade	DC
+~Talos the Untamed	Marvel
+~Jim Morita	Marvel
+~Cecilia Reyes	Marvel
+~Lady Bullseye	Marvel
+~Jeryn Hogarth	Marvel
+~Leech	Marvel
+~Eve Teschmacher	DC
+~Sage	Marvel
+~Man-Thing	Marvel
+~Robbie Baldwin	Marvel
+~Tiger Shark	Marvel
+~Armor	Marvel
+~Lori Lemaris	DC
+~Johnny Quick	DC
+~Corsair	Marvel
+~Kestrel	Marvel
+~T'Chaka	Marvel
+~Spider Jerusalem	DC
+~Garth Ranzz	DC
+~Richard Fisk	Marvel
+~Madeline Joyce	Marvel
+~Ace West	DC
+~Deathlok	Marvel
+~Anole	Marvel
+~Fantomex	Marvel
+~Imperiex	DC
+~M	Marvel
+~Prodigy	Marvel
+~OMAC	DC
+~Carrion	Marvel
+~Demolition Man	Marvel
+~Mendel Stromm	Marvel
+~Wild Child	Marvel
+~Nate Grey	Marvel
+~Adversary	Marvel
+~Doctor Mid-Nite	DC
+~Caliban	Marvel
+~Doctor Destiny	DC
+~Bushwacker	Marvel
+~Malebolgia	Image Comics
+~Spyke	Marvel
+~Dragon Man	Marvel
+~Bastion	Marvel
+~Forgotten One	Marvel
+~Donald Pierce	Marvel
+~Marrow	Marvel
+~Tyr	Marvel
+~Arisia Rrab	DC
+~Titanium Man	Marvel
+~Sauron|Annatar|Artano|Aulendil|Gorthaur|Lord of the Rings|Mairon|Necromancer	Marvel
+~Professor Hamilton	DC
+~Willie Lumpkin	Marvel
+~Daimon Hellstrom	Marvel
+~Druig	Marvel
+~G. W. Bridge	Marvel
+~Maxie Zeus	DC
+~Garokk	Marvel
+~Madame Rouge	DC
+~Grim Reaper	Marvel
+~Hamato Yoshi	TMNT
+~Blizzard	Marvel
+~The Calculator	DC
+~Livewire	DC
+~Satana	Marvel
+~Immortus	Marvel
+~Hogun	Marvel
+~Monitor	DC
+~Dorma	Marvel
+~Barracuda	Marvel
+~Bereet	Marvel
+~Gertrude Yorkes	Marvel
+~Tigress	DC
+~Thinker	DC
+~Hyperion	Marvel
+~Cyclone	DC
+~Debra Whitman	Marvel
+~Frankenstein	DC
+~Crazy Jane	DC
+~Luna	Marvel
+~Maxima	DC
+~Sharon Ventura	Marvel
+~Thor Girl	Marvel
+~Nadia van Dyne	Marvel
+~Blue Marvel	Marvel
+~David Cain	DC
+~Eitri	Marvel
+~Elasti-Girl	DC
+~Danny Ketch	Marvel
+~Sofia Falcone	DC
+~Burglar	Marvel
+~Kathy Kane	DC
+~Lance Hunter	Marvel
+~Laufey	Marvel
+~White Fox	Marvel
+~Wrecker	Marvel
+~Lobster Johnson	Hellboy
+~Madame Xanadu	DC
+~Maggie Sawyer	DC
+~Mazikeen	DC
+~Mercy Graves	DC
+~Nightstar	DC
+~Chase Stein	Marvel
+~Sasquatch	Marvel
+~Layla Miller	Marvel
+~Johnny Thunder	DC
+~Warlord	DC
+~Turk Barrett	Marvel
+~Lar Gand	DC
+~Punchline	DC
+~Living Laser	Marvel
+~Microchip	Marvel
+~Agent X	Marvel
+~Tom Manning	Hellboy
+~Rag Doll	DC
+~Midnight Man	Marvel
+~Lin Lie	Marvel
+~Brother Voodoo	Marvel
+~Impossible Man	Marvel
+~Stranger	Marvel
+~Vanisher	Marvel
+~George Taylor	DC
+~Detective Chimp	DC
+~Whizzer	Marvel
+~Joanna Cargill	Marvel
+~Teela	Masters of the Universe
+~Faust|Doctor Faustus|Faustus	Marvel
+~El Aguila	Marvel
+~Abner Jenkins	Marvel
+~Romulus	Marvel
+~Ashley Kafka	Marvel
+~Man-Killer	Marvel
+~Thomas Kalmaku	DC
+~Ink	Marvel
+~Composite Superman	DC
+~Anna Watson	Marvel
+~Hiro Hamada	Marvel
+~Pandora|Anesidora	DC
+~Steel Serpent	Marvel
+~White Tiger	Marvel
+~Sebastian Faust	DC
+~Nekron	DC
+~Chris Bradley	Marvel
+~Top	DC
+~Commander Steel	DC
+~Will o' the Wisp	Marvel
+~Nocturne	Marvel
+~Ma Gnucci	Marvel
+~Cluemaster	DC
+~Lady Mastermind	Marvel
+~Supergiant	Marvel
+~Pow Wow Smith	DC
+~Non	DC
+~Stingray	Marvel
+~Stryfe	Marvel
+~Shatterstar	Marvel
+~Slam Bradley	DC
+~Marrina Smallwood	Marvel
+~Starfox	Marvel
+~Namorita	Marvel
+~Killraven	Marvel
+~Lei Kung	Marvel
+~Mister Mind	DC
+~Obsidian	DC
+~Michael Pointer	Marvel
+~Roulette	DC
+~Doctor Phosphorus	DC
+~Kanjar Ro	DC
+~Lilandra Neramani	Marvel
+~Godspeed	DC
+~Angel Salvadore	Marvel
+~Strong Guy	Marvel
+~Arclight	Marvel
+~Batzarro	DC
+~Old Lace	Marvel
+~Taserface	Marvel
+~Mimic	Marvel
+~Nuidis Vulko	DC
+~Abigail Brand	Marvel
+~Ward Meachum	Marvel
+~Athena|Athina	Marvel
+~Bi-Beast	Marvel
+~Big Wheel	Marvel
+~Black Hand	DC
+~Blazing Skull	Marvel
+~Cottonmouth	Marvel
+~Deathbird	Marvel
+~Glenn Talbot	Marvel
+~Snowbird	Marvel
+~Man-Bull	Marvel
+~Jax-Ur	DC
+~Lilith	Marvel
+~Mariko Yashida	Marvel
+~Knockout	DC
+~Prankster	DC
+~Rocket Racer	Marvel
+~Sasha Bordeaux	DC
+~Satannish	Marvel
+~Stegron	Marvel
+~Thunderstrike	Marvel
+~Atomic Skull	DC
+~Fury	DC
+~Iron Maiden	Marvel
+~Sabbac	DC
+~Icicle	DC
+~Bushman	Marvel
+~Jeffrey Mace	Marvel
+~Bob, Agent of Hydra	Marvel
+~Manchester Black	DC
+~Ángel	Marvel
+~Electrocutioner	DC
+~Arsenal	Marvel
+~Whirlwind	Marvel
+~Batman of Zur-En-Arrh	DC
+~Carlie Cooper	Marvel
+~Crispus Allen	DC
+~Saint Walker	DC
+~Unknown Soldier	DC
+~Speed Demon	Marvel
+~Lionheart	Marvel
+~Nightshade	DC
+~Orko	Masters of the Universe
+~Paula Brooks	DC
+~Anna Maria Marconi	Marvel
+~Lightray	DC
+~Sarah Essen	DC
+~Zauriel	DC
+~Uncle Marvel	DC
+~Ymir|Aurgelmir|Brimir	Marvel
+~Black Spider	DC
+~Angel Dust	Marvel
+~Vartox	DC
+~Bethany Cabe	Marvel
+~Bluebird	Marvel
+~Supreme	Image Comics
+~Cupid	DC
+~Dan Garret	DC
+~Glory Grant	Marvel
+~Gypsy	DC
+~Doll Man	DC
+~Jason Macendale	Marvel
+~Waverider	DC
+~Morgan le Fay|Morgana|Morgane|Morgen	Marvel
+~Lady Blackhawk	DC
+~Elixir	Marvel
+~Alyosha Kravinoff	Marvel
+~Lightning|Claire Farron|Eclair Farron	DC
+~Nitro	Marvel
+~American Eagle	Marvel
+~Karnilla	Marvel
+~Molly Hayes	Marvel
+~Beautiful Dreamer	Marvel
+~Ravonna Renslayer	Marvel
+~Hannibal King	Marvel
+~Resurrection Man	DC
+~Silver St. Cloud	DC
+~Slipknot	DC
+~Thunder	DC
+~Victor Mancha	Marvel
+~Shado	DC
+~Yellow Claw	Marvel
+~Yukio	Marvel
+~Zabu	Marvel
+~Captain Comet	DC
+~Ezekiel|Ezekiel ben Buzy|Ezekiel the Prophet	Marvel
+~Zor-El	DC
+~Rumiko Fujikawa	Marvel
+~Nuke	Marvel
+~Spiral	Marvel
+~Midnighter	Wildstorm
+~Sunpyre	Marvel
+~Rictor	Marvel
+~Minute-Man	DC
+~Sodam Yat	DC
+~Kwannon	Marvel
+~Vengeance	Marvel
+~Frankenstein's monster|Adam Frankenstei|The Creature|The Human Experiment	Marvel
+~Nakia	Marvel
+~Erik Josten	Marvel
+~Lifeguard	Marvel
+~Kent Nelson	DC
+~Weapon H	Marvel
+~Muse	Marvel
+~Deacon Blackfire	DC
+~Ragnarok	Marvel
+~Psycho-Pirate	DC
+~Gangbuster	DC
+~Wallflower	Marvel
+~Wind Dancer	Marvel
+~Man-At-Arms	Masters of the Universe
+~Agamotto	Marvel
+~Kull|King Kull|Kull of Atlantis|Kull of Valusia|Kull the Conqueror	DC
+~Catra	Masters of the Universe
+~Air-Walker	Marvel
+~Atom (Al Pratt)	DC
+~Aleta Ogord	Marvel
+~Geo-Force	DC
+~Cloud 9	Marvel
+~Derek Powers	DC
+~Grayven	DC
+~Anaconda	Marvel
+~Andromeda	Marvel
+~Pat Dugan	DC
+~Honey Lemon	Marvel
+~Ganthet	DC
+~Gateway	Marvel
+~Arella	DC
+~Lyssa Drak	DC
+~Joseph	Marvel
+~Kurse	Marvel
+~Artemis of Bana-Mighdall	DC
+~Alura In-Ze	DC
+~Baronesa Paula von Gunther	DC
+~Siren	DC
+~Fatality	DC
+~Alexander Luthor Jr.	DC
+~Access	Marvel
+~Haunt	Image Comics
+~Jack of Hearts	Marvel
+~Grim Hunter	Marvel
+~Blue Diamond	Marvel
+~Frederick Foswell	Marvel
+~Adrienne Frost	Marvel
+~Phantom Girl	DC
+~The Crow	Image Comics
+~Honeycutt	TMNT
+~Multi-Man	DC
+~Exodus	Marvel
+~Barnell Bohusk	Marvel
+~Xorn	Marvel
+~Per Degaton	DC
+~Icarus|Icaros|Ikaros|Ikarus	Marvel
+~Maggie Murdock	Marvel
+~Serpent	Marvel
+~Ibac	DC
+~8-Ball	Marvel
+~Inertia	DC
+~Karima Shapandar	Marvel
+~Empath	Marvel
+~Astronomer	Marvel
+~Amygdala	DC
+~Neron	DC
+~Virman Vundabar	DC
+~Midnight Sun	Marvel
+~Darkhawk	Marvel
+~Diamondback	Marvel
+~Morgan Edge	DC
+~Red Star	DC
+~Feral	Marvel
+~Jolt	Marvel
+~Super-Man	DC
+~Amelia Voght	Marvel
+~Freedom Ring	Marvel
+~Bedlam	Marvel
+~Nubia	DC
+~Bouncing Boy	DC
+~Cardiac	Marvel
+~Brain	DC
+~Cosmic Boy	DC
+~Gillian B. Loeb	DC
+~Cyttorak	Marvel
+~Deathcry	Marvel
+~Doctor Druid	Marvel
+~Dreadknight	Marvel
+~Extraño	DC
+~Firebird	Marvel
+~Kole	DC
+~Holocaust	Marvel
+~Gravity	Marvel
+~Graydon Creed	Marvel
+~Graymalkin	Marvel
+~Great White Shark	DC
+~General Immortus	DC
+~Johann Kraus	Hellboy
+~Kangaroo	Marvel
+~Kimura	Marvel
+~Kronos	Marvel
+~Lightmaster	Marvel
+~Cobalt Man	Marvel
+~Madison Jeffries	Marvel
+~Magdalena	Image Comics
+~Scandal Savage	DC
+~Fáfnir	Marvel
+~N'Kantu, the Living Mummy	Marvel
+~Living Monolith	Marvel
+~Kang the Conqueror|Blue Man|Blue Totem|King of Kings|Lord of the Seven Suns|Master of Men|Nathaniel Richards|Rama-Tut	Marvel
+~Orka	Marvel
+~Pantha	DC
+~Phobos|Timor	Marvel
+~Puck|Robin Goodfellow	Marvel
+~Shaman	Marvel
+~Simon Hurt	DC
+~Slipstream	Marvel
+~Slyde	Marvel
+~Spitfire	Marvel
+~Steel Spider	Marvel
+~Peter Cannon, Thunderbolt	DC
+~Trevor Fitzroy	Marvel
+~Luornu Durgo	DC
+~Tala	DC
+~Doop	Marvel
+~Jarella	Marvel
+~Girder	DC
+~Nora Fries	DC
+~Arrowette	DC
+~Hath-Set	DC
+~Crimson Fox	DC
+~Foreigner	Marvel
+~Magenta	DC
+~Vance Astrovik	Marvel
+~Karolina Dean	Marvel
+~Charlie-27	Marvel
+~Ultimo	Marvel
+~Mist	DC
+~Bombshell	DC
+~Dominic Fortune	Marvel
+~Monsieur Mallah	DC
+~Mammoth	DC
+~Agent Liberty	DC
+~Amanda Sefton	Marvel
+~Blindfold	Marvel
+~Gim Allon	DC
+~Dawnstar	DC
+~Dubbilex	DC
+~Hepzibah	Marvel
+~Gentleman Ghost	DC
+~Ferro Lad	DC
+~Forager	DC
+~Golden Eagle	DC
+~Grifter	Wildstorm
+~Jack Frost|General Jack Frost|Jackey Frost|Jack Froſt|Jacky Frost|J. Frost|John Frost	Marvel
+~Jackpot	Marvel
+~Jesse Custer	DC
+~Jet	DC
+~Kanto	DC
+~Karate Kid	DC
+~Manhunter	DC
+~Katma Tui	DC
+~Ke'Haan	DC
+~Lyja	Marvel
+~Lucia von Bardas	Marvel
+~Madman	Image Comics
+~Nick Fury Jr.	Marvel
+~Boodikka	DC
+~Mister E	DC
+~Mordru	DC
+~Professor Ivo	DC
+~R. J. Brande	DC
+~Richard Dragon	DC
+~Rose	Marvel
+~Shikari	DC
+~Soranik Natu	DC
+~Sorceress of Castle Grayskull	Masters of the Universe
+~Timothy Hunter	DC
+~Tyroc	DC
+~Charlotte Witter	Marvel
+~Piledriver	Marvel
+~Bernadeth	DC
+~711	DC
+~Abby Holland	DC
+~Pip the Troll	Marvel
+~American Dream	Marvel
+~Apollo|Apeilōn|Apellōn|Aploun|Apollon|Phoebus	Wildstorm
+~Argent	DC
+~Ultimate Green Goblin	Comics
+~Emiko Queen	DC
+~Bekka	DC
+~Ben Daimio	Hellboy
+~Black Alice	DC
+~Bleez	DC
+~Brian Banner	Marvel
+~Bruno Mannheim	DC
+~Seyg-El	DC
+~Claw the Unconquered	DC
+~Salu Digby	DC
+~Doctor Minerva	Marvel
+~Doctor Psycho	DC
+~Dolphin	DC
+~Eddie Fyers	DC
+~Engineer	Wildstorm
+~Crimson Avenger	DC
+~Eric Koenig	Marvel
+~Gabe Jones	Marvel
+~Doorman	Marvel
+~Henry Gyrich	Marvel
+~Adrian Chase	DC
+~Screwball	Marvel
+~Glory	Image Comics
+~Lilith Clay	DC
+~Holly Robinson	DC
+~Hourman	DC
+~Human Target	DC
+~Icon	DC
+~Felicity Smoak	DC
+~Jim Wilson	Marvel
+~Uncle Sam	DC
+~Kenny McFarlane	Marvel
+~Angar the Screamer	Marvel
+~Klara Prast	Marvel
+~Lagoon Boy	DC
+~Lashina	DC
+~Thunderball	Marvel
+~Looker	DC
+~Ma'alefa'ak	DC
+~Maestro	Marvel
+~Natasha Irons	DC
+~Oggar	DC
+~Patty Spivot	DC
+~Pluto	Marvel
+~Princess Aura	Comics
+~Queen of Fables	DC
+~Randy Robertson	Marvel
+~Rawhide Kid	Marvel
+~Duke Thomas	DC
+~Wither	Marvel
+~Roxanne Simpson	Marvel
+~Master Mold	Marvel
+~Belasco	Marvel
+~Temugin	Marvel
+~Traci Thirteen	DC
+~Umar	Marvel
+~Beast Man	Masters of the Universe
+~Victoria Hand	Marvel
+~Walter Hardy	Marvel
+~Wild Dog	DC
+~Will Magnus	DC
+~Laira	DC
+~Hypno-Hustler	Marvel
+~Nightwatch	Marvel
+~Meggan	Marvel
+~Hunger	Marvel
+~Ram-Man	Masters of the Universe
+~Roderick Kingsley	Marvel
+~Shroud	Marvel
+~John Steele	Marvel
+~Onimar Synn	DC
+~Scorpion|Hanzo Hasashi|Kuai Liang	Marvel
+~Jeremiah Arkham	DC
+~Irene Merryweather	Marvel
+~Wraith	Marvel
+~Inque	DC
+~Simon Krieger	Marvel
+~Bast	Marvel
+~Pete Wisdom	Marvel
+~Unus the Untouchable	Marvel
+~Yara Flor	DC
+~Adam X	Marvel
+~Web-Weaver	Marvel
+~Nyx	Marvel
+~Sam Lane	DC
+~Jiang Li	Marvel
+~Zaladane	Marvel
+~Space Phantom	Marvel
+~Spider-Byte	Comics
+~N'astirh	Marvel
+~Egghead	DC
+~Humpty Dumpty|Humpti dumpti|Humpty Dumty|Lille Bulle|Little Trille|Pestiferous Perturbation|Rowly bowly|Thille Lille	DC
+~Mr. Nobody	DC
+~S'ym	Marvel
+~Hellrazor	Marvel
+~Evangeline Whedon	Marvel
+~Aegis	Marvel
+~Ray (Ray Terrill)	DC
+~Man-E-Faces	Masters of the Universe
+~Mer-Man	Masters of the Universe
+~Galius Zed	DC
+~China White	DC
+~Jazinda	Marvel
+~Sublime	Marvel
+~Crossfire	Marvel
+~Tony Zucco	DC
+~Armadillo	Marvel
+~Invisible Hood	DC
+~Human Bomb	DC
+~John Garrett	Marvel
+~Monica Rappaccini	Marvel
+~Jason Bard	DC
+~GoGo Tomago	Marvel
+~Hellcow	Marvel
+~Sapphire Stagg	DC
+~David Singh	DC
+~Scalphunter	DC
+~Outsider	DC
+~Rose and Thorn	DC
+~Amon Sur	DC
+~Fiddler	DC
+~Sandy Hawkins	DC
+~Match	DC
+~Matter Master	DC
+~Angle Man	DC
+~Condiment King	DC
+~Jack Knight	DC
+~Shiklah	Marvel
+~Nighthawk	DC
+~Katie Power	Marvel
+~Kraken	DC
+~Neon the Unknown	DC
+~Onyx	DC
+~Martha Johansson	Marvel
+~Zheng Zu	Marvel
+~Mitchell Carson	Marvel
+~Dev-Em	DC
+~XS	DC
+~Aldrich Killian	Marvel
+~Blake Tower	Marvel
+~Jack Murdock	Marvel
+~Wunda	DC
+~Phantom Lady	DC
+~Julie Power	Marvel
+~Orrgo	Marvel
+~Pariah	DC
+~Major Force	DC
+~Goldface	DC
+~Tomahawk	DC
+~Freya	Marvel
+~Alex Power	Marvel
+~Valerie Cooper	Marvel
+~Harold Meachum	Marvel
+~Box	Marvel
+~Harry Leland	Marvel
+~Zealot	Wildstorm
+~Skin	Marvel
+~Artemis Crock	DC
+~Joy Meachum	Marvel
+~Wundarr the Aquarian	Marvel
+~Batwing	Marvel
+~Kiwi Black	Marvel
+~Chthon	Marvel
+~Michael Akins	DC
+~Cyber	Marvel
+~DJ	Marvel
+~Alberto Falcone	DC
+~In-Betweener	Marvel
+~Baron Zemo	Marvel
+~Lila Cheney	Marvel
+~Hermod|Hermodeus	Marvel
+~Hermes	DC
+~Daniel West	DC
+~Gnarrk	DC
+~Griffin	Marvel
+~Hera	Marvel
+~Indra|Ahihan|Indiran|Indran|Meghavahana|Sakka|Sakra|Vajrapani	Marvel
+~Jack B. Quick	Wildstorm
+~Mesmero	Marvel
+~Jonas Harrow	Marvel
+~Osiris	DC
+~Living Lightning	Marvel
+~Maggott	Marvel
+~Beatrix Kiddo|Arlene Machiavelli|Black Mamba|Kiddo|Mummy|The Bride	Marvel
+~Robert Grayson	Marvel
+~Masque	Marvel
+~Mister X	Marvel
+~Nightrunner	DC
+~Oblivion	Marvel
+~Outlaw	Marvel
+~Libra	DC
+~Pinky Pinkerton	Marvel
+~Persuasion	Marvel
+~Roger|Chilly|Krispy Kreme McDonalds|Ricky Spanish|Roger Smith|Roger the alien	Hellboy
+~Rusty Collins	Marvel
+~Black Orchid	DC
+~Sidewinder	Marvel
+~Silverclaw	Marvel
+~Stalker	DC
+~Stardust	Marvel
+~Synch	Marvel
+~Talisman	Marvel
+~Topaz	Marvel
+~Javelin	DC
+~Abattoir	DC
+~Dragoness	Marvel
+~Black Tarantula	Marvel
+~Harlequin|Arlecchino	DC
+~Roxy Rocket	DC
+~Wrath	DC
+~Conduit	DC
+~Karu-Sil	DC
+~Kristoff Vernard	Marvel
+~Doctor Mist	DC
+~Fisherman	DC
+~Blockbuster	Marvel
+~Albert	Marvel
+~Jean Loring	DC
+~Klarion the Witch Boy	DC
+~Typhon|Typhoeus	Marvel
+~Dreamslayer	DC
+~Takion	DC
+~Major Disaster	DC
+~Cerise	Marvel
+~Minister Blizzard	DC
+~Emerald Empress	DC
+~Mongal	DC
+~Ulysses Bloodstone	Marvel
+~T. O. Morrow	DC
+~Nebula Man	DC
+~Esper Lass	DC
+~Mister Atom	DC
+~Crimson Dynamo	Marvel
+~Morgaine le Fey	DC
+~Nero	DC
+~Death-Stalker	Marvel
+~Nemesis Kid	DC
+~Overmaster	DC
+~Ursa Major	Marvel
+~Vertigo	Marvel
+~Witchfire	Marvel
+~Wyatt Wingfoot	Marvel
+~Zuras	Marvel
+~Abraham Erskine	Marvel
+~Ahura	Marvel
+~Alexandra DeWitt	DC
+~Amadeus Arkham	DC
+~Amazing-Man	DC
+~Jason Wynn	Image Comics
+~Ayla Ranzz	DC
+~Bizarra	DC
+~Black Racer	DC
+~Blue Jay	DC
+~Bozo the Iron Man	DC
+~Bushmaster	DC
+~Caitlin Fairchild	Wildstorm
+~Sugar Man	Marvel
+~Ch'p	DC
+~Chemical King	DC
+~Cipher	Marvel
+~White Rabbit|The White Rabbit|W. Rabbit	Marvel
+~Deathblow	Wildstorm
+~Devilance	DC
+~Doctor Bedlam	DC
+~Nura Nal	DC
+~Mister America	DC
+~G'nort	DC
+~Gay Ghost	DC
+~Glorious Godfrey	DC
+~Glorith	DC
+~Gloss	DC
+~Green Man	DC
+~Hector Hall	DC
+~Hoppy the Marvel Bunny	DC
+~Immortal Man	DC
+~Invisible Kid	DC
+~Iris West II	DC
+~Iron Munro	DC
+~Jakeem Thunder	DC
+~King Faraday	DC
+~Kreon	DC
+~Red Lotus	Marvel
+~Manhattan Guardian	DC
+~Martin Soap	Marvel
+~Matter-Eater Lad	DC
+~Mento	DC
+~Merry Pemberton	DC
+~Mister Bones	DC
+~Mister Majestic	Wildstorm
+~Night Girl	DC
+~Nightmaster	DC
+~Orana	DC
+~Khn'nr	Marvel
+~Phineas Horton	Marvel
+~Peter Porkchops	DC
+~Martha Connors	Marvel
+~Billy Connors	Marvel
+~Polar Boy	DC
+~Rainbow Girl	DC
+~Raker Qarrigat	DC
+~Red Bee	DC
+~Reep Daggle	DC
+~Tawky Tawny	DC
+~Samurai	DC
+~Secret	DC
+~Princess Projectra	DC
+~Shadow Lass	DC
+~Shvaughn Erin	DC
+~Silver Sorceress	DC
+~Solovar	DC
+~Stel	DC
+~Strange Visitor	DC
+~Sue Dibny	DC
+~Sun Boy	DC
+~Tex Thompson	DC
+~Thom Kallor	DC
+~Timber Wolf	DC
+~Ultra Boy	DC
+~Ultraa	DC
+~Miracle Man	Marvel
+~Vermin	Marvel
+~Vext	DC
+~Wolf Cub	Marvel
+~Zamaron	DC
+~Cogliostro	Image Comics
+~Phil Urich	Marvel
+~Air Wave	DC
+~Animal-Vegetable-Mineral Man	DC
+~Apache Chief	DC
+~Aquagirl	DC
+~Arm-Fall-Off-Boy	DC
+~Thunderbolt	DC
+~Bella Donna	Marvel
+~Beverly Switzler	Marvel
+~Bibbo Bibbowski	DC
+~Black Vulcan	DC
+~Bloody Mary|Svarta Madame	DC
+~Brain Drain	Marvel
+~Captain Ultra	Marvel
+~Vigilante	DC
+~Devil-Slayer	Marvel
+~Tomar-Tu	DC
+~Chris Kent	DC
+~Prester John|Johannes Presbyter|John Prester	Marvel
+~Clive Reston	Marvel
+~Justine Hammer	Marvel
+~Psimon	DC
+~Cynthia von Doom	Marvel
+~D'Spayre	Marvel
+~Dakota North	Marvel
+~Dan Turpin	DC
+~Voodoo	DC
+~Plasmus	DC
+~Debrii	Marvel
+~Ms. Gsptlsnz	DC
+~Delores Winters	DC
+~Demon Bear	Marvel
+~Doctor Cyber	DC
+~Duke of Deception	DC
+~Elaine Belloc	DC
+~Electron	Marvel
+~Eli Bard	Marvel
+~Elloe Kaifi	Marvel
+~Matthew Cable	DC
+~Farley Stillwell	Marvel
+~Finesse	Marvel
+~Forerunner	DC
+~Riptide	Marvel
+~Frenchie	Marvel
+~Galacta	Marvel
+~General Zahl	DC
+~King Tut	DC
+~Sideways	DC
+~Lady Deadpool	Marvel
+~Grace Choi	DC
+~Halo	DC
+~Hank Hall	DC
+~Herman von Klempt	Hellboy
+~Cassidy	DC
+~Hrimhari	Marvel
+~Jason Rusch	DC
+~I Ching	DC
+~Icemaiden	DC
+~Max Shreck	DC
+~Moss Man	Masters of the Universe
+~Iron Man 2020	Marvel
+~Nuclear Man	DC
+~Night Raven	Marvel
+~Helga Jace	DC
+~Jennifer Kale	Marvel
+~Jenny Sparks	Wildstorm
+~Jim Corrigan	DC
+~Junior Juniper	Marvel
+~Kelda	Marvel
+~Beth Kane	DC
+~Kid Devil	DC
+~Vindicator	Marvel
+~Korvus	Marvel
+~Lady Styx	DC
+~John Wick|Baba Yaga|Jardani Jovonovich|Jonathan Wick	Hellboy
+~Larry Lance	DC
+~Lei Ling	Marvel
+~Zheng Bao Yu	Marvel
+~Leila Davis	Marvel
+~Lemuel Dorcas	Marvel
+~General Glory	DC
+~Daniel Hall	DC
+~Lord Chaos	Marvel
+~Mad Harriet	DC
+~Magpie	DC
+~Marlo Chandler	Marvel
+~Master Order	Marvel
+~Micromax	Marvel
+~Misfit	DC
+~Montana	Marvel
+~Moon-Boy	Marvel
+~Morgan Stark	Marvel
+~Nemesis|Chaser|Nemesis-T Type|Pursuer	DC
+~Nikki	Marvel
+~Normie Osborn	Marvel
+~Nyssa Raatko	DC
+~Prez	DC
+~Prince Vultan	Comics
+~Prophet	Image Comics
+~Glob Herman	Marvel
+~Quex-Ul	DC
+~Rama|Lord Ram|Maryada Purushottama|Narayan|Parabrahma|Parambrhama|Ramachandra	DC
+~Rampage	DC
+~Ravan	DC
+~Rising Sun	DC
+~Ron Troupe	DC
+~Sensei	DC
+~Seraph	DC
+~ShadowHawk	Image Comics
+~Shimmer	DC
+~Shingen Yashida	Marvel
+~Silhouette	Marvel
+~Simon Stagg	DC
+~Space Cabbie	DC
+~Steve Lombard	DC
+~Stompa	DC
+~Blok	DC
+~Trevor Bruttenholm	Hellboy
+~Tana Nile	Marvel
+~Scorcher	Marvel
+~Thomas Logan	Marvel
+~Titannus	Marvel
+~Tommy Tomorrow	DC
+~Salaak	DC
+~Gizmo	DC
+~Ultimate Wolverine	Comics
+~Werner von Strucker	Marvel
+~Wintergreen	DC
+~Zarrko	Marvel
+~Hellgrammite	DC
+~Red Torpedo	DC
+~Sayd	DC
+~Trance	Marvel
+~Isamot Kol	DC
+~Henry King Jr.	DC
+~Beth Chapel	DC
+~Arkon	Marvel
+~Two-Gun Kid	Marvel
+~Clay Quartermain	Marvel

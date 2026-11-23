@@ -1,0 +1,3553 @@
+#Animal
+Dog|Dogs|Domestic dog|Domestic dogs
+Cat|Domestic cat|House cat|Housecat|Pet cat|Puss
+Bird|Avian species|Birds
+Fish
+Lion|African Lion|Asiatic lion|Panthera leo
+Tree|Arbor|Trees
+Cattle|Bos taurus + indicus|Bovine|Cow|Cows|Domestic cattle|Domestic cow
+Chicken|Chickens|Gallus gallus domesticus|Vistas
+Formicidae|Ants|Ant|Ant family
+Tiger|Panthera tigris|P. tigris|Tigers|Tigress
+Snake|Serpent|Serpents|Snakes
+Sheep|Domestic sheep
+Mammal|Mammalian
+Grey wolf|Common wolf|Timber wolf|Wolf|Gray wolf|Gray wolves
+Pig|Domestic pig|Hog|Sus domestica|Sus domesticus|Sus scrofa domesticus
+Insect|Insects|Bug|Bugs|Insecta
+Elephant
+Ursidae|Bears|Bear|Bear family|Ursid|Ursids
+Goat|Domestic Goat|C. aegagrus hircus|C. a. hircus|Capra aegagrus hircus|Capra hircus
+Spider|Spiders|The spider order
+Dinosaur|Dino|Dinosaurs
+Mosquito|Mosquitoes|Culicidae|Mosquito family
+Chiroptera|Bat|Bats|Chiropteran|Chiropterans|The bats
+Leopard|Panther|Panthera pardus
+Wheat|Wheat grain
+Strigiformes|Owl order|Strigiforms
+Donkey|Ass|Jack-ass|Jackass
+Anura|Anuran|Frog|Frog order
+Reptile|Reptiles|Reptilians
+Columbidae|Pigeons and doves|Columbids|Dove family|Pigeon|Pigeon family|Pigeons
+Amphibia|Amphibians|Amphibian
+Shark|Selachian|Selachians|Sharks
+Testudines|Chelonia|Chelonian|Chelonians|Tortoises|Turtles
+Bee|Anthophila|Apiformes|Bees
+Monkey|Ape
+Cervidae|Cervids|Deer|Deer family|Raghorn|True deer
+Eagle
+Wild boar|Eurasian Wild Pig|European Wild Pig|Ryukyu Islands Wild Pig|Boar
+Zebra|Zebras
+Butterfly|Butterflies|Butterflys
+Ursus maritimus|Polar bear|Ice bear|White bear
+Red fox|Eurasian fox|European fox|Fox
+Squirrel|Sciuridae|Sciurids|Squirrel family|Squirrels
+Primate|Primates|The primate order
+Duck|Ducks
+Rodent|Rodents|The rodents
+Rhinoceros|Rhino|Rhinoceroses|Rhinoceros platyrhinus|Rhinocerotidae
+Lacertilia|Lizards
+Penguin|Penguins|Spheniscid|Spheniscidae|The penguin family
+Scorpion|Scorpions
+Cheetah|Acinonyx jubatus|African cheetah|Felis lanea|Geopard|White cheetah|Woolly cheetah
+Cygnus|Swan|Swans
+Arthropod|Arthropod animal|Arthropod animals|Arthropods
+Common ostrich|African ostrich|Ostrich|Struthio camelus
+Nile hippopotamus|Common Hippopotamus|Hippo|Hippopotamus|Large Hippo|River Hippopotamus
+Cetacea|Cetaceans
+Rabbit|Bun|Bunnies|Bunny|Bunny rabbit|Coney|Rabbits
+Parrot|Parrot order|Psittaciform|Psittaciformes|Psittaciforms|Psittacines
+Giant panda|Ailuropoda melanoleuca|Giant panda bear|Panda|Panda bear
+Corvus|Crow|Crows and ravens|The crow genus|The crows|True crows
+Hyaenidae|Hyenas|Hyaenas|Hyaenid|Hyaenids
+Brachyura|True Crabs|True crab
+House Sparrow|Passer domesticus
+Hare|Jackrabbit|The hare genus
+Algae|Alga|Algæ|Algal
+Rattus|Rat|Rat genus
+Northern giraffe|Giraffe|Giraffa camelopardalis|Giraffa camelopardalis sensu lato|Giraffa camelopardalis sensu stricto|Giraffa camelopardalis super-complex|Three-horned giraffe
+Hirundinidae|Martin|Swallow|Swallow family|The swallows
+Felidae|Cat family|Felid|Felids|Feline family
+Brown bear|Grizzly Bear|Ursus arctos
+Northern Raven|Common Raven|Corax raven|Corvus corax|Raven|Western raven
+Eurasian Magpie|Common magpie|Magpie|Pica pica
+Mallard|Anas platyrhynchos|Mallard duck|Wild duck
+Gorilla|Gorilla genus
+Beetle|Beetles|Coleopteran|Coleopterans
+Eurasian Hoopoe|Common hoopoe|Hoopoe|Upupa epops
+Carnivora|Caniformes|Carnaria|Carnassidentia|Carnivoramorphia|Carnivorans|Carnivores
+Snow leopard|Ounce|Panthera uncia|P. uncia|Uncia uncia
+Water buffalo|Asian buffalo|Asian Water Buffalo|Carabao|Wild Water Buffalo|Asiatic buffalo
+Dolphin|Dolphin calf|Dolphins
+Jaguar|Panter|Panthera onca
+Moose|Elk|North American Elk|Alces alces|Eurasian elk|Moofe deer
+Meleagris|Turkey|Turkey bird|Turkey genus
+Koala|Coala|Koala bear|Koolah
+Common Blackbird|Blackbird|Eurasian Blackbird|Turdus merula
+Crocodile|Croc|Croco|Crocodile family|Crocodylid|Crocodylidae|Crocodylid family
+Passerines|Passeriform|Passeriforms|Passerine|Passerine bird|Passerine birds|Perching bird
+Termite|Isopterans|Termites
+Kangaroo|Roo
+Mushroom|Mushrooms|Shroom|Toadstool
+Passeridae|Sparrows|Old World sparrows|Passerids|True sparrows
+Flea|Fleas
+Orangutan|Orang-utan|Orang-utang|Orangutang|Pongo
+Chili pepper|Chile|Chile pepper|Chili|Chilli|Chilli pepper|Hot pepper
+Cougar|Deer tiger|Mountain lion|Puma|Red tiger|Catamount
+Chameleon|Chamaeleonidae|Chameleons|Kameleons
+Heron|Ardeidae|The heron family
+Canidae|Canid|Canids|Canine family|Dog family
+Common Quail|Coturnix coturnix|European quail|Quail
+Mus|Mice|Mouse
+Mustela nivalis|Least Weasel|Weasel|Weasel, least weasel|Dwarf weasel|Snow weasel
+Eurasian badger|European badger|Meles meles
+Mammuthus|Mammoth
+European robin|Robin|Erithacus rubecula|Redbreast|Robin redbreast
+Eurasian otter|Common otter|European otter|European river otter|Old World otter|Eurasian river otter
+Neanderthal|Homo neanderthalensis|Neanderthals
+Stork|Ciconiidae|Ciconiids|Storks
+Rangifer tarandus|Caribou|Reindeer
+House mouse|Mus musculus
+Snail|Snails
+Worm|Worms
+Platypus|Duckbill|Duck-billed platypus|Duckbill platypus|Duckmole|Watermole
+Common Cuckoo|Cuckoo|Cuculus canorus
+Laridae|Gulls & terns|Seagulls|The gull family
+Octopoda|Octopodes|Octopods|Octopus|Octopus order
+Leech|Hirudinea|Leeches
+Beaver|Castor
+Anatidae|Anatid|Duck family|Ducks and geese|Ducks, geese, and swans|Water fowl
+Pelican|Pelecanus|The Pelican genus
+Walrus|Odobenus rosmarus
+Invertebrate|Invertebrate animal|Invertebrates|The invertebrates
+Rock Dove|Blue rock pigeon|Columba livia|Common pigeon|Rock pigeon
+Dodo|Dodo bird
+Nematoda|Roundworm|Nematode|Roundworms
+HIV|Gay-related immune virus/deficiency|Human immunodeficiency virus
+Heterocera|Moth
+Eurasian Golden Oriole|Oriolus oriolus
+Orcinus orca|Killer whale|Orca|Dwarf killer whale|Orca gladiator|Orca whale
+Falcon
+Eurasian lynx|Lynx lynx
+Motacilla alba|White wagtail
+Common Starling|Starling|Sturnus vulgaris
+Trochilidae|Hummer|Hummers|Hummingbird|Hummingbirds
+Grey Heron|Ardea cinerea|Gray Heron
+Eurasian Jay|European Jay|Garrulus glandarius|Jay
+Crocodilia|Crocodylia
+Great tit|Parus major
+Alaudidae|Alaudids|Lark|Lark family|Larks
+Red Panda|Fire fox|Firefox|Himalayan raccoon|Lesser panda|Red cat-bear
+Whale
+Yeast|Yeasts
+Raccoon|Common Raccoon|Northern raccoon|Raccoon, northern raccoon
+Barn Swallow|European Swallow|Hirundo rustica
+Mule
+Balaenoptera musculus|Blue whale|Pygmy Blue Whale|Sibbold’s Rorqual|Sulphur-bottom Whale
+Eurasian Red Squirrel|Red squirrel|Sciurus vulgaris
+Pan|Chimp|Chimpanzee genus|Chimpanzees|Chimps|Panin|Panins
+Fern
+Goldfish|Carassin|Gold carp|Carassius auratus
+Mustela erminea|Stoat|Ermelin|Ermilin|Ermine|Short-tailed stoat|Short-tailed weasel
+Bombus|Bumble Bees|Bumble bee|Bumblebee|Humble-bee
+Golden Eagle|Aquila chrysaetos
+Red deer|Western red deer|West European red deer|Cervus elaphus
+Mantis|Mantises|Praying mantises
+Western Jackdaw|Coloeus monedula
+Peregrine Falcon|Falco peregrinus|Peregrine|Sapsan|Songolmae
+Caracal|African Caracal|Asian Caracal|Desert Lynx|Caracal caracal
+Coyote|American jackal|Brush wolf|Prairie wolf|Canis latrans
+Anisoptera|Dragonflies|Dragon fly|Dragonfly|Dragonfly suborder
+Roe deer|Capreolus capreolus|Western roe deer
+Eurasian Eagle-owl|Northern Eagle Owl|Bubo bubo
+Tyrannosaurus
+Porifera|Poriferan|Sponge|Sea sponges|Sponges
+White stork|Ciconia ciconia|European white stork
+Great Cormorant|Black Cormorant|Black Shag|Cormorant|Great Black Cormorant|Large Cormorant
+Guinea pig|Domesticated Guinea Pig|Cavia porcellus|Domestic cavy|Domestic guinea pig
+Great white shark|Carcharodon carcharias|C. carcharias|Great white|White death
+Bombyx mori|Don Hugo|Silkworm|Chinese silkworm|Domesticated silk moth|Domesticated silkmoth|Domesticated silkworm
+African buffalo|Syncerus caffer
+Osprey|Fish hawk|Pandion haliaetus|River hawk|Sea hawk|Western Osprey
+Eurasian Sparrowhawk|Accipiter nisus|Sparrow hawk|Sparrowhawk
+Common Kestrel|Eurasian Kestrel|European Kestrel|Falco tinnunculus|Old World Kestrel|Windhover
+Pinnipedia|Pinniped|Pinnipeds|Seals and walruses
+Aardvark|Antbear|Ant Bear|Orycteropus afer
+Jellyfish|Jellies|Sea jelly
+Wolverine|Beaver eater|Carcajou|Glutton|Gulo gulo|Quickhatch
+Marsupial|Marsupialia|Marsupials|Metatherians|Pouched mammal|Pouched mammals
+European Goldfinch|Carduelis carduelis|Eurasian goldfinch|Goldfinch
+Greylag Goose|Anser anser|Greylag|Greylag Geese
+Apis mellifera|Honey bee|A. mellifera|European honey bee|Honeybee|Western honey bee
+Centipede|Centipedes|Chilopoda
+Gryllidae|True cricket|Cricket|Cricket family|Cricky|True crickets
+Hominidae|Great apes|Hominid|Hominids
+Earthworm|Earthworms|Dew-worm|Earth worm|Lumbricina|Nightcrawler|Rainworm
+Capybara|Greater capybara|Hydrochoerus hydrochaeris|True capybara
+Starfish|Asteroidea|Asteroidia|Blood star|Sea star|Seastar|Sea stars
+Soricidae|Shrew|Shrew family|Shrews
+Llama|Domesticated llama|Domestic llama|Lama glama
+European wildcat|Wild cat|Felis silvestris|Wildcat|Wild cats|Wildcats
+Arctic fox|Alopex|Alopex lagopus|Blue fox|Canis lagopus|Polar fox
+Apis|Honey bees|Honey bee genus|Honeybee genus
+Eurasian Goshawk|Astur gentilis
+Western Barn Owl|Barn owl|Barnowl|Common barn owl|Strix alba
+Common Coot|Coot|Eurasian Coot|European Coot
+Common Crane|Eurasian Crane|Grus grus
+Wasps|Wasp
+Papio|Baboon|Baboons
+Rook|Corvus frugilegus
+Northern Lapwing|Lapwing|Green Plover|Peewit|Vanellus vanellus
+Northern Pintail|Anas acuta
+Jackal|Poto susio
+Coral|Corall
+Paridae|Chickadees|Parid|Tit|Tit bird|Titmice|Titmouse
+Otter|Culazo|Lutrines|The otter subfamily
+Corvidae|Corvid|Crow family
+Eurasian Tree Sparrow|German sparrow|Passer montanus|Tree Sparrow
+Komodo dragon|Komodo Monitor|Ora|Komodo island dragon|Komodo island monitor
+Indian Peafowl|Indian peacock|Pavo cristatus
+Phthiraptera|Grey Backs|Lice|Louse|Seam Squirrels
+Camelus dromedarius|Dromedary|One-humped Camel|Arabian camel|Dromedary camel|Hajeen
+Hippocampus|Sea horse|Seahorse|Seahorse genus|Sea horses|Seahorses|The seahorse genus
+Black Kite|Milvus migrans
+Cyprinus carpio|Common carp|Wild Common Carp|Carp|Eurasian carp|European carp
+Homo erectus|Caveman
+Panthera|Big cats|Panthers
+Golden jackal|Asiatic Jackal|Common Jackal|Canis aureus|C. aureus
+Eurasian Bullfinch|Bullfinch|Common bullfinch|Pope|Pyrrhula pyrrhula
+Common Nightingale|Luscinia megarhynchos|Nightingale
+Hooded Crow|Coatham Crow|Corvus cornix|Grey crow|Hoodie|Royston Crow
+Mustelidae|Weasel family|Mustelid|Mustelid family|Mustelids
+Annelida|Annelid|Annelids|Segmented worm|Segmented worms
+Rabbits and hares|Hare or rabbit|Hares|Hares and rabbits|Leporidae
+Phoenicopterus|Flamingo genus
+Serval|Leptailurus serval
+Testudinidae|Testudinid|Testudinids|Tortoise
+Common Kingfisher|Alcedo atthis
+Caelifera|Acridomorpha|Saranče
+Gruidae|Crane|Cranes
+Common Buzzard|Buteo buteo|Eurasian Buzzard
+Little Grebe|Tachybaptus ruficollis
+Poponejo|European Rabbit|Domestic rabbit|Oryctolagus cuniculus|Wild rabbit
+Hominoidea|Anthropoid ape|Anthropoid apes|Ape superfamily|Hominoid
+American black bear|Black bear|Ursus americanus
+Camelus bactrianus|Bactrian camel
+Bison|Buffalo
+Common Moorhen|Gallinula chloropus|Moorhen|Waterhen
+Bonobo|Dwarf chimpanzee|Gracile chimpanzee|Pan paniscus|Pygmy chimpanzee
+Tabanidae|Horse and Deer Flies|Horse-fly
+Black Stork|Ciconia nigra
+Eurasian blue tit|Blue tit|Bluetit|Common blue tit|Cyanistes caeruleus|Eurasian bluetit
+Chimpanzee|Common Chimpanzee|Robust Chimpanzee|Savanna Chimpanzee
+Albatross|Albatrosovití|Diomedeidae|Gooney bird|Goonie bird|Mollymawk
+Leek|Leeks
+Ixodida|Tick|Ixodoidea|Ticks
+Sus|Pigs
+Western Capercaillie|Capercaillie|Capercailzie|Cock-of-the-woods|Eurasian capercaillie|Heather cock
+Numididae|Guineafowl family
+Anseriformes|Waterfowl
+Pholidota|Lepidota|Manides|Maniformes|Manitheria|Neomanida|Nomarthra
+Mute Swan|Cygnus olor
+Turdidae|Thrush|Thrushes
+Tardigrade|Moss piglet|Moss piglets|Tardigrada|Tardigrades|Water bear
+Teuthida|Squid|Squids
+Okapia johnstoni|Okapi|Congolese giraffe|Forest giraffe|Zebra giraffe
+Bearded vulture|Lammergeier|Lammergeyer|Gypaetus barbatus
+Anguilliformes|Eels and morays|Eel|Eels
+Mierdota|Marmot|Groundhog|Groundhogs|Marmots|The marmot genus
+Musca domestica|House fly|Fly|Housefly
+Odd-toed ungulate|Odd-toed ungulates|Perissodactyla
+Eurasian Chaffinch|Chaffinch|Common Chaffinch|Fringilla coelebs
+Great Crested Grebe|Gaunt|Podiceps cristatus|Tippet grebe
+Common Pheasant|Phasianus colchicus|Pheasant|Ring-necked pheasant
+White-tailed Eagle|Ern|Erne|Falco albicilla|Haliaeetus albicilla|Sea eagle
+Accipitridae|Accipitrid|Accipitrids
+Sperm whale|Cachalot|Physeter macrocephalus|Spermaceti whale
+American bison|American buffalo|Bison bison|Plains bison
+Emu|Common Emu
+Thylacine|Tasmanian tiger|Tasmanian wolf|Tassie tiger|Thylacinus cynocephalus
+Little Owl|Athene noctua
+Sturnidae|Starlings
+Monotreme|Monotremata|Monotremes
+Phocidae|Earless seal family|Earless seals|Phocids|True seals
+European pine marten|Pine marten|Martes martes
+Apteryx|Kiwi|Kiwi bird|The kiwis
+Wildebeest|Connochaetes|Gnu
+Asian elephant|Indian Elephant|Asiatic elephant|Elephas maximus
+Pike|Northern Pike|Esox lucius|Freshwater shark|Ged
+Gibbon|Hylobatidae
+Podicipedidae|Grebe|The grebe family
+Sloth|Sloths
+Eurasian Teal|Anas crecca|Common teal|Teal
+Eurasian Skylark|Skylark|Sky Lark|Alauda arvensis
+Erinaceidae|Erinaceid|Erinaceids|Hedgehogs
+Trichechus|Lamantin|Manatee
+Caudata|Salamanders|Salamander|Urodela
+Whale shark|Rhincodon typus
+Bison bonasus|European bison|Wisent
+Echinoidea|Sea urchin
+Vulture
+Antelope|Antilopidae
+Lagomorpha|Lagomorph|Lagomorphs
+Cockatoos|Cacatuid|Cacatuidae|Cacatuids
+Archaeopteryx|Urvogel
+Bald eagle|American bald eagle|American eagle|Haliaeetus leucocephalus
+Great Egret|Great White Egret|Ardea alba|Egretta alba
+Cicadidae|The cicada family
+Impala|Black-faced Impala|Common Impala|Aepyceros melampus|Rooibok
+Equidae|Equid|Equids|Equine|Equines
+Columba
+Grey Partridge|Perdix perdix
+Cuculidae|Cuckoos|Cuculids
+Egyptian Vulture|Neophron percnopterus
+Hedgehog|Erinaceinae|Hedgepig|Urcheon|Urchin
+Hamster|Cricetinae|Hamsters|Hamster subfamily
+Bengal tiger|Panthera tigris tigris
+Platyhelminthes|Flatworms|Flatworm|Flat worms|Platyhelminth|Platyhelminths
+Black-crowned night heron|Night Heron|Black-capped night heron|Nycticorax nycticorax
+Meerkat|Mierkat|Suricata suricatta|Suricate
+Tasmanian devil|Ďábel medvědovitý|Sarcophilus harrisii|S. harrisii|T-devil
+Snowy Owl|Arctic owl|Bubo scandiacus|Nyctea scandiaca|Polar owl
+Ruddy Shelduck|Brahminy Duck|Brahminy Shelduck|Tadorna ferruginea
+Honey badger|Ratel|Rattel|Mellivora capensis
+African wild dog|African Hunting Dog|African Painted Wolf|Cape Hunting Dog|Hunting Dog
+Birds-of-paradise|Bird-of-paradise|Paradisaeid|Paradisaeidae|Paradisaeids
+Chondrichthyes|Cartilaginous fish|Cartilaginous fishes|Chondrichthyan|Chondrichthyans
+Common Swift|European Swift|Swift|Swift, common swift|Apus apus
+Motacilla flava|Western Yellow Wagtail|Yellow wagtail
+Common Wood Pigeon|Common woodpigeon|Wood pigeon|Woodpigeon
+Pavo
+Western Cattle Egret|Ardea ibis
+Squamata|Scaled Reptiles|Scaled reptile
+Ursus thibetanus|Asiatic Black Bear|Asian Black Bear|Selenarctos thibetanus
+Cephalopod|Cephalopods
+Eurasian Bittern|Bittern|Botaurus stellaris|Great Bittern
+Gadwall|Anas strepera|Mareca strepera
+Ocelot|Dwarf leopard|Leopardus pardalis|Ocelots
+Jungle cat|Reed Cat|Swamp Cat|Felis chaus
+Mephitidae|Skunk|Skunk family
+Talpidae|European moles
+Actinopterygii|Ray-finned Fishes|Actinopterygian|Actinopterygians|Ray-finned fish
+Little Egret|Egretta garzetta
+Fringillidae|Finches|Finch|Fringillids
+Pallas's cat|Manul|Pallas' cat
+European Bee-eater|Bee-eater|Merops apiaster
+Laniidae|Shrike
+Macaca|Macaques|Macaque
+Griffon Vulture|Eurasian griffon|Gyps fulvus
+Adder|Common adder|Common European adder|Common European viper
+Whooper Swan|Common swan|Cygnus cygnus
+Carrion crow|Black crow|Corbie|Corone, Corvus|Corvus corone
+African bush elephant|African elephant|Loxodonta africana
+Eurasian Collared Dove|Collared Dove|Streptopelia decaocto|Turkish Dove
+Budgerigar|Budgie|Melopsittacus undulatus
+Earwig|Earwigs|The earwigs
+Purple Heron|Ardea purpurea
+Diplopoda|Millipede|Millipedes|Millipeds
+Capra
+Great White Pelican|Pelecanus onocrotalus
+Muscicapidae|Flycatcher|Flycatcher family|Old World flycatcher|Old World flycatcher family
+Elephantidae|Elephant family|Elephants
+Eurasian Hobby|European Hobby|Hobby|Falco subbuteo
+Eurasian Woodcock|Scolopax rusticola|Woodcock
+Apodidae|Swift family|Swifts
+Hornbill|Bucerotidae|Bucerotids|Hornbills
+Lepus europaeus|Brown Hare|European Hare
+Dasypodidae|Dasypodid|Dasypodids
+Dingo|Canis dingo|Canis familiaris dingo|Canis lupus dingo
+Australopithecus
+Holothuroidea|Sea cucumbers|Beche-de-mer|Sea cucumber|Sea-slug
+Dhole|Asiatic Wild Dog|Indian Wild Dog|Red Dog|Asian wild dog
+Casuarius|Cassowary
+Sirenia|Sea cow|Sea cows|Sirenian|Sirenians
+Corn Crake|Corncrake|Corncrake, corn crake|Crex crex
+Eurasian Wigeon|Eurasian Widgeon|Mareca penelope
+Batomorphi|Batoidea|Ray
+Cimex lectularius|Common Bed Bug|Bed-bug|Bedbug
+Mold|Mould
+Homo habilis|H. habilis
+Vulpes zerda|Fennec|Fennec fox|Fennecus zerda
+Canis|Wolves
+Narwhal|Unicorn Whale|Narwhale
+European turtle dove|Streptopelia turtur|Turtle dove|Turtledove
+Secretarybird|Secretary Bird|Sagittarius serpentarius
+Homo
+Greater Flamingo|Phoenicopterus roseus
+Sand Martin|Bank Swallow|Riparia riparia
+Charadriiformes
+Martes zibellina|Sable
+Northern Shoveler|Shoveler|Spatula clypeata
+Garganey|Anas querquedula|Spatula querquedula
+Alligator|Alligators|Gator|Gators
+Tapirus|Tapir
+Toucan|Ramphastidae|Toucans
+Humpback whale|Megaptera novaeangliae
+White rhinoceros|Grass Rhinoceros|Northern White Rhinoceros|Southern Square-lipped Rhinoceros|Southern White Rhinoceros|Square-lipped Rhinoceros
+Vulpes|True foxes|Foxes|Fox genus|True fox
+Common Redshank|Redshank|Tringa totanus
+Long-eared Owl|Asio otus|Cat owl|Lesser horned owl|Northern long-eared owl
+Gallinago gallinago|Common Snipe
+Troglodytes troglodytes|Eurasian Wren|Wren
+True owls|Strigid|Strigids|The true owl family
+Yellowhammer|Scribble-lark
+Great Spotted Woodpecker|Dendrocopos major|GSW|Picoides major
+Muskrat|Common Muskrat|Beaver-rat|Musquash|Ondatra zibethicus
+Marten|Martens|Martes
+Chamois|Alpine Chamois|Balkan Chamois|Northern Chamois
+Bobcat|Bay lynx|Felis rufus|Lynx rufus|Red lynx
+Beluga whale|Beluga|White whale
+Dama dama|Common Fallow-deer|European Fallow Deer|Fallow deer|Mesopotamian Fallow Deer
+Cinereous Vulture|Black Vulture|Eurasian Black Vulture|Monk vulture
+Glossy Ibis|Plegadis falcinellus
+Kakapo|Owl Parrot|Night parrot
+Meropidae|Bee-eaters
+Musk ox|Muskox|Musk oxen
+Gryllotalpidae|Mole crickets
+Theraphosidae|Tarantulas
+Common Shelduck|Tadorna tadorna
+Mustela putorius|European polecat|Western Polecat|Western polecat, polecat|Black polecat|Forest polecat
+Equus
+Diceros bicornis|Black rhinoceros|Browse Rhinoceros|Hooked-lipped Rhinoceros|Hook-lipped Rhinoceros|African black rhinoceros
+Goose|Geese
+Poultry|Poultry bird
+Merlin|Falco columbarius
+Red Kite|Common kite|Milvus milvus
+Viper|The viper family|Viperid|Viperids|Vipers
+Andean Condor|Organ bird|Vultur gryphus
+Mayfly|Mayflies|The mayflies
+Sand cat|Sand Dune Cat|Felis margarita
+Himantopus himantopus|Black-winged stilt|South African stilt
+Castor fiber|Eurasian Beaver|European beaver
+Anser|Gray goose|Grey geese|Grey goose|White geese|White goose
+Common Sandpiper|Actitis hypoleucos
+Echidna|Echidna family|Echidnas|Spiny anteater|Spiny anteaters|Tachyglossid|Tachyglossids
+Vombatidae|Wombat|Wombat family|Wombats
+Hen Harrier|Circus cyaneus
+Black-headed Gull|Chroicocephalus ridibundus
+Proboscidea|Proboscidean|Proboscideans|Proboscidian|Proboscidians
+Tufted Duck|Aythya fuligula
+Common Linnet|Carduelis cannabina|Linaria cannabina
+Passer
+Siberian tiger|Amur Tiger|Baekdusan tiger|Korean tiger|Manchurian tiger|Paektusan tiger
+Calf
+Bird of prey|Birds of prey|Predatory bird|Raptor
+Black Swan|Cygnus atratus
+Black Woodpecker|Dryocopus martius
+Wels catfish|Sheatfish|Silurus glanis
+Swordfish|Broadbill|Broadbill Swordfish|Broadbills
+Nile crocodile|African crocodile|Crocodylus niloticus
+Eurasian Spoonbill|Platalea leucorodia
+Guanaco|Lama guanicoe
+Crocodylus porosus|Estuarine Crocodile|Saltwater crocodile|Salt-water Crocodile|Indo-Pacific crocodile|Marine crocodile
+Red Junglefowl|Gallus gallus
+Felis|Cats
+Motacilla|Wagtails
+Piciformes|Galbuliformes
+Scolopacidae|The sandpipers
+Common Pochard|Aythya ferina
+Spinus spinus|Eurasian Siskin
+Clouded leopard|Mainland clouded leopard|Neofelis nebulosa
+Prionailurus bengalensis|Leopard cat
+European hedgehog|Western European Hedgehog|Common hedgehog|Erinaceus europaeus
+Dugong|Dugong dugon
+Nyctereutes procyonoides|Raccoon dog|Common raccoon dog|Mangut|Tanuki
+Black Grouse|Grouse|Lyrurus tetrix|Tetrao tetrix
+Colorado potato beetle|Colorado beetle|Leptinotarsa decemlineata|Potato bug|Ten-lined potato beetle|Ten-striped spearman
+Emperor Penguin|Aptenodytes forsteri
+Short-toed Snake Eagle|Short-toed eagle|Circaetus gallicus|Culebrera europea
+Steppe eagle|Aquila nipalensis
+Dermoptera|Cobego|Flying lemur|Malayan colugos
+Brown rat|Common rat|Norway rat|Hanover rat|Norwegian rat
+Shoebill|Whale-headed Stork|Balaeniceps rex|Shoe-billed stork|Shoebilled stork|Whalehead
+Eurasian Curlew|Numenius arquata|Whaup
+Ruminants|Ruminant|Ruminantia
+Mandarin Duck|Aix galericulata|Pato mandarín
+Tawny owl|Brown owl|Strix aluco
+Western Marsh Harrier|Circus aeruginosus|Marsh Harrier
+Beech marten|Stone marten|Stone marten, beech marten|House marten|Martes foina
+Ruff|Calidris pugnax|Philomachus pugnax
+King cobra|Hamadryad|Ophiophagus hannah
+Alcedinidae|Kingfisher|Kingfishers|River kingfishers
+Nephropidae|Lobster|The lobster family
+Iberian lynx|Lynx pardinus|Pardel lynx
+Triceratops|Triceratopses
+Helarctos malayanus|Malayan Bear|Malayan sun bear|Sun bear|Malaysian sun bear
+Gecko|Geckos|Gekkonid|Gekkonids
+Cervus canadensis|Wapiti|American elk|C. canadensis
+Exocoetidae|Alibangbang|Flying fish|SauR
+Falconidae
+Axolotl|Ambystoma mexicanum|Axolotus pisciformis|Mexican salamander|Mud-puppy|Siredon
+Short-eared Owl|Asio flammeus
+European eel|Anguilla anguilla|Leptocephalus brevirostris|Silver eels
+Canada Goose|Branta canadensis|Canadian Geese|Greater Canada Goose|Lesser Canada Goose
+Zebu|Humped cattle|Indicine cattle
+Hyracoidea|Hyraxes|Dassies|Procaviidae
+Procyonidae|Raccoons|Procyonid|Raccoon family
+Mysticeti|Baleen whale|Whalebone whale
+Aurochs|Aurochsen|Bos primigenius
+Hawfinch|Coccothraustes coccothraustes
+Poecilia reticulata|Guppy|Millionfish|Millionsfish|Peacock fish|Rainbow fish|The guppy
+Delphinidae|Oceanic dolphin|Oceanic dolphins
+Accipitriformes
+Ovis
+Eurasian Wryneck|European Wryneck|Wryneck|Wryneck, eurasian wryneck|Jynx torquilla|Northern wryneck
+Common House Martin|House martin|Northern House-martin|Delichon urbica
+Pied Avocet|Avocet|Recurvirostra avosetta
+Song Thrush|Turdus philomelos
+European Greenfinch|Chloris chloris|Common greenfinch|Greenfinch
+European Herring Gull|Herring Gull|Larus argentatus
+Coraciiformes
+Camelidae|Camels|Camel family|Camelids
+European Green Woodpecker|Eurasian Green Woodpecker|Green woodpecker|Picus viridis
+Gharial|Fish-eating Crocodile|Gavial|Indian Gavial|Indian Gharial|Long-nosed Crocodile
+Python|Chondropythonina|Moreliini|Peropodes|Pythonidae|Pythoninae|Pythonini
+Little Ringed Plover|Charadrius dubius|Thinornis dubius
+Little Bustard|Tetrax tetrax
+Ciconiiformes
+Otididae|Bustard|Bustards
+Fieldfare|Turdus pilaris
+Bluethroat|Luscinia svecica
+Common Redstart|Phoenicurus phoenicurus|Redstart
+European Nightjar|Caprimulgus europaeus|Nightjar|Noctua caprimulgus
+Crested Lark|Galerida cristata
+Salmo trutta|Brown Trout|Sea Trout
+Cyprinidae|Cyprinid fishes|Cyprinids
+Sea otter|Enhydra lutris
+Bufonidae|The true toads
+Tench|Tinca tinca
+Microchiroptera|Microbat suborder
+Porpoise|Porpoises|Mereswine|Phocoenidae
+Saiga|Mongolian Saiga|Saiga antelope|Western Saiga|Western Saiga Antelope
+Perciformes|Perch-likes
+Stegosaurus
+Velociraptor|Velociraptors
+Common bream|Bream|Carp bream|Abramis brama
+Eurasian Nuthatch|Sitta europaea|Wood nuthatch
+Tunicata|Tunicate|Tunicates
+European perch|English perch|Perch|Big-scaled redfin|Common perch|Eurasian perch
+Eastern Imperial Eagle|Aquila heliaca|Imperial eagle
+European honey buzzard|Honey Buzzard|Pernis apivorus
+Great Bustard|Otis tarda
+Pteroclidae|Sandgrouse
+Aphid|Aphides|Aphidoidea|Aphids|Blackflies|Greenflies|Plant lice
+Black-throated loon|Arctic Loon|Black-throated Diver
+Northern Nutcracker|Nucifraga caryocatactes|Spotted Nutcracker
+Cinclus cinclus|White-throated Dipper|Dipper|European dipper
+European Mole|Common mole|Mole|Talpa europaea
+Przewalski's horse|Asian Wild Horse|Mongolian Wild Horse|Chernobyl horses|Dzungarian Horse
+Eurasian Oystercatcher|Common Pied Oystercatcher|Haematopus ostralegus|Oystercatcher|Palaearctic Oystercatcher|Sea pie
+Bohemian Waxwing|Bombycilla garrulus|Waxwing
+Atlantic Puffin|Common puffin|Fratercula arctica|Puffin
+Sterninae
+Siluriformes|Catfish|Catfishes
+Porcupine|Porcupines
+Piranha|Piraña
+Trout
+Marine mammal|Marine mammals
+Ox|Oxen
+Spinosaurus
+Rhesus macaque|Rhesus Monkey|Macaca mulatta|M. mulatta|Rhesus
+Vicuña|Vicugna|Lama vicugna
+Natrix natrix|Grass Snake|Common grass snake|Ringed snake|Water snake
+Long-tailed Tit|Aegithalos caudatus|Long-tailed bushtit
+Bos gaurus|Gaur|Indian Bison
+Gyrfalcon|Gyr falcon|Falco rusticolus|Gerfalcon
+Crocuta crocuta|Laughing hyena|Spotted hyaena|Spotted hyena
+European Roller|Roller|Coracias garrulus
+Black-necked Grebe|Eared grebe|Podiceps nigricollis
+Viverridae|Civets|Genets|Viverrids
+Common Greenshank|Tringa nebularia
+Accipiter
+Common Tern|Sterna hirundo
+Atlantic salmon|Black Salmon|Salmon|Salmo salar
+Gazella
+Bar-headed goose|Anser indicus
+Falconiformes|Falconiform|Falconiforms
+Common Gull|Larus canus
+Taiga bean goose|Anser fabalis
+Long-tailed Duck|Clangula hyemalis
+Phalacrocoracidae|Cormorant family|Cormorants
+Indian rhinoceros|Greater Indian Rhinoceros|Greater One-horned Rhino|Greater One-horned Rhinoceros|Great Indian Rhinoceros|Indian One-horned Rhinoceros
+Agapornis|Lovebird
+Diplodocus
+Canada lynx|American lynx|Canadian lynx|Felis lynx|Felis lynx canadensis|Lynx canadensis
+Dipnoi|Lungfish|Salamanderfish
+Eurasian Scops Owl|Common scops-owl|Otus scops|Scops owl
+Mistle Thrush|Turdus viscivorus
+Red-footed Falcon|Western Red-footed Falcon|Falco vespertinus
+Amniote|Amniotes
+Sturgeon|Acipenseridae|Sturgeons
+Anguis fragilis|Slow worm|Blindworm|Deaf adder|Hag-worm|Slaw-worm
+Eurasian Stone-curlew|Burhinus oedicnemus|Stone curlew
+Brown-cheeked rail|European Water Rail|Water rail|Western Water Rail|Rallus aquaticus
+Elephant seal|Elephant seals|Mirounga
+Myocastor coypus|Coypu|Coypu, nutria|Nutria
+Black-tailed Godwit|Limosa limosa
+Rosy Starling|Pastor roseus
+Sea turtle|Sea Turtles|Marine turtle|Marine turtles
+Northern Wheatear|Oenanthe oenanthe|Wheatear
+Bos mutus|Wild yak|Yak
+Red-throated Diver|Red-throated loon|Gavia stellata
+Jack Snipe|Lymnocryptes minimus
+Black Redstart|Phoenicurus ochruros
+Alcidae|Alcid|Auk|The auk family
+Atlantic mackerel|Joey|Mackerel|Split
+Felinae|Felines
+Boidae|Boas|Boids
+Oyster|Oysters
+Sugarcane|Sugar cane
+Hexapoda|Hexapods|Hexapod
+Brachiosaurus
+Javan rhinoceros|Javan One-horned Rhinoceros|Lesser One-horned Rhinoceros|Javan rhino
+Greater white-fronted goose|Anser albifrons|White-fronted goose
+Wild Goat|Capra aegagrus
+Hazel Grouse|Bonasa bonasia|Tetrastes bonasia
+Booted Eagle|Aquila pennata|Hieraaetus pennatus
+Antilope cervicapra|Blackbuck|Indian antelope
+Salmonidae
+Dalmatian Pelican|Pelecanus crispus
+Eurasian Whimbrel|Jack Curlew|Numenius phaeopus|Whimbrel
+Hoatzin|Opisthocomus hoazin
+Fishing cat|Prionailurus viverrinus
+Rhea
+Profelis aurata|African golden cat
+Chelonia mydas|Green turtle|Green sea turtle
+Springbok|Cape Springbok|Springbuck|Antidorcas marsupialis
+Hippopotamidae|Hippopotami|Hippopotamuses
+Ammonoidea|Ammonite|Ammonoid|Ammonites|Ammonoids
+Lesser Kestrel|Falco naumanni
+Macropodidae|Kangaroo family|Kangaroos|Kangaroos and wallabies|Macropod|Macropods|Wallabies
+Goldcrest|Regulus regulus
+Otariidae|Eared seal family|Eared seals|Otariids
+Pieris brassicae|Cabbage butterfly|Cabbage moth|Large cabbage white|Large white|Cabbage white
+American mink|Mustela vison|Neogale vision|Neovison vison
+Green Sandpiper|Tringa ochropus
+Varanus|Monitor lizard genus
+Cardamom|Cardamom seeds|Cardamon|Cardamum|Ground cadamom
+Common myna|Acridotheres tristis|House myna|Indian myna|Indian mynah|Myna
+Leatherback sea turtle|Coffin-back|Leatherback|Leatherback turtle|Leathery turtle
+Apatosaurus|Atlantosaurus
+Burbot|Eel-Pout|Lota lota
+Deuterostome|Deuterostomes
+Cestoda|Tapeworms
+Saker Falcon|Saker|Falco cherrug
+Pterosaur|Pterosaurs
+Mountain Hare|Arctic Hare|Blue Hare|Alpine hare
+Jaguarundi|Herpailurus yagouaroundi
+Rutilus rutilus|Roach|Common roach
+Sepiida|Cuttlefish|Cuttles
+Sylvia atricapilla|Blackcap|Eurasian Blackcap
+Striped hyena|Striped hyaena|Hyaena hyaena
+Red-breasted Merganser|Mergus serrator
+Sika deer|Japanese Sika Deer|Shansi Sika|Sika|Cervus nippon
+Opiliones|Daddy longlegs|Granddaddy longlegs|Harvesters|Harvestmen|Opilionid|Opilionids
+Spotted Crake|Porzana porzana
+Blue Jay|Bluejay|Cyanocitta cristata|Jaybird
+Gadus morhua|Atlantic cod|Cod|Codling|Haberdine|Kil'din Cod
+Electric eel|Electrophorus electricus
+Tsetse fly|Glossina|Tsetse Flies|Tse-tse fly
+Stock Dove|Columba oenas|Stock Pigeon
+Gnathostomata|Gnathostome
+Red Crossbill|Common crossbill|Crossbill|Loxia curvirostra
+Mustela lutreola|European Mink
+Arctic Tern|Sterna paradisaea
+Larus fuscus|Lesser Black-backed Gull
+Anthozoa
+Euphausiacea|Krill
+Common Goldeneye|Bucephala clangula|Goldeneye
+Aquila|True eagles
+Bovinae|Bovines
+Peafowl|Peacock|Peahen
+Cobra
+Bull
+Gliridae|Dormouse|Dormice|Myoxidae
+Sarcopterygii|Lobe-finned fishes|Lobe-finned fish
+Tuatara|Sphenodon
+Capra ibex|Alpine Ibex|Ibex|Steinbock
+Common bottlenose dolphin|Bottle-nosed Dolphin|Bottlenosed Dolphin|Bottlenose dolphin|Cowfish
+Red-necked Grebe|Podiceps grisegena
+Rotifera|Rotifer|The wheel animals
+Common Merganser|Goosander|American merganser|Mergus merganser
+King Penguin|Aptenodytes patagonicus
+Rainbow trout|Brook trout|Golden rainbow trout|Lake trout|Oncorhynchus mykiss
+Bar-tailed Godwit|Limosa lapponica
+Pycnonotidae|Bulbul|The Bulbuls
+Caprinae|Goat-antelope
+Ferruginous Duck|Aythya nyroca|Ferruginous Pochard
+Horned Grebe|Slavonian Grebe|Podiceps auritus
+Common eland|Taurotragus oryx
+Mugil cephalus|Black Mullet|Black True Mullet|Bright Mullet|Bully Mullet|Callifaver Mullet|Common Grey Mullet
+Little Bittern|Common Little Bittern|Botaurus minutus
+Dunnock|Hedge accentor|Prunella modularis
+Wild Turkey|Meleagris gallopavo
+Phoca vitulina|Common seal|Common seal, harbour seal|Harbour Seal|Harbor seal
+Feliformia
+Caspian Tern|Hydroprogne caspia
+Caniformia|Caniform|Caniforms
+Sumatran rhinoceros|Hairy Rhinoceros|Asiatic two-horned rhinoceros|Dicerorhinus sumatrensis|Didermocerus sumatrensis
+Dinornithiformes|Moa
+Sanderling|Calidris alba
+Psittacidae|Holotropical parrots
+Cro-Magnon Man|Cro-Magnon
+Slug
+Cephalochordata|Lancelets
+Tremarctos ornatus|Spectacled bear|Oso andino|Oso de anteojos
+Sloth bear|Melursus ursinus
+Vanessa atalanta|Red admiral|Red admirable
+Agnatha
+Megalodon|Carcharocles megalodon|Megalodon Carcharodon|Otodus megalodon|Pachiclon megalodon
+Hemichordata|Hemichordates
+Onager|Asian Wild Ass|Asiatic wild ass|Gobi Kulan|Khur|Kulan
+Caddisfly|Caddisflies|Rail-flies|Sedge-flies
+Aardwolf|Civet hyena|Maanhaar-jackal|Proteles cristata|Proteles cristatus|Termite-eating hyena
+Ring-tailed lemur|Lemur catta|Ringtailed lemur
+Common Chiffchaff|Chiffchaff
+Saurischia|Saurischian|Saurischians
+Elapidae|Elapid|Elapids
+Aye-aye|Daubentonia madagascariensis
+Wood Sandpiper|Tringa glareola
+Coal tit|Periparus ater
+Anthropoides virgo|Demoiselle Crane
+Chinchilla
+Tetraodontidae|Blowfish|Pufferfish|Pufferfish family
+Sylvia borin|Garden Warbler
+Motacillidae|Longclaws|Pipits
+Motacilla citreola|Citrine wagtail
+Sunbird|Nectariniidae|Spiderhunter
+Troglodytidae|Troglodytid|Wren family
+Platalea|Spoonbill
+Greater Spotted Eagle|Aquila clanga|Clanga clanga|Spotted eagle
+Gallus|Junglefowl
+Pallid Harrier|Circus macrourus
+Scandentia|Common tree shrews|Treeshrew order|Treeshrews
+Apodiformes
+Fire salamander|Common Fire Salamander|Salamandra salamandra
+Snow Bunting|Plectrophenax nivalis
+Ruddy Turnstone|Turnstone|Arenaria interpres|Bishop plover
+Snow goose|Anser caerulescens
+Protostome|Protostomes
+Ranidae|True frog
+Turdus|Old World blackbird|True thrush genus
+Little Tern|Sternula albifrons
+Common toad|Bufo bufo|European toad|Toad
+Fin whale|Common Rorqual|Finback|Fin-backed Whale|Finner
+Papilio machaon|Common yellow swallowtail|Old World swallowtail|Swallowtail
+Philippine Eagle|Great Philippine eagle|Monkey-eating eagle|Pithecophaga jefferyi
+Ovis ammon|Altai Argali|Argali|Argali, mouflon|Wild Sheep
+Grey Plover|Pluvialis squatarola
+Brambling|Cock'o north|Fringilla montifringilla|Mountain finch
+Loxodonta cyclotis|African Forest Elephant|Forest elephant
+Engraulidae|Anchovy
+Motacilla cinerea|Grey Wagtail
+Oriolidae|Old World orioles
+Procellariiformes
+Myrmeleontidae|Antlions|Myrmeleontid|Myrmeleontids|Myrmeliontid|Myrmeliontidae|Myrmeliontids
+Helmeted Guineafowl|Numida meleagris
+Spotted Flycatcher|Muscicapa striata
+Greater Scaup|Aythya marila|Scaup
+Silverfish|Lepisma saccharina|Lepisma saccharinum
+Carabidae|Carabids|Ground beetles|Carabid|Carabid family|Ground beetle|Ground beetle family
+Caprimulgidae|The nightjar family
+Pieridae
+Cockatiel|Cockateel|Cockatoo parrot|Nymphicus hollandicus
+Grass
+Homo heidelbergensis|Heidelberg man|H. heidelbergensis
+Rattus rattus|Black Rat|Black ship rat|House rat|Roof rat|Ship rat
+Odontoceti|Toothed whales|Odontocetes
+Edible dormouse|Edible Commoner Dormouse|Edible dormouse, fat dormouse|Fat Dormouse|Squirrel-tailed Dormouse
+Anopheles
+Ibises and Spoonbills|Luke Giblin|Threskiornithidae
+Lesser Spotted Woodpecker|Dendrocopos minor|Dryobates minor|Picoides minor
+New World vulture|Cathartidae|Condor|Vulturidae
+Galagidae|Bush babies|Bushbabies|Bush baby|Bushbaby|Galago|Galagos
+Black mamba|Dendroaspis polylepis|D. polylepis
+Loggerhead sea turtle|Loggerhead turtle|Caretta caretta|Loggerhead
+Ibis|Threskiornithinae
+Black-footed cat|Small-spotted Cat|Felis nigripes
+Blue-and-yellow Macaw|Ara ararauna|Blue yellow macaw|Yellow and blue macaw
+Bubo|Eagle-owls|Horned owls
+Ursus
+Prionace glauca|Blue shark
+Montagu's Harrier|Circus pygargus
+Dunlin|Calidris alpina
+Common Ringed Plover|Charadrius hiaticula|Ringed Plover
+Red Knot|Calidris canutus|Huahou|Knot|Lesser knot
+Harpy eagle|American Harpy Eagle|Harpia harpyja
+Anthus trivialis|Tree pipit
+Allosaurus
+Nymphalidae|Brush-footed butterfly|Nymphalids|Brush-footed butterflies|Nymphalid
+Brachiopoda|Brachiopod|Lamp shell|Brachiopods|Lampshell|Lamp shells|Lampshells
+Fossa|Fosssoxa|Cryptoprocta ferox
+Pteropodidae|Flying fox|Flying foxes|Fruit bat|Fruit bats|Megabat|Megabat family
+Corsac fox|Vulpes corsac
+Adelie penguin|Catarrhactes adeliæ|Eudyptes adeliae|Pygoscelis adeliae
+Smilodon|Sabre-toothed cat|Saber-toothed  cat|Saber-toothed tiger
+Common loon|Great Northern Diver|Great northern loon|Canadian Loon|Gavia immer
+Ocean sunfish|Headfish|Mola Ocean Sunfish|Moonfish|Sunfish|Sun-fish
+Phalacrocorax|Cormorant genus
+Boselaphus tragocamelus|Bluebuck|Nilgai|Antilope albipes|Antilope leucopus|Antilope picta|Antilope tragocamelus
+Rose-ringed Parakeet|Psittacula krameri|Ring-necked Parakeet
+European pilchard|Fair Maid|Pilchard|Sardine|Soused Pilchards
+African Sacred Ibis|Sacred ibis|Threskiornis aethiopicus
+Binturong|Bearcat|Arctictis binturong
+Pantherinae
+Baillon's crake|Porzana pusilla|Zapornia pusilla
+Placentalia|Placental mammals|Euplacentalia|Monodelphia|Placentals|Placentaria|Placentata
+Diprotodontia
+Rough-legged Buzzard|Buteo lagopus|Rough-legged Hawk
+Ring Ouzel|Turdus torquatus
+Woodlark|Wood Lark|Lullula arborea
+Tytonidae|Barn Owls|Tytonid|Tytonids
+Little Stint|Calidris minuta|Erolia minuta
+Drosophila melanogaster|Fruit fly|Vinegar fly|Common fruit fly|D. melanogaster
+Iguanodon|Iguanadon|Iguanodonts
+Blue Rock Thrush|Monticola solitarius
+Xenarthra|Edentata
+Boreal Owl|Tengmalm's Owl|Aegolius funereus
+Bowhead whale|Arctic Right Whale|Bowhead|Greenland Right Whale|Arctic whale
+Willow Grouse|Lagopus lagopus|Willow Ptarmigan
+Mustela putorius furo|Ferret|Ferrets
+Liger|Ligress
+Common warthog|African wart hog|African warthog|Common wart hog|Phacochoerus africanus|Wart hog
+Giraffidae
+Paradoxurus hermaphroditus|Asian Palm Civet|Common palm civet|Mentawai Palm Civet|Musang|Toddy cat
+Markhor|Capra falconeri|Maarkhor|Markor
+Kentish Plover|Anarhynchus alexandrinus|Charadrius alexandrinus
+Anaconda|Anacondas|Eunectes
+Alpine Chough|Pyrrhocorax graculus|Yellow-billed chough
+Tinamidae|The tinamou family|Tinamiformes|Tinamou|Tinamus
+Pardofelis temminckii|Asiatic golden cat|Asian golden cat
+Atlantic Canary|Canary|Common Canary|Island Canary
+Isopoda|Isopods
+Green anaconda|Common anaconda|Common water boa|Emerald anaconda|Eunectes murinus|Giant anaconda
+European Crested Tit|Crested Tit|Lophophanes cristatus
+Hammerhead sharks|Hammerhead|Hammerheads|Hammerhead shark|Sphyrnidae
+Indian Fox|Bengal Fox|Black-tailed fox
+Green iguana|Iguana iguana
+Grey Parrot|African gray parrot|African grey parrot|Psittacus erithacus
+Lesser Spotted Eagle|Clanga pomarina
+Clupea harengus|Atlantic herring|Bank Herring|Bismark Herring|Bloater|Cleanplate Herring
+Red-crested Pochard|Netta rufina
+Equus quagga|Burchell's Zebra|Chapman's Zebra|Common Zebra|Crawshay's Zebra|Damara Zebra|Grant's Zebra
+Red-backed Shrike|Lanius collurio
+Northern Gannet|Gannet|Morus bassanus
+Barnacle goose|Branta leucopsis
+Reed Bunting|Common Reed Bunting|Emberiza schoeniclus
+Spotted Redshank|Tringa erythropus
+Mugilidae|The mullet family
+Coraciidae|Rollers
+Common Rosefinch|Scarlet Rosefinch|Carpodacus erythrinus
+Temminck's Stint|Calidris temminckii
+Papilionidae|Swallowtail butterflies
+Cumquat|Kumquat
+Bos grunniens|Domestic yak
+Cypriniformes
+Great Reed Warbler|Acrocephalus arundinaceus
+Great Grey Shrike|Butcher-bird|Butcherbird|Greater butcher-bird|Killer magpie|Lanius excubitor
+Thysanoptera|Thrips
+Sylviidae
+Tiger shark|Galeocerdo cuvier
+Тheropoda|Theropod|Theropods
+Great Auk|Pinguinus impennis
+Mandrill|Mandrillus sphinx
+Addax nasomaculatus|Addax
+Squacco Heron|Common Squacco Heron|Ardeola ralloides
+Nasalis larvatus|Long-nosed Monkey|Proboscis monkey|Kahau|Kahau nosatý
+Bearded Reeding|Bearded Reedling|Bearded parrotbill|Bearded Tit|Panurus biarmicus
+Hawk Owl|Northern Hawk-Owl|Surnia ulula
+Songbirds|Oscines|Passeri|Songbird
+Spermophilus
+Macaca sylvanus|Barbary Ape|Barbary macaque|Barbary monkey|Magot
+Grey-headed Woodpecker|Picus canus
+Longhorn beetle|Cerambycid
+Stercorariidae|Skua
+Rock Ptarmigan|Ptarmigan|Lagopus muta
+European Golden Plover|Eurasian Golden Plover|Golden Plover|Pluvialis apricaria
+Anas
+Zygoptera|Damselflies|Damsel fly
+Chital|Axis Deer|Indian Spotted Deer|Spotted Deer|Axis axis
+Tayassuidae|Peccaries|Peccary|The Peccary family
+Red-breasted Flycatcher|Ficedula parva
+Manis|Asian pangolin|Pangolin|Pangolinus|Paramanis|Phatagenus|Phatages
+Caprimulgiformes
+Black-legged Kittiwake|Kittiwake|Rissa tridactyla
+Common Eider|Eider|Somateria mollissima
+Gerridae|Water Striders|Water bugs
+Razorbill|Alca torda
+Marsh Sandpiper|Tringa stagnatilis
+Charadriidae|Dotterels|Lapwings|Plovers
+Emberizidae|Buntings
+Alpine Swift|Tachymarptis melba
+Crinoidea|Crinoids|Feather stars|Sea lilies
+Gobiidae|Gobies|Gobiids|Goby|Goby fish
+Curlew Sandpiper|Calidris ferruginea
+Red-billed Chough|Chough|Cornish Chough|Pyrrhocorax pyrrhocorax|Red Crow
+Hagfish|Hag fish|Hag fishes|Hagfishes|Myxinidae|Slime eel
+Strepsirrhini|Lower primates|Prosimians|Prosimii|Strepsirhines|Strepsirhini|Strepsirrhines
+Homo ergaster
+Ungulate|Ungulata|Unguligrades
+Denisovan
+Acanthocephala|Acanthocephalan|Acanthocephalans|Spiny-headed worms|Thorny-headed worms
+Bos javanicus|Banteng|Tembadau
+Ochotona|Pika
+Homo floresiensis|Flores Man
+Lemuridae
+Baiji|Changjiang Dolphin|Chinese Lake Dolphin|Chinese River Dolphin|Pei Chi|Whitefin Dolphin
+Eurasian Pygmy Owlet|Eurasian Pygmy-owl|Pygmy Owl|Glaucidium passerinum
+Solifugae|Windscorpions|Camel spider|Solifuge|Sun spider|Wind scorpion
+Passenger Pigeon|Ectopistes migratorius|Wild pigeon
+King Vulture|King Condor|Sarcoramphus papa
+Cricetidae
+Smew|Mergellus albellus|Mergus albellus
+Iguana
+Thrush Nightingale|Luscinia luscinia
+Ortolan Bunting|Emberiza hortulana
+Ganges river dolphin|Blind River Dolphin|Ganges Dolphin|Ganges Susu|Indus River Dolphin
+Ploceidae|Bishops|Weaverbirds|Weaver finches|Weavers
+Turaco|Musophagidae
+European seabass|Bass|Capemouth|Common Bass|European Bass
+Siberian Crane|Leucogeranus leucogeranus
+Naja
+Choeropsis liberiensis|Pygmy Hippopotamus
+Sambar|Indian Sambar|Sambar deer|Cervus unicolor|Rusa unicolor
+White-winged Tern|Chlidonias leucopterus|White-winged black tern
+Muscovy Duck|Cairina moschata
+Cygnus columbianus|Bewick's Swan|Tundra Swan|Whistling swan
+European mantis|European Mantid|Praying mantis|Mantis religiosa
+Corn Bunting|Emberiza calandra
+Willow Warbler|Phylloscopus trochilus
+Black-headed Bunting|Emberiza melanocephala
+Ankylosaurus
+Caecilian|Apoda|Caecilians|Caecilian worm|Caecillian|Cicilian worm|Coecilians
+Quokka|Short-tailed Wallaby|Setonix brachyurus
+Tettigoniidae|Katydids|Tettigoniid|Bush cricket|Katydid|Long-horned grasshopper
+Grass Carp|Ctenopharyngodon idella
+Pardofelis marmorata|Marbled cat
+Canadian beaver|North American Beaver|American beaver
+Succulent plant|Fat plant|Succulents
+Locust|Locusts
+Archosaur|Archosaurian|Archosaurs
+Coccinella septempunctata|Seven-spot Ladybird
+Redwing|Turdus iliacus
+Western Swamphen|Porphyrio porphyrio
+Pronghorn|American Pronghorn|Mexican Pronghorn|American antelope|Antilocapra americana|Prairie antelope
+Gull-billed Tern|Gelochelidon nilotica|Sterna nilotica
+Trogon|Quetzals|Trogonidae|Trogons
+Velvet Scoter|Melanitta fusca
+American Flamingo|Caribbean Flamingo|Cuban flamingo|Phoenicopterus ruber
+Upupidae|Hoopoes|Upupids
+Boa constrictor|Common boa|Red-tailed boa
+Whiskered Tern|Chlidonias hybrida|Chlidonias hybridus
+Long-legged Buzzard|Buteo rufinus
+Bonelli's Eagle|Aquila fasciata|Hieraaetus fasciatus
+Carassius
+Heteroptera|True Bugs|Heteropteran|Heteropterans
+Grey Seal|Atlantic seal|Gray seal|Halichoerus grypus|Horsehead seal
+Egyptian Goose|Alopochen aegyptiaca
+Vespa crabro|Hornet|European hornet
+Streptopelia
+Vespa
+Quagga|Equus quagga quagga
+Siamese fighting fish|Betta splendens|Macropodus pugnax
+Bubalus
+Pteromyini|Flying squirrel
+Cockroach|Cockroaches|Roaches
+Eurasian Reed Warbler|Reed Warbler
+Wallcreeper|Tichodroma muraria
+Leopard seal|Hydrurga leptonyx|Sea leopard
+Terek Sandpiper|Xenus cinereus
+Woolly rhinoceros|Woolly rhino
+Sumatran tiger|Panthera tigris sondaica|Panthera tigris sumatrae
+Lesser white-fronted goose|Anser erythropus
+Ichthyosauria|Ichthyosaur|Ichthyosaurs
+Haddock|Melanogrammus aeglefinus|Merlangius euxmus|Mezgit
+Short-beaked Common Dolphin|Delphinus delphis
+Danaus plexippus|Common tiger wanderer|Monarch|Monarch butterfly|Black veined brown|Common tiger|Milkweed
+Indicatoridae|Honey birds|Honeyguides|Indicator birds|The Honeyguide family
+Syrphidae|Hoverflies|Syrphid Flies|Flower flies
+Muntiacus|Barking deer|Muntjac|Rib-faced deer
+African civet|Civet|Civettictis civetta
+Anthus pratensis|Meadow Pipit|Titlark
+Broad-billed Sandpiper|Calidris falcinellus|Limicola falcinellus
+Curculionidae|Curculionids|Snout beetles|True weevils
+Apidae|Apid|Apids
+Whinchat|Saxicola rubetra
+Aglais io|Peacock butterfly|European peacock butterfly|Inachis io|Vanessa io
+Gray whale|Grey Whale|Agaphelus glaucus|Atlantic gray whale|Balaena gibbosa
+Mousebird|Coliidae|Coliids|Mousebirds
+Maned wolf|Chrysocyon brachyurus
+Basking shark|Cetorhinus maximus
+European anchovy|Black Sea Anchovy|Italian Sardel|South African Anchovy
+Hamadryas baboon|Sacred Baboon|Papio hamadryas
+Ural Owl|Strix uralensis
+Macaca fuscata|Japanese macaque|Snow monkey
+Margay|Tree Ocelot|Leopardus wiedii
+Budorcas taxicolor|Cattle Chamois|Gnu Goat|Goat Ox|Mishmi Takin|Takin
+Giant anteater|M. jubata|Myrmecophaga tridactyla
+Treecreeper|Certhiidae
+Marsh Tit|Poecile palustris
+Mediterranean Monk Seal|Monachus monachus
+Eurasian Crag Martin|Crag martin|Ptyonoprogne rupestris
+Grevy's zebra|Equus grevyi|Imperial zebra
+Balaenopteridae|Rorqual family|Rorquals
+Bos
+Oreamnos americanus|Mountain Goat|Rocky Mountain Goat
+Struthio
+Great Black-backed Gull|Larus marinus
+Great Snipe|Gallinago media
+Common Scoter|Melanitta nigra
+Lacertidae|Lacerta|True lizard|Wall lizard
+Old World porcupine|Hystricid|Hystricidae|Hystricids|Old World porcupines
+Crocodylus
+Woolly Mammoth|Mammuthus primigenius
+Marabou Stork|Marabou|Ciconia crumenifera|Leptoptilos crumenifer|Leptoptilos crumeniferus
+Flatfish|Pleuronectiformes
+Vespidae|Social Wasps|Vespid wasp|Vespid wasps
+Tragulidae|Chevrotain|Chevrotain family|Chevrotains|Chevrotin|Chevrotins|Mouse deer
+Vermilingua|Ant-eaters|Anteaters
+Curruca communis|Common Whitethroat
+Greater kudu
+Lycaenidae|Gossamer-winged butterflies|Lycaenid|Gossamer-winged butterfly|Lycaenids
+Spot-billed Pelican|Grey Pelican|Pelecanus philippensis
+Malacostraca|Malacostracan|Malacostracans
+Balaenoptera borealis|Coalfish Whale|Pollack Whale|Rudophi’s Rorqual|Sei whale
+Red-breasted Goose|Branta ruficollis
+Pristidae
+Agamidae|Agamid|Dragon lizards|Dragons
+Indian cobra|Naja naja|Spectacled cobra
+Java Man|Homo erectus erectus
+American alligator|Mississippi Alligator|Alligator mississippiensis|Common alligator
+Kea|Nestor notabilis
+Leaf beetle|Chrysomelid|Leaf beetles
+Eurasian Treecreeper|Certhia familiaris
+California condor|Gymnogyps californianus
+Otocyon megalotis|Bat-eared fox|Big-eared fox|Black-eared fox
+Common rudd|Rudd|Leuciscus erythrophthalmus|Red-eye|Scardinius erythrophthalmus|Shallow
+Parasitic Jaeger|Arctic Skua|Stercorarius parasiticus
+Hawksbill sea turtle|Hawksbill turtle|Eretmochelys imbricata
+Felis bieti|Chinese alpine steppe cat|Chinese desert cat|Chinese mountain cat|Chinese steppe cat|Grass cat|Pale desert cat
+Red-necked Phalarope|Phalaropus lobatus
+Lophiiformes|Angler|Anglerfish|Anglerfishes|Anglerfish order
+Hazel dormouse|Common dormouse|Common Hazel Dormouse|Hazel dormouse, common dormouse|Muscardinus avellanarius
+Kodkod|Chilean cat|Guigna|Guiña|Leopardus guigna
+Mountain zebra|Cape mountain zebra|Hartmann's mountain zebra
+Scarlet macaw|Ara macao
+African Penguin|Black-footed penguin|Cape penguin|Jackass penguin|South African penguin
+Insectivora|Insectivore
+Acrocephalus schoenobaenus|Sedge warbler
+Dipodidae
+European Pied Flycatcher|Ficedula hypoleuca|Pied flycatcher
+Regulus ignicapilla|Common Firecrest|Firecrest
+Luscinia
+Cichlidae|Cichlid|Cichlids|The cichlid family
+Sea lion|Otariinae|Sea lions
+Tipulidae|Large Crane Flies|Crane flies|Crane fly|Daddy-long-legs|Dandy longlegs
+Onychophora|Onychophoran|Velvet worm|Velvet worms
+Accipiter badius|Little banded goshawk|Shikra
+Curruca curruca|Lesser Whitethroat
+Burhinidae|Thick-knees
+Haliaeetus|Sea eagles|Fish eagle genus|Sea eagle genus
+Hydrozoa|Hydroid|Hydrozoan
+Larus
+Ursus spelaeus|Cave bear
+Anguidae
+Indochinese tiger|Panthera tigris corbetti
+Eurasian Dotterel|Charadrius morinellus|Dotterel|Eudromias morinellus
+Gila monster|Heloderma suspectum|Ozempic monster
+Gadidae|Codfish|Cods|The cod family
+Sulidae|Booby family|Gannet family|Sulids
+Olive baboon|Anubis Baboon|Papio anubis
+Branta
+Three-toed Woodpecker|Eurasian Three-toed Woodpecker|Picoides tridactylus
+Siamang|Hylobates syndactylus|Symphalangus syndactylus
+Odocoileus virginianus|White-tailed deer|Dama virginiana|Odocoileus spelaeus|Virginia deer|White tail
+Thunnus|Tuna|Tuna fish|Tunafish|Tuna fishes|Tunafishes|Tunas
+Buteo
+Squalius cephalus|Chub|European chub
+Phocoena phocoena|Common Porpoise|Harbor Porpoise|Harbour porpoise
+Black Tern|Chlidonias niger
+Anthus campestris|Tawny pipit
+Common frog|European Common Frog|European brown frog|European common brown frog
+Columbiformes|Columbiform|Columbiforms
+Brown Hyaena|Parahyaena brunnea|P. brunnea|Strandwolf
+Peking Man|Homo erectus pekinensis
+American Robin|Robin red-breast|Turdus migratorius
+Waterbuck|Ellipsen Waterbuck|Kobus ellipsiprymnus
+Cervus
+Ciconia
+Phytoplankton
+Spotted Dove|Eastern Spotted Dove|Spilopelia chinensis
+Didelphis virginiana|North American Opossum|Virginian Opossum|Virginia Opossum|Opossum|Possum
+Bearded Seal|Erignathus barbatus
+Sphingidae
+Little Gull|Hydrocoloeus minutus|Larus minutus
+Bali tiger|Balinese tiger|Panthera tigris balica
+Coturnix
+Branchiopoda
+Canis simensis|Ethiopian Wolf|Simian jackal|Simien fox|Simien Jackal
+Vampire bat|Desmodontinae
+Springtail|Springtails and allies|Collembola|Collembolans|Springtails
+Hydra
+Ziphiidae|Beaked whale|The beaked whale family
+Bongo|Tragelaphus eurycerus
+Crucian carp|Carassius carassius
+Chukar Partridge|Alectoris chukar|Caccabis chukar|Chukar|Chukor partridge
+Great Grey Owl|Strix nebulosa
+Minke whale|Common minke whale|Dwarf Minke Whale|Lesser Rorqual|Little Piked Whale
+Fregata|Fregat
+Little Penguin|Blue Penguin|Fairy Penguin|Blue fairy penguin|Eudyptula minor
+Amazon river dolphin|Bolivian River Dolphin|Boto|Bouto|Boutu|Orinoco River Dolphin
+Gemsbok|Gemsbuck|Oryx gazella|South African oryx
+Horned Lark|Shore Lark
+White-backed Woodpecker|Dendrocopos leucotos|Dendrocopos leucotos lilfordi|Lilford’s woodpecker
+Bucerotiformes
+Redpoll|Common Redpoll|Acanthis flammea|Carduelis flammea|Mealy Redpoll
+Procellariidae
+Gerenuk|Southern Gerenuk|Litocranius walleri
+Brown pelican|Pelecanus occidentalis
+Wood mouse|Long-tailed Field Mouse|Small Wood Mouse|Apodemus sylvaticus
+Gentoo Penguin|Johnny penguin|Pygoscelis papua
+Dasyuromorphia
+Reticulated python
+Iguanidae
+Ursus arctos middendorffi|Alaska bear|Kodiak bear
+White-headed Duck|Oxyura leucocephala
+Pygmy Cormorant|Microcarbo pygmaeus|Phalacrocorax pygmaeus
+Kinkajou|Night ape|Potos flavus
+Green Peafowl|Pavo muticus|Peacock green
+Spider monkey|Ateles|Spider monkeys
+Ensis (bird)|Brant|Brant Goose|Brent Goose|Esis|Passeriformes
+Little Crake|Porzana parva|Zapornia parva
+Clupeidae
+Scincidae|Skink|Scincids|Skinks|The skink family
+Mediterranean Gull|Ichthyaetus melanocephalus|Larus melanocephalus
+Melolontha melolontha|Cockchafer maybeetle|Common cockchafer|Cockchafer|Doodlebug|Maybug
+Cynomys|Prairie dog
+Araneus diadematus|European garden spider|Garden spider|Cross Orbweaver
+Gavia|Diver|Divers|Loon|Loons
+Black Crowned Crane|Balearica pavonina
+Genet|Genetta
+Nematomorpha|Gordian worm|Gordian worms|Horsehair worms
+Coelacanthiformes
+Hartebeest|Bubal Hartebeest|Alcelaphus buselaphus|Alcelaphus caama|Bubale|Kaama
+Skipjack tuna|Oceanic Bonito|Oceanic Skipjack|Skipjack|Stripy|Katsuwonus pelamis
+Indus Crocodile|Broad-snouted Crocodile|Marsh Crocodile|Muggar|Mugger|Crocodylus palustris
+~Seaweed|Macroalga|Macroalgae|Marine alga|Marine algae|Sea-weeds|Seaweeds
+~Pilosa
+~European pond turtle|Swamp turtle|Emys orbicularis|European pond terrapin|European pond tortoise
+~Ruffe|Eurasian ruffe|Gymnocephalus cernua
+~Caspian tiger|Culo mojao|Hyrcanian Tiger|Turan Tiger|Panthera tigris virgata
+~Pacific Golden Plover|Pluvialis fulva
+~Polychaeta|Bristle worms
+~Carcharhinus leucas|Bull shark|Bolivian shark|Nicaragua shark|Zambezi shark
+~Pycnogonida|Sea spiders|Pycnogonid|Pycnogonids|Sea spider
+~Palaeognathae|Palaeognaths|Paleognathae|Paleognathia|Paleognaths
+~Speothos venaticus|Bush dog|Savannah Dog|Vinegar Dog
+~Mammut|Mastodon
+~Panthera pardus orientalis|Amur leopard
+~Clupeiformes
+~Anthus|Pipit
+~Mamba|Dendroaspis
+~Three-spined stickleback|Banstickle|Barnystickle|Barnytickle|Branchy|Branstickle|Burnstickle
+~Great Skua|Catharacta skua|Stercorarius skua
+~Equus africanus|African Ass|African wild ass|Atlas Wild Ass|Nubian Wild Ass
+~Red Phalarope|Grey Phalarope|Phalaropus fulicarius
+~Smooth snake|Coronella austriaca
+~Common Grasshopper Warbler|Grasshopper-warbler|Locustella naevia
+~Common Murre|Common Guillemot|Guillemot|Uria aalge
+~Megapode|Incubator birds|Megapodes
+~Scombridae|Mackerels
+~Red-crowned Crane|Grus japonensis|Japanese crane|Manchurian crane
+~New World monkey|New World monkeys|Platyrrhine monkeys|Platyrrhines|Platyrrhini
+~Anthus cervinus|Red-throated Pipit
+~Pteromys volans|Eurasian Flying Squirrel|Russian Flying Squirrel|Siberian Flying Squirrel
+~Aurelia aurita|Common jellyfish|Moon jelly
+~Pallas’s Fish Eagle|Band-tailed Fish-eagle
+~European Serin|Serinus serinus
+~Eurasian Penduline Tit|Remiz pendulinus
+~Glaucous Gull|Larus hyperboreus
+~Sandwich Tern|Thalasseus sandvicensis
+~Rusty-spotted cat|Prionailurus rubiginosus
+~Grey Crowned Crane|Balearica regulorum|Crested Crane|East African Crowned Crane|Mahem
+~Caspian Gull|Pontic gull|Larus cachinnans
+~Electric ray|Torpediniformes
+~Gorilla gorilla|Lowland Gorilla|Western gorilla
+~Acanthodii
+~Sauropoda|Sauropod|Sauropods
+~Olinguito|Bassaricyon neblina|B. neblina
+~Zander|Sander lucioperca|Stizostedion lucioperca
+~Cuculiformes|Cuculiform|Cuculiforms
+~Pseudoscorpion|Pseudoscorpions|Book scorpion|False scorpion
+~Greater Rhea|Common Rhea|Grey rhea|Rhea americana
+~Arrow worms|Arrow worm|Chaetognath|Chaetognatha|Chaetognaths
+~Gelada|Gelada Baboon|Theropithecus gelada
+~Chinese alligator|China Alligator|Alligator sinensis
+~Indri indri|Indri
+~Risso's Dolphin|Gray Grampus|Grey Dolphin|White-headed Grampus
+~Lophius piscatorius|Angler fish|Monk|Monkfish
+~Buttonquail|Turnicidae
+~European hamster|Black-bellied Hamster|Common Hamster|Cricetus cricetus
+~Yellow-billed Diver|White-billed Diver|Yellow-billed loon
+~Lapland Longspur|Lapland Bunting|Calcarius lapponicus
+~Bombycilla|Swallow chatterer|Waxwings
+~Pomarine Skua|Pomarine jaeger|Stercorarius pomarinus
+~Mellisuga helenae|Bee Hummingbird|Helena hummingbird|Zunzuncito
+~Elephant bird|Aepyornithidae|Elephant bird family
+~Numenius|Curlew
+~Gray fox|Grey fox|Mainland gray fox|North American gray fox|Tree fox
+~Barnacle|Cirripedia
+~Common Rock Thrush|Monticola saxatilis|Rufous-tailed rock-thrush
+~Lesser Grey Shrike|Lanius minor
+~Strix
+~Yellowfin tuna|Allison's Tuna|Pacific Long-tailed Tuna|Yellowfinned Albacore|Thunnus albacares
+~Arvicola amphibius|Eurasian Water Vole|European Water Vole|Water Vole
+~Wood Warbler|Phylloscopus sibilatrix
+~Mustela sibirica|Siberian Weasel|Kolonok
+~Irrawaddy dolphin|Irrawaddy River Dolphin|Irrawady Dolphin|Snub-fin Dolphin|Snubfin Dolphin
+~Oestridae|Bot Flies|Gadflies|Heel Flies|Warble Flies|Botflies|Botfly
+~Oribi|Southern Oribi|Ourebia ourebi
+~Hippolais icterina|Icterine warbler
+~Paraceratherium|Baluchitherium|Indricotherium
+~Afrosoricida
+~Golden Pheasant|Chinese pheasant|Chrysolophus pictus
+~Geoffroy's cat|Geoffroyis cat|Leopardus geoffroyi
+~Grus|Anthropoides|Bugeranus
+~Indian Roller|Coracias benghalensis
+~Bornean orangutan|Pongo pygmaeus
+~Asian Open-bill Stork|Asian Openbill|Anastomus oscitans|Asian Openbill Stork
+~Alligators and caimans|Alligatorid|Alligatoridae|Alligatorids
+~Garfish|Belone belone|Sea needle
+~Oryx
+~Marbled polecat|European marbled polecat|Vormela peregusna
+~Isabelline Wheatear|Oenanthe isabellina
+~Struthioniformes|Ratitae|Ratite|Ratites|Struthioniform|Struthioniforms
+~Black panther|Black jaguar|Black leopard|Melanistic leopard
+~Hominini|Hominin|Hominins
+~Twite|Heather lintie|Linaria flavirostris
+~Aedes aegypti|Dengue fever mosquito|Yellow fever mosquito|Aedes ægypti
+~Pteropus
+~Gyps|Griffon vultures
+~Ceratosaurus
+~Arapaima gigas|Arapaima|Pirarucu
+~Olm|Cave salamander|European olm|Proteus|Blind salamander|Human fish
+~Nemertea|Nemertean|Nemerteans|Proboscis worms|Ribbon worms
+~Steller’s sea cow|Hydrodamalis gigas
+~Gastrotricha|Gastrotrich|Gastrotrichs|Hairy backs
+~Lucanus cervus|Stag beetle|European stag beetle|Greater stag beetle
+~Malayan tapir|Asian tapir|Asiatic Tapir|Indian Tapir|Malay Tapir
+~Common agouti|Agouti
+~Bleak|A. alburnus|Ablet|Ablette|Alburnus alburnus
+~South-Chinese tiger|South China Tiger|Amoy tiger|Chinese tiger|Panthera tigris amoyensis|P. tigris amoyensis
+~Ringed Seal|Pusa hispida
+~Galápagos Penguin|Spheniscus mendiculus
+~Sulphur-crested Cockatoo|Cacatua galerita
+~Anthus spinoletta|Water pipit
+~Pink-footed goose|Anser brachyrhynchus
+~Magpie goose|Anseranas semipalmata
+~Leopardus jacobita|Andean cat|Andean mountain cat|Mountain cat|Oreailurus jacobita
+~Menura|Lyrebird
+~Siberian Jay|Perisoreus infaustus
+~Oniscidea|Sow bug|Woodlice|Woodlouse
+~Turbot|Scophthalmus maximus
+~Saola|Siola|Vu Quang Ox|Pseudoryx nghetinhensis
+~Humboldt Penguin|Humboldt's penguin|Spheniscus humboldti
+~American badger|Taxidea taxus
+~Great Hornbill|Buceros bicornis
+~Hesperiidae|Hesperiid|Skipper|Kelolong|Ulat kelolong
+~Sitatunga|Lake Victoria Sitatunga|Marshbuck|Tragelaphus spekii
+~Sable antelope|Giant Sable Antelope|Southern Sable Antelope|Hippotragus niger
+~Lesser Flamingo|Phoeniconaias minor
+~Numbat|Banded Anteater|Myrmecobius fasciatus|Noombat|Walpurti
+~Copsychus saularis|Oriental Magpie-robin
+~Northern Fulmar|Fulmar|Fulmarus glacialis
+~Black-winged kite|Elanus caeruleus
+~Vulpes chama|Cape fox|Silver Fox|Silver Jackal
+~Paguroidea|Hermit Crabs|Hermit crab
+~Head louse|Pediculus humanus capitis
+~European Storm Petrel|British Storm Petrel|Storm Petrel
+~Sarus crane|Antigone antigone
+~Pied Kingfisher|Ceryle rudis
+~Blue wildebeest|Brindled Gnu|Common Wildebeest|White-bearded Wildebeest|Connochaetes taurinus
+~Congo Peafowl|Congo Peacock|African peafowl|Afropavo congensis|Mbulu
+~Parnassius apollo|Apollo|Apollo Butterfly|Mountain Apollo
+~Crested Serpent Eagle|Spilornis cheela
+~Asian Woolly-necked Stork|Asian Woollyneck|Woolly-necked Stork|Ciconia episcopus
+~Noctuidae|Owlet moths
+~Resplendent Quetzal|Pharomachrus mocinno
+~Greenish Warbler|Phylloscopus trochiloides
+~Gazella subgutturosa|Goitered gazelle|Persian Gazelle|Black-tailed gazelle
+~Spanish Sparrow|Passer hispaniolensis
+~Eastern gray squirrel|Gray Squirrel|Grey squirrel|Sciurus carolinensis
+~Keel-billed Toucan|Ramphastos sulfuratus
+~Asian tiger mosquito|Aedes albopictus|Forest day mosquito|Stegomyia albopicta
+~Barasingha|Swamp Deer|Western Barasingha|Western Swamp Deer|Rucervus duvaucelii
+~House Crow|Corvus splendens
+~Muscidae|House Flies and kin
+~Hylidae|Hylid|Tree frog
+~Perca
+~Nicobar Pigeon|Caloenas nicobarica
+~Hamerkop|Anvilhead|Hammerhead stork|Hammerkop|Hammerkopf
+~European shag|Gulosus aristotelis
+~Chinstrap Penguin|Aptenodytes antarctica|Bearded penguin|Pygoscelis antarctica|Pygoscelis antarcticus
+~Aglais urticae|Small tortoiseshell
+~Copepod|Copepoda
+~Ascidiacea|Ascidian|Sea squirt|Ascidians
+~Short-beaked echidna|Australian Echidna|Bristly Echidna|Kangaroo Island Echidna|Short-nosed Echidna
+~Hydrobatidae|Northern storm petrels
+~Canis lupus rufus|Red wolf
+~Sittidae|Nuthatches
+~Coconut crab|Palm Thief|Robber Crab|Birgus latro|Mipeyso
+~Yellow-eyed Penguin|Hoiho|Megadyptes antipodes
+~Magellanic Penguin|Spheniscus magellanicus
+~Lucanidae|Lucanids|Stag beetles|The stag beetle family
+~Eurasian harvest mouse|Harvest mouse|Micromys minutus
+~Coccoidea|Scales and Mealybugs|Scale insects|The scale insects
+~Homo naledi|H. naledi
+~Leopardus colocola|Central Chilean Colocolo|Chilean Pampa Cat|Chilean Pampas Cat|Colocolo|Pampas cat
+~Marsh Warbler|Acrocephalus palustris
+~Sterlet|Acipenser ruthenus
+~Oilbird|Steatornis caripensis
+~Phylloscopus|Leaf warbler
+~Madoqua
+~Long-tailed Jaeger|Long-tailed Skua|Stercorarius longicaudus
+~Arabian oryx|White Oryx|Oryx leucoryx
+~Gobio gobio|Gudgeon
+~Sparidae|Porgies|Porgy|Sea breams
+~Acrocephalus paludicola|Aquatic warbler
+~Oriental small-clawed otter|Asian short-clawed otter|Asian Small-clawed Otter|Small-clawed Otter
+~Black-necked Swan|Cygnus melancoryphus
+~Northern Bald Ibis|Bald Ibis|Hermit Ibis|Waldrapp|Geronticus eremita
+~Mergus|Mergansers
+~King Quail|Asian Blue Quail|Blue-breasted Quail|Synoicus chinensis
+~Eastern Red-rumped Swallow|Cecropis daurica
+~Baikal Teal|Sibirionetta formosa
+~Chlamydotis undulata|African Houbara|African Houbara Bustard|Houbara Bustard
+~Hirudo medicinalis|European Medicinal Leech|Medicinal leech|H. medicinalis|Medicinal leeches
+~European sea sturgeon|Atlantic sturgeon|Baltic Sturgeon|Common Sturgeon|Acipenser sturio
+~Crab-eating macaque|Cynomolgus irus|Cynomolgus monkey|Long-tailed macaque|Macaca fascicularis|Macaca irus
+~Ardea
+~Swan Goose|Anser cygnoides
+~Tibetan fox|Tibetan Sand Fox|Vulpes ferrilata
+~Marsh frog|Eurasian Marsh Frog
+~Salamandridae
+~Barbary sheep|Aoudad|Uaddan|Ammotragus lervia
+~Anthocharis cardamines|Orange tip
+~Yellow-browed Warbler|Phylloscopus inornatus
+~Common Hill Myna|Gracula religiosa
+~Greenland shark|Grey shark|Gurry shark|Somniosus microcephalus
+~Tawny Eagle|Aquila rapax
+~Toco Toucan|Ramphastos toco
+~Baikal Seal|Lake baikal seal|Nerpa|Phoca sibirica|Pusa sibirica
+~Blue-footed Booby|Sula nebouxii
+~Black Drongo|Dicrurus macrocercus
+~Ascaris lumbricoides|Giant roundworm|Large roundworm
+~Pallas's Gull|Ichthyaetus ichthyaetus
+~Priapulida|Penis worms|Priapulid worms
+~Chimaeriformes|Chimaera
+~Southern red muntjac|Bornean Red Muntjac|Indian Muntjac|Javan Red Muntjac|Red Muntjac
+~Himalayan Vulture|Himalayan Griffon|Gyps himalayensis|Himalayan griffon vulture
+~Caviidae|Caviid|Caviids
+~Collared Flycatcher|Ficedula albicollis
+~Perdix
+~Red-and-green Macaw|Green-winged macaw
+~Giant otter|Giant Brazilian Otter|Giant river otter|Pteronura brasiliensis
+~Curruca nisoria|Barred Warbler
+~Australopithecus afarensis cumio|A. afarensis
+~Levant Sparrowhawk|Accipiter brevipes
+~Dimetrodon
+~Placoderms|Placoderm
+~Ide|Ide, orfe|Orfe|Leuciscus idus
+~Vanessa cardui|Painted Lady|Cynthia cardui|Pyrameis cardui
+~Jabiru|Jabiru mycteria
+~Siberian musk deer|Moschus moschiferus
+~Water deer|Chinese water deer|Hydropotes inermis|Vampire deer
+~Elasmobranchs|Elasmobranch
+~Javan tiger|Sunda tiger
+~Viviparous lizard|Zootoca vivipara
+~Rock Bunting|Emberiza cia
+~Alpine Accentor|Prunella collaris
+~Entoprocta|Entoproct|Entoprocts
+~Marine iguana|Fernandina Marine Iguana|Galapagos marine iguana|Sea Iguana
+~Vespertilionidae|Evening bat|Evening bats|Plain-nosed bat|Plain-nosed bats|Vesper bat|Vesper bats
+~Ptilonorhynchidae|Bower bird|Bower birds|Bowerbirds|The Bowerbird family
+~Malayan tiger|Panthera tigris jacksoni
+~Bank vole|Clethrionomys glareolus|Myodes glareolus
+~Little Bunting|Emberiza pusilla
+~Blanford's fox|Afghan Fox|Corsac|Dog Fox
+~Anhimidae|Screamer
+~Snakefly|Snakeflies|The snakefly family
+~Tamias|Chipmunk|Chipmunks|Ground squirrels|Young chip
+~Nautilidae
+~European green toad
+~Common vole|Microtus arvalis
+~Helix pomatia
+~Lamprey|Lampreys|Petromyzontiformes
+~Steller’s Sea Eagle|Haliaeetus pelagicus
+~Psocoptera|Psocopterans
+~Pantholops hodgsonii|Chiru|Tibetan antelope
+~Pieris rapae|Small white|Cabbage white butterfly|Small cabbage white
+~Homo antecessor
+~Yellow-breasted Bunting|Emberiza aureola
+~Loxia
+~Culpeo|Andean Fox|Lycalopex culpaeus
+~Southern cassowary|Australian cassowary|Double-wattled cassowary|Two-wattled cassowary
+~Pthirus pubis|Crab louse|Phthirus pubis|Pubic louse
+~Scorpaenidae|Scorpionfish
+~Hyacinth Macaw|Anodorhynchus hyacinthinus
+~Royal python|Ball Python|P. regius
+~Calandra Lark|Melanocorypha calandra
+~Dendrobatidae|Poison dart frog family
+~Tamaraw|Mindoro Dwarf Buffalo|Tamarau|Tamarou|Taumarau|Bubalus mindorensis
+~Brahminy Kite|Haliastur indus|Red-backed sea-eagle
+~Parus
+~Simuliidae|Black Flies|Black fly|Blackfly
+~Northern Cardinal|Cardinalis cardinalis
+~Rock Sparrow|Petronia petronia
+~Red-wattled Lapwing|Red-wattled Plover|Vanellus indicus
+~Gallinago
+~Snowshoe hare|Snowshoe Rabbit|Varying Hare|Lepus americanus
+~Macroscelididae|Elephant Shrews|Jumping shrews|Sengis
+~Kite|Kite bird
+~Ephippiorhynchus senegalensis|Saddlebill|Saddle-billed Stork
+~Pallas’s Sandgrouse|Syrrhaptes paradoxus
+~Procyon
+~Phoronida|Horseshoe worms
+~Common pipistrelle|Pipistrelle, common pipistrelle|Pipistrellus pipistrellus
+~Esox|The pike genus
+~Acipenseriformes
+~Parasaurolophus
+~Falkland Islands wolf|Falkland Island wolf|Falklands Wolf|Dusicyon australis|Falkland Island fox|Falkland Islands fox
+~Elaphurus davidianus|Pere David’s deer|Elaphure|Milu
+~Labridae|The wrasses
+~Scorpaeniformes
+~Harp Seal|Pagophilus groenlandica|Pagophilus groenlandicus
+~Plecotus auritus|Brown Big-eared Bat|Brown long-eared bat
+~European conger|Conger|Conger Eel|Congers
+~Turbellaria
+~Hyla arborea|Common tree frog|European Tree Frog
+~Willow Tit|Poecile montanus
+~Southern elephant seal|South Atlantic Elephant-seal|Mirounga leonina
+~Gadiformes
+~African Fish Eagle|African sea eagle|Haliaeetus vocifer|Icthyophaga vocifer
+~Tenrecs|Tenrecidae
+~Equus ferus ferus|Tarpan
+~Woodchat Shrike|Lanius senator
+~Lesser Whistling Duck|Dendrocygna javanica
+~Gerbillinae|Gerbil subfamily
+~Python molurus|Asiatic rock python|Black-tailed python|Indian python|Indian Rock Python
+~Neofelis
+~Larinae|Gull|Seagull
+~Pleuronectes platessa|European plaice|Fluke|Hen Fish|Plaice
+~Whiting|English Whiting|European Whiting|Golden Cutlet|North Sea Whiting|Spelding
+~Tetracerus quadricornis|Chousingha|Chowsingha|Four-horned Antelope
+~Afrotheria|Afrothere|Afrotheres|Afrotherian|Afrotherians
+~Flat-headed cat|Prionailurus planiceps
+~Alpine marmot|Marmota marmota
+~Rustic Bunting|Emberiza rustica
+~Scarce Swallowtail|Pear-tree swallowtail|Sail swallowtail|Iphiclides podalirius
+~Jynx|Wrynecks
+~Leopardus
+~Crab-eating fox|Common Zorro|Crab-eating Zorro|Savannah Fox|Cerdocyon thous
+~Wood duck|Aix sponsa
+~Procavia capensis|Dassie|Rock Dassie|Rock hyrax|Cape hyrax
+~Dytiscidae|Dytiscid|Dytiscids|Predaceous diving beetles|True water beetles
+~Tamias sibiricus|Asian chipmunk, siberian chipmunk|Siberian Chipmunk
+~Collared Pratincole|Glareola pratincola
+~Harlequin Duck|Histrionicus histrionicus
+~Marbled Teal|Marbled Duck|Marmaronetta angustirostris
+~Muraenidae|Moray eel family
+~Etruscan shrew|Pygmy White-toothed Shrew|Savi’s pygmy shrew|White-toothed Pygmy Shrew|Suncus etruscus
+~Laughing Dove|Spilopelia senegalensis
+~West Indian manatee|American Manatee|Caribbean Manatee|Antillean manatee
+~Scarlet Ibis|Eudocimus ruber
+~Roan antelope|Hippotragus equinus
+~White-winged Snowfinch|Snow Finch|Montifringilla nivalis
+~Goblin shark|Elfin Shark
+~Cyclostomi|Cyclostomes
+~Kinorhyncha|Kinorhynchs
+~Fisher|Pekan|Fisher cat|Martes pennanti|Pekania pennanti
+~Tarsius
+~Emberiza|Bunting
+~Fulica|Coots
+~Egyptian mongoose|Ichneumon|Large Gray Mongoose|Large Grey Mongoose|Herpestes ichneumon
+~Rhinoceros Hornbill|Buceros rhinoceros
+~Lama
+~Balaenidae|Right whales
+~Asian Koel|Common Koel|Western Koel|Eudynamys scolopaceus
+~Aporia crataegi|Black-veined White
+~Otus
+~Shrimp|Prawn
+~Green algae
+~Gram-negative bacteria|Gram-negative
+~Tarsier|Tarsiidae
+~Argentinosaurus
+~Mahi-mahi|Common Dolphinfish|Common Dolphin Fish|Dolphinfish|Dolphin Fish|Dorado|Green Dolphin
+~Sand lizard|Lacerta agilis
+~Carnotaurus
+~North Atlantic right whale|Black Right Whale|Northern Right Whale|Eubalaena glacialis
+~Sphyraena|Barracuda
+~Mesocricetus auratus|Golden hamster|Golden Syrian hamster|Pet hamster|Syrian hamster
+~Gonepteryx rhamni|Common brimstone|Brimstone
+~Trematoda|Trematode
+~King Eider|Somateria spectabilis
+~Serranidae
+~Cisticola juncidis|Zitting Cisticola
+~Astacus astacus|Broad-clawed Crayfish|Broad-fingered Crayfish|European Crayfish|Noble crayfish|Red-clawed Crayfish
+~Crab-plover|Dromas ardeola
+~Ara
+~Common minnow|Minnow|Eurasian minnow|Phoxinus phoxinus
+~Atlantic bluefin tuna|Blue fin tuna|Blue-fin tunny|Horse mackerel|Northern bluefin tuna|Thunnus thynnus
+~Pine Grosbeak|Pinicola enucleator
+~Stenella coeruleoalba|Blue-white Dolphin|Euphrosyne Dolphin|Striped dolphin
+~Suliformes|Phalacrocoraciformes
+~Characiformes
+~Pittidae|Pittas
+~Monodontidae
+~Yellow-throated marten|Yellow-throatedMarten|Martes flavigula
+~Bryde's Whale|Balaenoptera brydei
+~Barbary lion|Panthera leo leo
+~Drill|Mandrillus leucophaeus
+~Babyrousa|Babirusa|Pig-deer
+~Scaphopoda|Tusk shell
+~Echeneidae|Remora
+~Albacore|Aáhi Taria|Albacore Fish|Albacore tuna|Bastard Albacore
+~Homininae|Hominine|Hominines
+~Haast's Eagle|Fuller's eagle|Harpagornis moorei|Pouākai
+~Pteranodon
+~Turkey Vulture|Catharista atrata|Cathartes aura|Gallinazo|Turkey buzzard
+~Greater Short-toed Lark|Calandrella brachydactyla|Short-toed lark
+~Black-necked Crane|Tibetan Crane|Grus nigricollis
+~African Openbill|Openbill Stork|Anastomus lamelligerus
+~Recurvirostridae
+~Striated Heron|Butorides striata|Green-backed heron|Mangrove heron
+~Haematopus|Oystercatchers|Seapie
+~Sociable Lapwing|Sociable Plover|Vanellus gregarius
+~Oenanthe|Wheatears
+~Rüppell's fox|Rüeppell's Fox|Rüppell’s Sand Fox|Rüppel's fox|Sand Fox
+~Lumbricus terrestris|Common earthworm|Granddaddy earthworm|Lob worm
+~Calidris
+~Triturus
+~Megaloceros giganteus|Giant deer|Irish deer|Irish elk
+~Blyth’s Reed Warbler|Acrocephalus dumetorum
+~Palm Cockatoo|Goliath cockatoo|Great black cockatoo|Probosciger aterrimus
+~Chilean Flamingo|Phoenicopterus chilensis
+~Brown Booby|Ngangalalaw|Sula leucogaster
+~Cane toad|Agua Toad|Giant Marine Toad|Giant Toad|Marine Toad|Shoulder-knot Frog
+~Locustella luscinioides|Savi's Warbler
+~White-rumped Vulture|Asian White-backed Vulture|Oriental White-backed Vulture|Gyps bengalensis
+~Sturnus
+~Lanner Falcon|Lanner|Falco biarmicus
+~Scimitar oryx|Scimitar-horned oryx|Oryx dammah|Sahara oryx
+~Lemuriformes|Lemur|Lemurs
+~Axis porcinus|Hog deer|Indian Hog Deer|Indochina Hog Deer|Indochinese Hog Deer|Thai Hog Deer
+~Flamingo|Flamingoes|Flamingo family|Flamingos|Phoenicopteridae
+~Lutra
+~Chanos chanos|Milkfish
+~Himalayan Goral|Goral|Himalayan Brown Goral|Naemorhedus goral
+~Indian Pond Heron|Ardeola grayii
+~Scaridae|Parrotfish
+~African palm civet|Tree Civet|Two-spotted Palm Civet|Nandinia binotata
+~Sumatran orangutan|Pongo abelii
+~Masked Booby|Sula dactylatra
+~Rosy-faced Lovebird|Agapornis roseicollis
+~Zeus faber|Atlantic John Dory|Doree|Dory|Gallocristo|Girti
+~Japanese Quail|Coturnix japonica
+~Domestic duck
+~Lepus capensis|Arabian Hare|Cape hare|Desert Hare
+~Yellow baboon|Papio cynocephalus
+~Drongo|Dicruridae|Drongos
+~Petromyzontidae|Northern lampreys
+~Palinuridae|Spiny lobster|Crawfish|Crayfish|Kreef|Langouste|Langustas
+~Compsognathus
+~Neon tetra|Neon|Paracheirodon innesi
+~Sauropodomorpha|Sauropodomorph|Sauropodomorphs
+~Tigon|Tiglon
+~Common dace|Dace|Leuciscus leuciscus
+~Lagopus
+~Danio rerio|Zebra danio|Zebra fish|Zebrafish
+~Pheasant-tailed Jacana|Hydrophasianus chirurgus
+~Anhingidae|The Darter family
+~Portuguese man o' war|Bluebottle|Man-of-war|Physalia physalies|Physalia physalis
+~Ixobrychus cinnamomeus|Cinnamon Bittern
+~Circus|Harrier
+~Lar Gibbon|Common Gibbon|White-handed gibbon|H. lar|Hylobates lar
+~False killer whale|False Pilot Whale|Phocaena crassidens|Pseudorca crassidens
+~Wandering Albatross|Man-of-War Bird|Toroa|White-winged Albatross|Diomedea exulans|Snowy albatross
+~Meliphagidae|The honeyeaters
+~Anguillidae
+~European flounder|Baltic Flounder|Butt|Flounder|Mud Flounder
+~Yellow-necked mouse|Yellow-necked Field Mouse|Apodemus flavicollis
+~Red-footed Booby|Sula sula
+~Sparus aurata|Gilt-head Seabream|Silver Seabream|Snapper|Dorade|Gilt-head bream|Gilthead seabream
+~Nyala|Inyala|Lowland nyala|Nyala angasii|Tragelaphus angasii
+~Southern right whale|Eubalaena australis
+~Aesculapian Snake|Aesculapian Ratsnake|Zamenis longissimus
+~Australian Pelican|Pelecanus conspicillatus|Pelecanus conspillicatus
+~Little Auk|Alle alle|Dovekie
+~Sucking louse|Anoplura
+~Sunda pangolin|Malayan Pangolin|Manis javanica
+~Pica|Magpies|True magpies
+~Eudorcas thomsonii|Thomson’s gazelle|Thomson gazelle|Tommie
+~Cheirogaleidae
+~Lechwe|Red Lechwe|Southern Lechwe|Kobus leche
+~Sunda clouded leopard|Diard’s clouded leopard|Enkuli clouded leopard|Sunda Islands clouded leopard|Sundaland clouded leopard|Neofelis diardi
+~Middle Spotted Woodpecker|Dendrocopos medius|Dendrocoptes medius
+~Ostracoda
+~Pterodactyl|Pterodactylus
+~Roseate Tern|Sterna dougallii
+~Sauropsida|Sauropsid|Sauropsids
+~White-winged Crossbill|Two-barred crossbill|Loxia leucoptera
+~Lorisidae|Loridae
+~Black-headed Ibis|Black-necked Ibis|Indian White Ibis|Oriental White Ibis|Threskiornis melanocephalus
+~Roseate Spoonbill|Platalea ajaja
+~Slender-billed Gull|Chroicocephalus genei|Larus genei
+~Albertosaurus
+~Prionailurus
+~Knob-billed Duck|Sarkidiornis melanotos
+~Treron|Green pigeon genus|Green pigeons
+~White-bellied Sea Eagle|Haliaeetus leucogaster|White-breasted Fish Eagle|White-breasted Sea Eagle
+~Tadorna|Shelducks
+~Burrowing Owl|Athene cunicularia
+~Staphylinidae|Rove beetles
+~Aegithalidae|Long-tailed Tits, Bushtits
+~Pterois|Lionfish
+~Alouatta|Género de monos aulladores|Monos aulladores
+~Milvus
+~Northern elephant seal|Mirounga angustirostris
+~Acrocephalus
+~Echiura
+~Yellow-billed Stork|Mycteria ibis
+~Asian water monitor|Asian water monitor lizard|Common Water Monitor|Kabaragoya|Varanus salvator|Water monitor|Water Monitor Lizard
+~Thraupidae|Tanagers|The tanager family|Thraupid|Thraupids
+~Black-winged Pratincole|Glareola nordmanni
+~Cracidae|Cracids
+~Charadrius
+~Greater Horseshoe Bat|Rhinolophus ferrumequinum
+~Locustella fluviatilis|Eurasian River Warbler|River warbler
+~Indian pangolin|Thick-tailed pangolin|Manis crassicaudata
+~Smooth-coated otter|Indian Smooth-coated Otter|Lutrogale perspicillata
+~Slender-billed Curlew|Numenius tenuirostris
+~Desert Wheatear|Oenanthe deserti
+~Strigopidae|New Zealand parrots
+~Brown Shrike|Lanius cristatus
+~Chinese pangolin|Manis pentadactyla|Short-tailed Pangolin
+~Wallaby
+~Dung beetles|Dung beetle
+~Paranthropus|Robust australopithecines
+~Goliath Heron|Ardea goliath
+~Lemuroidea
+~Cingulata|Cingulate|Cingulates
+~Galah|Eolophus roseicapilla|Eolophus roseicapillus|Pink and grey cockatoo|Rose-breasted cockatoo
+~Sylvia|Typical warblers
+~Titanoboa|Titan boa
+~South American Coati|Coatimundi|Common Coati|Ring-tailed coati
+~Rana catesbeiana|American Bullfrog|Bull frog|Bullfrog|Lithobates catesbeianus
+~Bighorn sheep|American Bighorn|Mountain Sheep|Ovis canadensis
+~Haliotis|Abalone|Pāua
+~Oligochaeta|Oligochaetes|Oligochaete worms
+~Chlamydoselachus anguineus|Frilled shark|Lizard Shark|Scaffold Shark
+~Sipuncula|Peanut worms|Sipunculidea|Sipunculid worms
+~Myrmecophagidae|Anteater
+~American crocodile|Crocodylus acutus
+~Siamese crocodile|Crocodylus siamensis
+~Regulus|Crests|Kinglet
+~Clupea|True herring
+~Steller’s Eider|Polysticta stelleri
+~Tetraodontiformes
+~Sabine's Gull|Xema sabini
+~Serotine bat|Common Serotine|Serotine|Serotine, common serotine|Big brown bat
+~Lissotriton vulgaris|Smooth newt
+~Baird's tapir|Central American Tapir|Tapirus bairdii
+~Arctic wolf|Canis lupus arctos|Polar wolf|Snow wolf|White wolf
+~South American tapir|Brazilian Tapir|Lowland tapir|Amazonian tapir
+~Mountain tapir|Andean Tapir|Woolly Tapir|Tapirus pinchaque
+~Golden mole|Golden mole family|Golden moles|Gouemolle
+~Australopithecus africanus|A. africanus
+~Phoenicurus
+~Eurasian pygmy shrew|Pygmy Shrew|Pygmy shrew, lesser shrew|Sorex minutus
+~Peramelemorphia
+~Spur-winged Goose|Plectropterus gambensis
+~Indian Vulture|Gyps indicus|Long-billed Vulture
+~Pectoral Sandpiper|Calidris melanotos
+~Crested porcupine|African crested porcupine|Hystrix cristata|North African crested porcupine
+~Plesiosauria|Plesiosaur|Plesiosaurian|Plesiosaurians|Plesiosaurs
+~Daphnia
+~Box jellyfish|Cubozoa
+~Carduelis|Goldfinches
+~Elateridae|Click beetle|Click beetles|Elater|Elaterid|Elaterids|Elaters
+~Black Francolin|Francolinus francolinus
+~Grey Junglefowl|Sonnerat's Junglefowl|Gallus sonneratii
+~American marten|American Pine Marten|Pacific Marten
+~Nubian ibex|Capra nubiana
+~Stomatopoda|Mantis shrimp
+~Rattus exulans|Pacific Rat|Polynesian Rat
+~Lonchura punctulata|Nutmeg Mannikin|Scaly-breasted Munia|Spice Finch
+~Phacochoerus|Warthog
+~Bitis gabonica|Gaboon Adder|Gaboon Viper|Gabonese snake|Gabon viper
+~Acherontia atropos|African death head's hawkmoth|Deaths head hawkmoth|Greater death's head hawkmoth
+~Poeciliidae
+~Bharal|Blue Sheep|Greater Blue Sheep|Pseudois nayaur
+~Garden dormouse|European Garden Dormouse|Eliomys quercinus
+~Siberian Roe Deer|Eastern Roe Deer|Siberian Roe|Capreolus pygargus
+~Martial Eagle|Polemaetus bellicosus
+~Pink-backed Pelican|Pelecanus rufenscens|Pelecanus rufescens
+~Limosa|Godwit
+~Pit viper|Pit adders|Pit vipers
+~Herpestes edwardsii|Indian Gray Mongoose|Indian grey mongoose|Great ichneumon
+~Painted Stork|Mycteria leucocephala
+~Greater Adjutant|Adjutant|Leptoptilos dubius
+~Asio
+~Common octopus|Octopus vulgaris
+~Lates niloticus|African Snook|Nile Perch|Victoria Perch
+~Yellow-legged Gull|Larus michahellis
+~Oriental Turtle Dove|Streptopelia orientalis
+~Dendrocopos
+~Viverricula indica|Lesser Oriental Civet|Oriental Civet|Rasse|Small Indian civet
+~Fulvous Whistling Duck|Fulvous Duck|Dendrocygna bicolor|Fulvous tree duck
+~Kit fox|Desert Fox|Vulpes macrotis
+~Percidae
+~Alexandrine Parakeet|Alexandrian parrot|Psittacula eupatria
+~Siberian ibex|Asiatic Ibex|Himalayan Ibex|Capra sibirica
+~Asilidae|Robber Flies|Assassin flies|Assassin fly|Robber fly|Robberfly
+~White-breasted Waterhen|Amaurornis phoenicurus
+~Black-necked Stork|Ephippiorhynchus asiaticus
+~Blueberry|Vaccinium Cyanococcus|Vaccinium sect. Cyanococcus
+~Ardipithecus
+~Red-flanked Bluetail|Orange-flanked bush-robin|Tarsiger cyanurus
+~Eoraptor
+~Quetzalcoatlus
+~Limulidae|Horseshoe crabs
+~Cyprinodontiformes|Toothcarps
+~Deinonychus
+~Giganotosaurus
+~Pachycephalosaurus
+~Polyommatus icarus|Common blue
+~Indriidae|Indridae|Indris
+~Monoplacophora|Monoplacophorans|Monoplacophores
+~Dasyatidae
+~Manx Shearwater|Puffinus puffinus
+~Ixodes ricinus|Acarus ricinoides|Castor bean tick|Central European tick|Crotonus ricinus|Cynorhaestes hermanni|Cynorhaestes reduvius
+~Eleonora's Falcon|Eleonorais falcon|Falco eleonorae
+~Takahē|South Island Takahe|Porphyrio hochstetteri|Takahea
+~Syngnathidae
+~Cystophora cristata|Bladder-nose|Hooded seal
+~Aythya
+~Stickleback|Gasterosteidae
+~Kiang|Equus kiang
+~Marmota monax|Woodchuck|Gopher|Whistlepig
+~Tenebrio molitor|Mealworm|Yellow mealworm|Yellow mealworm beetle|Mealworm beetle
+~Pygmy marmoset|Callithrix pygmaea|Dwarf marmoset
+~Egyptian cobra|Naja haje|Ouraeus
+~Phalaropus
+~Hermann's tortoise|Testudo hermanni
+~Eastern grey kangaroo|Eastern Gray Kangaroo|Forester kangaroo|Great grey kangaroo|Macropus giganteus
+~Protura
+~Dilophosaurus|Dilophosaur
+~Bichir|Polypteridae
+~Philippine crocodile|Philippines Crocodile|Bukarot|Buwaya|C. mindorensis|Crocodylus mindorensis
+~Naked mole-rat|Sand Puppy|Desert mole rat|Heterocephalus glaber
+~Homarus gammarus|Common lobster|European Lobster
+~Anatinae|Dabbling duck|Dabbling ducks
+~Oriental Darter|Anhinga melanogaster
+~Lepidochelys olivacea|Olive Ridley|Olive ridley turtle|Pacific Ridley|Olive ridley sea turtle|Pacific ridley sea turtle|Pacific ridley turtle
+~Calliphoridae|Blow Flies|Blowflies|Bluebottles|Carrion flies|Cluster flies
+~Meloidae|Blister Beetle|Oil Beetle|Orange Blister Beetle|Striped Blister Beetle
+~Cheloniidae|Typical sea turtles
+~Edmontosaurus|Anatosaurus|Anatotitan|Thespesius|Trachodon|Ugrunaaluk
+~Bucephala
+~Drosophila
+~Oceanic whitetip shark|Crow de brass star|Whitetip Oceanic Shark|White-tipped Shark|Whitetip Shark|Carcharhinus longimanus
+~Mule deer|Black-tailed deer|Odocoileus hemionus
+~Astronotus ocellatus|Marble cichlid|Oscar|Tiger oscar|Velvet cichlid
+~Macroglossum stellatarum|Humming-bird hawk moth|Hummingbird hawk-moth|Hummingbird hawkmoth|Hummingbird moth
+~Puff adder|African puff adder|Bitis arietans|Common puff adder
+~Kitti's hog-nosed bat|Bumblebee Bat|Hog-nosed Bat|Craseonycteris thonglongyai
+~Western Reef Heron|Egretta gularis|Western reef-egret
+~Tringa
+~Asian Green Bee-eater|Little green bee-eater|Merops orientalis
+~Andean Flamingo|Phoenicoparrus andinus
+~Mountain weasel|Altai weasel|Pale Weasel|Mustela altaica
+~Lymantria dispar|Gypsy Moth|European Gypsy Moth|Spongy moth
+~White Cockatoo|Cacatua alba
+~Crotalus
+~Eurasian water shrew|Northern Water Shrew|Old World Water Shrew|Water shrew|Neomys fodiens
+~Amphisbaenia
+~Felis lybica|African wild cat|African wildcat
+~Amia calva|Bowfin
+~Erinaceus
+~Azure Tit|Cyanistes cyanus
+~Grus canadensis|Sandhill crane
+~Nymphalis antiopa|Camberwell beauty|Mourning cloak|Mourning cloak butterfly
+~Lion-tailed Macaque|Liontail Macaque|Wanderoo|Macaca silenus
+~Fringilla|Bramblings and chaffinches
+~Thunnini|Tunny fish
+~Cuvier's Beaked Whale|Goose-beaked whale|Ziphius cavirostris
+~Purple Sandpiper|Calidris maritima
+~Masked palm civet|Gem-faced Civet|Himalayan Palm Civet|Paguma larvata
+~Kākā|New Zealand Kaka|Nestor meridionalis
+~Red-headed Vulture|Sarcogyps calvus
+~Cettia cetti|Cetti's Warbler
+~Myotis nattereri|Natterers bat|Natterer’s Myotis
+~Tufted deer|Elaphode|Elaphodus cephalophus
+~Himalayan tahr|Hemitragus jemlahicus|Shapi
+~Cetonia aurata|Rose Chafer|Green rose chafer
+~White-throated Kingfisher|White-breasted Kingfisher|Halcyon smyrnensis
+~Pallas's Leaf Warbler|Pallas's warbler|Phylloscopus proregulus
+~Large Indian civet|Civet cat|Viverra zibetha|Viverra zibetha zibetha
+~Silver carp|Hypophthalmichthys molitrix
+~Glaucidium|Pygmy owls
+~Lycalopex gymnocercus|Azara's Fox|Azara's Zorro|Pampas fox
+~Ixobrychus flavicollis|Black Bittern
+~Caenorhabditis elegans
+~Koi|Koi carp|Koi fish|Nishikigoi|Swimming jewel
+~Thistle
+~Hawk
+~Belonidae|Needlefish|Long toms
+~Acrocanthosaurus
+~Carcharodontosaurus
+~Cirl Bunting|Emberiza cirlus
+~Pallid Swift|Apus pallidus
+~Iceland Gull|Larus glaucoides
+~Pygmy right whale|Caperea marginata
+~Xiphosura
+~Blue-cheeked Bee-eater|Merops persicus
+~Somali Ostrich|Struthio molybdophanes
+~Trachemys scripta elegans|Red-eared terrapin|Red-eared slider
+~Calcarea|Calcareous sponge
+~Boat-billed Heron|Cochlearius cochlearius
+~Black Guillemot|Cepphus grylle
+~Jacanidae
+~Pterophyllum|Angelfish
+~White-beaked dolphin|Lagenorhynchus albirostris
+~Glareolidae
+~Macaroni Penguin|Eudyptes chrysolophus
+~American lion|American cave lion|North American lion|Panthera atrox|P. atrox
+~Scoter|Melanitta
+~Hoary fox|Brasilian Fox|Hoary Zorro|Small-toothed Dog|Lycalopex vetulus
+~Swift fox|Vulpes velox
+~Chaetodontidae|The butterflyfish family
+~Duiker|Cephalophinae
+~Macaca nigra|Black Crested Macaque|Celebes Black Macaque|Celebes Crested Macaque|Celebes Macaque|Crested black macaque
+~Blue-winged Teal|Spatula discors
+~Rufous Treepie|Dendrocitta vagabunda
+~Abdim's stork|Ciconia abdimii|White-bellied stork
+~Garrulus
+~Thorny devil|Moloch|Moloch horridus|Mountain devil|Thorny dragon|Thorny lizard
+~Tokay gecko|Gekko gecko
+~Short-eared dog|Short-eared Fox|Small-eared Dog|Small-eared zorro|Atelocynus microtis
+~Acrocephalidae|Acrocephalid warblers
+~Daktulosphaira vitifoliae|Grape phylloxera|Dactylosphaera vitifoliae
+~Zosteropidae|White-eye
+~Trionychidae|Soft-shelled turtles|Softshell turtles
+~Russian Desman|Desman|Desmana moschata
+~Western Black-eared Wheatear|Oenanthe hispanica
+~Latrodectus|Black widow|Black widow spider|Widow spider
+~Banded krait|Bungarus fasciatus
+~Amazonian manatee|Amazon Manatee|South American Manatee|Trichechus inunguis
+~Pilot whale|Blackfish|Caaing|Globicephala|Pothead whale
+~Frill-necked Lizard|Frilled lizard|Chlamydosaurus kingii|Frilled agama
+~Azure-winged Magpie|Cyanopica cyanus
+~Marsh deer|Blastocerus dichotomus
+~European sprat|Sprat|Sprattus sprattus
+~Whiskered bat|Whiskered Myotis|Myotis mystacinus
+~Acanthisittidae|Acanthisittid|Acanthisittids|New Zealand wren|Xenicidae
+~Rüppell's Vulture|Gyps rueppelli|Gyps rueppellii|Rueppell’s griffon|Ruppell's griffon
+~Ring-necked Duck|Aythya collaris
+~Crested Honey Buzzard|Oriental honey-buzzard|Pernis ptilorhynchus|Pernis ptilorhyncus
+~Anserinae|Anserine|Anserines
+~Oreotragus oreotragus|Cape Klipspringer|Klipspringer
+~Chrysopidae|Common lacewings|Green lacewings
+~Crabeater seal|Lobodon carcinophaga|Lobodon carcinophagus
+~Lepus californicus|Black-tailed jackrabbit|American desert hare
+~Ruddy Duck|Oxyura jamaicensis
+~American kestrel|American sparrowhawk|Falco sparverius
+~Pentatomidae|Stink Bugs|Pentatomid|Pentatomids|Shield bug|Shield bugs|Stink bug
+~Aptenodytes
+~Athene
+~Hawaiian Monk Seal|Monachus schauinslandi
+~Island fox|Urocyon littoralis
+~Ivory Gull|Pagophila eburnea
+~Mustela eversmanii|Steppe Polecat|Steppe Weasel
+~Goliath frog|Giant Slippery Frog|Conraua goliath
+~Indian crested porcupine|Hystrix indica|Indian porcupine
+~Himalayan Monal|Lophophorus impejanus
+~Dibatag|Clarke's gazelle|Ammodorcas clarkei
+~Iduna caligata|Booted Warbler
+~Pied Wheatear|Oenanthe pleschanka
+~Black Eagle|Ictinaetus malaiensis|Ictinaetus malayensis
+~Great Horned Owl|Bubo virginianus|Tiger Owl
+~Laughing Kookaburra|Kookaburra|Dacelo novaeguineae
+~Pied Crow|Corvus albus
+~Homo rudolfensis|H. rudolfensis
+~Large-billed Crow|Corvus macrorhynchos
+~Diving bell spider|Water spider|Argyroneta aquatica
+~Short-toed Treecreeper|Certhia brachydactyla
+~Baryonyx
+~Aix
+~African Jacana|Actophilornis africanus
+~Vanellus
+~Catopuma|Golden cat
+~Massospondylus
+~Long-finned pilot whale|Atlantic Pilot Whale|Northern Pilot Whale
+~Sri Lanka Junglefowl|Ceylon Junglefowl|Gallus lafayettii
+~Estrildidae|Estrildid finch
+~Phodopus sungorus|Dzhungarian Hamster|Striped Hairy-footed Hamster|Dwarf hamster|Dzungarian hamster|Winter white dwarf hamster|Winter white hamster
+~Common noctule|Noctule|Noctule bat|Noctule, common noctule|Nyctalus noctula
+~Mesoplodon bidens|North Atlantic Beaked Whale|Sowerby’s beaked whale|Sowerby’s Whale
+~Barbastelle|Barbastelle bat|Western Barbastelle|Barbastella barbastellus
+~American Golden Plover|Pluvialis dominica
+~Scopoli's Shearwater|Calonectris diomedea
+~Tyrannidae|Tyrant flycatcher|New World flycatcher|The tyrant flycatchers|Tyrannid|Tyrant
+~Agami Heron|Agamia agami
+~Cream-coloured Courser|Cursorius cursor
+~Cardinalidae|Cardinal family|Cardinal-grosbeak
+~Chironomidae|Midges|Non-biting midges
+~Moschidae|Musk deers
+~Cuban crocodile|Crocodylus rhombifer
+~Dactylopius coccus
+~Dwarf crocodile|African Dwarf Crocodile|West African Dwarf Crocodile|Bony crocodile
+~Forficula auricularia|Common European Earwig|Common earwig|European earwig
+~Indian giant squirrel|Malabar Giant Squirrel|Ratufa indica
+~Medium Egret|Intermediate Egret|Ardea intermedia
+~Siberian Rubythroat|Calliope calliope
+~Swordtail|Green swordtail
+~Caiman crocodilus|Common Caiman|Spectacled caiman|Speckled caiman
+~Ankylosauria|Ankylosaur|Ankylosaurian|Ankylosaurians|Ankylosaurs
+~Asiatic cheetah|Iranian Cheetah|Acinonyx jubatus venaticus|Indian cheetah
+~American wigeon|Mareca americana
+~White-backed Vulture|Gyps africanus
+~Sooty Tern|Onychoprion fuscatus|Sterna fuscata
+~Northern Bat|Eptesicus nilssonii
+~Forest dormouse|Common Forest Dormouse|Dryomys nitedula
+~Eastern gorilla|Gorilla beringei
+~Varanidae|Varanid|Varanids
+~Gigantopithecus
+~Apus
+~Picus
+~White-throated Needletail|Asian Spine-tailed Swift|Needle-tailed Swift|Spine-tailed Swift|Hirundapus caudacutus
+~Pomacanthidae
+~Bos sauveli|Grey Ox|Kouprey
+~Great blue heron|Blue heron|Canadian blue heron|Canadian heron
+~Red-eyed tree frog|Red-eyed Leaf frog|Red-eyed Treefrog|Agalychnis callidryas
+~Striped skunk|Mephitis mephitis|M. mephitis
+~Black wildebeest|White-tailed Gnu|Connochaetes gnou
+~Alauda
+~California sea lion|Zalophus californianus
+~Pacific Reef Heron|Eastern Reef Egret|Pacific Reef-egret|Reef Heron|Egretta sacra
+~Black-footed ferret|American polecat|Mustela nigripes|Prairie dog hunter
+~Chinkara|Indian Gazelle|Gazella bennettii
+~Antilopinae
+~Atelidae|Atelid monkeys|Atelids|Spider monkey family
+~Brown Fur Seal|Afro-Australian Fur Seal|Australian Fur Seal|Cape Fur Seal|South African Fur Seal
+~Blue-throated Macaw|Ara glaucogularis
+~Carcharhinidae|Requiem sharks
+~Dire wolf|Aenocyon dirus|Direwolf
+~Leafy seadragon|Glauerts Seadragon|Phycodurus eques
+~Channidae|Snakehead
+~Hercules beetle|Dynastes hercules
+~Daubenton's bat|Daubenton's Myotis
+~Patas monkey|Common Patas Monkey|Erythrocebus patas
+~Triggerfish|Balistidae
+~Red-vented Bulbul|Pycnonotus cafer
+~Pacific Diver|Pacific Loon|Gavia pacifica
+~Lesser horseshoe bat|Rhinolophus hipposideros
+~Common shrew|Eurasian Common Shrew|Eurasian Shrew|Sorex araneus
+~Lesser Adjutant Stork|Lesser Adjutant|Leptoptilos javanicus
+~Salamandra
+~Darwin's fox|Lycalopex fulvipes
+~Bufo
+~Rucervus eldii|Brow-antlered deer|Eld’s deer|Thamin
+~Bobak marmot|Marmota bobak|Steppe marmot
+~Syngnathiformes
+~Viperinae|Viperine|Viperines
+~Mesitornithidae|Mesite
+~Kagu|Kagou|Rhynochetos jubatus
+~Cuckoo-roller|Leptosomus discolor
+~Vaquita|Chochito|Cochito|Gulf of California Porpoise|Gulf Porpoise
+~Carassius gibelio|Gibel carp|Prussian carp
+~Inland taipan|Oxyuranus microlepidotus
+~Odontophoridae|New World quail family|New World quails|Odontophorids
+~Motmot|Momotidae
+~American White Pelican|Pelecanus erythrorhynchos|Pelecanus erythrorhynchus
+~Amandava amandava|Red Avadavat|Strawberry finch
+~Mountain gorilla|Gorilla beringei beringei
+~Botaurus
+~Pale fox|African Sand Fox|Pallid Fox|Vulpes pallida
+~Francolinus|Francolins
+~Black-naped Oriole|Oriolus chinensis
+~White-faced Whistling Duck|Dendrocygna viduata
+~Caspian seal|Pusa caspica
+~Hog badger|Greater Hog Badger|Arctonyx collaris
+~Royal Penguin|Eudyptes schlegeli
+~Bungarus|Krait|Kraits
+~Common wombat|Bare-nosed Wombat|Bass Strait Wombat|Coarse-haired Wombat|Flinders Island Wombat|Forest Wombat
+~Lanius
+~Emperor Goose|Anser canagicus
+~Blue crane|Stanley Crane|Anthropoides paradiseus|Paradise crane
+~Bali Myna|Bali mynah|Bali starling|Jalak Bali|Leucopsar rothschildi|Rothschild's mynah
+~Geomyidae|Geomyid|Geomyids|Gopher family|Pocket gopher
+~Grasshopper|Short-horned grasshoppers
+~Acrocephalus agricola|Paddyfield Warbler
+~Snowcock|Tetraogallus
+~European Stonechat|Common stonechat|Saxicola rubicola
+~Spotted Owlet|Athene brama
+~Jacobin Cuckoo|Black and white cuckoo|Clamator jacobinus|Oxylophus jacobinus
+~Apis dorsata|Giant honey bee
+~Red-naped Ibis|Pseudibis papillosa
+~Gallinula|The moorhen genus
+~Yellow Bittern|Botaurus sinensis|Ixobrychus sinensis
+~Anthus richardi|Richard's Pipit
+~Natrix
+~Industrial hemp|Hemp
+~Drosophilidae|Lesser fruit flies|Vinegar flies
+~Dromaeosauridae|Dromaeosaur|Dromaeosaur family|Dromaeosaurid|Dromaeosaurids|Dromaeosaurs
+~Plateosaurus|Dimodosaurus|Sellosaurus
+~Oviraptor
+~Ceratopsia
+~Porbeagle|Lamna nasus|Porbeagle shark
+~Capelin|Caplin|Mallotus villosus
+~Rhynchocephalia|Rhychocephalians
+~Ceratopogonidae|Biting midge|Biting midges|Biting midgie|Biting midgies|Midge
+~Morus|Gannets
+~Eulipotyphla|True insectivores
+~Zebra shark|Leopard shark|Stegostoma fasciatum
+~Acipenser|Acipenser albertensis
+~Golden lion tamarin|Golden marmoset|Leontopithecus rosalia
+~Leach’s Storm Petrel|Leach's Petrel|Oceanodroma leucorhoa
+~Gasterosteiformes
+~Spiny dogfish shark|Cape Shark|Piked Dogfish|Spiny dogfish|Spurdog
+~Hinny
+~Ibisbill|Ibidorhyncha struthersii
+~Banded mongoose
+~Lemming|Lemming Rat|Lemmini
+~Porcula salvania|Pygmy hog
+~Tayra|Greyheaded Tayra|Eira barbara
+~Tarbosaurus
+~Common genet|Small-spotted Genet|Genetta genetta
+~Orinoco crocodile|Crocodylus intermedius
+~Puku|Kobus vardonii
+~Common sole|Solea solea
+~Northern bottlenose whale|Bottlehead|North-atlantic Bottle-nosed Whale|North Atlantic Bottlenose Whale|Hyperoodon ampullatus
+~Hispid Hare|Assam rabbit|Bristly rabbit|Caprolagus hispidus
+~Coelophysis|Longosaurus|Rioarribasaurus
+~Weddell seal|Leptonychotes weddellii
+~Edible frog|Green frog|Common water frog|Pelophylax esculentus|Pelophylax kl. esculentus|Water frog
+~Bubalus depressicornis|Lowland anoa
+~Freshwater crocodile|Australian Freshwater Crocodile|Freshie|Johnson's Crocodile|Johnstone's Crocodile|Johnston's Crocodile
+~Tree-kangaroo|Dendrolagus
+~Fasciola hepatica|Common liver fluke|Sheep liver fluke
+~Sea lamprey|Petromyzon marinus
+~Dorcas gazelle|Gazella dorcas
+~African manatee|Seacow|West African Manatee|Trichechus senegalensis
+~Arctic char|Arctic charr|Charr|Salvelinus alpinus
+~James's Flamingo|Puna Flamingo|Phoenicoparrus jamesi
+~Gnathostomulida|Gnathostomulid|Gnathostomulids|Jaw worms
+~Acanthuridae
+~Blattella germanica|German cockroach
+~Aotus|The night monkeys
+~Long-billed Dowitcher|Limnodromus scolopaceus
+~Arenaria
+~Rock Partridge|Alectoris graeca
+~Padda oryzivora|Java Sparrow
+~Red-whiskered Bulbul|Pycnonotus jocosus
+~Carangidae
+~Mountain beaver|Sewellel|Aplodontia rufa
+~North Pacific right whale|Eubalaena japonica
+~Emperor dragonfly|Blue Emperor|Emperor
+~Blue-ringed octopus|Hapalochlaena
+~Capra pyrenaica|Spanish Ibex|Kozorožec iberský
+~Microhylidae|Microhyidae
+~Sorex
+~South Polar Skua
+~Callitrichidae|Callithricidae|Callitrichid|Callitrichids|Marmoset family
+~Green Junglefowl|Gallus varius
+~South American gray fox|Argentine Gray Fox|Grey Zorro|South American grey fox|Chilla
+~Cercotrichas galactotes|Rufous Scrub Robin|Rufous-tailed Scrub Robin
+~Common thresher|Common Thresher Shark|Thresher shark|Tresher shark, tresher|Alopias vulpinus
+~European ground squirrel|European Souslik|European Squirrel|European Suslik
+~Mantled guereza|Eastern Black-and-white Colobus|Guereza|Magistrate Colobus|Colobus guereza
+~Striped field mouse|Apodemus agrarius
+~Anthus petrosus|European Rock Pipit|Eurasian Rock Pipit|Rock Pipit
+~Cotingidae|Cotinga family|Cotingas
+~Great Frigatebird|Fregata minor
+~Stenella longirostris|Long-beaked Dolphin|Long-snouted Dolphin|Pantropical Spinner Dolphin|Spinner dolphin|Spinning Dolphin
+~Nine-banded armadillo|Common Long-nosed Armadillo|Dasypus novemcinctus
+~Great Spotted Cuckoo|Clamator glandarius
+~Pink salmon|Humpback salmon|Humpie|Oncorhynchus gorbuscha
+~Southern Rockhopper Penguin|Rockhopper Penguin|Eudyptes chrysocome
+~Remizidae|Penduline tit
+~Giant eland|Lord Derby eland
+~Arctic Warbler|Phylloscopus borealis
+~Semnopithecus|Gray langur genus
+~Little Cormorant|Microcarbo niger|Phalacrocorax niger
+~Mosquitofish|Western Mosquitofish|Gambusia affinis|Mosquito fish|Pussel-gut|Pussy-gut
+~Aramus guarauna|Limpkin
+~Bateleur|Bateleur Eagle|Terathopius ecaudatus
+~Trumpeter Swan|Cygnus buccinator
+~Phasianus
+~Varanus niloticus|Nile monitor|Water leguaan
+~American Bittern|Botaurus lentiginosus
+~Ross's Gull|Rhodostethia rosea
+~Southern white-breasted hedgehog|Eastern European Hedgehog|Eastern Hedgehog|Erinaceus concolor
+~Cottontail rabbit|Sylvilagus
+~Western Rock Nuthatch|Sitta neumayer
+~Syrian Woodpecker|Dendrocopos syriacus|Picoides syriacus
+~Ring-billed Gull|Gaviota de Delaware|Larus delawarensis
+~White-nosed coati|Coati
+~Tetrao
+~Persian fallow deer|Dama mesopotamica
+~Sterna
+~Greater Coucal|Centropus sinensis|Common crow-pheasant|Crow pheasant
+~Podargidae|The Frogmouth family
+~Common Emerald Dove|Asian emerald dove|Chalcophaps indica|Grey-capped Emerald Dove
+~Pterois volitans|Common lionfish|Red lionfish
+~Serinus
+~White-tailed Lapwing|Vanellus leucurus
+~Rhinolophidae|Cave-dwelling horseshoe bats|Horseshoe bat family
+~Arvicolinae
+~Lycalopex sechurae|Peruvian Desert Fox|Sechura Desert Fox|Sechura fox|Sechuran Desert Fox|Sechuran Fox
+~Morelia viridis|Green Python|Green Tree Python
+~Mustard plant
+~Philippine flying lemur|Cynocephalus volans
+~Crex egregia|African Crake|Porzana egregia
+~Abelisaurus
+~Coscoroba Swan|Coscoroba coscoroba
+~Styracosaurus
+~Holocephali
+~Struthionidae
+~Viverra
+~Silver Bream|White bream|Blicca bjoerkna
+~Common Buttonquail|Andalusian Hemipode|Kurrichane Buttonquail|Little button-quail|Turnix sylvatica|Turnix sylvaticus
+~Casuariiformes
+~Pyrrhocorax
+~Rynchops|Skimmers|The Skimmer genus|The Skimmers
+~Sciaenidae|Croaker|Drum|Hardhead
+~Caenolestidae|The Shrew opossum family
+~Pine Bunting|Emberiza leucocephalos
+~Indian Grey Hornbill|Ocyceros birostris|Tockus birostris
+~Tachinidae|Tachinid flies|Tachinids
+~False gharial|Malayan Gharial|Sunda Gharial|Tomistoma|False gavial
+~White-winged Duck|White-winged Wood Duck|Asarcornis scutulata
+~Basiliscus
+~Cape Barren goose|Cereopsis novaehollandiae
+~American Crow|Common American crow|Common crow|Corvus brachyrhynchos
+~Japanese spider crabs|Macrocheira kaempferi
+~Ensifera
+~Mytilus edulis|Blue mussel|Common mussel|Mussel
+~Hirundo
+~Recurvirostra
+~Orycteropodidae
+~Hector's dolphin|New Zealand Dolphin|New Zealand White-front Dolphin|White-headed Dolphin
+~Lacerta viridis|Green lizard|Eastern green lizard|European green lizard
+~Megatherium|Giant ground sloth
+~Microraptor
+~Elephas
+~Mosasaurus|Drepanodon
+~Barbus barbus|Barbel
+~North American river otter|Lontra canadensis|Lutra canadensis|North American otter|Northern river otter|River otter
+~Diodontidae|Porcupinefish
+~South American sea lion|Southern Sea Lion|Otaria dentro|Otaria flavescens
+~Red-billed Quelea|Quelea quelea|Red-billed dioch|Red-billed weaver
+~Yellow-crested Cockatoo|Cacatua sulphurea
+~Tyto
+~Black-bellied Sandgrouse
+~Moustached Warbler|Acrocephalus melanopogon
+~Sheltopusik|European glass lizard|Pseudopus apodus
+~Tapanuli orangutan|Pongo tapanuliensis
+~Cebidae
+~Steller's sea lion|Northern Sealion|Northern Sea Lion|Steller Sea Lion|Steller's Sealion
+~Amazona|The Amazon parrots
+~Whooping crane|Grus americana
+~Bluefish|Ancho|Blue Fish|Choppers|Elf|Fatback
+~Mullidae|Goatfish|Mullid|Mullids
+~Clownfish|Anemonefish|The anemonefishes|The clownfishes
+~European mole cricket|Mole-cricket|Gryllotalpa gryllotalpa
+~Abyssinian Ground Hornbill|Northern Ground-hornbill|Bucorvus abyssinicus
+~Black-faced Spoonbill|Platalea minor
+~Chinese Pond Heron|Ardeola bacchus
+~Spanish Imperial Eagle|Adalbert's Eagle|Spanish Eagle|Aquila adalberti
+~Cryptodira|Cryptodires
+~Black caiman|Melanosuchus niger|M. fisheri
+~Trumpeter Finch|Bucanetes githagineus|Rhodopechys githaginea
+~Antarctic fur seal|Kerguelen Fur Seal|Arctocephalus gazella
+~Airbreathing catfish|Clariidae
+~Victoria Crowned Pigeon|Victoria Goura|Goura victoria
+~Alcedo
+~Highland cattle|Bos taurus kyloe|Bos taurus scotica|HighlandCow
+~American White Ibis|White Ibis|Eudocimus albus
+~Wilson's Storm Petrel|Oceanites oceanicus|Wilsonis storm-petrel
+~Pygoscelis|Brush-tailed penguins
+~Little Swift|Apus affinis
+~Sawfly|Sawflies|The sawflies
+~Fiordland Penguin|Eudyptes pachyrhynchus|Fiordland crested penguin|Tawaki
+~Eastern green mamba|Green mamba|D. angusticeps|Dendroaspis angusticeps
+~Tragelaphus imberbis|Lesser kudu
+~Beatragus hunteri|Herola|Hirola|Hunter's Antelope|Hunter’s Hartebeest
+~Arabian wolf|Canis lupus arabs
+~Lytta vesicatoria|Lytta spanishfly
+~Argusianus argus|Great Argus
+~Typhlopidae
+~Pieris napi|Green-veined white
+~Nene|Hawaiian Goose|Branta sandvicensis
+~Petaurus breviceps|Sugar glider
+~Congridae
+~Blacktip reef shark|Carcharhinus melanopterus
+~Indian leopard|Panthera pardus fusca
+~Campephagidae|The Cuckooshrike family
+~Lesser Rhea|Darwin's Rhea|Rhea pennata
+~Salmon-crested Cockatoo|Moluccan Cockatoo|Cacatua moluccensis
+~Parulidae|The New World warblers
+~Lycaena phlaeas|American copper|Common copper|Small copper|Small copper butterfly
+~Coregonus lavaretus|Lavaret|Schelly|Common whitefish|Coregonus lavaretus and allies|European whitefish|Lavarello
+~Indian Cormorant|Phalacrocorax fuscicollis
+~Mourning Dove|American mourning dove|Carolina pigeon|Rain dove
+~Bramidae|Pomfret
+~Hairy-nosed otter|Sumatra River Otter|Lutra sumatrana
+~Chloebia gouldiae|Gouldian Finch
+~Phoeniculidae|Wood Hoopoe|Phoeniculids|Scimitarbills|Wood hoopoes|Wood hoopoes and scimitarbills
+~Isabelline Shrike|Lanius isabellinus|Rufous-tailed shrike
+~Bighead carp|Bighead|Hypophthalmichthys nobilis
+~Sylvicapra grimmia|Bush Duiker|Common Duiker|Gray Duiker|Grey Duiker
+~Long-tailed Shrike|Lanius schach
+~New World porcupine|Erethizontid|Erethizontidae|Erethizontids|New World porcupines
+~Rajidae|Rajid|Rajids|Skate|Skates
+~Indian Spot-billed Duck|Anas poecilorhyncha
+~Long-toed Stint|Calidris subminuta|Erolia subminuta
+~Prionodon|Asiatic linsang
+~Argiope bruennichi|Wasp spider
+~Northern White-breasted hedgehog|Erinaceus roumanicus
+~Saxicola
+~Brolga|Grus rubicunda
+~Wood Stork|Mycteria americana
+~Azalea|Azaleas
+~Dendrocygna|Whistling Duck
+~Capreolus
+~Megamouth shark|Megachasma pelagios
+~Yellow-footed Green Pigeon|Treron phoenicopterus
+~Caiman|Caimans
+~Bigeye tuna|Thunnus obesus
+~Euoplocephalus
+~Orthonectida|Orthonectids
+~Troodon
+~Megalosaurus
+~Homo sapiens idaltu|Herto Man
+~Basilosaurus|King Lizard|Zeuglodon
+~Attacus atlas|Atlas moth
+~Greater Crested Tern|Crested Tern|Swift Tern|Great Crested Tern|Thalasseus bergii
+~Great Knot|Calidris tenuirostris
+~Shortfin mako shark|Shortfin mako|Isurus oxyrinchus
+~Bovini
+~Sahelanthropus tchadensis
+~Cinclus
+~Eurypterid|Eurypterida
+~Caprimulgus
+~Atlantic white-sided dolphin|Lagenorhynchus acutus
+~Ornithorhynchidae|Ornithorhynchid|Ornithorhynchids
+~Naucrates ductor|Pilot|Pilot-fish|Pilotfish|Sucker
+~Catopuma badia|Bay Cat|Bornean Bay Cat|Borneo Bay Cat
+~Hooded Merganser|Lophodytes cucullatus|Mergus cucullatus
+~Silky anteater|Pygmy anteater|Cyclopes Badajatus Camachus|Cyclopes didactylus
+~Symphyla|Symphylans
+~Pygmy killer whale|Slender Blackfish|Feresa attenuata
+~Ross's goose|Anser rossii|Chen rossii
+~Gadus
+~Atheriniformes
+~Leopard gecko|Common leopard gecko
+~Field vole|Field vole, short-tailed vole|Short-tailed Vole|Microtus agrestis
+~Sooty Shearwater|Ardenna grisea
+~Copsychus malabaricus|White-rumped Shama
+~Buff-breasted Sandpiper|Calidris subruficollis
+~Chondrostei
+~Lesser Yellowlegs|Tringa flavipes
+~Octodon degus|Degu|Brush-tailed rat|Common degu
+~Gaviiformes
+~Bridled Tern|Onychoprion anaethetus|Sterna anaethetus
+~Tortricidae|Leafrollers|Tortricids
+~Appendicularia|Larvacean
+~Saimiri|Squirrel monkeys
+~Gallimimus
+~Salmo
+~Pakicetus
+~Oreochromis niloticus|Genetically improved farmed tilapia|GIFT|Nile tilapia
+~Nomititis lovulitos|Bluntnose six-gill shark|Bluntnose Sixgill Shark|Hexanchus griseus
+~Greater Painted-snipe|Painted-snipe|Rostratula benghalensis|Rostrulata benghalensis
+~Golden toad|Alajuela Toad|Monte Verde Golden Toad|Monte Verde Toad|Orange Toad
+~Daboia russelii|Russell's viper
+~Dusky Warbler|Phylloscopus fuscatus
+~Green-billed Toucan|Red-breasted Toucan|Ramphastos dicolorus
+~Freckled Duck|Stictonetta naevosa
+~Lady Amherst’s Pheasant|Chrysolophus amherstiae
+~Emydidae
+~Timaliidae|Old World babbler family
+~Maluridae|Australasian wren|Fairy wren|Fairywren
+~Green pheasant|Phasianus versicolor
+~Rana arvalis|Moor frog|Swamp frog
+~Atherinidae|Old World silverside
+~Wilson's Phalarope|Phalaropus tricolor
+~Red-tailed Hawk|Buteo jamaicensis|Chickenhawk
+~Alligator snapping turtle|Macrochelys temminckii
+~Formicariidae
+~Anhinga anhinga|Anhinga
+~Chum salmon|Calico salmon|Dog salmon
+~Amur Falcon|Eastern Red-footed Falcon|Falco amurensis
+~Watercock|Gallicrex cinerea
+~Argynnis paphia|Silver-washed fritillary
+~Lion's Mane Jellyfish|Cyanea capillata
+~Brown Noddy|Common Noddy|Anous stolidus
+~White-backed Duck|Thalassornis leuconotus
+~Corallium rubrum|Red coral|Precious coral
+~Macropus rufus|Marlo|Plains Kangaroo|Red kangaroo|Osphranter rufus
+~Raphidae
+~Indian paradise flycatcher|Terpsiphone paradisi
+~Bufflehead|Bucephala albeola
+~Eudyptes|Crested penguins|Jumping-jacks
+~Snowy Egret|Egretta thula
+~Herpestes javanicus|Javan Mongoose|Small Asian Mongoose|Small Indian Mongoose
+~Black-browed Albatross|Black-browed Mollymawk|Thalassarche melanophris|Thalassarche melanophrys
+~Hylochoerus meinertzhageni|Eastern Forest Hog|Forest hog|Giant Forest Hog
+~Fischer's Lovebird|Agapornis fischeri
+~Sula|Booby|Boobies
+~Western long-beaked echidna|Long-beaked Echidna|Long-nosed Echidna|Long-nosed Spiny Anteater|New Guinea Long-nosed Echidna
+~Parrot Crossbill|Loxia pytyopsittacus
+~Magnificent frigatebird|Fregata magnificens|Frigate petrel
+~Hystrix
+~Siluridae|Silurid
+~Southern brown kiwi|Tokoeka|Apteryx australis|Common kiwi
+~West Indian Ocean coelacanth|Coelacanth|Gombessa|African coelacanth|Coelocanth|Latimeria anjouanae
+~Pampas deer|Ozotoceros bezoarticus
+~Scolytinae|Bark and Ambrosia Beetles|Bark beetle subfamily|The bark beetle subfamily
+~Commerson's dolphin|Black-and-White Dolphin|Piebald Dolphin|Tonina Dolphin
+~Merluccius merluccius|Cornish Salmon|European Hake|Hake|Herring Hake
+~Osphronemidae|The gourami family
+~Anthus hodgsoni|Olive-backed pipit|Indian pipit
+~Thick-billed Murre|Brünnich's Guillemot|Uria lomvia
+~European rhinoceros beetle|Oryctes nasicornis
+~Grant's gazelle|Nanger granti
+~Soleidae
+~Western green mamba|Dendroaspis viridis|D. viridis
+~Icteridae
+~Gang-gang Cockatoo|Callocephalon fimbriatum
+~Phoenicopteriformes
+~Caspian Plover|Anarhynchus asiaticus|Charadrius asiaticus|Eupoda asiatica
+~Acrochordidae|Dogface snakes|Elephant trunk snakes|File snakes|Java wart snakes|Wart snakes
+~Bronze-winged Jacana|Metopidius indicus
+~Psychodidae|Drain flies|Drain fly|Moth flies|Moth fly
+~Japanese serow|Antilope crispa|Capricornis crispus|Naemorhedus crispus
+~Dicaeidae|Flowerpecker family
+~Giant armadillo|Priodontes giganteus|Priodontes maximus
+~Mongolian gazelle|Dzeren|Procapra gutturosa
+~Red-tailed Tropicbird|Phaethon rubricauda
+~Philepittidae|Asity
+~Cuvier's dwarf caiman|Cuvier's Smooth-fronted Caiman|Dwarf caiman|Paleosuchus palpebrosus
+~Pantropical spotted dolphin|Bridled Dolphin|Narrow-snouted Dolphin|White-spotted Dolphin|Stenella attenuata
+~Python sebae|African rock python|Central African rock python
+~Australasian Gannet|Australian Gannet|Morus serrator
+~Northern fur seal|Callorhinus ursinus
+~Radde’s Warbler|Phylloscopus schwarzi
+~Brown Fish Owl|Ketupa zeylonensis
+~Lesser Scaup|Aythya affinis
+~Military Macaw|Ara militaris|Soldier macaw
+~Urial|Ovis vignei
+~Cotton Pygmy Goose|Nettapus coromandelianus
+~Blood Pheasant|Ithaginis cruentus
+~Abbott's Booby|Papasula abbotti
+~Pyrrhula|The bullfinch genus
+~Green Imperial Pigeon|Ducula aenea
+~Domesticated turkey|Farm turkey
+~Plesiosaurus
+~Great Indian Bustard|Indian Bustard|Ardeotis nigriceps
+~Gavialidae|Gavialid|Gavialids|Gharials
+~Phoca
+~Boomslang|Dispholidus typus
+~Rufous-necked Hornbill|Rufous-cheeked Hornbill|Aceros nipalensis
+~Oriental White Stork|Boyce's Stork|Japanese White Stork|Oriental Stork|Ciconia boyciana|Konotori
+~Cryptogam
+~Damaliscus pygargus|Blesbok|Bontebok
+~Tylopoda
+~Australian Magpie|Gymnorhina tibicen
+~Kererū|New Zealand Pigeon|Hemiphaga novaeseelandiae|Kererū pigeon|Kūkū|Kūkupa
+~Xylocopa|Carpenter Bees|Large carpenter bees
+~Theridiidae|Tangle web spider|Cobweb spiders|Comb-footed spiders|Tangle-web spiders
+~Herrerasaurus|Herrarasaurus
+~Corythosaurus
+~Kentrosaurus|Doryphorosaurus|Kentrurosaurus
+~Meles|European Badgers
+~Cyprinus|Common carps
+~Diapsid|Diapsida
+~Vespa velutina|Asian hornet|Asian predatory wasp|Asian black hornet|Yellow-legged hornet
+~Cotton-top tamarin|Cotton-headed tamarin|Cottontop Tamarin
+~Triturus cristatus|Crested newt|Great crested newt|Northern Crested Newt|GCN
+~Protoceratops
+~Red Collared Dove|Red Turtle Dove|Streptopelia tranquebarica
+~Brown-throated three-toed sloth|Bradypus variegatus|Brown-throated sloth
+~Formica rufa|Red wood ant|Southern wood ant|Horse ant
+~Northern Flicker|Yellow-shafted Flicker|Colaptes auratus
+~Scarabaeus sacer
+~Lesser Crested Tern|Thalasseus bengalensis
+~Red-necked Stint|Rufous-necked Stint|Calidris ruficollis
+~Nucifraga|Nutcracker
+~Pelecus cultratus|Ziege
+~Oriolus|Oriole|Orioles
+~Jacamar|Galbulidae
+~Homo georgicus|Homo erectus georgicus
+~Black-headed Heron|Ardea melanocephala
+~Dasyuridae|Kunovcovití
+~Paedophryne amauensis
+~Vespertilio murinus|Particolored Bat|Particoloured Bat|Parti-coloured bat, parti-coloured bat|Parti-coloured bat
+~Pluvialis
+~Cackling Goose|Branta hutchinsii
+~Triglidae|Gurnard|The sea robins
+~Vespula vulgaris|Common wasp|Paravespula vulgaris
+~Forest Wagtail|Dendronanthus indicus
+~Mecistops cataphractus|African slender-snouted crocodile|Slender-snouted Crocodile|M. cataphractus
+~Merops
+~Arctic Redpoll|Acanthis hornemanni|Carduelis hornemanni|Hoary redpoll
+~Antigone vipio|White-naped Crane
+~Acheta domestica|House-cricket
+~Smutsia temminckii|South African pangolin|Temminck’s ground pangolin|Cape pangolin|Ground pangolin|Manis temminckii|Phatages hedenborgii
+~Alpine newt|Ichthyosaura alpestris|Triturus alpestris
+~Epinephelus
+~Lesser noctule|Leisler's bat|Leislers bat, lesser noctule|Leisler’s Noctule|Nyctalus leisleri
+~Didelphis|Opossums
+~Apatura iris|Purple emperor
+~Chironex fleckeri|Australian box jelly|Medusa Australiana
+~Australopithecus anamensis
+~Australopithecus sediba
+~Aedes
+~Orrorin tugenensis|O. tugenensis
+~Egretta
+~Mata mata|Chelus fimbriata|Matamata|Mata mata turtle
+~Blue-tailed Bee-eater|Merops philippinus
+~Finless porpoise|Indo-Pacific finless porpoise|Neophocaena phocaenoides
+~Harnessed bushbuck|Bushbuck|Western Bushbuck|Tragelaphus scriptus
+~Beloniformes
+~Anapsid|Anapsida
+~Graptolithina|Graptolite|Graptolites|Graptolithinia
+~Raphicerus campestris|Steenbok|Steinbok|Steinbuck
+~European fire-bellied toad|Fire-bellied Toad|Bombina bombina
+~European bullhead|Bullhead|Cottus gobio
+~Pipridae|The Manakin family
+~Esociformes|Esocoidei|Umbriformes
+~Mytilidae
+~African Darter|Darter|Anhinga rufa
+~Geoffroy's spider monkey|Black-handed spider monkey|Black-headed Spider Monkey|Central American Spider Monkey|Mono Colorado
+~Actitis macularius|Spotted sandpiper
+~Betta|Bettas
+~Carcharhiniformes
+~Spotted Seal|Phoca largha
+~Hooded Crane|Grus monacha
+~Testudo graeca|Common Tortoise|Greek tortoise|Moorish Tortoise|Spur-thighed Tortoise
+~Lepus granatensis|Granada Hare|Iberian Hare
+~Alectoris
+~Laughing Gull|Larus atricilla|Leucophaeus atricilla
+~Philippine tarsier|Carlito syrichta
+~Nephrops norvegicus|Norway Lobster|Scampi
+~Spalacidae
+~Taenia solium|Tenia o solitaria
+~White-rumped Munia|Lonchura striata
+~Leptoptilos
+~Vipera ammodytes|Nose-horned Viper|Horned viper|Long-nosed viper|Sand viper
+~White-headed capuchin|White-throated capuchin|Cebus capucinus|Colombian white-faced capuchin|White-faced capuchin
+~Pink-headed Duck|Rhodonessa caryophyllacae|Rhodonessa caryophyllacea
+~White-rumped Sandpiper|Calidris fuscicollis
+~Entognatha
+~Eupleridae
+~Pink Cockatoo|Cacatua leadbeateri|Leadbeater's cockatoo|Major Mitchell's cockatoo
+~Marine otter|Sea Cat|Lontra felina
+~Pleuronectidae
+~Talpa
+~Black-hooded Oriole|Oriolus xanthornus
+~Red river hog|African Bush Pig|Bush pig|Potamochoerus porcus
+~Indian pitta|Pitta brachyura
+~Javan rusa|Javan Deer|Rusa|Rusa Deer|Sunda Sambar
+~Sifaka|Propithecus
+~Myotis myotis|Greater mouse-eared bat|Large Mouse-eared Bat|Mouse-eared Bat|Mouse-eared Myotis
+~Smooth hammerhead|Sphyrna zygaena
+~Persian leopard|Panthera pardus saxicolor
+~Baer's Pochard|Aythya baeri
+~Spix's Macaw|Cyanopsitta spixii|Guacamayo azul pequeño|Guacamayo de Spix|Guacamayo de Spixis
+~Barramundi|Lates calcarifer
+~Russian sturgeon|Acipenser gueldenstaedtii
+~Southern Royal Albatross|Royal Albatross|Diomedea epomophora
+~Fraser's dolphin|Bornean Dolphin|Sarawak Dolphin|Shortsnouted Whitebelly Dolphin
+~West Caucasian Tur|Tur|Western Tur|Capra caucasica
+~Bombus terrestris|Buff-tailed bumblebee|Large earth bumblebee
+~Wedge-tailed Eagle|Aquila audax
+~Mimidae|Mimid family|Mimids
+~Pin-tailed Sandgrouse|Pterocles alchata
+~Yellow-collared Lovebird|Agapornis personatus|Masked lovebird
+~Snares Penguin|Snares Crested Penguin|Snares Islands Penguin|Eudyptes robustus
+~Sharp-tailed Sandpiper|Calidris acuminata
+~Hill Pigeon|Columba rupestris|Eastern rock dove|Turkestan hill dove
+~Polygonia c-album|Anglewing|Comma
+~Crested Caracara|Caracara plancus|Common caracara|C. plancus
+~Squatina
+~Varanus bengalensis|Bengal Monitor Lizard|Clouded Monitor|Common Indian Monitor|Bengal monitor
+~Great-billed Heron|Ardea sumatrana
+~Red-vented Cockatoo|Cacatua haematuropygia|Philippine cockatoo
+~Malayan Night Heron|Malay Night-heron|Gorsachius melanolophus
+~Norway lemming|Lemmus lemmus|Lemmus norvegicus|Myodes lemmus, Linn.
+~Moluccan eclectus|Eclectus Parrot|Eclectus roratus
+~Lepilemur|Sportive lemur
+~Lappet-faced Vulture|Torgos tracheliotos
+~Dugongidae|Dugongid
+~Rough-toothed dolphin|Steno bredanensis
+~Snow Pigeon|Columba leuconota
+~Northern Cassowary|Casuarius unappendiculatus|Golden-necked cassowary|One-wattled cassowary|Single-wattled cassowary
+~Netta
+~American Black Duck|Anas rubripes|Black duck
+~Caucasian Grouse|Caucasian Black Grouse|Lyrurus mlokosiewiczi|Tetrao miokosiewiczi|Tetrao mlokosiewiczi
+~Indian wolf|Canis lupus pallipes
+~Paddlefish|Paddlefishes|Polyodontidae|Shovelfish|Shovelfishes|Veslonosovití
+~Ocellated Turkey|Meleagris ocellata
+~Black-and-white ruffed lemur|Ruffed Lemur|Varecia variegata|Varecia variegata variegata
+~Nori
+~Banyan|Banyan tree
+~Megafauna
+~Scallion|Baby onion|Bunch onion|Green onion|Green shallot|Long onion|Onion stick
+~Bucorvus|Ground Hornbill|Ground hornbills
+~Village Weaver|Ploceus cucullatus
+~Solenopsis|Fire ant|Fire ants|Las hormigas de agua
+~Japanese giant salamander|Andrias japonicus|Cryptobranchus japonicus
+~Cariamiformes|Cariamae
+~Mamenchisaurus
+~Stegosauria|Stegosaur|Stegosaurian|Stegosaurs
+~Glaucus atlanticus|Blue dragon|Blue glaucus|Blue ocean slug|Blue sea slug|Sea swallow|Blue angel
+~Maxillopoda|Maxillopod
+~Psittacosaurus
+~Balaenoptera
+~Acridotheres
+~Long-eared hedgehog|Afghan Hedgehog|Common Long-eared Hedgehog|Long-eared Steppe Hedgehog|Hemiechinus auritus
+~Nasua|Coatis
+~Phengaris arion|Large blue|Large blue butterfly|Maculinea arion
+~Siberian Accentor|Prunella montanella
+~Macropus
+~Hooded Vulture|Necrosyrtes monachus
+~Melolontha|May bug
+~Merostomata|Merostomes|Merostome
+~Amblypygi|Tailless Whipscorpions|Tailless whip scorpion|Tailless whip scorpions|Whip spiders
+~Patagonian mara|Patagonian Cavy|Patagonian Hare|Dolichotis patagonum
+~Pauropoda|Pauropodans|Pauropod
+~Rallus
+~Plecotus austriacus|Gray Big-eared Bat|Gray Long-eared Bat|Grey long-eared bat
+~Red-throated Thrush|Black-throated Thrush|Dark-throated Thrush|Turdus ruficollis
+~Diplura|Two-pronged Bristletails
+~Tineidae|Fungus moths|Tineid moths
+~Hawaiian Crow|Corvus hawaiiensis
+~Guenon|Cercopithecus
+~Walia ibex|Walia|Capra walie
+~Common Iora|Aegithina tiphia
+~Stump-tailed macaque|Bear Macaque|Stumptail Macaque
+~Burmese python|Python bivittatus
+~Paracanthurus hepatus|Blue Surgeonfish|Blue Tang|Flagtail Surgeonfish|Hepatus Tang|Indo-Pacific Bluetang
+~Lesula|Cercopithecus lomamiensis
+~Culex pipiens|Northern house mosquito
+~Spoon-billed Sandpiper|Calidris pygmaea
+~Rufous-bellied Hawk-Eagle|Rufous-bellied eagle|Chestnut-bellied Hawk-eagle|Lophotriorchis kienerii
+~Desert locust|Schistocerca gregaria
+~River Tern|Sterna aurantia
+~Common vampire bat|Desmodus rotundus
+~Lepidochelys kempii|Atlantic Ridley|Gulf Ridley|Kemps ridley|Kemp’s ridley turtle|Mexican Ridley
+~Hoolock|Hoolock gibbon genus
+~Silphidae|Burying beetle|Carrion beetle|Silphid|Silphids
+~Barosaurus
+~Xenoturbella
+~Aegolius
+~Tragelaphus|Tragelaph
+~Rohu|Labeo rohita|Roho labeo
+~Himantopus|Stilt
+~Apus pacificus|Fork-tailed Swift|Pacific Swift|Pacific/Cook's Swift
+~Collared Kingfisher|White-collared Kingfisher|Todiramphus chloris
+~Coconut Lorikeet|Green-naped lorikeet|Trichoglossus haematodus
+~Brontosaurus
+~Ural Field Mouse|Herb Field Mouse|Pygmy Field Mouse|Apodemus uralensis
+~Symphysodon
+~Deinotherium|Dinotherium
+~Colossal squid|Mesonychoteuthis hamiltoni
+~African leopard|Panthera pardus pardus
+~Tricolored Heron|Egretta tricolor|Tricoloured heron
+~Crab-eating raccoon|Procyon cancrivorus
+~Blue Duck|Hymenolaimus malacorhynchos
+~New Zealand sea lion|Auckland Sea Lion|Hooker’s sea lion|Hooker's Sealion
+~Carettochelys insculpta|Fly River Turtle|New Guinea Plateless Turtle|Pig-nosed turtle|Pig-nose Turtle|Pitted-shell Turtle
+~African clawless otter|Cape Clawless Otter|Aonyx capensis
+~American Coot|Fulica americana
+~Sri Lankan leopard|Panthera pardus kotiya
+~Trichiuridae|Cutlassfish
+~Firebug|Pyrrhocoris apterus
+~Crested Ibis|Asian crested ibis|Nipponia nippon
+~African Spoonbill|Platalea alba
+~Galeopterus variegatus|Malayan colugo|Malayan Flying Lemur|Sunda Flying Lemur
+~Pintado Petrel|Cape Petrel|Daption capense
+~Malagasy civet|Fanaloka|Spotted Fanaloka|Spotted Fanalouc|Spotted Malagasy Civet|Striped civet
+~White-tailed Tropicbird|Phaethon lepturus
+~Common tsessebe|Damaliscus lunatus|Sassabi|Topi
+~Cisticolidae
+~Calypte anna|Anna's Hummingbird
+~Myotis brandtii|Brandt's Bat|Brandt's myotis
+~Caribbean monk seal|Monachus tropicalis
+~Sunbittern|Eurypyga helias|Little peacock|Peacock bittern
+~Tenebrionidae|Darkling beetle|Darkling beetle family|Darkling beetles|Teneb|Tenebrionid|Tenebrionid beetle
+~Southern pig-tailed macaque|Pig-tailed Macaque|Pigtail Macaque|Sundaland Pigtail Macaque|Sunda pig-tailed macaque
+~Bucconidae|Puffbird
+~La Plata dolphin|Franciscana|Franciscana Dolphin|La Plata River Dolphin|Pontoporia blainvillei
+~Grayling|European grayling|Thymallus thymallus
+~Carolina Parakeet|Conuropsis carolinensis
+~Ringtail|Bassariscus astutus|Cacomistle|Ring-tailed cat
+~Dynastinae|Rhinoceros Beetles
+~Centrarchidae
+~Grey-necked Bunting|Emberiza buchanani
+~Rajiformes
+~Blue-winged Goose|Cyanochen cyanoptera
+~Bombyliidae|Bee Flies|Bee fly|Humbleflies
+~Red-breasted Parakeet|Psittacula alexandri
+~Microtus
+~Southern Ground Hornbill|Bucorvus leadbeateri
+~Red-billed Tropicbird|Phaethon aethereus
+~Greater Slow Loris|Cu Lan|Slow Loris|Sunda Slow Loris
+~Violet-backed Starling|Amethyst starling|Cinnyricinclus leucogaster|Plum-coloured starling
+~Reeves's muntjac|Chinese Muntjac|Chinese Muntjak|Formosan Reeves' Muntjac|Reeves muntjac
+~Tundra vole|Northern Vole|Root Vole|Root vole, tundra vole|Microtus oeconomus
+~Long-tailed weasel|Bridled weasel|Mustela frenata|Neogale frenata
+~Royal Spoonbill|Black-billed Spoonbill|Platalea regia
+~Royal Antelope|Adowa|Sagbene|Neotragus pygmaeus
+~Great spotted kiwi|Apteryx haastii
+~Masked Shrike|Lanius nubicus
+~Milky Stork|Mycteria cinerea
+~Palm-nut Vulture|Gypohierax angolensis
+~Cynictis penicillata|Yellow mongoose
+~Blue Whistling Thrush|Himalayan blue whistling thrush|Myophonus caeruleus
+~Waved Albatross|Phoebastria irrorata
+~Belted Kingfisher|Megaceryle alcyon
+~Molossidae|Free-tailed bat family|Molossid
+~Urocyon
+~Apodemus|Field mouse|Fieldmouse
+~Blue duiker|Cape Blue Duiker|Philantomba monticola
+~Dice snake|Tessellated Water Snake|Natrix tessellata
+~Maniola jurtina|Meadow brown
+~Killdeer
+~Gyrinidae|Whirligig beetle
+~Weka|Gallirallus australis
+~Caucasian squirrel|Persian Squirrel|Sciurus anomalus
+~Pacific Black Duck|Anas superciliosa|Grey duck
+~Mandarinfish|Synchiropus splendidus
+~Dwarf Cassowary|Casuarius bennetti
+~Aleyrodidae|Whiteflies|The whiteflies
+~Echis carinatus|Indian saw-scaled viper|Little Indian viper|Saw-scaled viper
+~American paddlefish|Duckbill Cat|Spadefish|Spoonbill Cat|Mississippi paddlefish
+~Snow Partridge|Lerwa lerwa
+~Senegal Parrot|Poicephalus senegalus
+~Red-fronted Macaw|Ara rubrogenys
+~Ursus arctos arctos|Common brown bear|Eurasian Brown Bear
+~Neotropical otter|La Plata Otter|Long-tailed Otter|Neotropical River Otter|South American River Otter
+~Atlantic horse mackerel|Common Scad|European Horse Mackerel|Pollock
+~Saturniidae
+~Carpodacus|Rosefinches
+~Theragra chalcogramma|Alaska pollock|Bigeye cod|Bigeye pollock|Copperline cod|Gadus minor|Lesser cod
+~Chlamyphorus truncatus|Lesser fairy armadillo|Lesser Pichi Ciego|Pichiciego|Pink Fairy Armadillo
+~Clarias batrachus|Clarias Catfish|Walking catfish
+~Oxyuranus|Taipan|Taipans
+~Short-tailed Albatross|Phoebastria albatrus|Steller's albatross
+~Omura's whale|Dwarf fin whale|Balaenoptera omurai
+~Jacana jacana|Wattled Jacana
+~Alaskan hare|Lepus othus|Tundra hare
+~Lesser Frigatebird|Fregata ariel
+~Glaucomys volans|Mexican Flying Squirrel|Southern Flying Squirrel|Assapan
+~Plumed Whistling Duck|Grass Whistling Duck|Dendrocygna eytoni
+~Elf Owl|Micrathene whitneyi
+~Tucuxi|Estuarine Dolphin|Gray Dolphin|Guianian River Dolphin|Tookashee Dolphin
+~Crab-eating mongoose|Herpestes urva
+~Accipitrinae
+~Africanized bee|Africanized honey bee|Killer bee
+~Partridge
+~Fur seal|Arctocephalinae
+~Nilgiri Wood Pigeon|Nilgiri Woodpigeon|Columba elphinstonii
+~North American porcupine|Common Porcupine|Erethizon dorsata|Erethizon dorsatum
+~Curruca melanocephala|Sardinian Warbler
+~Curruca cantillans|Eastern Subalpine Warbler|Subalpine Warbler
+~Porphyrio|Swamphen
+~Clark's Nutcracker|Nucifraga columbiana
+~Hippoglossus hippoglossus|Atlantic halibut|Halibut
+~Emperor tamarin|Black-chinned Emperor Tamarin|Saguinus imperator
+~Oriental Pratincole|Eastern collared pratincole|Glareola maldivarum
+~Mygalomorphae
+~Podiceps
+~Ornithomimus
+~Homo rhodesiensis|Cumshot man|H. rhodesiensis
+~Oncorhynchus|Pacific salmon|Pacific salmon and trouts|Pacific trout
+~Cyanistes
+~Lampropeltis|Kingsnakes|Kingsnake|King Snake
+~Melogale|Ferret-badger|Ferret-badgers
+~Pseudococcidae|Mealybugs|Mealybug family
+~Camarasaurus
+~Namaqua Dove|Oena capensis
+~Right whale|Eubalaena|Halibalaena|Hunterius
+~Eyebrowed Thrush|Eye-browed Thrush|Turdus obscurus
+~Black-rumped Flameblack|Black-rumped Flameback|Lesser Golden-backed Flamebacked Woodpecker|Dinopium benghalense|Lesser goldenback|Lesser golden-backed woodpecker
+~Purple Sunbird|Nectarinia asiatica
+~Thick-billed Raven|Corvus crassirostris
+~Sumatran striped rabbit|Sumatran rabbit|Sumatran Short-eared Rabbit|Sumatra Short-eared Rabbit|Nesolagus netscheri
+~Brown Skua|Antarctic skua|Hākoakoa|Southern Great Skua
+~White-tailed Ptarmigan|Lagopus leucura
+~Sumatran elephant|Elephas maximus sumatranus
+~Cicindelinae|Tiger Beetles|Tiger beetle
+~Myctophidae|The lanternfish family
+~Painted turtle|Chrysemys picta
+~Smutsia gigantea|Giant ground pangolin|Giant Pangolin|Manis gigantea|Manis gigantean
+~Daurian Jackdaw|Corvus dauuricus
+~Myomorpha|Myomorph|Myomorphs
+~Twait shad|Twaite shad|Alosa fallax
+~Kissing gourami|Helostoma temminckii|Helostoma temminkii
+~Sun Conure|Sun Parakeet|Aratinga solstitialis
+~Peramelidae|Bandicoot family|Bandicoots|Peramelids
+~Phalangeridae
+~Pygmy rabbit|Brachylagus idahoensis
+~Little spotted kiwi
+~Pygmy sperm whale|Pigmy sperm whale|Kogia breviceps
+~Berenicornis comatus|White-crowned Hornbill
+~Mountain nyala|Tragelaphus buxtoni
+~Grivet|Chlorocebus aethiops|Grivet monkey
+~Papio ursinus|Chacma baboon|Cape baboon
+~Brown-headed Gull|Chroicocephalus brunnicephalus|Larus brunnicephalus
+~Hexactinellid|Hexactinellida
+~Acanthaster planci|Crown of thorns starfish
+~Southern tamandua|Collared anteater|Lesser Anteater|Northern Tamandua|Southern Lesser Anteater
+~Hadrosauridae|Duckbill dinosaur|Duckbill dinosaurs|Duck-billed dinosaur|Duck-billed dinosaurs|Duckbills
+~Southern Giant Petrel|Antarctic Giant-Petrel
+~Culex
+~Carcinus maenas|Common shore crab|European green crab|European shore crab|Shore crabs
+~Cinnamon Teal|Spatula cyanoptera
+~Falcated Duck|Falcated teal|Mareca falcata
+~Patagona gigas|Giant Hummingbird|Southern giant hummingbird
+~Black-naped Tern|Sterna sumatrana
+~Hadada Ibis|Hadada|Bostrychia hagedash|Hadeda ibis
+~Murinae|Murine|Murines
+~Bombycidae|Silkworm Moths|Lappet moth|Silkworm moth|Silkworm moth family
+~Istiophoridae|Billfish|Billfishes|Istiophorids
+~Australopithecus garhi|A. garhi
+~Australopithecus robustus|P. robustus
+~Poecilia|Molly
+~Leopardus pajeros
+~Pelycosaur|Pelycosauria
+~Blue-eared Kingfisher|Alcedo meninting
+~Paradisaea apoda|Greater Bird-of-paradise
+~Taeniopygia guttata|Sunda Zebra Finch|Timor Zebra Finch
+~Barrow's Goldeneye|Bucephala islandica
+~Greater bilby|Dalgyte|Greater Rabbit-eared Bandicoot|Rabbit-eared Bandicoot|Macrotis lagotis
+~Natator depressus|Flatback|Flatback turtle|Flatback sea turtle
+~Iriomote cat|Prionailurus bengalensis iriomotensis
+~West Indian Whistling Duck|Dendrocygna arborea
+~Quoll|Dasyurus
+~Moschus|Musk deer
+~Black Heron|Black Egret|Egretta ardesiaca
+~Gordosaurus|Gordo
+~Thamnophilidae|Antbird family
+~Sumatran serow|Serow|Capricornis sumatraensis
+~Microcebus|Mouse lemur
+~Sockeye salmon|Red salmon|Sockey Salmon|Blue-back|Blueback
+~Bos frontalis|Gayal|Ghayal|Mithun
+~Caimaninae|Caimanine|Caimanines
+~Andean Cock-of-the-rock|Rupicola peruviana|Rupicola peruvianus
+~Javan Pond Heron|Ardeola speciosa
+~Sarcoptes scabiei|Acarus scabiei|Itch mite
+~Pomacentridae
+~Hippotragus
+~Audouin's Gull|Ichthyaetus audouinii
+~Tadarida teniotis|European free-tailed bat|Bulldog bat|Mastiff bat
+~Silver Pheasant|Lophura nycthemera
+~Red-headed Bunting|Emberiza bruniceps|Granativora bruniceps
+~Star-nosed mole|Condylura cristata|Putisina
+~Greater Yellowlegs|Tringa melanoleuca
+~Antarctic krill
+~Sombre Tit|Poecile lugubris
+~Dall sheep|Dall’s Sheep|Thinhorn Sheep|White Sheep|Ovis dalli
+~Antelope jackrabbit|Allen's hare|Allen's jackrabbit|Antelope hare
+~Pied-billed Grebe|Podilymbus podiceps
+~Vangidae|Vanga
+~Phyllostomidae|Leaf-nosed bat family
+~Nilgiri marten|Martes gwatkinsii
+~Anarhichadidae|Wolffish
+~Heteromyidae
+~Hume’s Leaf Warbler|Phylloscopus humei
+~Chinese giant salamander|Andrias davidianus
+~Natterjack toad|Epidalea calamita
+~Sand tiger shark|Grey Nurse Shark|Spotted Ragged-tooth Shark|Spotted Raggedtooth Shark|Carcharias taurus
+~Tephritidae|Fruit Flies|Tephritid|Tephritids
+~Greater Roadrunner|Geococcyx californianus
+~Red-tailed Black Cockatoo|Banks' black cockatoo|Banksian black cockatoo|Calyptorhynchus banksii
+~Thornback ray|Roker|Thornback skate|Raja clavata
+~Buphagus|Oxpecker genus|The oxpecker genus|Tickbird
+~Water opossum|Yapok|Chironectes minimus
+~Pheasant Pigeon|Green-naped Pheasant-pigeon|Otidiphaps nobilis
+~Australian White Ibis|Bin chicken|Threskiornis molucca|Threskiornis moluccus
+~Volcano rabbit|Conejo de los volcanes|Romerolagus diazi|Tepolito|Teporingo
+~Monachus
+~Amami rabbit|Ryukyu Rabbit|Pentalagus furnessi
+~Scaly Thrush|Zoothera dauma
+~Mullus surmuletus|Red mullet|Red Stripped Mullet|Striped Red Mullet|Surmullet|Woodcock Of The Sea
+~Mullus barbatus|Blunt-snouted Mullet|Bluntsnouted Mullet|Mullet|Striped Goatfish|Striped Mullet
+~Monk Parakeet|Myiopsitta monachus|Mylopsitta monachus
+~Lepidosauria|Lepidosaur|Lepidosaurian|Lepidosaurs
+~Thorold's deer|White-lipped Deer|Cervus albirostris|Przewalskium albirostris
+~Lyrurus
+~Roborovski hamster|Desert Hamster|Roborovski’s Desert Hamster|Roborowski’s Hamster|Phodopus roborovskii
+~Short-finned pilot whale|Indo-pacific Pilot Whale|Pacific Pilot Whale|Globicephala macrorhynchus
+~Assam macaque|Assamese Macaque|Macaca assamensis
+~Starry sturgeon|Star Sturgeon|Stellate sturgeon|Acipenser stellatus
+~Collared peccary|South American Collared Peccary|Baquiro|Javelina
+~Dorcatragus megalotis|Beira|Beira Antelope|Beira Antilope
+~Cuculus
+~West African potto|Potto|Potto Gibbon|Western Potto|Bosman's potto|Perodicticus potto
+~Papio papio|Guinea baboon
+~Black-bellied Whistling Duck|Dendrocygna autumnalis
+~Cariamidae|Seriema family
+~Pyrenean desman|Galemys pyrenaicus
+~Russian tortoise|Afghan tortoise|Central Asian Tortoise|Four-toed Tortoise|Horsfield's Tortoise|Steppe Tortoise
+~Red-legged Partridge|Alectoris rufa
+~White-headed Vulture|Trigonoceps occipitalis
+~Galictis
+~Ivory-billed Woodpecker|Campephilus principalis
+~Golden snub-nosed monkey|Chinese Snub-nosed Monkey|Golden Monkey|Golden Snub-nosed Langur|Sichuan Golden Snub-nosed Monkey
+~Greater noctule bat|Giant noctule|Greater noctule|Nyctalus lasiopterus
+~Franklin's Gull|Larus pipixcan|Leucophaeus pipixcan
+~Great hammerhead|Squat-headed Hammerhead Shark|Great hammerhead shark|Sphyrna mokarran
+~Tyranni
+~Baird's Sandpiper|Calidris bairdii
+~Balearica
+~Common Tailorbird|Orthotomus sutorius
+~European brook lamprey|Brook lamprey|Lampetra planeri|Western brook lamprey
+~Thyreophora|Thyreophoran|Thyreophorans
+~Lesser white-toothed shrew|Lesser Shrew|Crocidura suaveolens
+~Mimus polyglottos|Northern Mockingbird
+~Maleo|Gray's Brush-turkey|Maleo Megapode|Macrocephalon maleo
+~Ross Seal|Ommatophoca rossii
+~Erect-crested penguin|Big-crested Penguin|Eudyptes sclateri
+~Clitellata
+~Furnariidae|Furnariid|Furnariids|Ovenbirds
+~Taurotragus|Eland
+~Lutjanidae
+~Chestnut-fronted Macaw|Ara severus
+~White-bellied Heron|Ardea insignis|Great white-bellied heron|Imperial heron
+~East Caucasian tur|Eastern tur|Capra cylindricornis
+~Speckled Pigeon|Columba guinea
+~Cardiidae|Cockle
+~Circaetus
+~Greater weever|Trachinus draco
+~Spheniscus|Banded penguins
+~Atlantic bonito|Sarda sarda
+~Himalayan marmot|Karakoram Marmot|Marmota himalayana
+~Pileated woodpecker|Dryocopus pileatus
+~Crocidura
+~Java mouse-deer|Java Mousedeer|Javan Chevrotain|Javan mouse-deer|Javan Mousedeer|Kanchil
+~Golden poison frog
+~Arenga pinnata|Areng palm|Black fiber palm|Black sugar palm|Gomuti palm|Sugar palm
+~Tilapia
+~Plethodontidae|Lungless Salamanders|Plethodontids|Lungless salamander|Plethodont|Plethodontid
+~Black-capped Kingfisher|Halcyon pileata
+~Black-backed Dwarf Kingfisher|Ceyx erithaca|Oriental dwarf kingfisher|Three-toed kingfisher
+~Asian house shrew|House Shrew|Indian Musk Shrew|Musk shrew|Grey musk shrew
+~Regalecidae|Oarfish
+~Curruca nana|Asian Desert Warbler
+~Northern hairy-nosed wombat|Lasiorhinus krefftii
+~Draco|Draco Lizards|Flying Lizards|Draco lizard
+~Yellow-billed Magpie|Pica nuttallii
+~Garter snake|Garter Snakes|Gardener snake|Garden snake|Ribbon snake|Thamnophis
+~Changeable Hawk Eagle|Crested Hawk-Eagle|Nisaetus cirrhatus|Spizaetus cirrhatus
+~Nannopterum auritum|Double-crested Cormorant
+~Asian giant hornet|Giant hornet|Murder hornet|Vespa mandarina|Vespa mandarinia
+~Cervinae|Cervine|Cervines|Old World deer
+~Blacktip shark|Carcharhinus limbatus
+~Mountain Hawk-Eagle|Moutain Hawk-Eagle|Hodgson's hawk eagle|Nisaetus nipalensis|Spizaetus nipalensis
+~Macqueen's Bustard
+~Shy Albatross|Thalassarche cauta
+~Upland Goose|Magellan goose, upland goose|Chloephaga picta|Magellan Goose
+~Dimorphodon
+~Ichthyostega
+~Baya Weaver|Ploceus philippinus
+~Maiasaura
+~Lambeosaurus
+~South American foxes|False foxes|Lycalopex|South American fox|The South American foxes|Wolf foxes
+~Camptosaurus
+~Tetranychus urticae|Red spider mite|Two-spotted spider mite
+~Tolai hare|Lepus tolai
+~Candiru|Cañero|Toothpick fish|Vampire fish|Vandellia cirrhosa
+~Eastern Olivaceous Warbler|Iduna pallida
+~Echis|Saw-scaled Vipers
+~Zygaenidae|Burnet moths|Forester moths|Smoky moths|Zygaenid|Zygaenids
+~Melanargia galathea|Marbled white
+~Grey reef shark|Gray Reef Shark
+~Snow Petrel|Pagodroma nivea
+~Forest cobra|Black cobra|Naja melanoleuca
+~Lontra|River otters
+~Poecilia sphenops
+~Eastern quoll|Dasyurus viverrinus|Eastern native cat
+~Tiger quoll|Large Spotted Native Cat|Large Spotted Quoll|Spotted-tailed quoll|Dasyurus maculatus
+~Barbary Partridge|Alectoris barbara
+~Domesticated pigeon|Columba livia domestica|Domestic pigeon
+~Negaprion brevirostris|Lemon shark
+~Mytilus|Mytilis
+~Ostreidae|True oyster family
+~Whistling Heron|Syrigma sibilatrix
+~Hyracotherium
+~Myotis
+~Helmeted Hornbill|Rhinoplax vigil
+~Striped polecat|Striped Weasel|Zorilla|African polecat|African skunk|Cape polecat
+~Zosterops|White-eyes
+~White Tern|Angel Tern|Common White Tern|Fairy Tern
+~Vampire squid|Vampyroteuthis infernalis
+~Lybiidae
+~Cobitidae
+~Alaudala rufescens|Lesser Short-toed Lark
+~Apterygota
+~Zanda latirostris|Carnaby's Black Cockatoo
+~Long-tailed Broadbill|Psarisomus dalhousiae
+~Liopleurodon
+~Riverine rabbit|Bushman Hare|Bushman Rabbit|Bunolagus monticularis
+~Haviside's dolphin|Benguela Dolphin|Heaviside’s dolphin|South African Dolphin|Cephalorhynchus heavisidii
+~Paranthropus boisei
+~Australopithecus bahrelghazali|A. bahrelghazali
+~Coregonus
+~Herpestes
+~Delphinus|Common dolphin genus
+~Hemiprocnidae|Crested swift|Treeswift
+~Giant oceanic manta ray|Chevron Manta Ray|Giant manta ray|Oceanic Manta Ray|Pacific Manta Ray|Pelagic Manta Ray
+~New Caledonian Crow|C. moneduloides|Corvus moneduloides
+~Maguari Stork|Ciconia maguari
+~Leptotyphlopidae|Leptotyphlopid|Slender blind snakes|Thread snakes
+~Indo-Pacific bottlenose dolphin|Indian Ocean bottlenose dolphin|Tursiops aduncus
+~Anomalocaris
+~Rhinocryptidae|Tapaculos
+~Vulturine Guineafowl|Acryllium vulturinum
+~Dwarf sperm whale|Kogia sima
+~Tamandua
+~Lilac-breasted Roller|Coracias caudatus
+~Geoemydidae
+~Saimiri sciureus|Common Squirrel Monkey|South American squirrel monkey
+~Chinese paddlefish|Psephurus gladius
+~Acinonyx
+~Osteoglossiformes
+~Goliathus|Goliath beetle|Goliath beetles
+~Green Heron|Butorides virescens
+~Crocodylus novaeguinae|New Guinea Crocodile|Crocodylus novaeguineae
+~Lepisosteidae|Gar|Lepisosteid|Lepisosteids
+~Western grey kangaroo|Black-faced kangaroo|Mallee kangaroo|Sooty kangaroo|Western Gray Kangaroo|Western grey giant kangaroo
+~Oriental Skylark|Small Skylark
+~Desert Warthog|Phacochoerus aethiopicus
+~Storm's Stork|Ciconia stormi|Stormis stork
+~Centrolenidae|Glass frog family
+~Lampriformes
+~Grouper|Epinephelinae|Groupers
+~White-throated Robin|Irania|Irania gutturalis
+~Pipidae|Clawed frog|Tongueless frog|Clawed frogs|Tongueless frogs
+~Chelidae
+~Galeorhinus galeus|Liver-oil Shark|Miller’s Dog|Oil Shark|Penny Dog|Rig|School Shark
+~Hucho taimen|Mongolian Taimen|Siberian Salmon|Siberian taimen|Taimen
+~Black-footed Albatross|Diomedea nigripes|Phoebastria nigripes
+~Hairy-fronted muntjac|Black muntjac|Muntiacus crinifrons
+~Black Baza|Aviceda leuphotes
+~Alcelaphinae
+~Brown Wood Owl|Strix leptogrammica
+~Pleurodira|Pleurodirida|Side-necked turtles
+~Blue-eyed Cockatoo|Cacatua ophthalmica
+~Leiognathidae|Ponyfish
+~Anodorhynchus
+~Blainville's beaked whale|Blainville’s Dense-beaked Whale|Mesoplodon densirostris
+~South American Fur Seal|Arctocephalus australis|Arctophoca australis
+~Pteropus vampyrus|Flying Dog|Kalong|Large flying fox
+~Chelydridae|Snapping turtles
+~Chinchillidae|Chinchillid|Chinchillids
+~Australian green tree frog|Green Tree Frog|White's tree frog
+~Savi's Pipistrelle|Hypsugo savii
+~Heliornithidae
+~Loricariidae|Suckermouth armoured catfishes
+~Western Grebe|Aechmophorus occidentalis
+~Kori Bustard|Ardeotis kori
+~Callionymidae|Dragonet
+~Creodonta|Creodontia|Creodontidae|Creodontiformes|Creodontina|Creophaga|Hyaenodontia
+~Chinese white dolphin|Chinese Humpback Dolphin|Indo-pacific Humpback Dolphin|Indo-pacific Hump-backed Dolphin|Indo-Pacific Humpbacked Dolphin
+~Morelet's crocodile|Belize crocodile|Crocodylus moreletii
+~Melon-headed whale|Many-toothed Blackfish|Melon-headed Blackfish|Electra dolphin|Little killer whale
+~Hippotraginae
+~Dama gazelle|Addra Gazelle|Mhorr Gazelle|Gazella dama
+~Grey Hypocolius|Hypocolius|Hypocolius ampelinus
+~Black-cheeked Lovebird|Agapornis nigrigenis
+~Apogonidae|Cardinal fish|Cardinalfishes|Apogonid|Cardinalfish|Cardinal fishes
+~Trichinella spiralis
+~Red-necked Falcon|Red-headed Falcon|Falco chicquera
+~Surf Scoter|Melanitta perspicillata
+~Harris's Hawk|Desert hawk|Parabuteo unicinctus
+~Australian sea lion|Australian Sealion|Neophoca cinerea
+~Seedsnipe|Thinocoridae
+~Little Corella|Cacatua sanguinea
+~Grey Peacock Pheasant|Polyplectron bicalcaratum
+~Nycticebus|Slow lorises
+~Raggiana Bird-of-paradise|Paradisaea raggiana
+~Leucaspius delineatus|Moderlieschen|Rain bleak
+~Northern birch mouse|Northern Birch Mice|Sicista betulina
+~Gymnotiformes|Banded knifefish
+~Hippolais polyglotta|Melodious warbler
+~Solomons Cockatoo|Cacatua ducorpsii
+~Red-winged Blackbird|Agelaius phoeniceus
+~Grey rhebok|Common Rhebok|Gray Rhebok|Rhebok|Vaal Rhebok
+~Mountain gazelle|Idmi|Gazella gazella
+~Corn snake|Red Cornsnake|Elaphe guttata
+~Ribbon seal|Histriophoca fasciata
+~Ostraciidae|Boxfish
+~Nurse shark|Ginglymostoma cirratum
+~Red-billed Blue Magpie|Blue Magpie|Urocissa erythroryncha
+~Reduviidae|Assassin Bugs|Assassin bug
+~Angonoka tortoise|Angonoka|Madagascar Angulated Tortoise|Madagascar Tortoise|Ploughshare tortoise|Astrochelys yniphora
+~Eastern cottontail|Sylvilagus floridanus
+~Golden Parakeet|Golden Conure|Guaruba guarouba
+~Ardeola
+~Silver Gull|Chroicocephalus novaehollandiae|Larus novaehollandiae
+~Zaglossus|Long-beaked echidnas
+~East African oryx|Beisa|Beisa oryx|Oryx beisa
+~Central bearded dragon|Inland Bearded Dragon
+~Celastrina argiolus|Holly blue
+~Orange-breasted Green Pigeon|Treron bicincta|Treron bicinctus
+~Red Bird-of-paradise|Paradisaea rubra
+~Indian White-eye|Oriental white-eye|Zosterops palpebrosus
+~Siboglinidae|Pogonophora
+~Eriocheir sinensis|Chinese mitten crab
+~Cape Vulture|Cape Griffon|Gyps coprotheres
+~Freshwater angelfish|Pterophyllum scalare|Zeus scalaris
+~Mudskipper|Oxudercinae
+~Hippolais
+~Rainbow Bee-eater|Merops ornatus
+~Soricomorpha
+~Egyptian Plover|Pluvianus aegyptius
+~Spotless Starling|Sturnus unicolor
+~Cretzschmar's Bunting|Emberiza caesia
+~Japanese squirrel|Sciurus lis
+~Varanus griseus|Desert monitor
+~Cebus|Gracile capuchin monkey
+~Light-mantled Albatross|Light-mantled Sooty Albatross|Phoebetria palpebrata
+~Great Green Macaw|Ara ambiguus|Buffon’s macaw
+~Pudú
+~Speckled ground squirrel|Spotted Souslik|Spermophilus suslicus
+~Sugarbird|Promeropidae
+~Sitta
+~Circus melanoleucos|Pied Harrier
+~Sudan Golden Sparrow|Golden Song Sparrow|Passer luteus
+~Rupicapra pyrenaica|Abruzzo Chamois|Apennine Chamois|Pyrenean Chamois|Southern Chamois
+~Cocoi heron|Ardea cocoi
+~Brocket deer|Mazama
+~Rupicapra
+~Plum-headed Parakeet|Psittacula cyanocephala
+~Torrent Duck|Merganetta armata
+~Ratufa bicolor|Black giant squirrel|Malayan Giant Squirrel
+~Lampides boeticus|Long-tailed blue|Pea Blue
+~Ramphastos
+~Corsican hare|Apennine Hare|APPENINE HARE|Italian Hare
+~White-tailed jackrabbit|Lepus townsendii|Prairie hare|White jack
+~Laysan Albatross|Phoebastria immutabilis
+~Ursus arctos isabellinus|Himalayan brown bear
+~Taiwan Blue Magpie|Urocissa caerulea
+~Fugu|Bogeo
+~Grey-headed Lapwing|Vanellus cinereus
+~Martes melampus|Japanese marten|Japenese marten|Tsushima Island Marten
+~Anabas testudineus|Climbing perch
+~Erinaceus amurensis|Amur Hedgehog|Manchurian Hedgehog
+~Brahminy Starling|Sturnia pagodarum
+~Rufous Hornbill|Northern Rufous Hornbill|Buceros hydrocorax
+~Pholcidae|Daddy long-legs spider|Cellar spider
+~Sharpnose sevengill shark|One-finned Shark|Perlon Shark|Sevengill Cow Shark|Sharpnose seven-gill shark
+~Kelp Gull|Southern Black-backed Gull|Dominican gull|Karoro|Larus dominicanus
+~Thomisidae|Crab spider|Crab spiders
+~Tūī|Parson bird|Prosthemadera novaeseelandiae
+~Tarbagan marmot|Mongolian Marmot|Siberian Marmot|Marmota sibirica
+~Barred Buttonquail|Turnix suscitator
+~Rufous Woodpecker|Micropternus brachyurus
+~Supersaurus
+~Ichthyosaurus
+~Elasmotherium|Thin-plate beast
+~Sivapithecus|Ramapithecus
+~Green Hairstreak|Callophrys rubi
+~Brown palm civet|Jerdon's Palm Civet|Paradoxurus jerdoni
+~Flying snake|Flying Snakes|Chrysopelea|Gliding snake
+~Pale-throated Three-toed Sloth|Bradypus tridactylus
+~Geococcyx|Roadrunners|Roadrunner
+~Musca
+~Boiga|Cat Snakes
+~Eurypygiformes
+~Dryococelus australis|Land Lobster|Lord Howe Island Phasmid|Lord Howe Island Stick-insect|Lord Howe tree lobster|Tree lobster
+~Australian Raven|Corvus coronoides
+~Siberian Stonechat|Saxicola maurus
+~Red brocket|Common Red Brocket|Red Brocket Deer|South American Red Brocket|Mazama americana
+~Sapajus apella|Black-capped Capuchin|Guianan Brown Capuchin|Margarita Island Capuchin|Tufted Capuchin
+~Cedar Waxwing|Bombycilla cedrorum
+~Podarcis muralis|Common wall lizard|European Wall Lizard
+~Elaphe
+~African golden wolf
+~Dermestidae
+~Horsfield's tarsier
+~Asinus
+~Great barracuda|Barra|Commerson's sea pike|Great Barra Cuda
+~Pygmy three-toed sloth|Bradypus pygmaeus
+~Trichogaster lalius|Dwarf gourami
+~Beautiful Demoiselle|Calopteryx virgo
+~Silky shark|Carcharhinus falciformis
+~Black Lory|Chalcopsitta atra
+~Short-tailed Shearwater|Ardenna tenuirostris|Moonbird|Muttonbird|Slender-billed shearwater
+~Great Shearwater|Ardenna gravis
+~Grey-headed Fish Eagle|Haliaeetus ichthyaetus|Ichthyophaga ichthyaetus
+~Indian Pied Myna|Asian pied myna|Gracupica contra|Indian pied starling
+~American Goldfinch|Spinus tristis
+~Mustelinae
+~Common periwinkle|Edible periwinkle|Littorina littorea|Winkle
+~Yellow-tailed Black Cockatoo|Calyptorhynchus funereus|Zanda funerea
+~Geoffroy's bat|Geoffroy's Myotis
+~Golden langur|Gee's Golden Langur|Golden Leaf Monkey|Trachypithecus geei
+~Zebra Dove|Geopelia striata
+~Common snapping turtle|North American Snapping Turtle|Snapping Turtle|Chelydra serpentina
+~Common Krait|Common Indian krait|Bungarus caeruleus
+~Dusky dolphin|Gray’s Dusky Dolphin|Lagenorhynchus obscurus
+~Collared mangabey|Red-capped mangabey|Red-crowned Mangabey|Sooty Mangabey|White-collared Mangabey
+~Antarctic minke whale|Balaenoptera bonaerensis
+~Paranthropus aethiopicus|P. aethiopicus
+~Cynognathus|Cynognathus crateronotus
+~Nankeen Night Heron|Nycticorax caledonicus|Rufous night-heron
+~Humblot's Heron|Madagascar Heron|Ardea humbloti
+~Cacajao calvus|Bald-headed Uacari|Bald-headed uakari|Bald Uacari|Bald Uakari|Red-and-white Uacari
+~Canvasback|Aythya valisineria
+~Catreus wallichii|Cheer pheasant|Chir Pheasant|Wallich's Pheasant
+~Naja nigricollis|Black-necked Spitting Cobra
+~African pygmy goose|Pygmy Goose|Nettapus auritus
+~Black-throated Accentor|Prunella atrogularis
+~Malabar large-spotted civet|Malabar civet|Viverra civettina
+~Uropeltidae
+~Bushpig|Potamochoerus larvatus
+~Oriental Dollarbird|Eurystomus orientalis
+~Sea snakes|Hydrophiinae
+~Mesozoa
+~Lonchura malacca|Black-headed Munia|Tricolored Munia|Tricoloured Munia
+~Lesser Cuckoo|Cuculus poliocephalus
+~Coenagrionidae|Narrow-winged damselflies
+~Gomphidae|Clubtail|Clubtail dragonfly|Clubtailed dragonfly
+~Nestor
+~Calopterygidae
+~African Green Pigeon|Treron calvus
+~Black Skimmer|Rynchops niger|Rynchops nigra
+~Haemulidae
+~Nathusius's pipistrelle|Nathusius pipistrelle|Pipistrellus nathusii
+~Rodrigues solitaire|Rodriguez Solitaire|Pezophaps solitaria
+~Crimson Rosella|Platycercus adelaidae|Platycercus elegans
+~Ground roller|Brachypteraciidae
+~Cynogale bennettii|Otter civet|Sunda Otter Civet
+~Malayan porcupine|Himalayan Crestless Porcupine|H. brachyura|Hystrix brachyura
+~Kobus
+~Eulemur macaco|Black lemur|Common black lemur
+~Rhacophoridae|Rhacophorid|Rhacophorids
+~Osmeriformes
+~Monal|Lophophorus
+~Aspic viper|Asp Viper|Vipera aspis
+~Siberian Tit|Gray-headed chickadee|Grey-headed chickadee|Poecile cincta|Poecile cinctus
+~Alaotra Grebe|Tachybaptus rufolavatus
+~Spotted-necked otter|African River Otter|Speckle-throated Otter|Spot-necked Otter|Hydrictis maculicollis
+~Common chameleon|Mediterranean chameleon|Chamaeleo chamaeleon
+~Red-headed Woodpecker|Melanerpes erythrocephalus
+~Venezuelan red howler|Colombian red howler monkey|Alouatta seniculus|Red howler Monkey
+~Sri Lankan elephant|Elephas maximus maximus
+~Agelenidae|Funnel-web spiders|Agalenidae|Agelenid|Agelenids|Funnel weavers
+~Enteropneusta
+~Black-shouldered Kite|Elanus axillaris
+~Goliath birdeater|Goliath bird-eating spider|Goliath tarantula|Theraphosa blondi
+~Emerald tree boa|Corallus caninus
+~Bonaparte's Gull|Chroicocephalus philadelphia
+~Barred Owl|Strix varia
+~Australian Brushturkey|Australian Brush-turkey|Alectura lathami
+~Leopard tortoise|Stigmochelys pardalis
+~Cuban Macaw|Ara tricolor
+~Mongolian gerbil|Clawed Jird|Mongolian Jird
+~Xenopus laevis|African Clawed Frog|African Clawed Toad|Clawed Toad|Common Clawed Frog|Common Clawed Toad
+~Blenniidae|Blennies|Blenny|Combtooth blennies|Combtooth blenny
+~Myliobatidae|Eagle rays
+~Speckled Wood|Pararge aegeria
+~Silvery gibbon|Javan gibbon|Moloch Gibbon|Owa Jawa|Silvery Javan Gibbon
+~Lepus flavigularis|Tehuantepec Hare|Tehuantepec jackrabbit|Tehuantepec Jack Rabbit|Tropical Hare
+~Thylogale
+~Toque macaque|Macaco sinica
+~Diademed sifaka|Diadem Sifaka|Propithecus diadema
+~Monarchidae|Monarch bird|Monarch flycatcher|The Monarch flycatchers
+~Redhead|Aythya americana|Red-headed duck
+~Tamias striatus|Eastern American Chipmunk|Eastern chipmunk
+~Ursus arctos crowtheri|Atlas bear
+~Sand lance|Ammodytidae
+~Crested Myna|Crested mynah|Acridotheres cristatellus
+~Arabian leopard|Panthera pardus nimr
+~Molidae|Molas|Ocean sunfishes
+~Gryllus campestris|Field-cricket|European field cricket
+~Puntius tetrazona
+~Horned Screamer|Anhima cornuta|Kamichi
+~Varanus priscus|Megalania
+~Swamp wallaby|Wallabia bicolor
+~Mekong giant catfish|Giant catfish|Pangasianodon gigas
+~Verreaux's Eagle|Aquila verreauxii|Verreauxis eagle
+~Vireonidae
+~Barbary Falcon|Falco pelegrinoides
+~Tridacna gigas|Giant clam
+~Cryptobranchidae
+~Hispaniolan solenodon|Haitian Solenodon|Solenodon paradoxus
+~Southern Yellow-billed Hornbill|Tockus leucomelas
+~Buteoninae
+~Rousettus aegyptiacus|Egyptian fruit bat|Egyptian Rousette
+~Yellow-backed duiker|Western Yellow-backed Duiker|Cephalophus silvicultor
+~Yacare caiman|Yacaré|Jacare caiman|Paraguayan caiman|Piranha caiman|Red caiman
+~Bechstein's bat|Bechstein's Myotis|Myotis bechsteinii
+~Superb Lyrebird|Menura novaehollandiae|Menura superba
+~Giant golden-crowned flying fox|Golden-capped fruit bat|Golden-crowned Flying Fox|Acerodon jubatus
+~Ateles paniscus|Black spider monkey|Guiana Spider Monkey|Red-faced Black Spider Monkey|Red-faced Spider Monkey|Coaita
+~Grey-headed Albatross|Grey-headed Mollymawk|Thalassarche chrysostoma
+~Common Green Magpie|Green Magpie|Cissa chinensis
+~Canada Jay|Gray jay|Grey jay|Perisoreus canadensis|Whiskey jack
+~Bornean bearded pig|Bearded pig|Western Bearded Pig
+~Bengal Florican|Bengal Bustard|Houbaropsis bengalensis
+~Capitonidae
+~Indian Eagle-Owl|Rock Eagle-owl|Bubo bengalensis
+~Petroicidae|Eopsaltridae|Robinod Awstralia
+~Chinook salmon|Chinook|King salmon|Chrome hog
+~Bushshrike|Bush shrike|Malaconotidae
+~Chinchilla laniger|Long-tailed chinchilla|Chilean chinchila|Coastal chinchila|Common chinchila
+~Porzana
+~Callaeidae|Callaeatidae
+~Tufted Puffin|Fratercula cirrhata
+~Lear's Macaw|Indigo Macaw|Anodorhynchus leari
+~Stilt Sandpiper|Calidris himantopus|Micropalama himantopus|Micropalama himatopus
+~Inca Tern|Larosterna inca
+~Prionodon linsang|Banded linsang
+~Naumann's Thrush|Dusky Thrush|Turdus naumanni
+~Subantarctic fur seal|Amsterdam Island Fur Seal|Arctocephalus tropicalis
+~Callinectes sapidus|Atlantic Blue Crab|Blue Crab
+~Giant grouper|Brindle Bass|Brindled Grouper|Queensland groper|Brindlebass
+~Rufous Hornero|Furnarius rufus
+~Lonchura
+~Marsh mongoose|Water Mongoose|Atilax paludinosus
+~Nyctibius|Potoo
+~Titan beetle|Titanus giganteus
+~Biston betularia|Peppered Moth
+~Hylobates
+~Blue Petrel|Halobaena caerulea
+~Von Schrenck’s Bittern|Botaurus eurhythmus|Ixobrychus eurhythmus
+~Giant Ibis|Pseudibis gigantea|Thaumatibis gigantea
+~Yellow-eyed Pigeon|Columba eversmanni|Pale-backed Pigeon
+~Dusky Eagle-Owl|Bubo coromandus
+~Megalaimidae|Asian barbets
+~Rain Quail|Coturnix coromandelica
+~California Gull|Larus californicus
+~Abyssinian Roller|Coracias abyssinicus
+~River dolphins|River dolphin
+~Wading birds|Beach birds|Shore birds|Shorebirds|Waders
+~Badger|Badgers
+~Rattlesnake
+~Slime molds|Slime mould|Slime moulds
+~Orthotomus|Tailorbird
+~Macaw
+~Venomous snake|Poisonous snakes
+~Clam
+~Mink|Great mink|Little mink|Lutreola
+~Galápagos tortoise|Chelonoidis niger|Chelonoidis niger species complex|Chelonoidis nigra species complex|Galapagos giant tortoise
+~Amoeba|Amoeboid
+~Passerellidae|American sparrow
+~Freshwater fish|Fresh water fish|Inland water fishes
+~Gazelle|Gazel
+~Powdery mildew
+~Arbovirus|Arboviruses
+~Newt
+~Archaic human|Archaic Homo|Archaic Homo sapiens
+~Kombu
+~Caveperson|Caveboy|Cavegirl|Cavemen|Cave people|Cavewoman
+~Shellfish
+~Maggot|Brachycera larva|Fly larva|Fly larvae|Larval fly|Maggots
+~Cowry|Cowrie
+~Old World vulture
+~Bacillus
+~Reed
+~Chamomile|Camomile
+~Mite|Mites
+~Coral snake|Coral snakes
+~Mockingbird
+~Grey gurnard|Eutrigla gurnardus
+~Kestrel
+~Feathered dinosaurs|Feathered dinosaur
+~Diglossa|Flowerpiercer
+~Wētā
+~Purple bacteria
+~Aquatic animal|Aquatic fauna|River plate|Water animal
+~Sea snail
+~Irukandji jellyfish
+~Polypore|Bracket fungi|Bracket fungus|Shelf fungi|Shelf fungus
+~Marine life|Ocean life|Sea life
+~Tree squirrel
+~Saltwater fish|Marine fish|Marine fishes|Saltwater fishes|Sea fish|Sea fishes
+~Leafcutter ant
+~Coxsackievirus
+~Predatory fish|Predatory fishes
+~Mistletoe
+~Dermatophagoides|HDM|House dust mite
+~Ground sloth|Lestodonts|Terrestrial sloth
+~Jerboa|Jerbu
+~Egret
+~Herring|Herring fish
+~Non-vascular plant
+~Sea snake
+~Nitrifying bacteria
+~Pitcher plant
+~Spitting cobra
+~Anatomically modern human|Anatomically modern humans|Modern Homo sapiens
+~Whitefish
+~Parakeet|Paraquet|Paroquet
+~Coliform bacteria
+~Buckfast bee
+~Gasteroid fungi
+~Armadillo|Armadillos
+~Puffball
+~Feral pigeon|City dove|City pigeon|Feral rock dove|Street pigeon|Urban pigeon
+~Gnat|Flies|Gnats
+~Tahr
+~Marine reptile|Marine reptiles
+~Dwarf elephant
+~White currant|Whitecurrant
+~Planarian|Triclad
+~Scallop|Pectinidae
+~Water beetle|Aquatic beetles|Coleoptera aquatica
+~Bombardier beetle
+~Swiftlet|Collocaliini
+~Agaric
+~Viscacha
+~Pathogenic fungus|Fungal pathogens|Pathogenic fungi
+~Iron bacteria
+~Vole
+~Sole|Sole fish|Soles
+~Crab
+~Coral reef fish|Coral reef fishes
+~Lapacho
+~Entomopathogenic fungus|Entomopathogenic fungi
+~Rhynchobdellida
+~Vatica
+~Glowworm|Firefly|Glow-worm|Lightning bug
+~Quetzal
+~Conch
+~Rhizobia
+~Freshwater crab
+~Tetra|Tetras
+~Carnivorous fungus|Carnivorous fungi
+~Lizard|Abo alangba|Agama lizard
+~Hybrid camel|Tülu
+~Malagasy hippopotamus
+~Feral horse
+~Odontodactylus
+~Sophora alopecuroides
+~Morning glory
+~Domesticated silver fox|Domesticated fox|Domesticated red fox|Russian domesticated fox|Russian domesticated red fox|Russian domesticated silver fox
+~Dexter cattle
+~Anoa
+~Mycoplasma laboratorium|Synthia
+~Limpet
+~Cashmere goat
+~Kudu
+~Killifish
+~Owl|Owls
+~Hookworm
+~Bandicoot
+~Australian feral camel
+~Paper wasps
+~Blood parrot cichlid
+~Mbuna
+~Shearwater
+~Bookworm
+~Dimorphic fungi|Dimorphic fungus
+~Snipe
+~Nematophagous fungus
+~Giant tortoise
+~Cheese mite
+~Telescope eye
+~Early modern human
+~Dogo
+~Domesticated guineafowl
+~Marlin|Marlins
+~Oily fish
+~Wallaroo
+~Cama
+~Marmoset|Sagoin|Zaris
+~Flying frog
+~Deep sea animal|Deep sea creature|Deep sea fauna|Deep-see fauna
+~Huckleberry
+~Cuscus
+~Aquatic mammal
+~Chanterelle|Chantarelle
+~Coca plant|Coca
+~Terrapin|Freshwater turtle
+~Quebracho tree
+~Freemartin|Martin heifer
+~Mahseer
+~Birdwing
+~Brassica oleracea var. palmifolia|Black kale|Cavolo nero|Dinosaur kale|Italian kale|Lacinato kale|Tuscan cabbage
+~Hydnoid fungi|Tooth fungi
+~Treepie
+~Clavarioid fungi
+~Fonio
+~Wireworm|Wireworms
+~Pacu
+~Pueraria thomsonii|Chinese arrowroot|Japanese arrowroot|Kudzu
+~Puntarelle
+~Eared nightjar
+~Megaherb
+~Mirror carp
+~Tangor
+~Petrel
+~Rhizomyini|Bamboo rat
+~Woodworm
+~Boga
+~Rat-tailed maggot
+~Heifer
+~Grub|White grubs
+~Marine invertebrate|Ocean invertebrate|Sea invertebrate
+~Cypress
+~Rat snake|Ratsnake|Rat snakes|Ratsnakes
+~Friggitello|Golden Greek pepper|Pepperoncini|Sweet Italian pepper|Tuscan pepper
+~Cuckoo bee
+~Cleaner shrimp
+~Warbler
+~Archaeal Richmond Mine acidophilic nanoorganisms|ARMAN
+~Tube worm
+~Corticioid fungi
+~Dasymutilla occidentalis|Cow Killer Velvet Ant|Eastern Red Velvet Ant|Velvet Ant
+~Influenza virus
+~Red kuri squash
+~Waxworms|Wax worm|Waxworm|Wax worms
+~Horned owl
+~Feral pig|Feral hog|Razorback|Wild hog
+Camelus
+Vertebrata
+Chordata
+Mollusca
+Picidae
+Lepidoptera
+Lampyridae
+Diptera
+Coccinellidae
+Odonata
+Lynx
+Artiodactyla
+Herpestidae
+Arachnida
+Blattodea
+Gastropoda
+Galliformes
+Crustacea
+Muridae
+Echinodermata
+Bovidae
+Vicugna pacos
+Hymenoptera
+Orthoptera
+Bivalvia
+Phasianidae
+Tetrapoda
+Cnidaria
+Acari
+Myriapoda
+Osteichthyes
+Suidae
+Didelphidae
+Pelecaniformes
+Hemiptera
+Decapoda
+Simiiformes
+Ctenophora
+Gruiformes
+Trilobita
+Homo sapiens
+Sciurus
+Caridea
+Actiniaria
+Rallidae
+Cercopithecidae
+Eumetazoa
+Bryozoa
+Neuroptera
+Colubridae
+Bilateria
+Scarabaeidae
+Pterygota
+Theria
+Chelicerata
+Phasmatodea
+Ophiuroidea
+Haplorhini
+Plecoptera
+Equus ferus
+Placozoa
+Leopardus tigrinus
+Ornithischia
+Tetraoninae
+Synapsida
+Teleostei
+Mecoptera
+Neognathae
+Rana
+~Polyplacophora
+~Scyphozoa
+~Strepsiptera
+~Leopardus tilcayo
+~Amphipoda
+~Ecdysozoa
+~Catarrhini
+~Kobus kob
+~Geometridae
+~Eutheria
+~Apocrita
+~Neoptera
+~Brachycera
+~Nematocera
+~Curculionoidea
+~Laurasiatheria
+~Muroidea
+~Salticidae
+~Megaloptera
+~Parazoa
+~Coelenterata
+~Buprestidae
+~Embioptera
+~Nudibranchia
+~Polyphaga
+~Therapsida
+~Euarchontoglires
+~Lamniformes
+~Apoidea
+~Suina
+~Loricifera
+~Neornithes
+~Orectolobiformes
+~Araneidae
+~Demospongiae
+~Zoraptera
+~Archaeognatha
+~Craniata
+~Lycosidae
+~Lamnidae
+~Psittaculidae
+~Araneomorphae
+~Barbus
+~Aplacophora
+~Neoaves
+~Lophotrochozoa
+~Colobus
+~Glires
+~Colobinae
+~Galloanserae
+~Felis silvestris silvestris
+~Coelurosauria
+~Scyliorhinidae
+~Ornithopoda
+~Centropus
+~Acanthopterygii
+~Neopterygii
+~Adephaga
+~Auchenorrhyncha
+~Pristiophoridae
+~Squaliformes
+~Radiata
+~Zeiformes
