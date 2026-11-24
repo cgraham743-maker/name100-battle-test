@@ -126,8 +126,65 @@ const CATS = {
     who: `one real kind of animal (a species or a commonly named kind, such as 'lion', 'shark' or 'eagle'), including extinct animals like dinosaurs. Mythical creatures do not count. Breeds of domestic animals are not separate animals: a poodle is a dog, so set "name" to the animal (e.g. 'Dog').`,
     help: [`Any real kind of animal counts, including extinct ones. Mythical creatures don't.`, `Breeds count as their animal: a poodle is a dog, so you can't count both.`] }
 };
+// Sub-options inside a category (e.g. Books → genre). Each option is its own category id ("books-fantasy")
+// with sub: parent and a filter code; the parent's file is filtered to lines whose third tab field has the code.
+// The game screen shows a picker next to the category button when the category has sub-options.
+function addSubs(parent, kind, allLabel, list, extra) {
+  CATS[parent].subKind = kind; CATS[parent].subAll = allLabel;
+  for (const [code, name, adj, own] of list) {
+    const id = parent + '-' + name.toLowerCase().replace(/[^a-z]+/g, '-').replace(/-$/, '');   // books-mystery-thriller, books-historical
+    CATS[id] = { ...CATS[parent], sub: parent, filter: code, subName: name, subKind: kind, subAll: allLabel,
+      label: `${name} ${CATS[parent].label}`, plural: `${adj} ${CATS[parent].plural}`,
+      blurb: name, rule: `${adj[0].toUpperCase() + adj.slice(1)} ${CATS[parent].plural}`, tagline: `${name} · any era`,
+      ...(extra ? extra(name, adj) : {}), ...(own || {}) };
+  }
+}
+// Book genres: readers' tags from Hardcover (hardcover.app). A book can be in more than one genre.
+addSubs('books', 'Genre', 'All genres', [
+  ['fa', 'Fantasy', 'fantasy'], ['sf', 'Sci-Fi', 'sci-fi'], ['ho', 'Horror', 'horror'], ['ro', 'Romance', 'romance'],
+  ['my', 'Mystery', 'mystery or thriller'], ['hf', 'Historical', 'historical fiction'], ['cl', 'Classics', 'classic'],
+  ['ya', 'Young Adult', 'young adult'], ['nf', 'Nonfiction', 'nonfiction']
+]);
+for (const id in CATS) if (CATS[id].sub === 'books') {
+  const c = CATS[id];
+  c.rule += ' · genres from Hardcover readers';
+  c.who = `one specific ${c.plural.replace(/ books$/, '')} book. A series name on its own does not count, but individual books in a series do.`;
+  c.help = [`Any ${c.plural.replace(/ books$/, '')} book counts. Genres come from readers' tags on Hardcover (hardcover.app), so a book can count in more than one genre.`, `A series name alone (like Harry Potter) doesn't count, but each book in it does.`, `You can leave off "The" at the start of a title.`];
+}
+// Wikidata-based sub-options (data is CC0). Codes are the third tab field in each list file.
+const WD_NOTE = '';
+const subHelp = (what) => [`${what} An answer can count in more than one.`];
+for (const [parent, who] of [['real-women', 'Women'], ['real-men', 'Men']]) {
+  const w = who.toLowerCase(), sex = who === 'Women' ? 'Female' : 'Male';
+  addSubs(parent, 'Subcategory', `All ${w}`, [
+    ['at', 'Athletes', 'athletes'], ['mu', 'Musicians', 'musicians'], ['ac', 'Actors', who === 'Women' ? 'actresses' : 'actors'],
+    ['hi', 'Historical', 'historical', { label: `Historical ${who}`, plural: `historical ${w}`, rule: `${who} born before 1900` + WD_NOTE }],
+    ['sc', 'Scientists', 'scientists and inventors', { rule: `${who} known as scientists or inventors` + WD_NOTE }],
+    ['wr', 'Writers', 'writers'], ['ar', 'Artists', 'artists', { rule: `${who} known as painters, sculptors, photographers and other visual artists` + WD_NOTE }],
+    ['in', 'Internet Personalities', 'internet personalities', { subShort: 'Internet', label: `${sex} Internet Personalities`, rule: `YouTubers, streamers, TikTokers and influencers` + WD_NOTE }]
+  ], (name, adj) => ({ label: `${sex} ${name}`, plural: `${sex.toLowerCase()} ${adj}`, rule: `${who} known as ${adj}` + WD_NOTE,
+    help: [...subHelp(`Real, notable ${w} known as ${adj}.`), ...CATS[parent].help] }));
+}
+addSubs('movies', 'Genre', 'All genres', [
+  ['ac', 'Action', 'action'], ['cm', 'Comedy', 'comedy'], ['dr', 'Drama', 'drama'], ['ho', 'Horror', 'horror'],
+  ['sf', 'Sci-Fi', 'sci-fi'], ['fa', 'Fantasy', 'fantasy'], ['an', 'Animated', 'animated'], ['ro', 'Romance', 'romance'],
+  ['th', 'Thriller', 'thriller, crime or mystery'], ['mu', 'Musical', 'musical']
+], (name, adj) => ({ label: `${name} Movies`, rule: `${adj[0].toUpperCase() + adj.slice(1)} movies` + WD_NOTE, help: [...subHelp(`Any ${adj} movie counts.`), ...CATS.movies.help] }));
+addSubs('tv-shows', 'Genre', 'All genres', [
+  ['cm', 'Comedy', 'comedy'], ['dr', 'Drama', 'drama'],
+  ['cr', 'Crime & Procedurals', 'crime, police, legal or medical', { subShort: 'Crime', label: 'Crime & Procedural TV Shows' }],
+  ['sf', 'Sci-Fi', 'sci-fi'], ['an', 'Animated', 'animated'], ['ki', 'Kids', "kids'"],
+  ['re', 'Reality & Game Shows', 'reality or game', { subShort: 'Reality', label: 'Reality & Game Shows' }]
+], (name, adj) => ({ label: `${name} TV Shows`, rule: `${adj[0].toUpperCase() + adj.slice(1)} TV shows` + WD_NOTE, help: [...subHelp(`Any ${adj} TV show counts.`), ...CATS['tv-shows'].help] }));
+addSubs('singers', 'Genre', 'All genres', [
+  ['po', 'Pop', 'pop'], ['rk', 'Rock', 'rock'], ['bw', 'Broadway', 'Broadway and musical theater']
+], (name, adj) => ({ label: `${name} Singers`, plural: `${adj} singers`, rule: `${adj[0].toUpperCase() + adj.slice(1)} singers` + WD_NOTE, help: [...subHelp(`Any singer known for ${adj} counts.`), ...CATS.singers.help] }));
+// Goal option (50 or 100) for open lists. These harder ones start at 50; players can switch, and it's remembered per category.
+for (const id of ['singers-broadway', 'movies-musical', 'tv-shows-reality-game-shows', 'tv-shows-kids', 'books-horror',
+  'real-women-internet-personalities', 'real-men-internet-personalities',
+  'real-women-scientists', 'real-men-scientists', 'real-women-artists', 'real-men-artists']) if (CATS[id]) CATS[id].goal = 50;
 const ENT_ORDER = ['actors', 'singers', 'oscar-winners'];
-const CAT_IDS = Object.keys(CATS).sort((a, b) => (ENT_ORDER.indexOf(a) < 0 ? 0 : ENT_ORDER.indexOf(a) - 9) - (ENT_ORDER.indexOf(b) < 0 ? 0 : ENT_ORDER.indexOf(b) - 9) || 0);
+const CAT_IDS = Object.keys(CATS).filter(id => !CATS[id].sub).sort((a, b) => (ENT_ORDER.indexOf(a) < 0 ? 0 : ENT_ORDER.indexOf(a) - 9) - (ENT_ORDER.indexOf(b) < 0 ? 0 : ENT_ORDER.indexOf(b) - 9) || 0);
 
 // ================= Matching =================
 const norm = s => s.normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase()
@@ -223,11 +280,19 @@ function surnameOnly(raw, canon) {
 // ================= Battle helpers (generated by make_engine.py) =================
 let curCat = null;
 const cfg = () => CATS[curCat];
+const RAW = {};
+// Sub-options (genres, subcategories) of a category, in menu order
+const subsOf = parent => Object.keys(CATS).filter(id => CATS[id].sub === parent);
 async function loadCat(id) {
   if (!DB[id]) {
-    const r = await fetch(CATS[id].file);
-    if (!r.ok) throw new Error('HTTP ' + r.status);
-    DB[id] = parseData(await r.text(), !CATS[id].people);
+    const c = CATS[id];
+    if (!RAW[c.file]) { const r = await fetch(c.file); if (!r.ok) throw new Error('HTTP ' + r.status); RAW[c.file] = await r.text(); }
+    let text = RAW[c.file];
+    if (c.filter) {
+      if (!DB[c.sub]) DB[c.sub] = parseData(text, !c.people);   // whole list, to say "counts in Men, but not in Athletes"
+      text = text.split('\n').filter(l => l.startsWith('#') || (l.split('\t')[2] || '').split(',').includes(c.filter)).join('\n');
+    }
+    DB[id] = parseData(text, !c.people);
   }
   curCat = id;
   ({ INDEX, CANON_KEYS, META, NAMES } = DB[id]);
@@ -239,5 +304,9 @@ function checkAnswer(raw) {
   const local = localMatch(raw);
   if (local && surnameOnly(raw, local)) return { err: `Type ${c.pron || 'the'} full name — "${raw}" alone doesn't count` };
   if (local) return { canon: local };
+  if (c.filter && DB[c.sub]) {
+    const all = DB[c.sub], k = norm(raw), hit = all.INDEX.get(k) || all.INDEX.get(k.replace(/^(the|a|an) /, ''));
+    if (hit) return { err: c.sub === 'books' ? `${hit} is a book, but readers don't tag it ${c.subName}` : `${hit} counts in ${CATS[c.sub].label}, but not in ${c.subName}` };
+  }
   return { err: c.finite ? `"${raw}" isn't one of the ${META.size} ${c.plural} — check spelling` : `"${raw}" isn't on the list — check spelling` };
 }

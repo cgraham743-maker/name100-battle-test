@@ -3,16 +3,16 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#14110b">
+<meta name="theme-color" content="#0f1714">
 <title>Battle Mode (Demo)</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..600&family=Spline+Sans+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Display:wght@400&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-  :root{--bg:#14110b;--ink:#efe7d6;--muted:rgba(239,231,214,.68);--faint:rgba(239,231,214,.4);--line:rgba(239,231,214,.18);
-    --accent:#e0683b;--card:rgba(239,231,214,.04);--serif:"Fraunces",Georgia,serif;--mono:"Spline Sans Mono",ui-monospace,Menlo,monospace}
+  :root{--bg:#0f1714;--ink:#e9efe6;--muted:#a2b3a8;--faint:rgba(233,239,230,.4);--line:#27382f;
+    --accent:#a9c79a;--card:#17221d;--serif:"Noto Serif Display",Georgia,serif;--mono:"DM Mono",ui-monospace,Menlo,monospace}
   *{box-sizing:border-box}
-  html,body{margin:0;min-height:100%;background:var(--bg);color:var(--ink);font-family:var(--serif);-webkit-font-smoothing:antialiased}
+  html,body{margin:0;min-height:100%;background:var(--bg);color:var(--ink);font-family:var(--serif);font-variant-numeric:lining-nums;-webkit-font-smoothing:antialiased}
   button,input,select{font:inherit;color:inherit}
   .proto{font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;text-align:center;color:var(--bg);background:var(--accent);padding:6px 10px}
   .wrap{max-width:640px;margin:0 auto;padding:22px 20px 60px}
@@ -32,7 +32,7 @@
   .opt{display:block;text-align:left;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;cursor:pointer;width:100%}
   .opt b{display:block;font-weight:420;font-size:20px;font-variation-settings:"opsz" 144}
   .opt span{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:3px;line-height:1.5}
-  .opt.on{border-color:var(--accent);background:rgba(224,104,59,.08)}
+  .opt.on{border-color:var(--accent);background:rgba(169,199,154,.08)}
   .chips{display:flex;gap:6px;flex-wrap:wrap}
   .chip{font-family:var(--mono);text-transform:uppercase;font-size:11px;letter-spacing:.1em;border:1px solid var(--line);border-radius:100px;padding:8px 13px;cursor:pointer;background:transparent;color:var(--muted)}
   .chip.on{background:var(--accent);border-color:var(--accent);color:var(--bg)}
@@ -47,7 +47,7 @@
   .players{display:grid;gap:8px;margin-top:8px}
   .pl{display:flex;align-items:center;gap:12px;border:1px solid var(--line);border-radius:14px;padding:10px 14px;animation:pop .3s ease}
   @keyframes pop{from{opacity:0;transform:translateY(-4px)}}
-  .av{width:34px;height:34px;border-radius:8px;display:grid;place-items:center;font-size:17px;background:rgba(224,104,59,.14);color:var(--accent);flex:none}
+  .av{width:34px;height:34px;border-radius:8px;display:grid;place-items:center;font-size:17px;background:rgba(169,199,154,.14);color:var(--accent);flex:none}
   .pl .n{flex:1;font-size:18px} .pl .t{font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
   .summary{font-family:var(--mono);font-size:11px;letter-spacing:.06em;line-height:1.7;color:var(--muted);border:1px dashed var(--line);border-radius:12px;padding:10px 14px;margin-top:16px}
   .summary b{color:var(--ink);font-weight:600}

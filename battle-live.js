@@ -19,6 +19,9 @@ const FINITE = {'us-presidents':45,'us-states':50,'state-capitals':50,'countries
 const label = id => CATS[id] ? CATS[id].label : id;
 const goalOpts = id => { const n = FINITE[id]; return n ? [...[25,50,100].filter(g => g < n), n] : [25,50,100]; };
 const goalLabel = (g, id) => FINITE[id] === g ? 'all ' + g : String(g);
+const parentOf = id => (CATS[id] && CATS[id].sub) || id;
+// Open lists start at the solo game's goal for that category (50 for the harder ones, or what the player picked there)
+const startGoal = id => { if (FINITE[id]) return FINITE[id]; const g = +store.get('name100-goal-' + id, 0); return g === 50 || g === 100 ? g : (CATS[id].goal || 100); };
 const MODES = {
   race:  { name:'Race', blurb:'First to the goal wins' },
   timed: { name:'Timed', blurb:'Most names before the clock runs out' },
@@ -95,6 +98,7 @@ async function route() {
   if (!S.code) return;
   if (!r || !r.meta) return leaveLocal('The host closed the room');
   if (!meRec()) return leaveLocal("You're no longer in that room");
+  checkHost();
   if (S.local === 'settings') return;
   const st = r.meta.settings;
   if (curCat !== st.cat) { try { await loadCat(st.cat); } catch { /* shown on submit */ } if (S.room !== r) return; }
@@ -102,6 +106,22 @@ async function route() {
   if (r.meta.state === 'lobby') return lobby();
   if (r.meta.state === 'playing') return S.screen === key ? updateGame() : play(key);
   if (r.meta.state === 'done') return results(key);
+}
+
+// If the host's connection drops, the next player who is still here takes over hosting after a few seconds
+// (a quick reload by the host keeps them as host).
+function checkHost() {
+  const r = S.room; if (!r || !r.meta || isHost()) return;
+  const gone = () => { const h = S.room && S.room.players && S.room.players[S.room.meta.host]; return !h || h.online === false; };
+  const heir = () => playersBySeat().find(p => p.online !== false && p.uid !== S.room.meta.host);
+  if (!gone() || !heir() || heir().uid !== S.uid) { clearTimeout(S.handoff); S.handoff = null; return; }
+  if (S.handoff) return;
+  S.handoff = setTimeout(async () => {
+    S.handoff = null;
+    if (!S.room || isHost() || !gone() || !heir() || heir().uid !== S.uid) return;
+    const old = S.room.meta.host;
+    try { await F.runTransaction(R('meta/host'), cur => cur === old ? S.uid : undefined); } catch {}
+  }, 6000);
 }
 
 // ======== Screens ========
@@ -143,7 +163,8 @@ function catModal(cur, pick) {
   m.onclick = e => { if (e.target === m) m.remove(); };
   document.body.appendChild(m); draw();
 }
-function fixGoal(st) {
+function fixGoal(st, newCat) {
+  if (newCat) { st.goal = st.mode === 'steal' && st.goal === 0 ? 0 : startGoal(st.cat); return; }
   if (st.mode === 'steal' && st.goal === 0) return;
   if (!goalOpts(st.cat).includes(st.goal)) st.goal = FINITE[st.cat] || 100;
 }
@@ -162,7 +183,8 @@ function settings(inRoom) {
     <h2>Set up your game</h2>
     <p class="sub">You pick the rules. Everyone who joins plays by them.</p>
     <label class="lab">Category</label>
-    <button class="catpick" id="cat"><b>${esc(label(st.cat))}</b><span>${esc(CATS[st.cat].group)}${FINITE[st.cat] ? ' · ' + FINITE[st.cat] + ' total' : ''}</span></button>
+    <button class="catpick" id="cat"><b>${esc(label(parentOf(st.cat)))}</b><span>${esc(CATS[st.cat].group)}${FINITE[st.cat] ? ' · ' + FINITE[st.cat] + ' total' : ''}</span></button>
+    ${subsOf(parentOf(st.cat)).length ? `<label class="lab">${esc(CATS[parentOf(st.cat)].subKind)}</label><div class="chips">${[parentOf(st.cat), ...subsOf(parentOf(st.cat))].map(id => `<button class="chip subchip ${st.cat === id ? 'on' : ''}" data-c="${id}">${esc(CATS[id].sub ? (CATS[id].subShort || CATS[id].subName) : CATS[id].subAll)}</button>`).join('')}</div>` : ''}
     <label class="lab">Mode</label>
     <div class="choice">${Object.entries(MODES).map(([k, m]) => `<button class="opt ${st.mode === k ? 'on' : ''}" data-mode="${k}"><b>${m.name}</b><span>${m.blurb}</span></button>`).join('')}</div>
     ${opts}
@@ -175,9 +197,10 @@ function settings(inRoom) {
     <div class="row"><button class="btn" id="create">${inRoom ? 'Save settings' : 'Create room'}</button><button class="textlink" id="back">Back</button></div>
   </div>`;
   const again = () => settings(inRoom);
-  document.querySelectorAll('.chip').forEach(b => b.onclick = () => { st[b.dataset.k] = +b.dataset.v; again(); });
+  document.querySelectorAll('.chip:not(.subchip)').forEach(b => b.onclick = () => { st[b.dataset.k] = +b.dataset.v; again(); });
+  document.querySelectorAll('.subchip').forEach(b => b.onclick = () => { st.cat = b.dataset.c; fixGoal(st, true); again(); });
   document.querySelectorAll('.opt').forEach(b => b.onclick = () => { st.mode = b.dataset.mode; fixGoal(st); again(); });
-  $('#cat').onclick = () => catModal(st.cat, id => { st.cat = id; fixGoal(st); again(); });
+  $('#cat').onclick = () => catModal(parentOf(st.cat), id => { if (id !== parentOf(st.cat)) { st.cat = id; fixGoal(st, true); } again(); });
   $('#swOff').onclick = () => { st.rematchOff = !st.rematchOff; again(); };
   $('#back').onclick = () => { S.local = null; inRoom ? route() : home(); };
   $('#create').onclick = async e => {
@@ -466,27 +489,40 @@ function ranked() {
     ? ((a.out ? 1 : 0) - (b.out ? 1 : 0)) || ((b.outAt || 0) - (a.outAt || 0)) || ((b.count || 0) - (a.count || 0))
     : ((b.count || 0) - (a.count || 0)) || ((a.finishedAt || 9e15) - (b.finishedAt || 9e15)));
 }
+const SPARK = '<path d="M5 0 L6 4 L10 5 L6 6 L5 10 L4 6 L0 5 L4 4 Z"/>';
 function results(key) {
-  clearTimers(); S.screen = key;
-  const cd = $('#cd'); if (cd) cd.remove();
   const r = S.room, st = r.meta.settings, host = isHost(), rank = ranked();
+  // the room updates often (presence, host hand-off); only redraw when something on this screen changes
+  const sig = [key, r.meta.host, rank.map(p => p.uid + ':' + (p.count || 0) + ':' + (p.online !== false)).join(',')].join('|');
+  if (S.screen === key && S.resultsSig === sig) return;
+  clearTimers(); S.screen = key; S.resultsSig = sig;
+  const cd = $('#cd'); if (cd) cd.remove();
   const namesOf = uid => Object.values((r.names || {})[uid] || {}).sort((a, b) => (a.t || 0) - (b.t || 0)).map(v => v.name || v);
   const tie = rank.length > 1 && st.mode !== 'turns' && (rank[0].count || 0) === (rank[1].count || 0) && !rank[0].finishedAt;
-  const top = [rank[1], rank[0], rank[2]];
+  const iWon = !tie && rank[0].uid === S.uid;
   let dur = (r.meta.endedAt || now()) - r.meta.startAt;
   if (r.meta.endAt) dur = Math.min(dur, r.meta.endAt - r.meta.startAt);
   const usedAfter = new Set([...Object.keys(r.used || {}), ...Object.values(r.names || {}).flatMap(o => Object.keys(o))]).size;
+  // 25 dots per row: share of the goal (or of the best score when there is no goal)
+  const goal = (st.mode === 'race' || (st.mode === 'steal' && st.goal)) ? st.goal : Math.max(1, ...rank.map(p => p.count || 0));
+  const dots = (n, mine) => Array.from({ length: 25 }, (_, i) => `<i class="${i < Math.round(Math.min(1, n / goal) * 25) ? 'f' : ''}${mine ? ' bdot' : ''}" style="animation-delay:${(i * 0.034).toFixed(2)}s"></i>`).join('');
+  const sparks = () => Array.from({ length: 16 }, () => { const z = [9, 11, 13, 15][Math.floor(Math.random() * 4)];
+    return `<svg class="tw" width="${z}" height="${z}" viewBox="0 0 10 10" style="left:${(4 + Math.random() * 90).toFixed(1)}%;top:${(Math.random() * 100).toFixed(1)}%;animation-delay:${(0.4 + Math.random() * 1.7).toFixed(2)}s">${SPARK}</svg>`; }).join('');
+  const head = tie ? 'It\'s a tie' : iWon ? 'You win' : esc(rank[0].name) + ' wins';
   $('#root').innerHTML = `<div class="wrap">
     <div class="mark">Round ${r.meta.round || 1} · ${esc(label(st.cat))}</div>
-    <h2>${tie ? 'It\'s a tie!' : rank[0].uid === S.uid ? 'You win!' : esc(rank[0].name) + ' wins!'}</h2>
-    <p class="sub">${modeLine(st)} · ${fmt(dur)}</p>
-    <div class="podium">${top.map((p, i) => p ? `<div class="pod ${['p2','p1','p3'][i]}"><div class="pp">${['2ND','1ST','3RD'][i]}</div><div class="pl2">${esc(p.name)}${p.uid === S.uid ? ' (you)' : ''}</div><div class="pc">${p.count || 0}</div></div>` : '<div></div>').join('')}</div>
-    <label class="lab">Everyone's names</label>
-    ${rank.map(p => { const ns = namesOf(p.uid); return `<details ${p.uid === S.uid ? 'open' : ''}><summary>${esc(p.name)}${p.uid === S.uid ? ' (you)' : ''} · ${p.count || 0}</summary><p>${ns.length ? ns.map(esc).join(', ') : 'No names'}</p></details>`; }).join('')}
+    <div class="mark" style="margin-top:14px">round over · ${fmt(dur)}</div>
+    <h2 class="winh ${iWon ? 'win' : ''}">${head}</h2>
+    <p class="sub">${modeLine(st)}</p>
+    <ol class="stand">${rank.map((p, i) => { const me = p.uid === S.uid, cel = me && iWon;
+      return `<li class="${i === 0 && !tie ? 'top' : ''}${cel ? ' cel' : ''}"><span class="rk">${i + 1}</span><span class="nm">${esc(me ? 'You' : p.name)}${p.online === false ? ' <small>left</small>' : ''}</span><span class="ct"><span class="${cel ? 'sz' : ''}">${p.count || 0}</span></span>
+        <div class="sdots" aria-hidden="true">${dots(p.count || 0, cel)}</div>${cel ? `<div class="sparks" aria-hidden="true">${sparks()}</div>` : ''}</li>`; }).join('')}</ol>
     <div class="row">
       ${host ? `<button class="btn" id="again">Rematch</button><button class="btn ghost" id="edit">Change settings</button>` : `<div class="mark">Waiting for the host…</div>`}
       <button class="btn ghost" id="share">Share results</button>
     </div>
+    <label class="lab">Everyone's names</label>
+    ${rank.map(p => { const ns = namesOf(p.uid); return `<details ${p.uid === S.uid ? 'open' : ''}><summary>${esc(p.name)}${p.uid === S.uid ? ' (you)' : ''} · ${p.count || 0}</summary><p>${ns.length ? ns.map(esc).join(', ') : 'No names'}</p></details>`; }).join('')}
     ${host && st.rematchOff ? `<p class="note">Rematch keeps the same room and rules. The ${usedAfter} names used so far become off-limits for the next round (only in this room). You can clear them from the lobby.</p>` : ''}
     <div class="row"><button class="textlink" id="leave">${host ? 'Close room' : 'Leave room'}</button></div>
   </div>`;
@@ -522,7 +558,7 @@ function offline(why) {
   const [k, ...rest] = h.split('='); const v = rest.join('=');
   if (k === 'from' || k === 'host') {
     const id = v.split('|')[1]; S.fromId = id;
-    if (CATS[id]) { S.draft.cat = id; fixGoal(S.draft); }
+    if (CATS[id]) { S.draft.cat = id; fixGoal(S.draft, true); }
   }
   $('#root').innerHTML = '<div class="wrap"><div class="mark">Connecting…</div></div>';
   try {
