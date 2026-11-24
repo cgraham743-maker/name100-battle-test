@@ -72,6 +72,9 @@ async function connect() {
   S.uid = user.uid;
   F.onValue(F.ref(db, '.info/connected'), s => { if (s.val() && S.code && meRec()) markOnline(); });
   F.onValue(F.ref(db, '.info/serverTimeOffset'), s => { S.offset = s.val() || 0; });
+  // Leaving the page (even into the browser's back/forward cache) drops the connection, so others see you as offline
+  window.addEventListener('pagehide', () => { try { F.goOffline(db); } catch {} });
+  window.addEventListener('pageshow', e => { if (e.persisted) try { F.goOnline(db); } catch {} });
 }
 const R = p => F.ref(db, `rooms/${S.code}${p ? '/' + p : ''}`);
 const upd = obj => F.update(F.ref(db), Object.fromEntries(Object.entries(obj).map(([k, v]) => [`rooms/${S.code}/${k}`, v])));
