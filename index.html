@@ -620,17 +620,18 @@ function parseData(text, articles) {
   return { INDEX: index, CANON_KEYS: keys, RARE_KEYS: rare, META: meta, NAMES: names };
 }
 
-function lev(a, b, max) {
+function lev(a, b, max) {   // edit distance; swapping two neighbouring letters counts as one typo
   if (Math.abs(a.length - b.length) > max) return max + 1;
-  let prev = Array.from({length: b.length + 1}, (_, i) => i);
+  let pp = null, prev = Array.from({length: b.length + 1}, (_, i) => i);
   for (let i = 1; i <= a.length; i++) {
     const cur = [i]; let rowMin = i;
     for (let j = 1; j <= b.length; j++) {
-      cur[j] = Math.min(prev[j] + 1, cur[j-1] + 1, prev[j-1] + (a[i-1] === b[j-1] ? 0 : 1));
-      if (cur[j] < rowMin) rowMin = cur[j];
+      let v = Math.min(prev[j] + 1, cur[j-1] + 1, prev[j-1] + (a[i-1] === b[j-1] ? 0 : 1));
+      if (pp && j > 1 && a[i-1] === b[j-2] && a[i-2] === b[j-1]) v = Math.min(v, pp[j-2] + 1);
+      cur[j] = v; if (v < rowMin) rowMin = v;
     }
     if (rowMin > max) return max + 1;
-    prev = cur;
+    pp = prev; prev = cur;
   }
   return prev[b.length];
 }
@@ -642,6 +643,12 @@ function exactMatch(input) {
 }
 // Typos allowed: none under 5 letters, 1 up to 8, 2 up to 14, 3 for longer names (spaces and hyphens count as letters).
 const editsFor = n => n < 5 ? 0 : n < 9 ? 1 : n < 15 ? 2 : 3;
+// Each word has to be close too, so "Tom Hanks" doesn't become "Tom Hayes": 1 typo per word of 4+ letters, 2 for 8+.
+function wordsClose(a, b) {
+  const x = a.split(' '), y = b.split(' ');
+  if (x.length !== y.length) return true;
+  return x.every((w, i) => { const e = w.length >= 8 ? 2 : w.length >= 4 ? 1 : 0; return w === y[i] || (e > 0 && lev(w, y[i], e) <= e); });
+}
 function closest(k, keys, max) {
   let best = null, bestD = max + 1;
   for (const [key, canon] of keys) {
@@ -649,7 +656,7 @@ function closest(k, keys, max) {
     const cap = Math.min(max, editsFor(key.length));
     if (!cap) continue;
     const d = lev(k, key, cap);
-    if (d <= cap && d < bestD) { bestD = d; best = canon; if (d === 1) max = 1; }
+    if (d <= cap && d < bestD && wordsClose(k, key)) { bestD = d; best = canon; if (d === 1) max = 1; }
   }
   return best;
 }
