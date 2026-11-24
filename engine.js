@@ -300,6 +300,199 @@ function surnameOnly(raw, canon) {
   return false;
 }
 
+// ================= Wikidata: photos, descriptions, and real people missing from the lists =================
+// Like name100women.org: each added real person is looked up on Wikidata (in the player's browser) for a photo,
+// a short description ("Australian actor") and birth/death years. In some categories, a real person who isn't in
+// our list still counts if Wikidata says they're a human with an English Wikipedia article and the right gender/job.
+const WD_API = 'https://www.wikidata.org/w/api.php';
+const WD_CACHE = new Map();
+const WD_ACCEPT = {   // category -> Wikidata check for names missing from the list
+  'real-women': { p: 'P21', any: ['Q6581072', 'Q1052281'], what: 'a woman' },        // female, trans woman
+  'real-men': { p: 'P21', any: ['Q6581097', 'Q2449503'], what: 'a man' },            // male, trans man
+  'actors': { p: 'P106', any: ['Q33999', 'Q10800557', 'Q10798782', 'Q2259451', 'Q2405480', 'Q970153', 'Q948329'], what: 'an actor' },
+  'singers': { p: 'P106', any: ['Q177220', 'Q488205', 'Q2252262', 'Q2865819', 'Q1259917', 'Q2643890', 'Q855091', 'Q639669', 'Q753110'], what: 'a singer' }
+};
+async function wdJSON(params) {
+  const r = await fetch(WD_API + '?' + new URLSearchParams({ ...params, format: 'json', origin: '*' }));
+  if (!r.ok) throw new Error(r.status);
+  return r.json();
+}
+const wdIds = (e, p) => ((e.claims || {})[p] || []).map(c => c.mainsnak && c.mainsnak.datavalue && c.mainsnak.datavalue.value).filter(Boolean);
+const wdYear = v => { const m = v && v.time && v.time.match(/^([+-])0*(\d+)-/); return m ? (m[1] === '-' ? m[2] + ' BC' : m[2]) : ''; };
+// What kind of Wikidata item each category is about. `human` = must be a real person (P31 = Q5);
+// `hint` = the item's English description must match (so "Dune" in Movies finds the film, not the novel).
+// `img` = which picture to show (P18 photo, P41 flag, P154 logo), first one found wins.
+const PLACE = /\b(city|town|capital|municipality|commune|village|metropol|borough|settlement|seat|prefecture|district|port|urban|area|island)\b/i;
+const CHAR = /character|fictional|superhero|villain|deity|\bgod\b|goddess|myth|legend|princess|creature|mascot|figure|hero/i;
+const WD_KIND = {
+  'books': { hint: /novel|book|novella|memoir|poem|poetry|\bplay\b|collection|manga|comic|short story|literary|non-?fiction|autobiograph|essay|scripture|religious text|\bepic\b|treatise|written work|children's/i },
+  'movies': { hint: /\bfilm\b|movie/i }, 'best-picture': { hint: /\bfilm\b|movie/i },
+  'tv-shows': { hint: /television|\btv\b|series|sitcom|\bshow\b|anime|cartoon|soap opera|miniseries|programme|program/i },
+  'tony-best-musical': { hint: /musical/i },
+  'cities': { hint: PLACE }, 'capitals': { hint: PLACE }, 'state-capitals': { hint: PLACE },
+  'countries': { hint: /country|state|kingdom|republic|nation|principality|federation|emirate|sultanate|commonwealth|island/i, img: ['P41', 'P18'] },
+  'us-states': { hint: /state of the united states|u\.?s\.? state|state in the/i, img: ['P41', 'P18'] },
+  'animals': { hint: /species|genus|\border\b|breed|animal|bird|fish|mammal|reptile|insect|amphibian|taxon|clade|class|phylum|domestic|spider|crustacean|mollusc|dinosaur|marsupial|primate|rodent|whale|shark|snake|lizard|turtle/i },
+  'brands': { hint: /company|brand|manufacturer|restaurant|chain|retail|business|corporation|enterprise|label|conglomerate|organi[sz]ation|automaker|airline|website|service|platform|store|beverage|drink|software|subsidiary|\bcar\b|product|bank|network|marque|maker|firm|food|toy|game|console|magazine|newspaper|channel|studio/i, img: ['P154', 'P18'] },
+  'sports': { hint: /sport|game|martial art|discipline|athletics|racing|competition|activity/i },
+  'sports-teams': { hint: /team|club|franchise/i, img: ['P154', 'P18'] },
+  'pokemon': { hint: /pok[eé]mon/i },
+  'disney': { hint: CHAR, humanOk: true }, 'superheroes': { hint: CHAR, humanOk: true }, 'video-game-characters': { hint: CHAR, humanOk: true },
+  'fictional-women': { hint: CHAR, humanOk: true }, 'fictional-men': { hint: CHAR, humanOk: true }
+};
+function wdKind(catId) {
+  const c = CATS[catId] || {}, base = c.sub || catId;
+  // (movies, TV and books get descriptions too since Nov 23 late: "descriptions no pictures")
+  if (c.real || base === 'us-presidents') return { human: true };
+  return WD_KIND[base] || null;
+}
+// Finds the Wikidata item whose name or alias is exactly `name` and that fits the category (+ the list's label,
+// e.g. "Film · 1999" or "City · France", breaks ties). Returns null if none, or on network trouble (not cached).
+async function wdFind(name, catId, context, kindOverride) {
+  const kind = kindOverride || wdKind(catId); if (!kind) return null;
+  const k = norm(name), ck = (kind.human ? 'h' : (kindOverride ? 'L' : '') + (CATS[catId].sub || catId)) + ':' + k;
+  const tol = k.includes(' ') || k.length >= 6 ? editsFor(k.length) : 0;   // same typo allowance as the lists
+  const same = t => { const x = norm(t); return x === k || (tol > 0 && lev(x, k, tol) <= tol); };
+  if (WD_CACHE.has(ck)) return WD_CACHE.get(ck);
+  let out = null;
+  try {
+    // Up to 50 search hits; keep only ones whose name matches exactly and whose description fits, then fetch those.
+    const found = await wdJSON({ action: 'wbsearchentities', search: name, language: 'en', uselang: 'en', type: 'item', limit: '50' });
+    const ids = (found.search || []).filter(x => {
+      const d = x.description || '';
+      if (/family name|given name|surname|disambiguation|wikimedia|^name\b/i.test(d)) return false;
+      if (!kind.human && !kind.hint.test(d) && !kind.humanOk) return false;
+      return [x.label, x.match && x.match.text, ...(x.aliases || [])].some(t => t && same(t));
+    }).slice(0, 12).map(x => x.id);
+    if (ids.length) {
+      const got = await wdJSON({ action: 'wbgetentities', ids: ids.join('|'), props: 'labels|aliases|descriptions|claims|sitelinks', languages: 'en|mul', sitefilter: 'enwiki' });
+      const ctx = norm(context || '').split(' ').filter(w => w.length > 2 && !['film', 'city', 'the'].includes(w));
+      let best = null, bestScore = -1; const alts = [];
+      for (const id of ids) {
+        const e = got.entities && got.entities[id]; if (!e) continue;
+        if (!(e.sitelinks && e.sitelinks.enwiki)) continue;                  // has an English Wikipedia article
+        const L = e.labels || {}, A = e.aliases || {};   // newer items keep the name under "mul" (all languages)
+        const label = (L.en || L.mul || {}).value;
+        const names = [label, ...[...(A.en || []), ...(A.mul || [])].map(a => a.value)].filter(Boolean);
+        if (!names.some(n => same(n))) continue;
+        const about = (e.descriptions && e.descriptions.en && e.descriptions.en.value) || '';
+        const human = wdIds(e, 'P31').some(v => v.id === 'Q5');
+        if (kind.human ? !human : !(kind.hint.test(about) || (kind.humanOk && human))) continue;
+        const score = ctx.filter(w => norm(about).includes(w)).length;
+        alts.push({ qid: id, label: label || name, claims: e.claims || {}, human, about });   // every item with this name, for genre checks
+        if (score > bestScore) { best = { e, id, label, about, human }; bestScore = score; }
+      }
+      if (best) {
+        const { e, id, label, about, human } = best;
+        let years = '';
+        if (human) { const born = wdYear(wdIds(e, 'P569')[0]), died = wdYear(wdIds(e, 'P570')[0]);
+          years = /\d{3}/.test(about) ? '' : born && died ? `${born}–${died}` : born ? `born ${born}` : ''; }
+        const img = (kind.img || ['P18']).map(pp => wdIds(e, pp)[0]).find(Boolean);
+        out = { qid: id, label: label || name, claims: e.claims || {}, human, about, alts,
+          desc: [about, years].filter(Boolean).join(' · '),
+          img: img ? 'https://commons.wikimedia.org/wiki/Special:FilePath/' + encodeURIComponent(img) + '?width=120' : '' };
+      }
+    }
+  } catch (e) { return null; }
+  WD_CACHE.set(ck, out);
+  return out;
+}
+const wdPerson = name => wdFind(name, 'real-men');   // any real person (the category only picks "human")
+
+// ---- Live check: names missing from the list still count if Wikidata says they fit (every open category, user Nov 23) ----
+const WD_LABELS = new Map();
+async function wdLabels(ids) {   // English names of Wikidata items (genres, jobs, awards), joined into one string
+  const want = [...new Set(ids)].slice(0, 50), need = want.filter(id => !WD_LABELS.has(id));
+  if (need.length) {
+    const g = await wdJSON({ action: 'wbgetentities', ids: need.join('|'), props: 'labels', languages: 'en|mul' });
+    for (const id of need) { const e = g.entities && g.entities[id], L = (e && e.labels) || {}; WD_LABELS.set(id, (L.en || L.mul || {}).value || ''); }
+  }
+  return want.map(id => WD_LABELS.get(id)).join(' · ');
+}
+const SPORT_JOB = /athlete|player|footballer|cricketer|swimmer|runner|sprinter|hurdler|jumper|thrower|boxer|racing|driver|skater|skier|gymnast|wrestler|cyclist|golfer|tennis|jockey|fencer|rower|canoeist|sailor|climber|surfer|snowboarder|martial artist|fighter|judoka|karateka|weightlifter|bodybuilder|archer|sport shooter|diver|triathlete|biathlete|volleyball|basketball|baseball|hockey|rugby|handball|lacrosse|softball|esports|chess|pitcher|quarterback|goalkeeper|olympian|sportsperson|sportswoman|sportsman/i;
+// Sub-option code -> words that must appear in the item's kinds and genres (P31, P136) or, for people, jobs (P106)
+const WD_TAGS = {
+  movies: { ac: /action|martial arts|superhero|adventure|war film|spy|disaster/i, cm: /comed|parody|satir/i, dr: /drama/i, ho: /horror|slasher|zombie/i,
+    sf: /science fiction|sci-fi|cyberpunk|space opera|dystopia/i, fa: /fantasy|sword and sorcery|fairy tale/i, an: /animat|anime|stop-motion/i,
+    ro: /romance|romantic/i, th: /thriller|crime|mystery|noir|heist|detective|gangster|suspense/i, mu: /musical/i },
+  'tv-shows': { cm: /comed|sitcom|sketch/i, dr: /drama|soap opera|telenovela/i, cr: /crime|police|legal|medical|procedural|detective|mystery/i,
+    sf: /science fiction|sci-fi/i, an: /animat|anime|cartoon/i, ki: /child|kids|preschool|teen|family/i, re: /reality|game show|quiz|competition|talent show|dating|cooking show/i },
+  books: { fa: /fantasy/i, sf: /science fiction|dystopia/i, ho: /horror|gothic/i, ro: /romance|romantic/i, my: /mystery|crime|detective|thriller|suspense/i,
+    hf: /historical/i, ya: /young adult|teen/i, nf: /non-?fiction|memoir|biograph|essay|history book|self-help|textbook|reference/i },
+  singers: { po: /\bpop\b/i, rk: /rock|punk|metal|grunge|indie|new wave/i, bw: /musical theat|broadway|show tune|stage actor/i },
+  people: { at: SPORT_JOB, mu: /singer|musician|rapper|composer|songwriter|guitarist|drummer|pianist|violinist|disc jockey|record producer|bassist|cellist|vocalist/i,
+    ac: /actor|actress/i, sc: /scientist|physicist|chemist|biologist|mathematician|inventor|engineer|astronomer|geologist|physician|botanist|zoologist|economist|psychologist|researcher|astronaut|geneticist|neuroscientist/i,
+    wr: /writer|novelist|poet|author|playwright|screenwriter|essayist|journalist|lyricist/i, ar: /painter|sculptor|visual artist|photographer|illustrator|printmaker|cartoonist|ceramicist/i,
+    in: /youtuber|streamer|influencer|tiktoker|vlogger|internet personality|podcaster|social media/i }
+};
+const NOT_BRAND = /universit|college|\bschool|academy|non-?profit|charit|foundation|government|agency|ministry|association|league|sports team|football club|political party|religious|church|museum|hospital|wiki/i;
+const SEX = { her: ['Q6581072', 'Q1052281'], his: ['Q6581097', 'Q2449503'] };
+// What a missing name has to be on Wikidata to count in this category (null = the list only)
+function wdLive(catId) {
+  const c = CATS[catId] || {}, base = c.sub || catId;
+  if (c.finite || base === 'pokemon') return null;
+  const tags = c.filter ? (WD_TAGS[base] || (c.real ? WD_TAGS.people : {}))[c.filter] : null;
+  if (WD_ACCEPT[base]) return { human: true, ...WD_ACCEPT[base], tags, tagProps: base === 'singers' ? ['P136', 'P106'] : ['P106'], born: c.filter === 'hi' ? 1900 : 0 };
+  if (base === 'athletes') return { human: true, tags: SPORT_JOB, tagProps: ['P106'], what: 'an athlete' };
+  if (base === 'oscar-winners' && c.filter === 'mv') return { kind: { hint: /\bfilm\b|movie/i }, what: 'an Oscar-winning movie', tags: /academy award/i, tagProps: ['P166'] };
+  if (base === 'oscar-winners') return { human: true, tags: /academy award|oscar/i, tagProps: ['P166'], what: 'an Oscar winner' };
+  if (base === 'lgbtq') return { human: true, what: 'LGBTQ+', tags: /gay|lesbian|bisexual|pansexual|asexual|queer|homosexual|non-?binary|trans|genderqueer|genderfluid|two-spirit|intersex|agender/i, tagProps: ['P91', 'P21'] };
+  if (base === 'disney') return { kind: { hint: CHAR, humanOk: true }, what: 'a Disney character', tags: /disney|pixar/i, tagProps: ['P1441', 'P1080', 'P8345', 'P272', 'P750', 'P170'] };
+  if (base === 'superheroes') return { kind: { hint: CHAR, humanOk: true }, what: 'a hero or villain', tags: /superhero|supervillain|villain|comics character|marvel|dc comics|star wars|jedi|sith/i, tagProps: ['P31', 'P1080', 'P8345'] };
+  if (base === 'video-game-characters') return { kind: { hint: /character|video game|mascot|fictional/i, humanOk: true }, what: 'a video game character', tags: /video game/i, tagProps: ['P31', 'P1441', 'P8345', 'P1080'] };
+  const what = { movies: 'a movie', 'tv-shows': 'a TV show', books: 'a book', brands: 'a brand or company', animals: 'an animal', cities: 'a city',
+    sports: 'a sport', 'fictional-women': 'a fictional woman', 'fictional-men': 'a fictional man' }[base];
+  if (!what) return null;   // People of Color: the list only (Wikidata has no reliable data for it)
+  const hint = base === 'movies' ? /\bfilm\b|movie/i : WD_KIND[base].hint;
+  return { kind: { hint }, what, no: base === 'brands' ? NOT_BRAND : null, sex: base.startsWith('fictional') ? SEX[c.pron] : null,
+    tags, tagProps: ['P31', 'P136', 'P2079'] };   // P2079 'made using' holds 'traditional animation' etc.
+}
+// Returns { ok, item } when Wikidata confirms it, { why } when it's the wrong kind, or null (not found / no connection)
+async function wdCheck(raw, catId) {
+  const live = wdLive(catId); if (!live) return null;
+  const found = live.human ? await wdPerson(raw) : await wdFind(raw, catId, '', live.kind);
+  if (!found) return null;
+  if (live.human && !norm(raw).includes(' ') && norm(found.label).includes(' ') && CATS[catId].people) return { why: `Type ${CATS[catId].pron || 'their'} full name — "${raw}" alone doesn't count` };
+  // Several things can share a name (Cinderella 1950 and 2015): it counts if ANY of them fits.
+  let why = null;
+  for (const item of [found, ...(found.alts || []).filter(a => a.qid !== found.qid)]) {
+    const r = await wdFits(item, catId, live);
+    if (r === true) return { ok: true, item: { ...found, label: found.label } };
+    if (r === null) return null;
+    why = why || r;
+  }
+  return { why };
+}
+// true if this Wikidata item fits the category, null on network trouble, or the reason it doesn't
+async function wdFits(item, catId, live) {
+  const c = CATS[catId];
+  const has = (p, ids) => wdIds({ claims: item.claims }, p).some(v => ids.includes(v.id));
+  if (live.human && !item.human) return `${item.label} isn't ${live.what || 'a real person'}`;
+  if (live.human && live.p && !has(live.p, live.any)) return `${item.label} is real, but isn't known as ${live.what}`;
+  if (live.no && live.no.test(item.about || '')) return `${item.label} isn't ${live.what}`;
+  if (live.sex && !has('P21', live.sex)) return `${item.label} isn't ${live.what}`;
+  if (live.born) { const y = parseInt(wdYear(wdIds({ claims: item.claims }, 'P569')[0])); if (!(y < live.born)) return `${item.label} counts in ${CATS[c.sub].label}, but wasn't born before ${live.born}`; }
+  if (live.tags) {
+    let text = '';
+    try { text = await wdLabels(live.tagProps.flatMap(p => wdIds({ claims: item.claims }, p).map(v => v.id))); } catch { return null; }
+    if (!live.tags.test(text + ' · ' + (item.about || ''))) return c.filter ? `${item.label} counts in ${CATS[c.sub].label}, but not in ${c.subName}` : live.human ? `${item.label} is real, but isn't known as ${live.what}` : `${item.label} isn't ${live.what}`;
+  }
+  return true;
+}
+// Adds the picture and description to a card that's already on the list.
+async function wdEnrich(name, catId) {
+  const it0 = named.find(x => x.name === name);
+  const p = await wdFind(name, catId, it0 && it0.meta); if (!p || curCat !== catId) return;
+  const it = named.find(x => x.name === name); if (!it) return;
+  if (p.desc) {
+    it.desc = p.desc;
+    const m = norm((it.meta || '').replace(/^by /i, ''));
+    if (/^notable\b/i.test(it.meta || '') || (m && norm(p.desc).includes(m)) || (/^(Film|TV series)\b/.test(it.meta || '') && !/Oscar/.test(it.meta))) it.meta = '';
+  }
+  if (p.img && p.human) it.img = p.img;   // pictures only for real people (user's choice, Nov 23)
+  render();
+}
+
 
 // ================= Battle helpers (generated by make_engine.py) =================
 let curCat = null;
@@ -330,7 +523,7 @@ function checkAnswer(raw) {
   if (local) return { canon: local };
   if (c.filter && DB[c.sub]) {
     const hit = matchIn(DB[c.sub], raw);
-    if (hit) return { err: c.sub === 'books' ? `${hit} is a book, but readers don't tag it ${c.subName}` : `${hit} counts in ${CATS[c.sub].label}, but not in ${c.subName}` };
+    if (hit) return { miss: true, parent: hit, err: c.sub === 'books' ? `${hit} is a book, but readers don't tag it ${c.subName}` : `${hit} counts in ${CATS[c.sub].label}, but not in ${c.subName}` };
   }
-  return { err: c.finite ? `"${raw}" isn't one of the ${META.size} ${c.plural} — check spelling` : `"${raw}" isn't on the list — check spelling` };
+  return { miss: !c.finite, err: c.finite ? `"${raw}" isn't one of the ${META.size} ${c.plural} — check spelling` : `"${raw}" isn't on the list — check spelling` };
 }

@@ -418,7 +418,14 @@ async function submit() {
   const raw = ans.value.trim(); if (!raw) return;
   const st = r.meta.settings, M = st.mode;
   if (!cfg() || curCat !== st.cat) { nope('Still loading the answer list…'); return; }
-  const res = checkAnswer(raw);
+  let res = checkAnswer(raw);
+  if (res.err && res.miss && typeof wdCheck === 'function') {   // double-check on Wikidata before saying no
+    setMsg(`Checking "${raw}"…`);
+    const w = await wdCheck(res.parent || raw, st.cat);
+    if (!S.room || S.room.meta.state !== 'playing' || G.over) return;
+    if (w && w.ok) { const canon = res.parent || w.item.label; if (!INDEX.has(norm(canon))) INDEX.set(norm(canon), canon); res = { canon }; }
+    else if (w && w.why) res = { err: w.why };
+  }
   if (res.err) { nope(res.err); return; }
   const canon = res.canon, k = norm(canon);
   if (!k || k.length > 80) { nope('Try a shorter name'); return; }

@@ -735,7 +735,7 @@ const WD_KIND = {
 };
 function wdKind(catId) {
   const c = CATS[catId] || {}, base = c.sub || catId;
-  if (['books', 'movies', 'tv-shows', 'best-picture'].includes(base)) return null;   // keep their own clean labels (user, Nov 23)
+  // (movies, TV and books get descriptions too since Nov 23 late: "descriptions no pictures")
   if (c.real || base === 'us-presidents') return { human: true };
   return WD_KIND[base] || null;
 }
@@ -744,6 +744,8 @@ function wdKind(catId) {
 async function wdFind(name, catId, context, kindOverride) {
   const kind = kindOverride || wdKind(catId); if (!kind) return null;
   const k = norm(name), ck = (kind.human ? 'h' : (kindOverride ? 'L' : '') + (CATS[catId].sub || catId)) + ':' + k;
+  const tol = k.includes(' ') || k.length >= 6 ? editsFor(k.length) : 0;   // same typo allowance as the lists
+  const same = t => { const x = norm(t); return x === k || (tol > 0 && lev(x, k, tol) <= tol); };
   if (WD_CACHE.has(ck)) return WD_CACHE.get(ck);
   let out = null;
   try {
@@ -753,7 +755,7 @@ async function wdFind(name, catId, context, kindOverride) {
       const d = x.description || '';
       if (/family name|given name|surname|disambiguation|wikimedia|^name\b/i.test(d)) return false;
       if (!kind.human && !kind.hint.test(d) && !kind.humanOk) return false;
-      return [x.label, x.match && x.match.text, ...(x.aliases || [])].some(t => t && norm(t) === k);
+      return [x.label, x.match && x.match.text, ...(x.aliases || [])].some(t => t && same(t));
     }).slice(0, 12).map(x => x.id);
     if (ids.length) {
       const got = await wdJSON({ action: 'wbgetentities', ids: ids.join('|'), props: 'labels|aliases|descriptions|claims|sitelinks', languages: 'en|mul', sitefilter: 'enwiki' });
@@ -765,7 +767,7 @@ async function wdFind(name, catId, context, kindOverride) {
         const L = e.labels || {}, A = e.aliases || {};   // newer items keep the name under "mul" (all languages)
         const label = (L.en || L.mul || {}).value;
         const names = [label, ...[...(A.en || []), ...(A.mul || [])].map(a => a.value)].filter(Boolean);
-        if (!names.some(n => norm(n) === k)) continue;
+        if (!names.some(n => same(n))) continue;
         const about = (e.descriptions && e.descriptions.en && e.descriptions.en.value) || '';
         const human = wdIds(e, 'P31').some(v => v.id === 'Q5');
         if (kind.human ? !human : !(kind.hint.test(about) || (kind.humanOk && human))) continue;
@@ -827,9 +829,13 @@ function wdLive(catId) {
   if (base === 'athletes') return { human: true, tags: SPORT_JOB, tagProps: ['P106'], what: 'an athlete' };
   if (base === 'oscar-winners' && c.filter === 'mv') return { kind: { hint: /\bfilm\b|movie/i }, what: 'an Oscar-winning movie', tags: /academy award/i, tagProps: ['P166'] };
   if (base === 'oscar-winners') return { human: true, tags: /academy award|oscar/i, tagProps: ['P166'], what: 'an Oscar winner' };
+  if (base === 'lgbtq') return { human: true, what: 'LGBTQ+', tags: /gay|lesbian|bisexual|pansexual|asexual|queer|homosexual|non-?binary|trans|genderqueer|genderfluid|two-spirit|intersex|agender/i, tagProps: ['P91', 'P21'] };
+  if (base === 'disney') return { kind: { hint: CHAR, humanOk: true }, what: 'a Disney character', tags: /disney|pixar/i, tagProps: ['P1441', 'P1080', 'P8345', 'P272', 'P750', 'P170'] };
+  if (base === 'superheroes') return { kind: { hint: CHAR, humanOk: true }, what: 'a hero or villain', tags: /superhero|supervillain|villain|comics character|marvel|dc comics|star wars|jedi|sith/i, tagProps: ['P31', 'P1080', 'P8345'] };
+  if (base === 'video-game-characters') return { kind: { hint: /character|video game|mascot|fictional/i, humanOk: true }, what: 'a video game character', tags: /video game/i, tagProps: ['P31', 'P1441', 'P8345', 'P1080'] };
   const what = { movies: 'a movie', 'tv-shows': 'a TV show', books: 'a book', brands: 'a brand or company', animals: 'an animal', cities: 'a city',
     sports: 'a sport', 'fictional-women': 'a fictional woman', 'fictional-men': 'a fictional man' }[base];
-  if (!what) return null;   // People of Color, LGBTQ+, Disney, Heroes & Villains, Video Game Characters: the list only
+  if (!what) return null;   // People of Color: the list only (Wikidata has no reliable data for it)
   const hint = base === 'movies' ? /\bfilm\b|movie/i : WD_KIND[base].hint;
   return { kind: { hint }, what, no: base === 'brands' ? NOT_BRAND : null, sex: base.startsWith('fictional') ? SEX[c.pron] : null,
     tags, tagProps: ['P31', 'P136', 'P2079'] };   // P2079 'made using' holds 'traditional animation' etc.
@@ -839,6 +845,7 @@ async function wdCheck(raw, catId) {
   const live = wdLive(catId); if (!live) return null;
   const found = live.human ? await wdPerson(raw) : await wdFind(raw, catId, '', live.kind);
   if (!found) return null;
+  if (live.human && !norm(raw).includes(' ') && norm(found.label).includes(' ') && CATS[catId].people) return { why: `Type ${CATS[catId].pron || 'their'} full name — "${raw}" alone doesn't count` };
   // Several things can share a name (Cinderella 1950 and 2015): it counts if ANY of them fits.
   let why = null;
   for (const item of [found, ...(found.alts || []).filter(a => a.qid !== found.qid)]) {
@@ -861,7 +868,7 @@ async function wdFits(item, catId, live) {
   if (live.tags) {
     let text = '';
     try { text = await wdLabels(live.tagProps.flatMap(p => wdIds({ claims: item.claims }, p).map(v => v.id))); } catch { return null; }
-    if (!live.tags.test(text + ' · ' + (item.about || ''))) return c.filter ? `${item.label} counts in ${CATS[c.sub].label}, but not in ${c.subName}` : `${item.label} is real, but isn't known as ${live.what}`;
+    if (!live.tags.test(text + ' · ' + (item.about || ''))) return c.filter ? `${item.label} counts in ${CATS[c.sub].label}, but not in ${c.subName}` : live.human ? `${item.label} is real, but isn't known as ${live.what}` : `${item.label} isn't ${live.what}`;
   }
   return true;
 }
@@ -873,7 +880,7 @@ async function wdEnrich(name, catId) {
   if (p.desc) {
     it.desc = p.desc;
     const m = norm((it.meta || '').replace(/^by /i, ''));
-    if (/^notable\b/i.test(it.meta || '') || (m && norm(p.desc).includes(m))) it.meta = '';
+    if (/^notable\b/i.test(it.meta || '') || (m && norm(p.desc).includes(m)) || (/^(Film|TV series)\b/.test(it.meta || '') && !/Oscar/.test(it.meta))) it.meta = '';
   }
   if (p.img && p.human) it.img = p.img;   // pictures only for real people (user's choice, Nov 23)
   render();
@@ -1117,7 +1124,7 @@ form.addEventListener('submit', async e => {
     parentHit = matchIn(DB[c.sub], raw);   // typos allowed (101 Dalmations)
   }
   const live = wdLive(cat);
-  if (live && (!live.human || raw.trim().split(/\s+/).length >= 2 || parentHit)) {
+  if (live) {   // always double-check before saying no (user, Nov 23)
     const key = norm(raw);
     if (pending.some(p => p.key === key)) { setMsg('Already checking that one', ''); return; }
     pending.unshift({ key, raw }); render(); setMsg(`Checking "${raw}"…`, '');
@@ -1129,8 +1136,7 @@ form.addEventListener('submit', async e => {
       const d = dupCheck(canon); if (d) { setMsg(`already on list · #${d}`, 'bad'); shake(); return; }
       if (!INDEX.has(norm(canon))) INDEX.set(norm(canon), canon);
       if (!INDEX.has(norm(raw))) INDEX.set(norm(raw), canon);
-      const plain = ['books', 'movies', 'tv-shows'].includes(c.sub || cat);   // these keep their own short labels
-      addItem(canon, plain ? '' : p.desc);
+      addItem(canon, p.desc);
       const it = named.find(x => x.name === canon); if (it && p.img && p.human) { it.img = p.img; render(); }
       setMsg(`${canon} · added`, 'ok');
       return;
