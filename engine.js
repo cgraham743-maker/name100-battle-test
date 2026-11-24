@@ -187,19 +187,19 @@ const ENT_ORDER = ['actors', 'singers', 'oscar-winners'];
 const CAT_IDS = Object.keys(CATS).filter(id => !CATS[id].sub).sort((a, b) => (ENT_ORDER.indexOf(a) < 0 ? 0 : ENT_ORDER.indexOf(a) - 9) - (ENT_ORDER.indexOf(b) < 0 ? 0 : ENT_ORDER.indexOf(b) - 9) || 0);
 
 // ================= Matching =================
-const norm = s => s.normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase()
+const norm = s => s.normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().replace(/&/g, ' and ')
   .replace(/[’'`.!]/g,'').replace(/[^a-z0-9]+/g,' ').trim();
 const firstLast = n => { const t = n.split(' '); return t.length >= 3 ? t[0] + ' ' + t[t.length-1] : null; };
-const DB = {};                       // per category: {INDEX, CANON_KEYS, META, NAMES}
-let INDEX = new Map(), CANON_KEYS = [], META = new Map(), NAMES = new Map();
+const DB = {};                       // per category: {INDEX, CANON_KEYS, RARE_KEYS, META, NAMES}
+let INDEX = new Map(), CANON_KEYS = [], RARE_KEYS = [], META = new Map(), NAMES = new Map();
 
 function parseData(text, articles) {
-  const index = new Map(), keys = [], meta = new Map(), names = new Map();
+  const index = new Map(), keys = [], rare = [], meta = new Map(), names = new Map();
   let cat = '';
   for (const raw of text.split('\n')) {
     if (!raw) continue;
     if (raw.startsWith('#')) { cat = raw.slice(1).trim(); continue; }
-    // "~Name" = less famous: exact spelling only. A tab separates an optional label (category or "from" work).
+    // "~Name" = less famous: typos are matched only after the famous names. A tab separates an optional label (category or "from" work).
     const exactOnly = raw.startsWith('~');
     const [namesPart, label] = (exactOnly ? raw.slice(1) : raw).split('\t');
     const parts = namesPart.split('|').map(s => s.trim()).filter(Boolean);
@@ -210,12 +210,12 @@ function parseData(text, articles) {
     for (const p of parts) {
       const k = norm(p); if (!k) continue;
       if (!index.has(k)) index.set(k, canon);
-      if (!exactOnly) keys.push([k, canon]);
+      (exactOnly ? rare : keys).push([k, canon]);
       if (articles) { const bare = k.replace(/^(the|a|an) /, ''); if (bare !== k && bare.length > 2 && !index.has(bare)) index.set(bare, canon); }
     }
   }
   for (const [k, canon] of keys) { const fl = firstLast(k); if (fl && !index.has(fl)) index.set(fl, canon); }
-  return { INDEX: index, CANON_KEYS: keys, META: meta, NAMES: names };
+  return { INDEX: index, CANON_KEYS: keys, RARE_KEYS: rare, META: meta, NAMES: names };
 }
 
 function lev(a, b, max) {
@@ -238,19 +238,26 @@ function exactMatch(input) {
   for (const c of [k, stripped, firstLast(k), firstLast(stripped)]) if (c && INDEX.has(c)) return INDEX.get(c);
   return null;
 }
+// Typos allowed: none under 5 letters, 1 up to 8, 2 up to 14, 3 for longer names (spaces and hyphens count as letters).
+const editsFor = n => n < 5 ? 0 : n < 9 ? 1 : n < 15 ? 2 : 3;
+function closest(k, keys, max) {
+  let best = null, bestD = max + 1;
+  for (const [key, canon] of keys) {
+    if (key.length < 5) continue;
+    const cap = Math.min(max, editsFor(key.length));
+    if (!cap) continue;
+    const d = lev(k, key, cap);
+    if (d <= cap && d < bestD) { bestD = d; best = canon; if (d === 1) max = 1; }
+  }
+  return best;
+}
 function localMatch(input) {
   const hit = exactMatch(input); if (hit) return hit;
   if (input.includes(',')) { const h2 = exactMatch(input.split(',')[0]); if (h2) return h2; }   // "Paris, Texas" -> Paris
-  const k = norm(input);
-  if (k.length < 6) return null;
-  const max = k.length < 10 ? 1 : 2;
-  let best = null, bestD = max + 1;
-  for (const [key, canon] of CANON_KEYS) {
-    if (key.length < 6) continue;
-    const d = lev(k, key, max);
-    if (d < bestD) { bestD = d; best = canon; if (d === 0) break; }
-  }
-  return best;
+  const k = norm(input), max = !k.includes(' ') && k.length < 6 ? 0 : editsFor(k.length);   // short single words (a bare surname) must be exact
+  if (!max) return null;
+  // famous names first, so a typo lands on the person most players mean; then everyone else on the list
+  return closest(k, CANON_KEYS, max) || closest(k, RARE_KEYS, max);
 }
 const TITLES = new Set(['queen','princess','lady','dame','saint','st','empress','madame','mother','rani','king','prince','pope','emperor','mahatma','colonel','dr','sir','chairman','mr','mrs','ms','miss','prophet','lord','darth','captain','doctor','professor','mister','general','count','uncle','aunt','father','sister','brother','agent','detective','officer','commander','the']);
 // One word that is just part of a longer name (a first name or a last name) doesn't count, in every category:
@@ -263,6 +270,8 @@ function surnameOnly(raw, canon) {
   const w = norm(raw).split(' ');
   if (w.length !== 1 || ONE_NAME_OK.has(w[0])) return false;
   if (w[0] === norm(canon)) return false;                       // the main name itself (Batman, Zeus, Cher)
+  const e1 = editsFor(w[0].length);
+  if (e1 && lev(w[0], norm(canon).replace(/ /g, ''), e1) <= e1) return false;   // a misspelled one-name star (Beyonse)
   const core = norm(canon).split(' '); while (core.length > 1 && TITLES.has(core[0])) core.shift();
   if (core.length === 1 && w[0] === core[0]) return false;      // main name minus a title (Voldemort, Vader)
   const cn = norm(canon).split(' '); if (cn.length >= 3 && (cn[1] === 'the' || cn[1] === 'of') && cn[0] === w[0]) return false;   // Sonic (the Hedgehog), Geralt (of Rivia)
@@ -295,7 +304,7 @@ async function loadCat(id) {
     DB[id] = parseData(text, !c.people);
   }
   curCat = id;
-  ({ INDEX, CANON_KEYS, META, NAMES } = DB[id]);
+  ({ INDEX, CANON_KEYS, RARE_KEYS, META, NAMES } = DB[id]);
   return CATS[id].finite ? META.size : null;
 }
 function checkAnswer(raw) {
