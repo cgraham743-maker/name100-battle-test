@@ -342,7 +342,7 @@ The War of the Worlds	by H. G. Wells	cl,sf
 Candide	by Voltaire	cl
 The Grapes of Wrath	by John Steinbeck	cl
 Aegukka	Book
-Demon Slayer: Kimetsu no Yaiba	by Koyoharu Gotōge
+Demon Slayer: Kimetsu no Yaiba|Demon Slayer	by Koyoharu Gotōge
 A Tale of Two Cities	by Charles Dickens	cl,hf
 National Geographic	by National Geographic Society
 Malay Wikipedia	Book
@@ -1215,7 +1215,7 @@ A Hero of Our Time	by Mikhail Lermontov	cl
 ~You Are Not Alone	Book	my
 ~Gott erhalte Franz den Kaiser	Book
 ~Urban Dictionary	Book
-~Appendix:Glossary	Book
+~Appendix:Glossary|Appendix	Book
 ~The Adventures of Captain Hatteras	by Jules Verne
 ~Samogitian Wikipedia	Book
 The God of Small Things	by Arundhati Roy	cl
@@ -1290,7 +1290,7 @@ Peter Pan	by J. M. Barrie	cl
 ~The Robbers	by Friedrich Schiller
 American Psycho	by Bret Easton Ellis	cl,ho,my
 ~Mafalda	by Quino
-~Hetalia: Axis Powers	by Hidekaz Himaruya
+~Hetalia: Axis Powers|Hetalia	by Hidekaz Himaruya
 ~Pericles, Prince of Tyre	by George Wilkins
 The Three-Body Problem	by Liu Cixin	sf
 ~Margraviate of Baden	Book
@@ -1424,7 +1424,7 @@ Good Omens	by Neil Gaiman	fa
 ~Benedictus	by Zechariah
 ~The Adventure of the Dancing Men	by Arthur Conan Doyle
 ~Black Clover	by Yūki Tabata
-Homo Deus: A Brief History of Tomorrow	by Yuval Noah Harari	nf
+Homo Deus: A Brief History of Tomorrow|Homo Deus	by Yuval Noah Harari	nf
 ~Nahj al-Balagha	by Sharif Radhi
 ~Chobits	by Clamp
 ~Two Years' Vacation	by Jules Verne
@@ -1664,7 +1664,7 @@ Appointment with Death	by Agatha Christie	cl,my
 ~Zulu Wikipedia	Book
 Firestarter	by Stephen King	ho
 ~The Tale of the Heike	by Akashi Kakuichi	cl
-2001: A Space Odyssey	by Arthur C. Clarke	sf
+2001: A Space Odyssey|2001	by Arthur C. Clarke	sf
 Cujo	by Stephen King	ho
 ~Shan Hai Jing	by Guo Pu
 ~Nicholas Nickleby	by Charles Dickens
@@ -1814,7 +1814,7 @@ The Man in the Brown Suit	by Agatha Christie	cl,my
 ~The Little Golden Calf	by Ilf and Petrov
 ~Imperialism, the Highest Stage of Capitalism	by Vladimir Lenin	cl,nf
 ~Shakugan no Shana	by Yashichiro Takahashi
-~The Black Arrow: A Tale of the Two Roses	by Robert Louis Stevenson
+~The Black Arrow: A Tale of the Two Roses|The Black Arrow	by Robert Louis Stevenson
 ~L'Assommoir	by Émile Zola
 ~The Eighteenth Brumaire of Louis Bonaparte	by Karl Marx
 ~Hop-o'-My-Thumb	by Charles Perrault
@@ -1899,7 +1899,7 @@ Three Act Tragedy	by Agatha Christie	cl,my
 ~Acts of Thomas	Book
 The Perks of Being a Wallflower	by Stephen Chbosky	ya
 ~Charmides	by Plato
-Why Nations Fail: The Origins of Power, Prosperity, and Poverty	by James A. Robinson	nf
+Why Nations Fail: The Origins of Power, Prosperity, and Poverty|Why Nations Fail	by James A. Robinson	nf
 Sons and Lovers	by D. H. Lawrence	cl
 ~Compendium of Materia Medica	by Li Shizhen
 ~Egils saga	by Snorri Sturluson
@@ -2062,7 +2062,7 @@ The Turn of the Screw	by Henry James	cl,ho
 ~Parable of the Wicked Husbandmen	Book
 ~Jacques de Vitry	Book
 ~The Feynman Lectures on Physics	by Matthew Sands	cl
-~Tsubasa: Reservoir Chronicle	by Clamp
+~Tsubasa: Reservoir Chronicle|Tsubasa	by Clamp
 ~City Hunter	by Tsukasa Hōjō
 A Caribbean Mystery	by Agatha Christie	cl,my
 ~Dīwān ul-Lughat al-Turk	by Mahmud al-Kashgari
@@ -2220,7 +2220,7 @@ The Secret Adversary	by Agatha Christie	cl,my
 ~Dance in the Dark	Book
 ~The Purloined Letter	by Edgar Allan Poe
 ~La Gioconda	Book
-~Magi: The Labyrinth of Magic	by Shinobu Ohtaka
+~Magi: The Labyrinth of Magic|Magi	by Shinobu Ohtaka
 Fear and Loathing in Las Vegas	by Hunter S. Thompson
 ~The Urantia Book	Book
 ~The Museum of Innocence	by Orhan Pamuk	cl,ro
@@ -2381,7 +2381,7 @@ Brideshead Revisited	by Evelyn Waugh	cl,ro
 ~Cry	Book
 ~Thesmophoriazusae	by Aristophanes
 At the Mountains of Madness	by H. P. Lovecraft	cl,fa,ho,my,sf,ya
-~Answering the Question: What Is Enlightenment?	by Immanuel Kant
+~Answering the Question: What Is Enlightenment?|Answering the Question	by Immanuel Kant
 Bridge to Terabithia	by Katherine Paterson	fa,ya
 Mort	by Terry Pratchett	fa
 ~Sayonara, Zetsubou-Sensei	by Kōji Kumeta
@@ -2457,7 +2457,7 @@ Endless Night	by Agatha Christie	cl,my
 ~Parable of the Wise and the Foolish Builders	Book
 ~Parable of the unforgiving servant	Book
 ~Sadko	Book
-~Sweeney Todd: The Demon Barber of Fleet Street	Book
+~Sweeney Todd: The Demon Barber of Fleet Street|Sweeney Todd	Book
 ~Butterfly Lovers	Book
 ~Herr Mannelig	Book
 ~Counting Stars	Book
@@ -2479,7 +2479,7 @@ Anne of the Island	by Lucy Maud Montgomery	cl,ya
 ~Psalm 3	by David
 ~Why I Am Not a Christian	by Bertrand Russell	cl
 A Canticle for Leibowitz	by Walter M. Miller	cl,sf
-2010: Odyssey Two	by Arthur C. Clarke	cl,fa,sf
+2010: Odyssey Two|2010	by Arthur C. Clarke	cl,fa,sf
 ~Fade to Black	Book
 Hopscotch	by Julio Cortázar	cl,my
 ~Burmese Days	by George Orwell	cl
@@ -2724,7 +2724,7 @@ Blood of Elves	by Andrzej Sapkowski	fa
 World War Z	by Max Brooks	ho
 ~Nathan the Wise	by Gotthold Ephraim Lessing
 ~Blacksad	by Juan Díaz Canales
-~"Left-Wing" Communism: An Infantile Disorder	by Vladimir Lenin	cl
+~"Left-Wing" Communism: An Infantile Disorder|"Left-Wing" Communism	by Vladimir Lenin	cl
 ~Genie in a Bottle	Book
 ~The Condition of the Working Class in England in 1844	by Friedrich Engels
 ~Pashto Wikipedia	Book
@@ -2801,7 +2801,7 @@ The Ballad of Songbirds and Snakes	by Suzanne Collins	fa,ro,sf,ya
 ~UNESCO Interactive Atlas of the World's Languages in Danger	Book
 ~Part of Me	Book
 ~Lulu	Book
-~Food Wars!: Shokugeki no Soma	by Yūto Tsukuda
+~Food Wars!: Shokugeki no Soma|Food Wars!	by Yūto Tsukuda
 ~Darkly Dreaming Dexter	by Jeff Lindsay
 ~Iznogoud	by René Goscinny
 ~Pandora Hearts	by Jun Mochizuki
@@ -2950,7 +2950,7 @@ Pippi Longstocking	by Astrid Lindgren	fa,ya
 ~The Adventure of the Veiled Lodger	by Arthur Conan Doyle
 ~The Adventure of the Sussex Vampire	by Arthur Conan Doyle
 ~The Adventure of Shoscombe Old Place	by Arthur Conan Doyle
-Chapterhouse: Dune	by Frank Herbert	fa,sf
+Chapterhouse: Dune|Chapterhouse	by Frank Herbert	fa,sf
 ~Toilet-Bound Hanako-kun	by AidaIro
 ~Laid-Back Camp	by Afro
 ~Life of Galileo	by Bertolt Brecht
@@ -3104,7 +3104,7 @@ The Twits	by Roald Dahl	fa,ya
 ~The Secret Agent	by Joseph Conrad	cl,my,sf,ya
 ~The Tale of the Fisherman and the Fish	by Alexander Pushkin
 ~My Deer Friend Nokotan	by Oshioshio
-~The Dark Tower II: The Drawing of the Three	by Stephen King
+~The Dark Tower II: The Drawing of the Three|The Dark Tower II	by Stephen King
 Psycho	by Robert Bloch	cl,ho,my
 ~1 Corinthians 13	by Paul the Apostle
 ~Sister Carrie	by Theodore Dreiser	cl,hf,ro
@@ -3114,7 +3114,7 @@ Psycho	by Robert Bloch	cl,ho,my
 ~A Country Doctor	by Franz Kafka
 Small Gods	by Terry Pratchett	fa
 ~Babar the Elephant	Book
-~For sale: baby shoes, never worn	by Ernest Hemingway
+~For sale: baby shoes, never worn|For sale	by Ernest Hemingway
 ~Excel Saga	by Kōshi Rikudō
 ~Hyouka	by Honobu Yonezawa
 Metro 2034	by Dmitry Glukhovsky	fa,sf
@@ -3186,7 +3186,7 @@ Ham on Rye	by Charles Bukowski	cl,ya
 ~Fire Force	by Atsushi Ōkubo
 ~The Adventure of the Devil's Foot	by Arthur Conan Doyle
 ~I Want to Eat Your Pancreas	by Yoru Sumino
-~Kaguya-sama: Love Is War	by Aka Akasaka
+~Kaguya-sama: Love Is War|Kaguya-sama	by Aka Akasaka
 ~Linga Purana	by Vyasa
 ~Oeconomicus	by Xenophon
 ~The White Castle	by Orhan Pamuk
@@ -3289,9 +3289,9 @@ Artemis Fowl	by Eoin Colfer	fa,sf,ya
 ~A Sportsman's Sketches	by Ivan Turgenev
 ~À rebours	by Joris-Karl Huysmans
 ~Father Sergius	by Leo Tolstoy
-~KochiKame: Tokyo Beat Cops	by Osamu Akimoto
+~KochiKame: Tokyo Beat Cops|KochiKame	by Osamu Akimoto
 ~A True Story	by Lucian of Samosata
-~Trump: The Art of the Deal	by Donald J. Trump
+~Trump: The Art of the Deal|Trump	by Donald J. Trump
 ~women in Armenia	Book
 ~Baldrs draumar	Book
 Heartstopper	by Alice Oseman	ro,ya
@@ -3410,7 +3410,7 @@ Time of Contempt	by Andrzej Sapkowski	fa
 ~Little Iliad	by Lesches
 ~Tibetan Wikipedia	Book
 ~The Second World War	by Winston Churchill
-2061: Odyssey Three	by Arthur C. Clarke	cl,fa,sf
+2061: Odyssey Three|2061	by Arthur C. Clarke	cl,fa,sf
 ~Codex Aureus of Lorsch	Book
 ~Wage Labour and Capital	by Karl Marx	cl,nf
 ~La Araucana	by Alonso de Ercilla
@@ -3539,7 +3539,7 @@ A Confederacy of Dunces	by John Kennedy Toole	cl
 ~Paradise Kiss	by Ai Yazawa
 ~Preacher	by Glenn Fabry	my
 ~Almanach de Gotha	by various authors
-~The Dark Tower IV: Wizard and Glass	by Stephen King
+~The Dark Tower IV: Wizard and Glass|The Dark Tower IV	by Stephen King
 ~Asterix in Britain	by René Goscinny
 ~Pharsalia	by Lucan
 ~Psalm 20	Book
@@ -3714,7 +3714,7 @@ Wonder	by R. J. Palacio	ya
 ~Võro Wikipedia	Book
 Extremely Loud & Incredibly Close	by Jonathan Safran Foer	cl,ya
 ~Psalm 9	Book
-~The Dark Tower III: The Waste Lands	by Stephen King
+~The Dark Tower III: The Waste Lands|The Dark Tower III	by Stephen King
 Sunburn	Book	ya
 ~glossary of anime and manga	Book
 ~In dulci jubilo	Book
@@ -3755,7 +3755,7 @@ Hard to Be a God	by Arkady and Boris Strugatsky	cl,fa,sf
 ~Mockingbird	Book	cl,fa,sf
 The Death of the Author	by Roland Barthes	fa,sf
 ~Touch My Body	Book
-3001: The Final Odyssey	by Arthur C. Clarke	cl,fa,sf
+3001: The Final Odyssey|3001	by Arthur C. Clarke	cl,fa,sf
 A Wrinkle in Time	by Madeleine L'Engle	sf
 ~Floris and Blancheflour	by Robert d’Orbigny
 ~Scrolls of Abraham	by God in Islam
@@ -3776,7 +3776,7 @@ Island	by Aldous Huxley	cl,fa,sf
 ~Goblin Slayer	by Kumo Kagyū
 ~Back in Black	Book
 ~Tutinama	by Nakhshabi
-~The Dark Tower V: Wolves of the Calla	by Stephen King
+~The Dark Tower V: Wolves of the Calla|The Dark Tower V	by Stephen King
 ~Jean-Christophe	by Romain Rolland
 ~Teasing Master Takagi-san	by Sōichirō Yamamoto
 ~The Portrait	by Nikolai Gogol
@@ -3814,7 +3814,7 @@ Requiem	Book	fa,ro,sf,ya
 ~Psalm 149	Book
 ~Ruy Blas	by Victor Hugo
 ~women in Iran	Book
-~Wandering Witch: The Journey of Elaina	by Jōgi Shiraishi
+~Wandering Witch: The Journey of Elaina|Wandering Witch	by Jōgi Shiraishi
 ~Quadrature of the Parabola	by Archimedes
 ~Kaushitaki Upanishad	Book
 ~Made in Heaven	Book
@@ -3872,7 +3872,7 @@ Going Postal	by Terry Pratchett	fa
 ~Who's That Chick?	Book
 Tortilla Flat	by John Steinbeck	cl
 Death's End	by Liu Cixin	sf
-~Cautious Hero: The Hero Is Overpowered but Overly Cautious	by Tuchihi Light
+~Cautious Hero: The Hero Is Overpowered but Overly Cautious|Cautious Hero	by Tuchihi Light
 ~Thinking of You	Book
 ~Tenjho Tenge	by Oh!great
 ~Shirley	by Charlotte Brontë	cl,my
@@ -3885,7 +3885,7 @@ Death's End	by Liu Cixin	sf
 ~Book of Thomas the Contender	Book
 ~The Jew of Malta	by Christopher Marlowe	cl
 ~De Bello Alexandrino	Book
-~My Next Life as a Villainess: All Routes Lead to Doom!	by Satoru Yamaguchi
+~My Next Life as a Villainess: All Routes Lead to Doom!|My Next Life as a Villainess	by Satoru Yamaguchi
 ~Heavenly Delusion	by Masakazu Ishiguro
 ~Barakamon	by Satsuki Yoshino
 ~Undine	by Friedrich de la Motte Fouqué
@@ -3898,7 +3898,7 @@ Death's End	by Liu Cixin	sf
 ~Inazuma Eleven	by Tenya Yabuno
 ~Yakitate!! Japan	by Takashi Hashiguchi
 ~Beelzebub	by Ryūhei Tamura
-~Kenichi: The Mightiest Disciple	by Shun Matsuena
+~Kenichi: The Mightiest Disciple|Kenichi	by Shun Matsuena
 ~Mathematische Annalen	Book
 ~National Anthem of the State/Empire of Manchukuo	Book
 ~Ascanio in Alba	Book
@@ -3923,7 +3923,7 @@ Blaze	by Stephen King	ho,my
 ~Il signor Bruschino	Book
 ~Book of Caverns	Book
 ~Kowloon Generic Romance	by Jun Mayuzuki
-~Codename: Sailor V	by Naoko Takeuchi
+~Codename: Sailor V|Codename	by Naoko Takeuchi
 Flow My Tears, the Policeman Said	by Philip K. Dick	sf
 ~Black Cat	by Kentaro Yabuki
 ~YuruYuri	by Namori
@@ -4241,7 +4241,7 @@ No Country for Old Men	by Cormac McCarthy	cl,my
 ~Where Them Girls At	Book
 ~Suicide Is Painless	Book
 ~Pelléas and Mélisande	by Maurice Maeterlinck
-~Hell's Paradise: Jigokuraku	by Yūji Kaku
+~Hell's Paradise: Jigokuraku|Hell's Paradise	by Yūji Kaku
 ~Mignon	Book
 ~Le Médecin malgré lui	by Molière
 ~Homo Faber	by Max Frisch	cl,my,ro
@@ -4308,8 +4308,8 @@ The Man Who Was Thursday	by G. K. Chesterton	cl,fa,my,sf
 ~Never Let Me Down Again	Book
 ~Hana to Yume	Book
 ~We Will Rock You	Book
-~Junjo Romantica: Pure Romance	by Shungiku Nakamura
-~Zom 100: Bucket List of the Dead	by Haro Aso
+~Junjo Romantica: Pure Romance|Junjo Romantica	by Shungiku Nakamura
+~Zom 100: Bucket List of the Dead|Zom 100	by Haro Aso
 Klara and the Sun	by Kazuo Ishiguro	sf
 ~The Old Capital	by Yasunari Kawabata
 ~The Night in Lisbon	by Erich Maria Remarque
@@ -4346,7 +4346,7 @@ Roadwork	by Stephen King	fa,ho,my
 ~Due vite	Book
 ~The Libation Bearers	by Aeschylus	cl,fa
 ~De mulieribus claris	by Giovanni Boccaccio
-~Ada or Ardor: A Family Chronicle	by Vladimir Nabokov	cl,fa,sf
+~Ada or Ardor: A Family Chronicle|Ada or Ardor	by Vladimir Nabokov	cl,fa,sf
 ~Moksha Wikipedia	Book
 ~De finibus bonorum	by Cicero
 ~De Alde Friezen	Book
@@ -4417,7 +4417,7 @@ Crossroads	Book
 ~On the Eve	by Ivan Turgenev
 ~Anthem of the Republic of Kazakhstan	Book
 ~Asterix and the Roman Agent	by René Goscinny	cl,fa,ya
-~The Dark Tower VII: The Dark Tower	by Stephen King
+~The Dark Tower VII: The Dark Tower|The Dark Tower VII	by Stephen King
 ~The History of Rome	by Theodor Mommsen
 ~Masterpiece	Book
 ~Messe de Nostre Dame	Book
@@ -4434,7 +4434,7 @@ Allegiant	by Veronica Roth	fa,ro,sf,ya
 ~Psalm 69	by David
 ~Psalm 31	Book
 ~Everlong	Book
-~The Dark Tower VI: Song of Susannah	by Stephen King
+~The Dark Tower VI: Song of Susannah|The Dark Tower VI	by Stephen King
 ~Elastic Heart	Book
 ~Icarus	Book	fa,ro,ya
 ~Ibis	Book
@@ -4510,7 +4510,7 @@ Lullaby	by Chuck Palahniuk	fa,ho,my
 Anne's House of Dreams	by Lucy Maud Montgomery	cl,ya
 ~Psalm 33	Book
 Rocannon's World	by Ursula K. Le Guin	fa,sf
-~Wotakoi: Love is Hard for Otaku	by Fujita
+~Wotakoi: Love is Hard for Otaku|Wotakoi	by Fujita
 Elantris	by Brandon Sanderson	fa
 ~Book of Ether	Book
 ~In Another World With My Smartphone	by Patora Fuyuhara
@@ -4654,7 +4654,7 @@ Gone Girl	by Gillian Flynn	my
 ~While the Light Lasts and Other Stories	by Agatha Christie
 ~Valérian and Laureline	by Pierre Christin
 ~Rhesus	by Pseudo-Euripides
-~The Wreck of the Titan: Or, Futility	by Morgan Robertson
+~The Wreck of the Titan: Or, Futility|The Wreck of the Titan	by Morgan Robertson
 ~The Story of Saiunkoku	by Sai Yukino
 ~Squid Girl	by Masahiro Anbe
 ~Jim Button and Luke the Engine Driver	by Michael Ende
@@ -5226,7 +5226,7 @@ The Prestige	by Christopher Priest	fa,hf,sf
 The Queen's Gambit	by Walter Tevis	ya
 ~Goodbye, Eri	by Tatsuki Fujimoto	fa,ya
 ~The Temple	by H. P. Lovecraft	fa,my,sf
-~Rokka: Braves of the Six Flowers	by Ishio Yamagata
+~Rokka: Braves of the Six Flowers|Rokka	by Ishio Yamagata
 ~I"s	by Masakazu Katsura
 ~Hymn of the Charter	Book
 ~Martin Paz	by Jules Verne
@@ -5251,7 +5251,7 @@ The Queen's Gambit	by Walter Tevis	ya
 The Outsider	by H. P. Lovecraft	ho
 ~The Bear	by Anton Chekhov	fa,sf
 ~God of Carnage	by Yasmina Reza
-~Nura: Rise of the Yokai Clan	by Hiroshi Shiibashi
+~Nura: Rise of the Yokai Clan|Nura	by Hiroshi Shiibashi
 ~The Pillowman	by Martin McDonagh
 ~Seder Moed	Book
 ~Quick & Flupke	by Hergé
@@ -5305,7 +5305,7 @@ Ring	by Kōji Suzuki	cl,fa,ho,my,sf
 ~La Zaïroise	Book
 ~glossary of Buddhism	Book
 ~Supersonic	Book
-~Project:Bold, revert, discuss cycle	Book
+~Project:Bold, revert, discuss cycle|Project	Book
 ~Bunbuku Chagama	Book
 ~Gukanshō	by Jien
 ~GeGeGe no Kitarō	by Shigeru Mizuki
@@ -5419,7 +5419,7 @@ The Amulet of Samarkand	by Jonathan Stroud	fa,ya
 ~Qurtulush Marshi	Book
 ~TDV Islamic Encyclopedia	by Turkiye Diyanet Foundation
 ~Sweet Charity	Book
-~Five Nights at Freddy's: The Silver Eyes	by Kira Breed-Wrisley
+~Five Nights at Freddy's: The Silver Eyes|Five Nights at Freddy's	by Kira Breed-Wrisley
 ~A Thousand Miles	Book
 ~Hymiskviða	Book
 Kitchen	by Banana Yoshimoto
@@ -5460,7 +5460,7 @@ Thief of Time	by Terry Pratchett	fa,sf
 Hunters of Dune	by Kevin J. Anderson	fa,sf
 ~The Devil in the Belfry	by Edgar Allan Poe
 ~Kyivan Chronicle	Book
-~Lotte in Weimar: The Beloved Returns	by Thomas Mann
+~Lotte in Weimar: The Beloved Returns|Lotte in Weimar	by Thomas Mann
 ~Kaze no Stigma	by Takahiro Yamato
 ~Mourning Becomes Electra	by Eugene O'Neill	cl
 The Fifth Season	by N. K. Jemisin	fa,sf
@@ -5473,7 +5473,7 @@ Simon vs. the Homo Sapiens Agenda	by Becky Albertalli	ya
 ~The Mystery of the Yellow Room	by Gaston Leroux	cl,my,ya
 ~The Assayer	by Galileo Galilei
 ~Walk On	Book
-~Rainbow: Nisha Rokubō no Shichinin	by George Abe
+~Rainbow: Nisha Rokubō no Shichinin|Rainbow	by George Abe
 ~We are the Geyer's Black Company	Book
 ~Ole Lukøje	by Hans Christian Andersen
 ~King Matt the First	Book
@@ -5516,7 +5516,7 @@ Death with Interruptions	by José Saramago	cl,fa,sf
 ~Restaurant to Another World	Book
 ~Blackbird	Book
 ~Astra Lost in Space	by Kenta Shinohara
-~The Girl From the Other Side: Siúil, a Rún	by Nagabe
+~The Girl From the Other Side: Siúil, a Rún|The Girl From the Other Side	by Nagabe
 ~Running on Air	Book
 ~Line	Book
 ~Rain of Revolution	Book
@@ -5817,14 +5817,14 @@ Life and Fate	by Vasily Grossman	cl
 ~Genes, Brain and Behavior	Book
 ~Marriagetoxin	by Jōmyaku
 Congo	by Michael Crichton	my,sf
-~Eureka: A Prose Poem	by Edgar Allan Poe
+~Eureka: A Prose Poem|Eureka	by Edgar Allan Poe
 ~The Ice Guy and His Cool Female Colleague	Book
 ~Mr. Prokharchin	by Fyodor Dostoyevsky
 ~Treatise on the people of Wa	by Chen Shou
 ~The House of the Seven Gables	by Nathaniel Hawthorne	cl,hf,my,ro,ya
 ~Pita-Ten	by Koge-Donbo
 ~A Witch's Life in Mongol	by Tomato Soup
-~The Dragons of Eden: Speculations on the Evolution of Human Intelligence	by Carl Sagan	cl
+~The Dragons of Eden: Speculations on the Evolution of Human Intelligence|The Dragons of Eden	by Carl Sagan	cl
 ~Mermaid Saga	by Rumiko Takahashi
 ~Dalibor	Book
 ~Lost	Book	ho
@@ -5958,7 +5958,7 @@ Drive	Book	fa,sf
 Revival	by Stephen King	ho
 The Monk Who Sold His Ferrari	by Robin Sharma	cl,nf
 ~Radamisto	Book
-~Beautiful Bones: Sakurako's Investigation	by Shiori Ōta
+~Beautiful Bones: Sakurako's Investigation|Beautiful Bones	by Shiori Ōta
 ~Kengan Ashura	by Yabako Sandrovich
 ~Rosh Hashanah	Book
 ~Kiss×sis	by Bow Ditama
@@ -6436,7 +6436,7 @@ Shuggie Bain	by Douglas Stuart	hf,ro
 ~Good Times	Book
 ~Burn	Book	fa,hf,ya
 ~Bárðar saga Snæfellsáss	Book
-~Reborn to Master the Blade: From Hero-King to Extraordinary Squire	Book
+~Reborn to Master the Blade: From Hero-King to Extraordinary Squire|Reborn to Master the Blade	Book
 ~A Condition Called Love	by Megumi Morino
 ~Ragna Crimson	Book
 ~Cadmus et Hermione	Book
@@ -6607,7 +6607,7 @@ The Posthumous Memoirs of Bras Cubas	by Machado de Assis	cl
 ~Wolf Girl and Black Prince	by Ayuko Hatta
 ~Háttatal	by Snorri Sturluson
 ~Roget's Thesaurus	by Peter Mark Roget
-~Avatar: The Last Airbender	by Michael Dante DiMartino
+~Avatar: The Last Airbender|Avatar	by Michael Dante DiMartino
 ~Old Boy	by Garon Tsuchiya
 ~100 Bullets	by Brian Azzarello
 Sphere	by Michael Crichton	my,sf
@@ -6701,7 +6701,7 @@ The Virgin Suicides	by Jeffrey Kent Eugenides	cl,my,ya
 ~European Pharmacopoeia	Book
 Rama Revealed	by Arthur C. Clarke	sf
 ~Summer '68	Book
-~Raise High the Roof Beam, Carpenters and Seymour: An Introduction	by J. D. Salinger	cl,ya
+~Raise High the Roof Beam, Carpenters and Seymour: An Introduction|Raise High the Roof Beam, Carpenters and Seymour	by J. D. Salinger	cl,ya
 ~tract	Book
 ~Aunt Julia and the Scriptwriter	by Mario Vargas Llosa
 ~Libro de los juegos	Book
@@ -6750,7 +6750,7 @@ The Elephant Vanishes	by Haruki Murakami	fa
 ~Laughable Loves	by Milan Kundera	cl,ro
 ~Isn't She Lovely	Book
 ~Cancioneiro da Ajuda	Book
-~John 1:1	Book
+~John 1:1|John 1	Book
 ~The Birthday Party	by Harold Pinter
 ~Let's Wait Awhile	Book
 The Hidden Oracle	by Rick Riordan	fa,ya
@@ -6792,7 +6792,7 @@ All the Pretty Horses	by Cormac McCarthy	cl,hf
 The Curse of Chalion	by Lois McMaster Bujold	fa
 ~Time for the Stars	by Robert A. Heinlein
 ~Pinball, 1973	by Haruki Murakami
-~Hogwarts: An Incomplete and Unreliable Guide	by J. K. Rowling	fa
+~Hogwarts: An Incomplete and Unreliable Guide|Hogwarts	by J. K. Rowling	fa
 ~Conversio Bagoariorum et Carantanorum	Book
 ~Orach Chayim	by Jacob ben Asher
 Brokeback Mountain	by Annie Proulx	cl
@@ -6925,7 +6925,7 @@ The Client	by John Grisham	my
 ~Osman's Dream	by Osman I
 ~The Piano Teacher	by Elfriede Jelinek	cl
 ~Fiesco	by Friedrich Schiller
-~Sankarea: Undying Love	by Mitsuru Hattori
+~Sankarea: Undying Love|Sankarea	by Mitsuru Hattori
 ~The Solitude of Prime Numbers	by Paolo Giordano	cl,ro,ya
 ~The Under Dog and Other Stories	by Agatha Christie
 ~Too Good at Goodbyes	Book
@@ -7043,7 +7043,7 @@ George's Marvellous Medicine	by Roald Dahl	cl,fa
 ~Deutschösterreich, du herrliches Land	Book
 ~Woki mit deim Popo	Book
 ~Mirmo!	by Hiromu Shinozuka
-~Dragon Quest: The Adventure of Dai	by Riku Sanjo
+~Dragon Quest: The Adventure of Dai|Dragon Quest	by Riku Sanjo
 ~The Time (Dirty Bit)	Book
 ~Wedding Peach	by Sukehiro Tomita
 ~Good Feeling	Book
@@ -7087,7 +7087,7 @@ Stoner	by John Edward Williams	cl,hf
 ~Little Lost Robot	by Isaac Asimov
 ~La straniera	Book
 ~The Fisherman and the Jinni	Book
-Arkham Asylum: A Serious House on Serious Earth	by Grant Morrison	cl,fa,my,sf
+Arkham Asylum: A Serious House on Serious Earth|Arkham Asylum	by Grant Morrison	cl,fa,my,sf
 ~Be My Guest	Book
 ~Beyond the Horizon	by Eugene O'Neill
 ~Bianca e Fernando	Book
@@ -7111,7 +7111,7 @@ My Sister's Keeper	by Jodi Picoult	ya
 ~Navajo Wikipedia	Book
 ~Romani Wikipedia	Book
 ~Chavacano Wikipedia	Book
-~Mission: Yozakura Family	by Hitsuji Gondaira
+~Mission: Yozakura Family|Mission	by Hitsuji Gondaira
 ~La Parisienne	Book
 ~North Frisian Wikipedia	Book
 White Teeth	by Zadie Smith	cl
@@ -7223,7 +7223,7 @@ Something Wicked This Way Comes	by Ray Bradbury	ho
 ~Breaking My Heart	Book
 ~The JOJOLands	by Hirohiko Araki
 ~Asterix and Caesar's Gift	by René Goscinny	fa,ya
-~Vita Brevis: A Letter to St Augustine	by Jostein Gaarder
+~Vita Brevis: A Letter to St Augustine|Vita Brevis	by Jostein Gaarder
 ~The Ministry of Silly Walks	Book
 ~Soarele şi Luna	Book
 ~The Short Happy Life of Francis Macomber	by Ernest Hemingway
@@ -7340,7 +7340,7 @@ Tomorrow, When the War Began	by John Marsden	fa,sf,ya
 ~OmegaWiki	Book
 ~Zedler, Großes vollständiges Universallexicon aller Wissenschaften und Künste	Book
 ~Sounds Like a Melody	Book
-~Moribito: Guardian of the Spirit	by Nahoko Uehashi
+~Moribito: Guardian of the Spirit|Moribito	by Nahoko Uehashi
 ~The Frog and the Ox	by Aesop
 ~Miracles of St Demetrius	Book
 ~Hunter of Stars	Book
@@ -7509,7 +7509,7 @@ His Majesty's Dragon	by Naomi Novik	fa
 ~Control	Book
 ~Letters of a Portuguese Nun	by Mariana Alcoforado
 ~Almayer's Folly	by Joseph Conrad
-~History and Class Consciousness: Studies in Marxist Dialectics	by Georg Lukács
+~History and Class Consciousness: Studies in Marxist Dialectics|History and Class Consciousness	by Georg Lukács
 ~Sonnet 154	by William Shakespeare
 ~La Débâcle	by Émile Zola
 ~Une Page d'amour	by Émile Zola
@@ -7552,7 +7552,7 @@ Towers of Midnight	by Robert Jordan	fa
 ~Hero	Book	fa,sf,ya
 ~Nine Tomorrows	by Isaac Asimov
 ~Time for Outrage!	by Stéphane Hessel
-~Moyasimon: Tales of Agriculture	by Masayuki Ishikawa
+~Moyasimon: Tales of Agriculture|Moyasimon	by Masayuki Ishikawa
 ~Golden Wind	by Hirohiko Araki
 ~Our Lady of the Flowers	by Jean Genet	cl
 Inkspell	by Cornelia Funke	fa,ya
@@ -7786,7 +7786,7 @@ A Monster Calls	by Patrick Ness	fa,ya
 ~Rosanna	Book
 ~Shooting an Elephant	by George Orwell
 ~Angel Heart	by Tsukasa Hōjō
-~East Wind: West Wind	by Pearl S. Buck
+~East Wind: West Wind|East Wind	by Pearl S. Buck
 ~Introductio in analysin infinitorum	by Leonhard Euler
 ~Ekottara Āgama	Book
 ~La Calisto	Book
@@ -7889,7 +7889,7 @@ Girl, Woman, Other	by Bernardine Evaristo
 ~Yuyushiki	by Komata Mikami
 ~Asterix and the Actress	by Albert Uderzo
 ~Five Tibetan Rites	Book
-~Samurai Harem: Asu no Yoichi	by Yū Minamoto
+~Samurai Harem: Asu no Yoichi|Samurai Harem	by Yū Minamoto
 ~Aucassin and Nicolette	Book
 ~Chroniques de Jérusalem	by Guy Delisle
 ~Fight for This Love	Book
@@ -7994,7 +7994,7 @@ Marina	by Carlos Ruiz Zafón	cl,fa,my,ro,ya
 ~Shout	Book	nf,ya
 ~New Treatise on Military Efficiency	by Qi Jiguang
 ~Genoveva	Book
-~Ikigami: The Ultimate Limit	by Motorō Mase
+~Ikigami: The Ultimate Limit|Ikigami	by Motorō Mase
 ~La Curée	by Émile Zola
 ~The Hare's Bride	by Brothers Grimm
 The Years of Rice and Salt	by Kim Stanley Robinson	fa,hf,sf
@@ -8057,7 +8057,7 @@ The Night Circus	by Erin Morgenstern	fa,ro
 ~With You and the Rain	Book
 ~Vermeil in Gold	by Kōta Amana
 ~Orphans of the Sky	by Robert A. Heinlein
-Understanding Comics: The Invisible Art	by Scott McCloud	cl,ya
+Understanding Comics: The Invisible Art|Understanding Comics	by Scott McCloud	cl,ya
 ~My Love Is Your Love	Book
 ~Crying Freeman	by Kazuo Koike
 ~Tougen Anki	by Yura Urushibara
@@ -8073,7 +8073,7 @@ Understanding Comics: The Invisible Art	by Scott McCloud	cl,ya
 ~De libero arbitrio	by Augustine of Hippo
 ~Ctrl+Alt+Del	by Tim Buckley
 ~The Climber	by Yoshio Nabeta
-~Altair: A Record of Battles	by Kotono Kato
+~Altair: A Record of Battles|Altair	by Kotono Kato
 ~8 Man	by Kazumasa Hirai
 ~Cookie	Book
 ~Lost in the Andes!	by Carl Barks
@@ -8265,7 +8265,7 @@ The Sixth Extinction	by Elizabeth Kolbert	nf
 ~Sweetness and Lightning	by Gido Amagakure
 ~My Monster Secret	by Eiji Masuda
 ~Keijo!!!!!!!!	by Daichi Sorayomi
-~Kannagi: Crazy Shrine Maidens	by Eri Takenashi
+~Kannagi: Crazy Shrine Maidens|Kannagi	by Eri Takenashi
 ~Les Danaïdes	Book
 ~cretic	Book
 ~Chronicon Albadense	by Vigila
@@ -8300,7 +8300,7 @@ Zero to One	by Blake Masters	nf
 ~Aina mun pitää	Book
 ~Make Way for Ducklings	by Robert McCloskey
 ~Shengwu qinzheng lu	Book
-~Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid	by Francis Crick
+~Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid|Molecular Structure of Nucleic Acids	by Francis Crick
 ~Attack No. 1	by Chikako Urano
 ~The Way You Are	Book
 ~Mas-Kom-Yah	by Recep Tayyip Erdoğan
@@ -8501,7 +8501,7 @@ Ender's Shadow	by Orson Scott Card	fa,sf,ya
 One Shot	by Lee Child	my
 ~The Ministry of Utmost Happiness	by Arundhati Roy	ro
 ~A Town Where You Live	by Kōji Seo
-~Seirei Gensouki: Spirit Chronicles	by Yūri Kitayama
+~Seirei Gensouki: Spirit Chronicles|Seirei Gensouki	by Yūri Kitayama
 ~You Don't Know Me	Book
 ~Anyuta	by Anton Chekhov
 ~Fragmentary Annals of Ireland	Book
@@ -8511,7 +8511,7 @@ One Shot	by Lee Child	my
 ~Farewell, My Dear Cramer	by Naoshi Arakawa
 The Fable	by Katsuhisa Minami	fa,ya
 ~Magical Sempai	by Azu
-~Tsukimichi: Moonlit Fantasy	by Kei Azumi
+~Tsukimichi: Moonlit Fantasy|Tsukimichi	by Kei Azumi
 ~The Thirst	by Jo Nesbø	my
 ~4 3 2 1	by Paul Auster	ro
 ~Sefer ha-Chinuch	by Aharon HaLevi
@@ -8705,7 +8705,7 @@ The Novice	by Mikhail Lermontov	fa
 ~A Letter to American Workingmen	by Vladimir Lenin
 ~Dune: House Corrino	by Kevin J. Anderson	fa,sf
 ~International Court of Justice advisory opinion on Kosovo's declaration of independence	Book
-~The Lost Letter: A Tale Told by the Sexton of the N...Church	by Nikolai Gogol
+~The Lost Letter: A Tale Told by the Sexton of the N...Church|The Lost Letter	by Nikolai Gogol
 Gardens of the Moon	by Steven Erikson	fa
 ~Queen Millennia	by Leiji Matsumoto
 ~Tom Sawyer, Detective	by Mark Twain	cl,my,ya
@@ -8743,7 +8743,7 @@ Anathem	by Neal Stephenson	sf
 Bloodlands	by Timothy Snyder
 ~Dongguk Tonggam	Book
 ~You're a Good Man, Charlie Brown	Book
-~Nyaruko: Crawling with Love	by Manta Aisora
+~Nyaruko: Crawling with Love|Nyaruko	by Manta Aisora
 ~My Lucky Day	Book
 ~Viszlát nyár	Book
 ~Cambridge Advanced Learner's Dictionary	Book
@@ -8757,7 +8757,7 @@ Bloodlands	by Timothy Snyder
 ~Fools Die	by Mario Puzo
 ~De casibus virorum illustrium	by Giovanni Boccaccio
 ~The Alchemyst: The Secrets of the Immortal Nicholas Flamel	by Michael Scott
-~Democracy: The God That Failed	by Hans-Hermann Hoppe
+~Democracy: The God That Failed|Democracy	by Hans-Hermann Hoppe
 ~Bernard Prince	Book
 ~Dialogue of Pessimism	Book
 ~United States Pharmacopeia	Book
@@ -8780,7 +8780,7 @@ Fear	by Stefan Zweig	nf
 ~Not Today	Book
 ~Fear: Trump in the White House	by Bob Woodward
 ~Brundibár	Book
-~From my Life : Poetry and Truth	by Johann Wolfgang von Goethe
+~From my Life : Poetry and Truth|From my Life	by Johann Wolfgang von Goethe
 ~Heel de wereld	Book
 ~The Miserly Knight	Book
 ~Captain Fracasse	by Théophile Gautier
@@ -8846,7 +8846,7 @@ The House of Mirth	by Edith Wharton	cl
 ~Murder on the Nile	by Agatha Christie
 ~Wonderful Life	Book
 ~Spiral: The Bonds of Reasoning	by Kyō Shirodaira
-~Neuro: Supernatural Detective	by Yūsei Matsui
+~Neuro: Supernatural Detective|Neuro	by Yūsei Matsui
 ~Those Who Hunt Elves	by Yu Yagami
 ~Dear Boys	by Hiroki Yagami
 ~Jigoku Sensei Nūbē	by Shō Makura
@@ -8997,7 +8997,7 @@ Beyond Order	by Jordan Peterson
 ~The Langoliers	by Stephen King	fa,ho,sf
 ~Federalist No. 10	by James Madison
 ~Carnival Phantasm	by Eri Takenashi
-~Ōoku: The Inner Chambers	by Fumi Yoshinaga
+~Ōoku: The Inner Chambers|Ōoku	by Fumi Yoshinaga
 ~Jinnō Shōtōki	by Kitabatake Chikafusa
 Later	by Stephen King	fa,ho,my
 ~Wei Liaozi	Book
@@ -9024,7 +9024,7 @@ The Housekeeper and the Professor	by Yoko Ogawa	cl
 ~Egyptian Nights	by Alexander Pushkin
 ~The Hollow Men	by T. S. Eliot
 ~MicroWiki	Book
-~Chaika: The Coffin Princess	by Ichirō Sakaki
+~Chaika: The Coffin Princess|Chaika	by Ichirō Sakaki
 ~PPPPPP	by Maporo 3-Gō
 ~I Got Married to the Girl I Hate Most in Class	Book
 ~Princess Ida	Book
@@ -9071,7 +9071,7 @@ The Housekeeper and the Professor	by Yoko Ogawa	cl
 ~Cosmographia	by Sebastian Münster
 ~Nyanpire	Book
 ~Mechanix	Book
-~You Were Experienced, I Was Not: Our Dating Story	Book
+~You Were Experienced, I Was Not: Our Dating Story|You Were Experienced, I Was Not	Book
 ~The Kawai Complex Guide to Manors and Hostel Behavior	by Ruri Miyahara
 ~Hanyu Da Cidian	Book
 ~The Influence of Sea Power upon History	by Alfred Thayer Maan
@@ -9167,7 +9167,7 @@ The Strain	by Guillermo del Toro	fa,ho,my,sf
 ~A Story about a Darning-needle	by Hans Christian Andersen
 ~The Massacre at Paris	by Christopher Marlowe
 ~Kaivalya Upanishad	Book
-~Wistoria: Wand and Sword	by Fujino Ōmori
+~Wistoria: Wand and Sword|Wistoria	by Fujino Ōmori
 ~A Star Brighter Than the Sun	by Kazune Kawahara
 ~Mistero Buffo	by Dario Fo
 ~Religiosam vitam	Book
@@ -9352,7 +9352,7 @@ The Life-Changing Magic of Tidying Up	by Marie Kondō	nf
 ~Islam and the Future of Tolerance	by Sam Harris
 ~The Atheist's Mass	by Honoré de Balzac
 ~The Owl and the Nightingale	Book
-~Gaku: Minna no Yama	by Shinichi Ishizuka
+~Gaku: Minna no Yama|Gaku	by Shinichi Ishizuka
 ~The Heart of Midlothian	by Walter Scott
 ~Pogo	by Walt Kelly
 ~This Art Club Has a Problem!	by Imigimuru
@@ -9406,7 +9406,7 @@ We Should All Be Feminists	by Chimamanda Ngozi Adichie	nf
 ~Fray	Book	fa,ho,sf,ya
 ~Le Chevalier de Maison-Rouge	by Alexandre Dumas
 ~Mirrorcle World	Book
-~Kwaidan: Stories and Studies of Strange Things	by Lafcadio Hearn
+~Kwaidan: Stories and Studies of Strange Things|Kwaidan	by Lafcadio Hearn
 ~Cotton Fields	Book
 ~A Tale of a Tub	by Jonathan Swift
 ~Norakuro	by Suihō Tagawa
@@ -9555,7 +9555,7 @@ Diary	by Chuck Palahniuk	fa
 ~Kekawin Arjuna Wiwaha	Book
 ~A.I. Love You	by Ken Akamatsu
 ~By His Bootstraps	by Robert A. Heinlein
-~Atom: The Beginning	by Masami Yūki
+~Atom: The Beginning|Atom	by Masami Yūki
 ~'Till I Collapse	Book
 Lavinia	by Ursula K. Le Guin	cl,fa,sf,ya
 My Lesbian Experience With Loneliness	by Nagata Kabi	nf,ya
@@ -9582,7 +9582,7 @@ Shadow of the Hegemon	by Orson Scott Card	fa,sf,ya
 ~Bulletin of the American Mathematical Society	Book
 ~Burnin'	Book
 ~What Maisie Knew	by Henry James
-~August: Osage County	by Tracy Letts
+~August: Osage County|August	by Tracy Letts
 ~Historia Calamitatum	by Peter Abelard
 ~Charlie Mensuel	Book
 ~Sonnet 8	by William Shakespeare
@@ -9665,7 +9665,7 @@ Jazz	by Toni Morrison	cl,ro
 ~The Great Book of Saint Cyprian	by Cyprian and Justina
 ~Beowulf: The Monsters and the Critics	by J. R. R. Tolkien
 ~Cardcaptor Sakura: Clear Card	by Clamp
-~The Strange Death of Europe: Immigration, Identity, Islam	by Douglas Murray	nf
+~The Strange Death of Europe: Immigration, Identity, Islam|The Strange Death of Europe	by Douglas Murray	nf
 ~Quenta Silmarillion	by J. R. R. Tolkien
 ~The Unreasonable Effectiveness of Mathematics in the Natural Sciences	by Eugene Paul Wigner
 ~glossary of Hinduism terms	Book
@@ -9879,7 +9879,7 @@ Robopocalypse	by Daniel H. Wilson	fa,sf,ya
 ~Shuo Yuan	by Liu Xiang
 ~Penguin Highway	by Tomihiko Morimi	fa,my,sf,ya
 ~Horizon in the Middle of Nowhere	by Kawakami Minoru
-~Irina: The Vampire Cosmonaut	by Keisuke Makino
+~Irina: The Vampire Cosmonaut|Irina	by Keisuke Makino
 ~The Great Jahy Will Not Be Defeated!	by Wakame Konbu
 ~Asteroid in Love	by Quro
 ~glossary of medicine	Book
@@ -9889,7 +9889,7 @@ Winter of the World	by Ken Follett	fa,hf
 ~Haft Awrang	by Jami
 ~Annales de chimie et de physique	Book
 ~Superman: Whatever Happened to the Man of Tomorrow?	by Alan Moore
-~Heathers: The Musical	Book
+~Heathers: The Musical|Heathers	Book
 ~Tok Pisin Wikipedia	Book
 ~Mafatih al-'Ulum	by Muhammad ibn Ahmad al-Khwarizmi
 ~Please Save My Earth	by Saki Hiwatari
@@ -9934,7 +9934,7 @@ The Vampire Armand	by Anne Rice	fa,ho
 ~Measuring the World	by Daniel Kehlmann	cl,hf
 ~Jump	Book
 ~Beautiful Creatures	by Kami Garcia	fa,ro,ya
-~Samurai 8: The Tale of Hachimaru	by Masashi Kishimoto
+~Samurai 8: The Tale of Hachimaru|Samurai 8	by Masashi Kishimoto
 ~From Sarah with Love	Book
 ~Dialogue with Trypho	by Justin Martyr
 ~The adventures of Hajji Baba of Ispahan	by James Justinian Morier
@@ -10157,7 +10157,7 @@ Damned	by Chuck Palahniuk	fa,ho
 ~The Master of the Mississippi	by Don Rosa
 ~Saikyō Jump	Book
 ~Captains Courageous	Book	cl,ya
-~Umamusume: Cinderella Gray	by Masafumi Sugiura
+~Umamusume: Cinderella Gray|Umamusume	by Masafumi Sugiura
 ~Kazakh Soviet Encyclopedia	Book
 ~The Train Was on Time	by Heinrich Böll
 ~Śrīmālādevī Sūtra	Book
@@ -10293,7 +10293,7 @@ Persuader	by Lee Child	my
 ~The Kiss	Book
 ~The Master Thief	by Brothers Grimm
 ~Der arme Heinrich	by Hartmann von Aue
-~The Magician: The Secrets of the Immortal Nicholas Flamel	by Michael Scott
+~The Magician: The Secrets of the Immortal Nicholas Flamel|The Magician	by Michael Scott
 ~The Thin Man	by Dashiell Hammett	cl,my
 ~The First Teacher	by Chingiz Aĭtmatov
 ~The Petty Demon	by Fyodor Sologub
@@ -10312,7 +10312,7 @@ Persuader	by Lee Child	my
 ~The Story of a Real Man	Book
 ~Die Gezeichneten	Book
 ~Misto	by Valerian Pidmohylny
-~Shirahime-Syo: Snow Goddess Tales	by Clamp
+~Shirahime-Syo: Snow Goddess Tales|Shirahime-Syo	by Clamp
 ~Les Tours de Bois-Maury	by Hermann Huppen
 ~The Zoo Story	by Edward Albee
 ~Al-Ahkam al-Sultaniyya w'al-Wilayat al-Diniyya	by Al-Mawardi
@@ -10485,7 +10485,7 @@ Lean In	by Sheryl Sandberg	nf
 ~Lay Me Down	Book
 Abaddon's Gate	by Daniel Abraham	sf
 ~Alderamin on the Sky	by Bokuto Uno
-~Back to the Future: The Musical	Book
+~Back to the Future: The Musical|Back to the Future	Book
 ~women in Somalia	Book
 ~Wish	by Clamp	ro
 ~O du fröhliche	by Johannes Daniel Falk
@@ -10549,7 +10549,7 @@ Percy Jackson's Greek Gods	by Rick Riordan	fa,ya
 ~L'École des filles	Book
 ~Kiss Him, Not Me	by Junko
 ~Macht hoch die Tür	Book
-~Angolmois: Record of Mongol Invasion	by Nanahiko Takagi
+~Angolmois: Record of Mongol Invasion|Angolmois	by Nanahiko Takagi
 ~An Introduction to the Principles of Morals and Legislation	by Jeremy Bentham
 ~Memed, My Hawk	by Yaşar Kemal
 ~Calling Elvis	Book
@@ -10745,7 +10745,7 @@ Airframe	by Michael Crichton	my,sf
 ~O Magnum Mysterium	Book
 The Rise of Endymion	by Dan Simmons	sf
 ~Salam Affandina	Book
-~Mimesis: The Representation of Reality in Western Literature	by Erich Auerbach
+~Mimesis: The Representation of Reality in Western Literature|Mimesis	by Erich Auerbach
 ~Keilim	Book
 ~What Mad Universe	by Fredric Brown
 ~Enigma	by Kenji Sakaki	fa,ho,my,ro
@@ -10850,7 +10850,7 @@ Ilium	by Dan Simmons	fa,sf
 ~Albert Savarus	by Honoré de Balzac
 ~Underground	by Haruki Murakami	fa,my,sf
 ~The Bible Unearthed	by Neil Asher Silberman
-~Lemony Snicket: The Unauthorized Autobiography	by Daniel Handler
+~Lemony Snicket: The Unauthorized Autobiography|Lemony Snicket	by Daniel Handler
 ~Julietta	Book
 ~Record of Grancrest War	by Ryo Mizuno
 Fingersmith	by Sarah Waters	cl,fa,hf
@@ -10927,7 +10927,7 @@ The Elements of Style	by E. B. White	cl,nf
 ~Frozen	Book
 ~Facino Cane	by Honoré de Balzac
 ~Parallel Paradise	by Lynn Okamoto
-~Ferragus: Chief of the Devorants	by Honoré de Balzac
+~Ferragus: Chief of the Devorants|Ferragus	by Honoré de Balzac
 ~Viaje al Parnaso	by Miguel de Cervantes
 ~Goyescas	Book
 ~Always	Book
@@ -10948,7 +10948,7 @@ The Elements of Style	by E. B. White	cl,nf
 ~Triadic Ballet	by Oskar Schlemmer
 ~Atlantida	Book
 ~The Blunderer, or the Counterplots	by Molière
-~Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History	by John Steinbeck
+~Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History|Cup of Gold	by John Steinbeck
 ~The Celebrated Jumping Frog of Calaveras County	by Mark Twain
 ~La Duchesse de Langeais	by Honoré de Balzac
 ~Silence of the Grave	by Arnaldur Indriðason
@@ -10981,7 +10981,7 @@ The Little Friend	by Donna Tartt	cl
 The Ruins of Gorlan	by John Flanagan	fa,ya
 ~Maddalena	Book
 ~Mademoiselle Fifi	by Guy de Maupassant
-~Maggie: A Girl of the Streets	by Stephen Crane
+~Maggie: A Girl of the Streets|Maggie	by Stephen Crane
 ~Kuchibiru Tameiki Sakurairo	by Milk Morinaga
 ~O Cortiço	by Aluísio Azevedo
 ~Fool in the Rain	Book
@@ -11143,7 +11143,7 @@ The Salmon of Doubt	Book	fa,my,sf
 ~World Brain	by H. G. Wells
 ~Albanian Songs of the Frontier Warriors	Book
 ~L'esule di Roma	Book
-~2 States: The Story of My Marriage	by Chetan Bhagat	fa,ro,ya
+~2 States: The Story of My Marriage|2 States	by Chetan Bhagat	fa,ro,ya
 ~Christ Recrucified	by Nikos Kazantzakis
 The Ship of the Dead	by Rick Riordan	fa,ya
 ~American Political Science Review	Book
@@ -11548,7 +11548,7 @@ Lonesome Dove	by Larry McMurtry	cl,hf,ro
 ~Bent	by Martin Sherman
 ~Push the Button	Book
 ~Pahonia (anthem)	Book
-~Dr. Ramune: Mysterious Disease Specialist	Book
+~Dr. Ramune: Mysterious Disease Specialist|Dr. Ramune	Book
 The House on Mango Street	by Sandra Cisneros	cl,ya
 ~Qidan Guozhi	by Ye Longli
 Piranesi	by Susanna Clarke	fa,my
@@ -11573,7 +11573,7 @@ Encarta	Book
 The Rise and Fall of the Third Reich	Book	nf
 How to Read a Book	Book	cl,nf
 ~"Slut!"	Book
-~The Last of Us: American Dreams	Book
+~The Last of Us: American Dreams|The Last of Us	Book
 Unseen Academicals	Book	fa
 ~GoldenDict	Book
 ~1408	Book
@@ -16589,7 +16589,7 @@ The Sinner	by Shantel Tessier	my,ro
 Love You Forever	by Sheila McGraw	cl,ro,ya
 Mythago Wood	by Robert Holdstock	cl,fa,sf
 The Nameless Day	by Sara Douglass	fa,ya
-The 6:20 Man	by David Baldacci	my
+The 6:20 Man|The 6	by David Baldacci	my
 Theatre of Cruelty	by Terry Pratchett	fa,sf
 Servant of Earth	by Sarah  Hawley	fa,ro
 Our Perfect Storm	by Carley Fortune	ro
