@@ -248,22 +248,31 @@ function exactMatch(input) {
   for (const c of [k, stripped, firstLast(k), firstLast(stripped)]) if (c && INDEX.has(c)) return INDEX.get(c);
   return null;
 }
+// "Be more specific" also for a misspelled ambiguous answer ("Footbal")
+function ambOf(raw) {
+  const a = (cfg() || {}).ambiguous; if (!a) return null;
+  const k = norm(raw); if (a[k]) return a[k];
+  for (const key in a) if (key.length >= 5 && lev(k, key, 1) <= 1) return a[key];
+  return null;
+}
 // Typos allowed: none under 5 letters, 1 up to 8, 2 up to 14, 3 for longer names (spaces and hyphens count as letters).
-const editsFor = n => n < 5 ? 0 : n < 9 ? 1 : n < 15 ? 2 : 3;
-// Each word has to be close too, so "Tom Hanks" doesn't become "Tom Hayes": 1 typo per word of 4+ letters, 2 for 8+.
+const editsFor = n => n < 4 ? 0 : n < 6 ? 1 : n < 13 ? 2 : 3;   // looser since Nov 23 late (user: "nicer about misspellings")
+// Each word has to be close too: 1 typo in a 3-letter word, 2 in longer words, 3 in words of 9+ letters.
 function wordsClose(a, b) {
   const x = a.split(' '), y = b.split(' ');
-  if (x.length !== y.length) return true;
-  return x.every((w, i) => { const e = w.length >= 8 ? 2 : w.length >= 4 ? 1 : 0; return w === y[i] || (e > 0 && lev(w, y[i], e) <= e); });
+  if (x.length !== y.length) return lev(a.replace(/ /g, ''), b.replace(/ /g, ''), 1) <= 1;   // "Blue Car" isn't "Bluestar"
+  return x.every((w, i) => { const e = w.length >= 9 ? 3 : w.length >= 4 ? 2 : w.length === 3 ? 1 : 0; return w === y[i] || (e > 0 && lev(w, y[i], e) <= e); });
 }
 function closest(k, keys, max) {
-  let best = null, bestD = max + 1;
+  let best = null, bestS = 99;
   for (const [key, canon] of keys) {
-    if (key.length < 5) continue;
-    const cap = Math.min(max, editsFor(key.length));
+    if (key.length < 4) continue;
+    const other = key[0] !== k[0];                      // a different first letter is a rarer typo: 1 at most, and it loses ties
+    const cap = Math.min(max, editsFor(key.length), other ? 1 : 9);
     if (!cap) continue;
     const d = lev(k, key, cap);
-    if (d <= cap && d < bestD && wordsClose(k, key)) { bestD = d; best = canon; if (d === 1) max = 1; }
+    const score = d + (other ? 0.5 : 0);
+    if (d <= cap && score < bestS && wordsClose(k, key)) { bestS = score; best = canon; if (d === 1) max = 1; }
   }
   return best;
 }
@@ -276,10 +285,35 @@ function matchIn(db, raw) {
 function localMatch(input) {
   const hit = exactMatch(input); if (hit) return hit;
   if (input.includes(',')) { const h2 = exactMatch(input.split(',')[0]); if (h2) return h2; }   // "Paris, Texas" -> Paris
-  const k = norm(input), max = !k.includes(' ') && k.length < 6 ? 0 : editsFor(k.length);   // short single words (a bare surname) must be exact
-  if (!max) return null;
-  // famous names first, so a typo lands on the person most players mean; then everyone else on the list
-  return closest(k, CANON_KEYS, max) || closest(k, RARE_KEYS, max);
+  const c = cfg() || {}, k = norm(input);
+  // a short single word in a real-people list (a bare surname like "Curie") must be exact
+  const max = c.real && !k.includes(' ') && k.length < 6 ? 0 : editsFor(k.length);
+  // famous names first, so a typo lands on the one most players mean; then everyone else on the list
+  const near = max ? closest(k, CANON_KEYS, max) || closest(k, RARE_KEYS, max) : null;
+  if (near) return near;
+  return c.people && !c.real ? firstNameMatch(k) : null;   // characters: "Carl" = Carl Fredricksen
+}
+// Characters often go by their first name (Carl, Doug, Phineas). One word counts if it's the first name of exactly
+// one famous character on the list (or, failing that, of exactly one character at all). Typos allowed.
+const FIRSTS = new WeakMap();
+function firstNameMatch(k) {
+  if (k.includes(' ') || k.length < 3) return null;
+  let f = FIRSTS.get(NAMES);
+  if (!f) {
+    f = new Map(); const famous = new Set(CANON_KEYS.map(x => x[1]));
+    for (const [canon, parts] of NAMES) for (const p of parts) {
+      const w = norm(p).split(' '); while (w.length > 1 && TITLES.has(w[0])) w.shift();
+      if (w.length < 2) continue;
+      const e = f.get(w[0]) || { famous: new Set(), all: new Set() }; e.all.add(canon); if (famous.has(canon)) e.famous.add(canon); f.set(w[0], e);
+    }
+    FIRSTS.set(NAMES, f);
+  }
+  const pick = e => e && (e.famous.size === 1 ? [...e.famous][0] : e.famous.size === 0 && e.all.size === 1 ? [...e.all][0] : null);
+  const exact = pick(f.get(k)); if (exact) return exact;
+  const e1 = k.length >= 4 ? 1 : 0; if (!e1) return null;
+  let best = null;
+  for (const [w, e] of f) if (Math.abs(w.length - k.length) <= 1 && lev(k, w, e1) <= e1) { const c2 = pick(e); if (c2) { if (best && best !== c2) return null; best = c2; } }
+  return best;
 }
 const TITLES = new Set(['queen','princess','lady','dame','saint','st','empress','madame','mother','rani','king','prince','pope','emperor','mahatma','colonel','dr','sir','chairman','mr','mrs','ms','miss','prophet','lord','darth','captain','doctor','professor','mister','general','count','uncle','aunt','father','sister','brother','agent','detective','officer','commander','the']);
 // One word that is just part of a longer name (a first name or a last name) doesn't count, in every category:
@@ -288,7 +322,7 @@ const TITLES = new Set(['queen','princess','lady','dame','saint','st','empress',
 // Known by this one name, and their last name isn't widely known (or isn't really a surname)
 const ONE_NAME_OK = new Set(['jesus','selena','jennie','solange','brandy','fantasia','tini','suzy','natalya','apollonia','melanie','spice','mariale','zubaidah','mkabayi','malala','marta','v','rm','shaka','attila','lula','galileo','dante','canelo','zlatan','giannis','luka','khabib','pharrell','tupac','logan','messi']);
 function surnameOnly(raw, canon) {
-  if (!cfg().people) return false;
+  if (!cfg().people || !cfg().real) return false;   // characters can go by one name (user, Nov 23 late)
   const w = norm(raw).split(' ');
   if (w.length !== 1 || ONE_NAME_OK.has(w[0])) return false;
   if (w[0] === norm(canon)) return false;                       // the main name itself (Batman, Zeus, Cher)
@@ -486,6 +520,16 @@ async function wdFits(item, catId, live) {
   }
   return true;
 }
+// A typo match in a real-people list might really be someone else: "Tom Hanks" isn't a misspelled "Tom Hayes".
+// If Wikidata has a real person with exactly the typed name, judge that person instead (null = keep the list match).
+async function wdGuard(raw, canon, catId) {
+  const c = CATS[catId] || {}, k = norm(raw);
+  if (!c.real || k === norm(canon) || !k.includes(' ')) return null;
+  const p = await wdPerson(raw);
+  if (!p || norm(p.label) !== k) return null;
+  const r = await wdCheck(raw, catId);
+  return r && (r.ok || r.why) ? r : null;
+}
 // Adds the picture and description to a card that's already on the list.
 async function wdEnrich(name, catId) {
   const it0 = named.find(x => x.name === name);
@@ -524,7 +568,7 @@ async function loadCat(id) {
 }
 function checkAnswer(raw) {
   const c = cfg();
-  if (c.ambiguous && c.ambiguous[norm(raw)]) return { err: `"${raw}" — be more specific` };
+  if (ambOf(raw)) return { err: `"${raw}" — be more specific` };
   const local = localMatch(raw);
   if (local && surnameOnly(raw, local)) return { err: `Type ${c.pron || 'the'} full name — "${raw}" alone doesn't count` };
   if (local) return { canon: local };

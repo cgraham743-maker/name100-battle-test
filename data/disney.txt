@@ -137,7 +137,7 @@ Michael Darling	Peter Pan
 Tiger Lily	Peter Pan
 Lady	Lady and the Tramp
 Tramp	Lady and the Tramp
-Aurora|Goddess Aurora	Sleeping Beauty
+Aurora|Goddess Aurora|Sleeping Beauty|Princess Aurora|Briar Rose	Sleeping Beauty
 Prince Phillip	Sleeping Beauty
 Flora	Sleeping Beauty
 Fauna|Fatidica|Fatua|Favna	Sleeping Beauty
@@ -1170,7 +1170,7 @@ Della Duck|Della Thelma Duck|Dumbella Duck|Thelma Duck	DuckTales
 ~Chess Pioneers	Queen of Katwe
 ~Julie White	McFarland, USA
 ~Thomas Valles	McFarland, USA
-~J. Thaddeus Toad	The Adventures of Ichabod and Mr. Toad
+J. Thaddeus Toad|Mr. Toad|Mister Toad	The Adventures of Ichabod and Mr. Toad
 ~Cyril Proudbottom	The Wind in the Willows
 ~Angus MacBadger	The Wind in the Willows
 ~Water Rat	Mickey's Christmas Carol

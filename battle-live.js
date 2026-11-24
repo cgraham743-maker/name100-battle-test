@@ -426,6 +426,11 @@ async function submit() {
     if (w && w.ok) { const canon = res.parent || w.item.label; if (!INDEX.has(norm(canon))) INDEX.set(norm(canon), canon); res = { canon }; }
     else if (w && w.why) res = { err: w.why };
   }
+  if (res.canon && typeof wdGuard === 'function' && CATS[st.cat].real && !exactMatch(raw) && norm(raw).includes(' ')) {   // typo match: not someone else?
+    const g = await wdGuard(raw, res.canon, st.cat);
+    if (g) res = g.ok ? { canon: g.item.label } : { err: g.why };
+    if (g && g.ok && !INDEX.has(norm(res.canon))) INDEX.set(norm(res.canon), res.canon);
+  }
   if (res.err) { nope(res.err); return; }
   const canon = res.canon, k = norm(canon);
   if (!k || k.length > 80) { nope('Try a shorter name'); return; }
