@@ -26,7 +26,7 @@ const MODES = {
   race:  { name:'Race', blurb:'First to the goal wins' },
   timed: { name:'Timed', blurb:'Most names before the clock runs out' },
   steal: { name:'Steal', blurb:'Shared pool · once a name is used, it is gone for everyone · names are visible' },
-  turns: { name:'Taking Turns', blurb:'One name each per turn · repeat a name or run out of time and you lose a life' }
+  turns: { name:'Taking Turns', blurb:'One name each per turn · everyone sees every name · run out of time and you lose a life' }
 };
 const WORDS = 'FROG MOON TACO PEAR LIME STAR WAVE FERN PLUM KITE BEAR DUCK LAMP ROSE SNOW CAKE GOLD JAZZ MINT FISH WOLF LION DEER HAWK BELL BOOK CORN DOVE FIRE GLOW HERO IRIS JADE LEAF MAZE NEST OPAL PINE QUIZ RAIN SAGE TIDE VASE WREN YARN ZOOM'.split(' ');
 
@@ -299,7 +299,7 @@ function lobby() {
     <h2>${host ? 'Share this code' : 'You\'re in!'}</h2>
     <div class="code">${S.code}</div>
     <div class="row" style="margin-top:4px"><button class="btn ghost" id="copy">Copy invite link</button></div>
-    <div class="summary"><b>${esc(label(st.cat))}</b> · ${modeLine(st)}<br>${usedN && st.rematchOff ? `${usedN} ${usedN === 1 ? 'name' : 'names'} from earlier rounds ${usedN === 1 ? 'is' : 'are'} off-limits` : 'You only see counts during the game' + (st.mode === 'steal' ? ', except in Steal mode, where everyone sees every name' : '') + '. All names are revealed at the end.'}</div>
+    <div class="summary"><b>${esc(label(st.cat))}</b> · ${modeLine(st)}<br>${usedN && st.rematchOff ? `${usedN} ${usedN === 1 ? 'name' : 'names'} from earlier rounds ${usedN === 1 ? 'is' : 'are'} off-limits` : (st.mode === 'steal' || st.mode === 'turns' ? 'Everyone sees every name as it is said.' : 'You only see counts during the game. All names are revealed at the end.')}</div>
     <label class="lab">Players ${ps.length}/${st.maxPlayers}</label>
     <div class="players">${ps.map(p => `<div class="pl" style="${p.online === false ? 'opacity:.45' : ''}"><div class="av">${esc((p.name || '?')[0])}</div><div class="n">${esc(p.name)}${p.uid === S.uid ? ' (you)' : ''}${p.online === false ? ' · offline' : ''}</div><div class="t">${p.uid === r.meta.host ? 'host' : host ? `<button class="textlink" data-kick="${p.uid}">remove</button>` : ''}</div></div>`).join('')}</div>
     <div class="row">
@@ -356,7 +356,7 @@ function play(key) {
       <div class="lab" id="prompt">${esc(CATS[st.cat].prompt)} — press enter ↵</div>
       <form id="f"><input id="ans" autocomplete="off" autocapitalize="words" spellcheck="false" placeholder="Start typing"></form>
       <div class="rule"></div>
-      <div class="msg" id="msg">${M === 'steal' ? 'Steal mode: every name shows below as it is taken' : 'You only see everyone\'s count. Names are revealed at the end.'}</div>
+      <div class="msg" id="msg">${M === 'steal' ? 'Steal mode: every name shows below as it is taken' : M === 'turns' ? 'Every name shows below as it is said · a repeat doesn\'t count, just try another' : 'You only see everyone\'s count. Names are revealed at the end.'}</div>
     </div>
     <div class="feed" id="feed"></div>
     <div class="row" style="justify-content:center;padding-bottom:24px">${isHost() ? '<button class="textlink" id="endNow">End game for everyone</button>' : ''}</div>
@@ -368,6 +368,9 @@ function play(key) {
   updateGame(); tick();
 }
 function setMsg(t, bad) { const m = $('#msg'); if (!m) return; m.textContent = t; m.className = 'msg' + (bad ? ' bad' : ''); }
+// "no" head-shake on the answer box for a rejected answer
+function shake() { const a = $('#ans'); if (!a) return; a.classList.remove('shake'); void a.offsetWidth; a.classList.add('shake'); }
+function nope(t) { setMsg(t, true); shake(); }
 function started() { return S.room && S.room.meta.startAt && now() >= S.room.meta.startAt; }
 function updateGame() {
   const r = S.room; if (!r || !$('#board')) return;
@@ -378,9 +381,9 @@ function updateGame() {
   $('#board').innerHTML = sorted.map(p => `<div class="sc ${p.uid === S.uid ? 'me' : ''} ${M === 'turns' && turnUid === p.uid ? 'turn' : ''} ${p.out ? 'out' : ''}">
     <div class="nm">${esc(p.name)}${p.uid === S.uid ? ' (you)' : ''}${p.online === false ? ' · offline' : ''}</div><div class="ct">${p.count || 0}</div>
     ${M === 'turns' ? `<div class="lives">${'♥'.repeat(Math.max(0, p.lives || 0))}${p.out ? ' out' : ''}</div>` : `<div class="bar"><i style="width:${goal ? Math.min(100, (p.count || 0) / goal * 100) : Math.min(100, p.count || 0)}%"></i></div>`}</div>`).join('');
-  // feed: your own names, or everyone's in Steal
+  // feed: your own names, or everyone's in Steal and Taking Turns
   const items = [];
-  if (M === 'steal') for (const [k, v] of Object.entries(r.pool || {})) items.push({ name: v.name, uid: v.uid, t: v.t || 0 });
+  if (M === 'steal' || M === 'turns') for (const [k, v] of Object.entries(r.pool || {})) items.push({ name: v.name, uid: v.uid, t: v.t || 0 });
   else for (const [k, v] of Object.entries((r.names || {})[S.uid] || {})) items.push({ name: v.name || v, uid: S.uid, t: v.t || 0 });
   items.sort((a, b) => b.t - a.t);
   const nameOf = uid => (r.players[uid] || {}).name || 'someone';
@@ -414,24 +417,24 @@ async function submit() {
   if (!r || G.over || !started() || ans.disabled) return;
   const raw = ans.value.trim(); if (!raw) return;
   const st = r.meta.settings, M = st.mode;
-  if (!cfg() || curCat !== st.cat) { setMsg('Still loading the answer list…', true); return; }
+  if (!cfg() || curCat !== st.cat) { nope('Still loading the answer list…'); return; }
   const res = checkAnswer(raw);
-  if (res.err) { setMsg(res.err, true); return; }
+  if (res.err) { nope(res.err); return; }
   const canon = res.canon, k = norm(canon);
-  if (!k || k.length > 80) { setMsg('Try a shorter name', true); return; }
-  if (st.rematchOff && r.used && r.used[k]) { setMsg(`${canon} was used in an earlier round`, true); return; }
+  if (!k || k.length > 80) { nope('Try a shorter name'); return; }
+  if (st.rematchOff && r.used && r.used[k]) { nope(`${canon} was used in an earlier round`); return; }
   const mine = (r.names || {})[S.uid] || {};
   const turn = r.turn;
-  if (mine[k]) { ans.value = ''; return M === 'turns' ? failTurn(turn, `said ${canon} again`) : setMsg(`You already named ${canon}`, true); }
+  if (mine[k]) { ans.value = ''; return nope(M === 'turns' ? `You already said ${canon} — try another` : `You already named ${canon}`); }
   if (M === 'steal' || M === 'turns') {
     const taken = (r.pool || {})[k];
     if (taken) {
       ans.value = '';
-      if (M === 'turns') return failTurn(turn, `said ${canon}, which was already said`);
-      return setMsg(`${taken.uid === S.uid ? 'You' : (r.players[taken.uid] || {}).name || 'Someone'} already took ${canon}`, true);
+      const who = taken.uid === S.uid ? 'You' : (r.players[taken.uid] || {}).name || 'Someone';
+      return nope(M === 'turns' ? `${who} already said ${canon} — try another` : `${who} already took ${canon}`);
     }
     try { await F.set(R('pool/' + k), { uid: S.uid, name: canon, t: F.serverTimestamp() }); }
-    catch { ans.value = ''; return M === 'turns' ? failTurn(turn, `said ${canon}, which was already said`) : setMsg(`Someone just took ${canon}`, true); }
+    catch { ans.value = ''; return nope(M === 'turns' ? `${canon} was already said — try another` : `Someone just took ${canon}`); }
   }
   ans.value = '';
   const newCount = Object.keys(mine).length + 1;
