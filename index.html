@@ -426,10 +426,10 @@ const CATS = {
     blurb: 'Singers, rappers and Broadway stars', rule: 'Any real singer · pop, rap, country, opera, Broadway and more', tagline: 'Every genre · any era',
     who: `one specific real person known as a singer or vocalist in any genre, including rappers, opera singers and musical theatre performers who sing. Bands and groups do not count, but their individual singers do.`,
     help: [`Any real singer counts, in any genre: pop, rap, R&B, country, rock, opera, Broadway and musical theater.`, `Bands don't count, but their singers do (Freddie Mercury, not Queen).`, PEOPLE_RULE_HELP('their', 'Taylor Swift, not Taylor')] },
-  'oscar-winners': { group: 'Entertainment', label: 'Oscar Winners', plural: 'Oscar winners', prompt: "Type an Oscar winner's name", file: 'data/oscar-winners.txt', people: true, real: true, pron: 'their', titles: ANY_TITLES,
-    blurb: 'Anyone who has won an Academy Award', rule: 'Anyone who has won an Oscar, in any category', tagline: 'Any Oscar category',
-    who: `one specific real person who has personally won at least one Academy Award (Oscar) in any category, including acting, directing, writing, music, technical, and honorary awards. Nominees who never won do not count.`,
-    help: [`Anyone who has won an Academy Award counts, in any category: acting, directing, writing, music, technical or honorary. Nominees who never won don't count.`, PEOPLE_RULE_HELP('their', 'Meryl Streep, not Meryl')] },
+  'oscar-winners': { group: 'Entertainment', label: 'Oscar Winners', plural: 'Oscar winners', prompt: 'Type an Oscar-winning person or movie', file: 'data/oscar-winners.txt', people: true, real: true, pron: 'their', titles: ANY_TITLES,
+    blurb: 'People and movies that won an Academy Award', rule: 'People and movies that won an Oscar, in any category', tagline: 'Any Oscar category',
+    who: `one specific real person who has personally won at least one Academy Award (Oscar) in any category, or one specific movie that won at least one Oscar in any category. Nominees that never won do not count.`,
+    help: [`Any person or movie that won an Academy Award counts, in any category: acting, directing, writing, music, visual effects, technical or honorary. Nominees that never won don't count.`, PEOPLE_RULE_HELP('their', 'Meryl Streep, not Meryl')] },
   'us-presidents': { group: 'United States', label: 'US Presidents', plural: 'US presidents', prompt: "Type a president's name", file: 'data/us-presidents.txt', finite: true, pron: 'their', titles: MEN_TITLES,
     blurb: 'All 45 people who have been president', rule: '45 people have been president · Cleveland and Trump served twice but count once', tagline: 'Name them all',
     ambiguous: { bush: 'George H. W. Bush or George W. Bush', roosevelt: 'Theodore Roosevelt or Franklin D. Roosevelt', adams: 'John Adams or John Quincy Adams', harrison: 'William Henry Harrison or Benjamin Harrison', johnson: 'Andrew Johnson or Lyndon B. Johnson', 'george bush': 'George H. W. Bush or George W. Bush' },
@@ -572,6 +572,15 @@ addSubs('tv-shows', 'Genre', 'All genres', [
 addSubs('singers', 'Genre', 'All genres', [
   ['po', 'Pop', 'pop'], ['rk', 'Rock', 'rock'], ['bw', 'Broadway', 'Broadway and musical theater']
 ], (name, adj) => ({ label: `${name} Singers`, plural: `${adj} singers`, rule: `${adj[0].toUpperCase() + adj.slice(1)} singers` + WD_NOTE, help: [...subHelp(`Any singer known for ${adj} counts.`), ...CATS.singers.help] }));
+// Oscar Winners: people and movies together by default, or just one (user, Nov 23)
+addSubs('oscar-winners', 'Subcategory', 'People and movies', [
+  ['pe', 'People', 'people', { label: 'Oscar-Winning People', plural: 'Oscar-winning people', prompt: "Type an Oscar winner's name", rule: 'Anyone who has won an Oscar, in any category',
+    who: `one specific real person who has personally won at least one Academy Award (Oscar) in any category. Nominees who never won do not count.`,
+    help: [`Anyone who has won an Academy Award counts, in any category: acting, directing, writing, music, technical or honorary. Nominees who never won don't count.`, PEOPLE_RULE_HELP('their', 'Meryl Streep, not Meryl')] }],
+  ['mv', 'Movies', 'movies', { label: 'Oscar-Winning Movies', plural: 'Oscar-winning movies', prompt: 'Type a movie title', people: false, real: false, pron: '',
+    rule: 'Movies that won at least one Oscar, in any category', who: `one specific movie that won at least one Academy Award (Oscar) in any category, including Best Song, Visual Effects, Animated Feature and short films. Nominees that never won do not count.`,
+    help: [`Any movie that won at least one Oscar counts, in any category: Best Picture, acting, Animated Feature, Best Song, Visual Effects and more.`, `You can leave off "The" at the start of a title.`] }]
+]);
 // Goal option (50 or 100) for open lists. These harder ones start at 50; players can switch, and it's remembered per category.
 for (const id of ['singers-broadway', 'movies-musical', 'tv-shows-reality-game-shows', 'tv-shows-kids', 'books-horror',
   'real-women-internet-personalities', 'real-men-internet-personalities',
@@ -816,6 +825,7 @@ function wdLive(catId) {
   const tags = c.filter ? (WD_TAGS[base] || (c.real ? WD_TAGS.people : {}))[c.filter] : null;
   if (WD_ACCEPT[base]) return { human: true, ...WD_ACCEPT[base], tags, tagProps: base === 'singers' ? ['P136', 'P106'] : ['P106'], born: c.filter === 'hi' ? 1900 : 0 };
   if (base === 'athletes') return { human: true, tags: SPORT_JOB, tagProps: ['P106'], what: 'an athlete' };
+  if (base === 'oscar-winners' && c.filter === 'mv') return { kind: { hint: /\bfilm\b|movie/i }, what: 'an Oscar-winning movie', tags: /academy award/i, tagProps: ['P166'] };
   if (base === 'oscar-winners') return { human: true, tags: /academy award|oscar/i, tagProps: ['P166'], what: 'an Oscar winner' };
   const what = { movies: 'a movie', 'tv-shows': 'a TV show', books: 'a book', brands: 'a brand or company', animals: 'an animal', cities: 'a city',
     sports: 'a sport', 'fictional-women': 'a fictional woman', 'fictional-men': 'a fictional man' }[base];
