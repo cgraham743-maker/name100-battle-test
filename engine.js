@@ -251,6 +251,12 @@ function closest(k, keys, max) {
   }
   return best;
 }
+// localMatch against another loaded list (e.g. all Movies while playing Animated Movies)
+function matchIn(db, raw) {
+  const save = { INDEX, CANON_KEYS, RARE_KEYS, META, NAMES };
+  ({ INDEX, CANON_KEYS, RARE_KEYS, META, NAMES } = db);
+  try { return localMatch(raw); } finally { ({ INDEX, CANON_KEYS, RARE_KEYS, META, NAMES } = save); }
+}
 function localMatch(input) {
   const hit = exactMatch(input); if (hit) return hit;
   if (input.includes(',')) { const h2 = exactMatch(input.split(',')[0]); if (h2) return h2; }   // "Paris, Texas" -> Paris
@@ -314,7 +320,7 @@ function checkAnswer(raw) {
   if (local && surnameOnly(raw, local)) return { err: `Type ${c.pron || 'the'} full name — "${raw}" alone doesn't count` };
   if (local) return { canon: local };
   if (c.filter && DB[c.sub]) {
-    const all = DB[c.sub], k = norm(raw), hit = all.INDEX.get(k) || all.INDEX.get(k.replace(/^(the|a|an) /, ''));
+    const hit = matchIn(DB[c.sub], raw);
     if (hit) return { err: c.sub === 'books' ? `${hit} is a book, but readers don't tag it ${c.subName}` : `${hit} counts in ${CATS[c.sub].label}, but not in ${c.subName}` };
   }
   return { err: c.finite ? `"${raw}" isn't one of the ${META.size} ${c.plural} — check spelling` : `"${raw}" isn't on the list — check spelling` };

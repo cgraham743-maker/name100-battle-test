@@ -55,7 +55,7 @@ Atlantis: The Lost Empire	Film · 2001	ac,an,dr,fa,sf
 Shrek 2	Film · 2004	ac,an,cm,fa,fm
 The Sword in the Stone	Film · 1963	an,cm,fa,mu
 Rio	Film · 2011	an,cm,fa,fm,mu
-My Neighbor Totoro	Film · 1988	dr,fa,fm
+My Neighbor Totoro	Film · 1988	an,dr,fa,fm
 Ice Age: The Meltdown	Film · 2006	an,cm,fa,fm
 The Emperor's New Groove	Film · 2000	an,cm,mu
 Howl's Moving Castle	Film · 2004	an,dr,fa,sf,wa
@@ -109,18 +109,18 @@ Coraline	Film · 2009	an,fa,fm,ho,th
 Jimmy Neutron: Boy Genius	Film · 2001	an,cm,fm,sf
 Sing	Film · 2016	an,cm,dr,fm,mu
 The Lorax	Film · 2012	an,cm,fa,mu,sf
-Castle in the Sky	Film · 1986	ac,fa,fm,ro,sf,wa
+Castle in the Sky	Film · 1986	ac,an,fa,fm,ro,sf,wa
 Rango	Film · 2011	an,cm,fm,wa
 Over the Hedge	Film · 2006	ac,an,cm,fm,sf
 Grave of the Fireflies	Film · 1988	an,dr,wa
 Kung Fu Panda 2	Film · 2011	an,cm
 Puss in Boots	Film · 2011	ac,an,cm,fa
 The Angry Birds Movie	Film · 2016	ac,an,cm,fa,fm
-Nausicaä of the Valley of the Wind	Film · 1984	ac,fa,sf,wa
+Nausicaä of the Valley of the Wind	Film · 1984	ac,an,fa,sf,wa
 The Boss Baby	Film · 2017	an,cm,fm
 The Super Mario Bros. Movie	Film · 2023	an,cm,fa
 Winnie the Pooh	Film · 2011	an,cm,fa,mu
-Ponyo	Film · 2008	fa,fm
+Ponyo	Film · 2008	an,fa,fm
 Wallace & Gromit: The Curse of the Were-Rabbit	Film · 2005	an,cm,fa,fm,th
 Dinosaur	Film · 2000	an
 Ralph Breaks the Internet	Film · 2018	ac,an,cm,fa,fm
@@ -148,7 +148,7 @@ How to Train Your Dragon: The Hidden World	Film · 2019	an,fa,fm,ho
 Penguins of Madagascar	Film · 2014	ac,an,cm
 The Grinch	Film · 2018	an,cm
 The Lion King 1½	Film · 2004	an,cm,mu
-The Wind Rises	Film · 2013	dr
+The Wind Rises	Film · 2013	an,dr
 Inside Out 2	Film · 2024	an,cm,dr
 Fanny och Alexander	Film · 1982	dr
 Megamind	Film · 2010	ac,an,cm,fm,sf
@@ -173,7 +173,7 @@ Shark Tale	Film · 2004	an,cm,fm,th
 Rio 2	Film · 2014	an,cm,fa,fm,mu
 The Road to El Dorado	Film · 2000	an,cm,fa,mu
 The Cat Returns	Film · 2002	an,dr,fa,fm
-Arrietty	Film · 2010	fa,fm
+Arrietty	Film · 2010	an,fa,fm
 Moana 2	Film · 2024	an,fa,fm,mu
 Hook	Film · 1991	ac,cm,fa
 Witness	Film · 1985	dr,th
@@ -259,14 +259,14 @@ All Dogs Go to Heaven	Film · 1989	an,cm,dr,fa,mu
 Everyone's Hero	Film · 2006	an,cm,fa
 9	Film · 2009	ac,an,dr,fa,sf,th
 My Little Pony: The Movie	Film · 2017	an,fa,fm,mu
-Final Fantasy VII: Advent Children	Film · 2005	ac,fa,sf
+Final Fantasy VII: Advent Children	Film · 2005	ac,an,fa,sf
 Tales from Earthsea	Film · 2006	an,fa
 The SpongeBob Movie: Search for SquarePants	Film · 2025	an,cm,fa,fm
 Transformers One	Film · 2024	ac,an,sf
 Titan A.E.	Film · 2000	ac,an,sf
 Waltz with Bashir	Film · 2008	an,dc,wa
 The Emoji Movie	Film · 2017	an,cm,fm,sf
-When Marnie Was There	Film · 2014	dr,th
+When Marnie Was There	Film · 2014	an,dr,th
 The Tale of the Princess Kaguya	Film · 2013	an,dr,fa
 The Girl Who Leapt Through Time	Film · 2006	ro,sf
 Hoppers	Film · 2026	ac,an,cm,sf
@@ -278,13 +278,13 @@ Open Season: Scared Silly	Film · 2015	an,cm,fm
 PAW Patrol: The Movie	Film · 2021	ac,an,cm,fm
 Thumbelina	Film · 1994	an,fa,fm,mu
 Shrek 5	Film · 2027	an,cm,fa
-Pom Poko	Film · 1994	cm,dr,fa
+Pom Poko	Film · 1994	an,cm,dr,fa
 Alpha and Omega	Film · 2010	an,cm,fa,fm
 Cinderella II: Dreams Come True	Film · 2001	an,cm,fm
 The Lord of the Rings: The War of the Rohirrim	Film · 2024	an,fa
 Spider-Man: Beyond the Spider-Verse	Film · 2027	ac,an
-Final Fantasy: The Spirits Within	Film · 2001	ac,fa,sf
-From Up on Poppy Hill	Film · 2011	dr,ro
+Final Fantasy: The Spirits Within	Film · 2001	ac,an,fa,sf
+From Up on Poppy Hill	Film · 2011	an,dr,ro
 Kronk's New Groove	Film · 2005	an,cm,fm,mu
 Pokémon: The First Movie	Film · 1998	ac,fa,fm,sf
 Pinocchio 3000	Film · 2004	an,cm,fa,fm,sf
@@ -724,7 +724,7 @@ The Apartment	Film · 1960	cm,dr,ro,th
 Noah	Film · 2014	dr,fa
 Lincoln	Film · 2012	dr,wa
 RoboCop	Film · 1987	ac,ho,sf,th
-The Mitchells vs. The Machines	Film · 2021	sf
+The Mitchells vs. The Machines	Film · 2021	an,sf
 Die Hard with a Vengeance	Film · 1995	ac,cm,th
 On Her Majesty's Secret Service	Film · 1969	ac,th
 Solaris	Film · 1972	dr,ro,sf,th
@@ -854,7 +854,7 @@ Night of the Living Dead	Film · 1968	dr,ho,sf,th
 Mission: Impossible – Ghost Protocol	Film · 2011	ac,th
 Juno	Film · 2007	cm,dr,fm,ro
 Breathless	Film · 1960	dr,ro,th
-The Iron Giant	Film · 1999	ac,cm,dr,fa,fm,sf
+The Iron Giant	Film · 1999	ac,an,cm,dr,fa,fm,sf
 Kill Bill: Volume 2	Film · 2004	ac,dr,th
 Dersu Uzala	Film · 1975	dr
 Taare Zameen Par	Film · 2007	dr,fm,mu
@@ -1290,7 +1290,7 @@ Source Code	Film · 2011	ac,dr,sf,th
 Precious	Film · 2009	dr,fm
 Hamlet	Film · 1948	dr,ro
 The Hangover Part II	Film · 2011	ac,cm
-Snow White	Film · 2025	cm,dr,fa,fm,mu,ro
+Snow White	Film · 2025	an,cm,dr,fa,fm,mu,ro
 The Impossible	Film · 2012	ac,dr,th
 Black Adam	Film · 2022	ac,fa,sf
 Gordy	Film · 1995	cm,dr
@@ -1375,7 +1375,7 @@ Gremlins	Film · 1984	cm,ho
 Evita	Film · 1996	dr,mu
 Ocean's 8	Film · 2018	ac,cm,th
 Il Postino: The Postman	Film · 1994	dr,ro
-Epic	Film · 2013	ac,cm,dr,fa,fm,th
+Epic	Film · 2013	ac,an,cm,dr,fa,fm,th
 Revolutionary Road	Film · 2008	dr,ro
 The New Mutants	Film · 2020	ac,ho,sf
 The Nun	Film · 2018	dr,ho,th
@@ -2213,7 +2213,7 @@ Batman	Film · 1989	ac,cm,fa,th
 ~The Punisher	Film · 2004	ac,dr,th
 ~Brüno	Film · 2009	cm
 ~Unfaithful	Film · 2002	dr,th
-~The Addams Family 2	Film · 2021	cm
+~The Addams Family 2	Film · 2021	an,cm
 ~The Man Who Would Be King	Film · 1975	dr
 ~Halloween H20: 20 Years Later	Film · 1998	ho,th
 ~Celebrity	Film · 1998	cm,dr
@@ -2471,7 +2471,7 @@ Batman	Film · 1989	ac,cm,fa,th
 ~G.I. Jane	Film · 1997	ac,dr,wa
 ~Ring	Film · 1998	fa,ho,th
 ~Five Feet Apart	Film · 2019	dr,fm,ro
-~Missing Link	Film · 2019	cm
+~Missing Link	Film · 2019	an,cm
 ~Grown Ups 2	Film · 2013	cm
 Lady and the Tramp	Film · 1955	an,cm,fa,fm,mu,ro
 ~Due Date	Film · 2010	cm
@@ -2602,7 +2602,7 @@ Pride & Prejudice	Film · 2005	dr,ro
 ~The Circle	Film · 2017	dr,ro,sf,th
 ~Atomic Blonde	Film · 2017	ac,th
 ~25th Hour	Film · 2002	dr,th
-~The Snowman	Film · 2017	dr,ho,th
+~The Snowman	Film · 2017	an,dr,ho,th
 ~Alpha	Film · 2018	dr,ho,th
 ~Okja	Film · 2017	dr
 ~Bugsy	Film · 1991	dr,th
@@ -2867,7 +2867,7 @@ Pride & Prejudice	Film · 2005	dr,ro
 ~The King	Film · 2019	ac,dr,th
 ~Spy Kids 3-D: Game Over	Film · 2003	ac,cm,fa,fm
 ~Next Gen	Film · 2018	an,fa,sf
-~A Shaun the Sheep Movie: Farmageddon	Film · 2019	cm,fm,sf
+~A Shaun the Sheep Movie: Farmageddon	Film · 2019	an,cm,fm,sf
 ~Kill Your Darlings	Film · 2013	dr,ro,th
 ~The Little Foxes	Film · 1941	dr,ro
 ~Doctor Sleep	Film · 2019	ho
@@ -3285,7 +3285,7 @@ Anastasia	Film · 1997	an,cm,dr,fa,fm,mu
 ~Police Academy 3: Back in Training	Film · 1986	ac,cm,th
 ~Valley of the Wolves: Iraq	Film · 2006	ac,wa
 ~Arthur	Film · 1981	cm,dr,ro
-~Fearless	Film · 2006	ac,cm,dr,sf
+~Fearless	Film · 2006	ac,an,cm,dr,sf
 ~The Past	Film · 2013	dr
 ~Heaven Can Wait	Film · 1978	cm,dr,fa,ro
 ~Palm Springs	Film · 2020	cm
@@ -3607,7 +3607,7 @@ Beauty and the Beast	Film · 1991	an,cm,dr,fa,fm,mu,ro
 ~A Thousand Words	Film · 2012	cm,dr
 ~Coffee and Cigarettes	Film · 2003	cm,dr
 ~Tender Mercies	Film · 1983	dr,mu
-~IF	Film · 2024	cm,fa,mu
+~IF	Film · 2024	an,cm,fa,mu
 ~A Quiet Place: Day One	Film · 2024	ho
 ~The Milk of Sorrow	Film · 2009	dr
 ~Goya's Ghosts	Film · 2006	dr
@@ -3950,7 +3950,7 @@ Fury	Film · 2014	ac,dr,th,wa
 ~Macbeth	Film · 2015	dr,wa
 ~Into the Storm	Film · 2014	ac
 ~Hope and Glory	Film · 1987	cm,dr
-~Norm of the North	Film · 2016	cm
+~Norm of the North	Film · 2016	an,cm
 ~Black and White in Color	Film · 1976	cm,dr,wa
 ~Turkish Delight	Film · 1973	dr,ro
 ~Proof of Life	Film · 2000	ac,dr,th
@@ -4288,7 +4288,7 @@ Scent of a Woman	Film · 1992	cm,dr
 ~White Bim Black Ear	Film · 1977	dr
 ~The Missing	Film · 2003	ac,dr,th,wa
 ~101 Reykjavík	Film · 2000	cm,ro
-~Escape from Planet Earth	Film · 2013	cm,fa,fm,sf
+~Escape from Planet Earth	Film · 2013	an,cm,fa,fm,sf
 ~Victor Frankenstein	Film · 2015	dr,ho,sf
 ~Pink Floyd: Live at Pompeii	Film · 1972	dc
 ~Memoirs of an Invisible Man	Film · 1992	cm,ho,sf
@@ -4395,7 +4395,7 @@ Scent of a Woman	Film · 1992	cm,dr
 ~Sexmission	Film · 1984	cm,sf
 ~In the Tall Grass	Film · 2019	dr,ho,th
 ~Sixteen Candles	Film · 1984	cm,fm,ro
-~Morning Glory	Film · 2010	cm,dr,ro
+~Morning Glory	Film · 1933	cm,dr,ro
 ~Round Midnight	Film · 1986	dr,mu
 ~Sliver	Film · 1993	th
 ~The Russia House	Film · 1990	ac,dr,ro,th
@@ -4824,7 +4824,7 @@ Scent of a Woman	Film · 1992	cm,dr
 ~Love Me Tender	Film · 1956	dr,mu,ro
 ~Shortbus	Film · 2006	cm,dr,ro
 ~Medea	Film · 1969	dr,fa
-~Vincent	Film · 1982	dr,fa,ho
+~Vincent	Film · 1982	an,dr,fa,ho
 ~Casanova	Film · 2005	ac,cm,dr,ro
 ~The Man Without a Face	Film · 1993	dr
 ~Three Steps Above Heaven	Film · 2010	dr,ro
@@ -4842,7 +4842,7 @@ Scent of a Woman	Film · 1992	cm,dr
 ~Orphan: First Kill	Film · 2022	dr,ho,th
 ~Camille Claudel	Film · 1988	dr,ro
 ~Ricochet	Film · 1991	ac,th
-~Belle	Film · 2021	dr,sf
+~Belle	Film · 2021	an,dr,sf
 ~Carmen Jones	Film · 1954	dr,mu,ro
 ~Stakeout	Film · 1987	ac,cm,ro,th
 ~A Hero	Film · 2021	dr,th
@@ -5148,7 +5148,7 @@ Peter Pan	Film · 1953	an,fa,fm,mu
 ~Local Hero	Film · 1983	cm,dr
 ~Peninsula	Film · 2020	ac,ho,sf,th
 ~Smoke	Film · 1995	dr
-~Treasure Island	Film · 1989	cm,dr,fm,mu
+~Treasure Island	Film · 1989	ac,an,cm,dr,fm,mu
 ~Sodom and Gomorrah	Film · 1962	dr
 ~Wimbledon	Film · 2004	cm,ro
 ~The Go-Between	Film · 1971	dr,ro
@@ -5421,7 +5421,7 @@ Inferno	Film · 2016	ac,dr,fa,ho,ro,th
 ~Casque d'Or	Film · 1952	dr,th
 ~With Fire and Sword	Film · 1999
 ~The Foreigner	Film · 2017	ac,dr,th
-~Paperman	Film · 2012	cm,dr,ro
+~Paperman	Film · 2012	an,cm,dr,ro
 ~Gervaise	Film · 1956	dr
 ~One Wonderful Sunday	Film · 1947	dr,ro
 ~Vagabond	Film · 1985	dr
@@ -5505,7 +5505,7 @@ Inferno	Film · 2016	ac,dr,fa,ho,ro,th
 ~Different from the Others	Film · 1919	dr
 ~Fierce Creatures	Film · 1997	cm
 ~House at the End of the Street	Film · 2012	th
-~Batman & Mr. Freeze: SubZero	Film · 1998	ac,sf
+~Batman & Mr. Freeze: SubZero	Film · 1998	ac,an,sf
 ~Father of a Soldier	Film · 1964	dr,wa
 ~Calvary	Film · 2014	cm,dr
 ~Baraka	Film · 1992	dc
@@ -5735,7 +5735,7 @@ Inferno	Film · 2016	ac,dr,fa,ho,ro,th
 ~After the Hunt	Film · 2025	dr,th
 ~King Kong Lives	Film · 1986	ac,dr,fa,sf
 ~Porky's	Film · 1981	cm,fm
-~Jack Frost	Film · 1998	cm,dr,fa,fm,ho,ro
+~Jack Frost	Film · 1965	cm,dr,fa,fm,ho,ro
 ~Stranger by the Lake	Film · 2013	dr,th
 ~Letter Never Sent	Film · 1960	dr
 ~Lover Come Back	Film · 1961	cm,ro
@@ -6377,7 +6377,7 @@ The Avengers	Film · 2012	ac,sf
 ~A United Kingdom	Film · 2016	dr,ro
 ~First Time	Film · 2017	dr
 ~K.G.F: Chapter 1	Film · 2018	ac,dr
-~The Nut Job 2: Nutty by Nature	Film · 2017	cm
+~The Nut Job 2: Nutty by Nature	Film · 2017	an,cm
 ~Bad Santa 2	Film · 2016	cm
 ~7 Women	Film · 1966	dr
 ~Le Petit Nicolas	Film · 2009	cm,fm
@@ -6597,7 +6597,7 @@ The Avengers	Film · 2012	ac,sf
 ~Joshua Tree	Film · 1993	ac,th
 ~AK-47	Film · 2020	dr,wa
 ~Basquiat	Film · 1996	dr
-~Batman: Mystery of the Batwoman	Film · 2003	ac,th
+~Batman: Mystery of the Batwoman	Film · 2003	ac,an,th
 ~Beautiful Thing	Film · 1996	cm,ro
 ~Intersection	Film · 1994	dr
 ~Boogeyman	Film · 2005	dr,ho,th
@@ -6845,7 +6845,7 @@ The Avengers	Film · 2012	ac,sf
 ~The Door in the Floor	Film · 2004	dr
 ~Breaker! Breaker!	Film · 1977	ac,th
 ~Bloodline	Film · 1979	dr,ro,th
-~The River	Film · 1951	dc,dr,ro
+~The River	Film · 1984	dc,dr,ro
 ~The Golden Bowl	Film · 2000	dr
 ~Desyat Negrityat	Film · 1987	th
 ~The Human Centipede 2	Film · 2011	ho
@@ -6874,7 +6874,7 @@ The Avengers	Film · 2012	ac,sf
 ~When a Man Loves a Woman	Film · 1994	dr,ro
 ~Grandma	Film · 2015	cm,dr
 ~Love & Friendship	Film · 2016	cm,ro
-~Tale of Tales	Film · 2015	dr,fa,ho,ro,wa
+~Tale of Tales	Film · 2015	an,dr,fa,ho,ro,wa
 ~Il Posto	Film · 1961	dr
 ~Zvenigora	Film · 1927	dr
 ~Richard III	Film · 1955	dr,sf
@@ -6960,7 +6960,7 @@ The Avengers	Film · 2012	ac,sf
 ~Husbands	Film · 1970	dr
 ~Omkara	Film · 2006	dr
 ~The Mattei Affair	Film · 1972	dr
-~Woody Woodpecker	Film · 2017	cm,fm
+~Woody Woodpecker	Film · 2017	an,cm,fm
 ~Hostiles	Film · 2017	dr,wa
 ~Maudie	Film · 2016	dr
 ~The Visitors II: The Corridors of Time	Film · 1998	cm,fa,sf
@@ -7277,7 +7277,7 @@ Frozen	Film · 2013	an,cm,dr,fa,fm,mu
 ~The Buddy Holly Story	Film · 1978	dr,mu
 ~Boxcar Bertha	Film · 1972	ac,dr,ro,th
 ~The Guide	Film · 2014	dr
-~The Milky Way	Film · 1969	cm,dr,mu
+~The Milky Way	Film · 1969	an,cm,dr,mu
 ~The Organizer	Film · 1963	dr
 ~The Devil's Brigade	Film · 1968	ac,wa
 ~The Crime of Father Amaro	Film · 2002	dr
@@ -7633,7 +7633,7 @@ Frozen	Film · 2013	an,cm,dr,fa,fm,mu
 ~The Grey Zone	Film · 2001	dr,wa
 ~Hard Boiled	Film · 1992	ac,cm,th
 ~The Pope of Greenwich Village	Film · 1984	ac,cm,dr,th
-~The Willoughbys	Film · 2020	cm,dr
+~The Willoughbys	Film · 2020	an,cm,dr
 ~Spenser Confidential	Film · 2020	ac,dr
 ~Togo	Film · 2019	dr
 ~The Contender	Film · 2000	dr,th
@@ -7652,7 +7652,7 @@ Frozen	Film · 2013	an,cm,dr,fa,fm,mu
 ~Four Flies on Grey Velvet	Film · 1971	cm,dr,ho,th
 ~Running Scared	Film · 2006	ac,cm,dr,th
 ~Ararat	Film · 2002	dr,wa
-~Jonah: A VeggieTales Movie	Film · 2002	cm
+~Jonah: A VeggieTales Movie	Film · 2002	an,cm
 ~Green Dolphin Street	Film · 1947	dr,ro
 ~Berlin: Symphony of a Metropolis	Film · 1927	dc
 ~Treasure of San Gennaro	Film · 1966	ac,cm
@@ -8009,7 +8009,7 @@ Alice in Wonderland	Film · 1951	an,fa,fm,mu
 ~Veronika Decides to Die	Film · 2009	dr
 ~The Royal Family of Broadway	Film · 1930	cm,ro
 ~The Clockmaker	Film · 1974	dr,th
-~Lava	Film · 2014	mu,ro
+~Lava	Film · 2014	an,mu,ro
 ~Design for Living	Film · 1933	cm,ro
 ~Sssssss	Film · 1973	ho,sf
 ~Raaz	Film · 2002	ho,ro,th
@@ -8125,7 +8125,7 @@ Alice in Wonderland	Film · 1951	an,fa,fm,mu
 ~Testament of Orpheus	Film · 1960	dr,fa
 ~Murder, My Sweet	Film · 1944	dr,th
 ~The Passion of Anna	Film · 1969	dr
-~Feast	Film · 2005	ac,cm,dr,ho
+~Feast	Film · 2005	ac,an,cm,dr,ho
 ~Blood for Dracula	Film · 1974	ho
 ~Laurence Anyways	Film · 2012	dr,ro
 ~Hubble	Film · 2010	dc
@@ -8301,7 +8301,7 @@ Alice in Wonderland	Film · 1951	an,fa,fm,mu
 ~Belly of the Beast	Film · 2003	ac
 ~Ticker	Film · 2001	ac,th
 ~Fortress	Film · 1992	ac,sf
-~La Luna	Film · 1979	cm,dr,fa,ro
+~La Luna	Film · 1979	an,cm,dr,fa,ro
 ~Period. End of Sentence.	Film · 2018	dc
 ~Mystery Train	Film · 1989	cm,dr,th
 ~Playing with Fire	Film · 2019	cm,dr,fm
@@ -8332,7 +8332,7 @@ Alice in Wonderland	Film · 1951	an,fa,fm,mu
 ~Brideshead Revisited	Film · 2008	dr,ro
 ~The Maids of Wilko	Film · 1979	dr
 ~Searching for Bobby Fischer	Film · 1993	dr
-~Phineas and Ferb the Movie: Candace Against the Universe	Film · 2020	cm
+~Phineas and Ferb the Movie: Candace Against the Universe	Film · 2020	an,cm
 ~Torque	Film · 2004	ac,th
 ~The Electrical Life of Louis Wain	Film · 2021	dr
 ~Noi the Albino	Film · 2003	cm,dr
@@ -9441,7 +9441,7 @@ Sense and Sensibility	Film · 1995	cm,dr,ro
 ~Head of State	Film · 2003	cm
 ~Mera Naam Joker	Film · 1970	dr
 ~Jesus Camp	Film · 2006	dc
-~Possessed	Film · 1947	ac,dr,ho,ro,th
+~Possessed	Film · 1931	ac,dr,ho,ro,th
 ~Herbie Rides Again	Film · 1974	ac,cm,fa,fm,ro
 ~Hobson's Choice	Film · 1954	cm,dr
 ~Dr. Terror's House of Horrors	Film · 1965	ho
@@ -9550,7 +9550,7 @@ Sense and Sensibility	Film · 1995	cm,dr,ro
 ~Mr. Destiny	Film · 1990	cm,fa,ro
 ~27	Film · 2016	ac,ho,th
 ~Mother and Child	Film · 2009	dr
-~Scooby-Doo! Pirates Ahoy!	Film · 2006	cm,fm,ho,th
+~Scooby-Doo! Pirates Ahoy!	Film · 2006	an,cm,fm,ho,th
 ~Poison	Film · 1991	dr,ho,sf,th
 ~An Unfinished Piece for Mechanical Piano	Film · 1977	dr
 ~Namus	Film · 1925	dr
@@ -9573,7 +9573,7 @@ Sense and Sensibility	Film · 1995	cm,dr,ro
 ~Don't Make Waves	Film · 1967	cm
 ~The Wendell Baker Story	Film · 2005	cm
 ~WΔZ	Film · 2007	dr,ho,th
-~Pooh's Heffalump Halloween Movie	Film · 2005	fa,th
+~Pooh's Heffalump Halloween Movie	Film · 2005	an,fa,th
 ~The Offence	Film · 1973	dr,th
 ~The Bachelor and the Bobby-Soxer	Film · 1947	cm,ro
 ~Savage Grace	Film · 2007	dr,th
@@ -9640,7 +9640,7 @@ Sense and Sensibility	Film · 1995	cm,dr,ro
 ~The Mummy's Ghost	Film · 1944	ho,sf
 ~Trilogy: The Weeping Meadow	Film · 2004	dr
 ~Tobacco Road	Film · 1941
-~Space Chimps	Film · 2008	cm,fa,fm,sf
+~Space Chimps	Film · 2008	an,cm,fa,fm,sf
 ~A Song to Remember	Film · 1945	dr,mu
 ~Hester Street	Film · 1975	dr,ro
 ~Stage Beauty	Film · 2004	cm,dr,ro
@@ -9784,7 +9784,7 @@ Sense and Sensibility	Film · 1995	cm,dr,ro
 ~Lonely Are the Brave	Film · 1962	dr,wa
 ~A Moment to Remember	Film · 2004	dr,ro
 ~Chasing Mavericks	Film · 2012	cm,dr
-~Knick Knack	Film · 1989	cm,fm
+~Knick Knack	Film · 1989	an,cm,fm
 ~Onegin	Film · 1999	dr,ro
 ~Three Faces	Film · 2018	dr
 ~Deception	Film · 2008	dr,ro,th
@@ -10065,7 +10065,7 @@ Sense and Sensibility	Film · 1995	cm,dr,ro
 ~Nightbitch	Film · 2024	cm,ho
 ~The Spy in Black	Film · 1939	ac
 ~Wicked Little Letters	Film · 2023	cm
-~Mouse Trouble	Film · 1944	cm,fm
+~Mouse Trouble	Film · 1944	an,cm,fm
 ~After Everything	Film · 2023	cm,dr
 ~Beautiful Disaster	Film · 2023	dr,ro
 ~Woman of the Hour	Film · 2023	dr,th
@@ -10120,7 +10120,7 @@ Sense and Sensibility	Film · 1995	cm,dr,ro
 ~Fat Man and Little Boy	Film · 1989	dr,wa
 ~Young Bess	Film · 1953	dr,ro
 ~The Return of Martin Guerre	Film · 1983	dr
-~The Scarlet Flower	Film · 1978	fa,fm,ro
+~The Scarlet Flower	Film · 1978	an,fa,fm,ro
 ~The Last Hunt	Film · 1956	wa
 ~The Last Days of Pompeii	Film · 1959	ac,dr
 ~The Syrian Bride	Film · 2004	cm,dr
@@ -10255,7 +10255,7 @@ Sense and Sensibility	Film · 1995	cm,dr,ro
 ~The Gambler	Film · 2014	cm,dr,th
 ~The Rains Came	Film · 1939	ac,dr
 ~Tintin and the Golden Fleece	Film · 1961	dr
-~Spring	Film · 1969	cm,dr,fa,ho,ro,sf
+~Spring	Film · 1969	an,cm,dr,fa,ho,ro,sf
 ~The Devil and Miss Jones	Film · 1941	cm,ro
 ~House of Games	Film · 1987	ac,th
 ~Houseboat	Film · 1958	cm,ro
@@ -10735,7 +10735,7 @@ Sense and Sensibility	Film · 1995	cm,dr,ro
 ~All These Women	Film · 1964	cm
 ~Tropical Malady	Film · 2004	dr
 ~The Unfaithful Wife	Film · 1969	dr,th
-~Tekken: Blood Vengeance	Film · 2011	ac,sf
+~Tekken: Blood Vengeance	Film · 2011	ac,an,sf
 ~De-Lovely	Film · 2004	dr,mu,ro
 ~Ibu Mertua-ku	Film · 1962	mu
 ~Ong Bak 3	Film · 2010	ac
@@ -10908,7 +10908,7 @@ Sense and Sensibility	Film · 1995	cm,dr,ro
 ~Gone Nutty	Film · 2002	an,cm,fm
 ~Burke & Hare	Film · 2010	cm,dr,ho
 ~Three Comrades	Film · 1938	cm,dr,ro
-~Ultimate Avengers	Film · 2006	ac
+~Ultimate Avengers	Film · 2006	ac,an
 ~Petite Maman	Film · 2021	dr
 ~The Tender Bar	Film · 2021	dr
 ~Chaahat	Film · 1996	cm,dr,ro
@@ -10927,7 +10927,7 @@ Sense and Sensibility	Film · 1995	cm,dr,ro
 ~Onoda	Film · 2021	dr,wa
 ~Reflection	Film · 2021	dr,wa
 ~An Ordinary Miracle	Film · 1979	cm,dr,fa,mu,ro
-~Retribution	Film · 2015	ac,th,wa
+~Retribution	Film · 2023	ac,th,wa
 ~Peter von Kant	Film · 2022	dr
 ~The Wandering Earth 2	Film · 2023	ac,sf
 Hellraiser	Film · 1987	ho
@@ -11046,7 +11046,7 @@ Hellraiser	Film · 1987	ho
 ~The Big Bus	Film · 1976	cm,sf
 ~The Red Inn	Film · 1951	th
 ~The Red Badge of Courage	Film · 1951	dr,wa
-~Vasilisa the Beautiful	Film · 1940	fa,fm,ro
+~Vasilisa the Beautiful	Film · 1940	an,fa,fm,ro
 ~Lovers Like Us	Film · 1975	cm,ro
 ~The Stone Flower	Film · 1946	dr,fa,fm,ro
 ~The Magic Weaver	Film · 1960	fa,fm
@@ -11440,7 +11440,7 @@ Hellraiser	Film · 1987	ho
 ~Ambiancé	Film · 2020	dc
 ~In Bed with Victoria	Film · 2016	cm,dr
 ~Before the Revolution	Film · 1964	dr
-~King Lear	Film · 1910	dr
+~King Lear	Film · 1970	dr
 ~Cry of the City	Film · 1948	dr,th
 ~10 Rillington Place	Film · 1971	dr,th
 ~Dallas	Film · 1950	wa
@@ -11478,7 +11478,7 @@ Hellraiser	Film · 1987	ho
 ~The Informers	Film · 2009	dr,th
 ~Husk	Film · 2011	ho
 ~No End	Film · 1985	dr
-~Scooby-Doo! and the Samurai Sword	Film · 2008	cm,ho,th
+~Scooby-Doo! and the Samurai Sword	Film · 2008	an,cm,ho,th
 ~Digimon: The Movie	Film · 2000	ac
 ~Avenue Montaigne	Film · 2006	cm,dr,ro
 ~The Sannikov Land	Film · 1973
@@ -11503,7 +11503,7 @@ Hellraiser	Film · 1987	ho
 ~After Lucia	Film · 2012	dr
 ~The Siege of Jadotville	Film · 2016	dr,wa
 ~Shorts	Film · 2009	fa,fm
-~Melody	Film · 1971	cm,dr,mu
+~Melody	Film · 1971	an,cm,dr,mu
 ~L'Atlantide	Film · 1921	fa
 ~The Stalking Moon	Film · 1968	wa
 ~The Image Book	Film · 2018	dc
@@ -11585,7 +11585,7 @@ Hellraiser	Film · 1987	ho
 ~Russian Transporter	Film · 2008	ac
 ~Satan Triumphant	Film · 1917	dr
 ~Dev.D	Film · 2009	cm,dr,ro
-~In a Heartbeat	Film · 2017	cm,ro
+~In a Heartbeat	Film · 2017	an,cm,ro
 ~Third Person	Film · 2013	dr,ro
 ~The Warrens of Virginia	Film · 1915	dr
 ~Our Children	Film · 2012	dr
@@ -11960,7 +11960,7 @@ Hellraiser	Film · 1987	ho
 ~Vampire Circus	Film · 1972	ho
 ~The Princess	Film · 2022	ac,dr,fa
 ~Interceptor	Film · 2022	ac,wa
-~Dead Space: Downfall	Film · 2008	fa,ho,sf
+~Dead Space: Downfall	Film · 2008	an,fa,ho,sf
 ~The Union	Film · 2024	ac,dc,th
 ~Ordinary Angels	Film · 2024	dr
 ~Abbott and Costello Meet Dr. Jekyll and Mr. Hyde	Film · 1953	cm,ho,sf
@@ -12006,7 +12006,7 @@ Hellraiser	Film · 1987	ho
 ~On Swift Horses	Film · 2024	dr,ro
 ~The Page Turner	Film · 2006	dr,th
 ~The Tale of Tsar Saltan	Film · 1967	an,fa,fm
-~Perlimps	Film · 2022
+~Perlimps	Film · 2022	an
 ~The Spider Woman	Film · 1943	th
 ~Last of the Dogmen	Film · 1995	th,wa
 ~The Yellow Handkerchief	Film · 2008	cm,dr,fm,ro
@@ -12187,7 +12187,7 @@ The Little Mermaid	Film · 1989	an,dr,fa,fm,mu,ro
 ~Anna Boleyn	Film · 1920	dr
 ~Ginger Snaps 2: Unleashed	Film · 2004	dr,fm,ho
 ~I'm Not Scared	Film · 2003	dr,th
-Kiki's Delivery Service	Film · 1989	fa,fm
+Kiki's Delivery Service	Film · 1989	an,fa,fm
 ~Rurouni Kenshin: Kyoto Inferno	Film · 2014	dr
 ~The End of the World	Film · 1916	ac,dr,sf
 ~Les 1001 Nuits	Film · 1990	cm,fa
@@ -12787,7 +12787,7 @@ The Odyssey	Film · 2026	ac,dr,fa,wa
 ~Die goldene Stadt	Film · 1942	dr
 ~Battle Circus	Film · 1953	ro,wa
 ~The Sky Is Pink	Film · 2019
-~The Donkey King	Film · 2018	cm,fm
+~The Donkey King	Film · 2018	an,cm,fm
 ~Tumbbad	Film · 2018	dr,fa,ho
 ~The Divine Fury	Film · 2019	ac,ho,th
 ~Taking Sides	Film · 2001	dr,mu,wa
@@ -12966,7 +12966,7 @@ The Odyssey	Film · 2026	ac,dr,fa,wa
 ~Zinda	Film · 2006	dr
 ~The Assassination Bureau	Film · 1969	ac
 ~Made in Hong Kong	Film · 1997	cm,dr,fm
-~Mortal Kombat Legends: Scorpion's Revenge	Film · 2020	ac,fa
+~Mortal Kombat Legends: Scorpion's Revenge	Film · 2020	ac,an,fa
 ~The Anniversary Party	Film · 2001	cm,dr
 ~The Duke	Film · 2020	cm
 ~As Luck Would Have It	Film · 2011	dr
@@ -13704,7 +13704,7 @@ Gone in 60 Seconds	Film · 2000	ac,dr,th
 ~Something Wicked This Way Comes	Film · 1983	fa,ho
 ~Somewhere I'll Find You	Film · 1942	dr,ro,wa
 ~Touch of Pink	Film · 2004	cm,dr,ro
-~The Prince and the Pauper	Film · 1990	ac,cm,dr,fm
+~The Prince and the Pauper	Film · 1990	ac,an,cm,dr,fm
 ~Voces inocentes	Film · 2004	dr,wa
 ~The Five Obstructions	Film · 2003	dc,dr
 ~Let the Bullets Fly	Film · 2010	cm
@@ -13922,7 +13922,7 @@ Abominable	Film · 2019	ac,an,cm,fa,ho
 ~The Life of General Villa	Film · 1914	ac,dc,dr
 ~Chopping Mall	Film · 1986	ac,ho,sf
 ~A Hero of Our Times	Film · 1955	cm
-~Welcome	Film · 2007	cm,dr,fm,ro
+~Welcome	Film · 2007	an,cm,dr,fm,ro
 ~Alexander Popov	Film · 1949	dr
 ~Arn – The Kingdom at Road's End	Film · 2008	ac,dr,wa
 ~Bless the Woman	Film · 2003	dr,ro,wa
@@ -14174,7 +14174,7 @@ Abominable	Film · 2019	ac,an,cm,fa,ho
 ~Cradle of Fear	Film · 2001	ho
 ~Trust the Man	Film · 2006	cm,dr,ro
 ~Pixote	Film · 1980	dr,th
-~Partly Cloudy	Film · 2009	cm,fa,fm
+~Partly Cloudy	Film · 2009	an,cm,fa,fm
 ~Saagar	Film · 1985	cm,ro
 ~Saint Mary	Film · 2001
 ~Sambizanga	Film · 1972	dr
@@ -14327,7 +14327,7 @@ Abominable	Film · 2019	ac,an,cm,fa,ho
 ~Long Distance	Film · 2024	cm,dr,ho,sf,th
 ~You Won't Be Alone	Film · 2022	ho
 ~To Catch a Killer	Film · 2023	ac,dr,th
-~My Son	Film · 1928	dr,th
+~My Son	Film · 2021	dr,th
 ~Tides	Film · 2021	sf,th
 ~Kansas City Confidential	Film · 1952	ac,dr,th
 ~Love and Leashes	Film · 2022	cm,ro
@@ -14864,8 +14864,8 @@ Insomnia	Film · 2002	dr,th
 ~Platform	Film · 2000	ac,dr
 ~Alone in Berlin	Film · 2016	dr,wa
 ~Air Raid Wardens	Film · 1943	cm
-~Sanjay's Super Team	Film · 2015	ac,dc,fm
-Akira	Film · 1988	ac,dr,sf,th
+~Sanjay's Super Team	Film · 2015	ac,an,dc,fm
+Akira	Film · 1988	ac,an,dr,sf,th
 ~Chiraq	Film · 2015	dr,th
 ~Killer Fish	Film · 1979	ac,ho,sf
 ~On Tour	Film · 2010	cm,dr
@@ -14998,7 +14998,7 @@ Akira	Film · 1988	ac,dr,sf,th
 ~Harry and Walter Go to New York	Film · 1976	ac,cm
 ~In the Soup	Film · 1992	cm,dr
 ~A Shock to the System	Film · 1990	th
-~Thérèse Desqueyroux	Film · 1962	dr
+~Thérèse Desqueyroux	Film · 2012	dr
 ~Weather Is Good on Deribasovskaya, It Rains Again on Brighton Beach	Film · 1993	ac,cm,th
 ~The Last King	Film · 2016	ac,dr,wa
 ~The Two of Us	Film · 1967	cm,dr
@@ -15067,7 +15067,7 @@ Akira	Film · 1988	ac,dr,sf,th
 ~This Is My Life	Film · 1992	cm,dr
 ~A Kid from Tibet	Film · 1992	ac
 ~Superstar	Film · 1999	cm,dr
-~Next Avengers: Heroes of Tomorrow	Film · 2008	fm
+~Next Avengers: Heroes of Tomorrow	Film · 2008	an,fm
 ~Magnificent Bodyguards	Film · 1978	ac
 ~Quicksilver	Film · 1986	dr
 ~The Master and Margaret	Film · 1972	dr,fa
@@ -15607,7 +15607,7 @@ Akira	Film · 1988	ac,dr,sf,th
 ~The Dirt	Film · 2019	mu
 ~Earthquake Bird	Film · 2019	dr,th
 ~Anna's War	Film · 2018	dr,wa
-~Sheep and Wolves: Pig Deal	Film · 2019	cm,fa,fm
+~Sheep and Wolves: Pig Deal	Film · 2019	an,cm,fa,fm
 ~Upon the Magic Roads	Film · 2021	fa,fm
 ~All Day & A Night	Film · 2020	dr
 ~Clergy	Film · 2018	cm,dr
@@ -16056,7 +16056,7 @@ Robots	Film · 2005	an,cm,fa,fm,sf
 ~Kabul Express	Film · 2006	cm,dr,th
 ~Ride On	Film · 2023	ac,dr
 ~The Nature of Love	Film · 2023	cm,dr,ro
-~Cold Storage	Film · 2026	ac,cm,ho,sf
+~Cold Storage	Film · 2026	ac,an,cm,ho,sf
 ~Amerikatsi	Film · 2022	dr
 ~Dead Presidents	Film · 1995	ac,dr,th
 ~Deadline	Film · 2009	ac,dr,ho,th
@@ -16312,7 +16312,7 @@ Robots	Film · 2005	an,cm,fa,fm,sf
 ~Private Life of Kuzyayev Valentin	Film · 1968	dr,fm
 ~Our Blushing Brides	Film · 1930	cm,dr,ro
 ~Goha	Film · 1958	cm
-~Mahabharat	Film · 2013	dr
+~Mahabharat	Film · 2013	an,dr
 ~Strange Affair	Film · 1981	dr
 ~Grind	Film · 2003	cm
 ~Tarzan Triumphs	Film · 1943	ac,wa
@@ -16333,7 +16333,7 @@ Robots	Film · 2005	an,cm,fa,fm,sf
 ~The Voyage of the Bourrichon Family	Film · 1913	cm
 ~Aagadu	Film · 2014	ac,cm
 ~Kiss the Blood Off My Hands	Film · 1948	dr,th
-~The Flight of Dragons	Film · 1982	cm,dr,fa
+~The Flight of Dragons	Film · 1982	an,cm,dr,fa
 ~Hero Hiralal	Film · 1988	ac,cm,dr
 ~Tales from the Crypt	Film · 1972	cm,ho
 ~Beyond the Lights	Film · 2014	dr,ro
@@ -16407,7 +16407,7 @@ Robots	Film · 2005	an,cm,fa,fm,sf
 ~Kickboxer 4	Film · 1994	ac
 ~Radioland Murders	Film · 1994	cm,th
 ~Children of God	Film · 2010	dr,ro
-~Scooby-Doo! Frankencreepy	Film · 2014	cm,ho
+~Scooby-Doo! Frankencreepy	Film · 2014	an,cm,ho
 ~Black Souls	Film · 2014	dr
 ~More American Graffiti	Film · 1979	cm,dr,fm
 ~Ravished Armenia	Film · 1919
@@ -16543,7 +16543,7 @@ Venom	Film · 2018	ac,th
 ~The Babe	Film · 1992	dr
 ~Shopgirl	Film · 2005	cm,dr,ro
 ~Lust for a Vampire	Film · 1971	ho
-~Dead Space: Aftermath	Film · 2011	fa,ho,sf
+~Dead Space: Aftermath	Film · 2011	an,fa,ho,sf
 ~The Dolly Sisters	Film · 1945	dr,mu,ro
 ~Head Against the Wall	Film · 1959	dr
 ~Absent	Film · 2011	dr
@@ -16680,7 +16680,7 @@ Venom	Film · 2018	ac,th
 ~Scream of Stone	Film · 1991	dr
 ~If I Had a Million	Film · 1932	dr
 ~In the Company of Men	Film · 1997	dr
-~When the Cat's Away	Film · 1929	cm,ro
+~When the Cat's Away	Film · 1929	an,cm,ro
 ~The Breaking Point	Film · 1950	dr,th
 ~Give 'em Hell, Harry!	Film · 1975	dr
 ~You Can't Win 'Em All	Film · 1970	cm,wa
@@ -16766,7 +16766,7 @@ Rush	Film · 2013	ac,dr,th
 ~Jagte Raho	Film · 1956	dr
 ~Tears Were Falling	Film · 1983	cm,dr,fa
 ~The Killing Room	Film · 2009	dr
-~Scooby-Doo! Abracadabra-Doo	Film · 2009	cm,fm,ho,th
+~Scooby-Doo! Abracadabra-Doo	Film · 2009	an,cm,fm,ho,th
 ~Young Goethe in Love	Film · 2010	dr,ro
 ~I'm Not Ashamed	Film · 2016	dr
 ~Idiot's Delight	Film · 1939	cm,dr,mu
@@ -16938,7 +16938,7 @@ Dirty Dancing	Film · 1987	dr,fm,mu,ro
 ~Men O' War	Film · 1929	cm
 ~Caro Michele	Film · 1976	cm,dr
 ~The Soul of Buddha	Film · 1918	ro
-~Starship Troopers: Traitor of Mars	Film · 2017	ac,sf,wa
+~Starship Troopers: Traitor of Mars	Film · 2017	ac,an,sf,wa
 ~On the Other Side of the Tracks	Film · 2012	cm,th
 ~Peppermint Soda	Film · 1977	cm,dr,fm
 ~Tonight and Every Night	Film · 1945	mu
@@ -17293,7 +17293,7 @@ Dirty Dancing	Film · 1987	dr,fm,mu,ro
 ~A Hunting Accident	Film · 1978	dr,ro
 ~Young Wife	Film · 1979	dr,ro
 ~Dead or Alive 2: Birds	Film · 2000	ac
-~My Love	Film · 1940	cm,dr,mu,ro
+~My Love	Film · 1940	an,cm,dr,mu,ro
 ~A Boy of Flanders	Film · 1924	dr
 ~Over Tissa	Film · 1958	ac,th
 ~Our House	Film · 1965	dr,ho
@@ -17332,7 +17332,7 @@ Dirty Dancing	Film · 1987	dr,fm,mu,ro
 ~Altitude	Film · 2010	ac,ho,sf,th
 ~Siberians	Film · 1940	dr,fm
 ~Sympathy Seeker	Film · 1997	cm,ro
-~The Snow Maiden	Film · 1952	an,fa,fm,mu,ro
+~The Snow Maiden	Film · 1969	an,fa,fm,mu,ro
 ~Soldiers	Film · 1956	dr,wa
 ~Kokowääh	Film · 2011	cm
 ~Tanguy	Film · 2001	cm,dr
@@ -17426,7 +17426,7 @@ Dirty Dancing	Film · 1987	dr,fm,mu,ro
 ~We Faw Down	Film · 1928	cm
 ~Reprise	Film · 2006	cm,dr
 ~Businessman	Film · 2012	ac,th
-~Out on a Limb	Film · 1992	cm
+~Out on a Limb	Film · 1992	an,cm
 ~Hold You Tight	Film · 1998	dr,ro
 ~Innocent Sorcerers	Film · 1960	dr,mu,ro
 ~Chronicle of a Death Foretold	Film · 1987	dr
@@ -17492,7 +17492,7 @@ Dirty Dancing	Film · 1987	dr,fm,mu,ro
 ~Mara	Film · 2018	ho
 ~1985	Film · 2018	dr
 ~The Last Sharknado: It's About Time	Film · 2018	ac,cm,ho
-~Annabelle's Wish	Film · 1997	fa,mu
+~Annabelle's Wish	Film · 1997	an,fa,mu
 ~Halla Bol	Film · 2008	dr
 ~Afsar	Film · 2018	cm,dr,ro
 ~Harishchandrachi Factory	Film · 2009
@@ -17510,7 +17510,7 @@ Dirty Dancing	Film · 1987	dr,fm,mu,ro
 ~Himmatwala	Film · 2013	ac,cm
 ~King of Boys	Film · 2018	dr,th
 ~Surveillance	Film · 2008	th
-~Scooby-Doo! and the Curse of the 13th Ghost	Film · 2019	th
+~Scooby-Doo! and the Curse of the 13th Ghost	Film · 2019	an,th
 ~Saving Leningrad	Film · 2019	ac,dr,ro,wa
 ~Ernest Goes to Camp	Film · 1987	fm
 ~Tarzan and the Leopard Woman	Film · 1946	ac
@@ -18257,7 +18257,7 @@ Dirty Dancing	Film · 1987	dr,fm,mu,ro
 ~Town Without Pity	Film · 1961	dr,th
 ~At Middleton	Film · 2013	cm,ro
 ~The Fatal Encounter	Film · 2014	ac,dr
-~Blind	Film · 2014	dr,ro,th
+~Blind	Film · 2011	dr,ro,th
 ~Silent Wedding	Film · 2008	cm,dr
 ~Hallam Foe	Film · 2007	dr
 ~It Can Be Done Amigo	Film · 1972	cm,wa
@@ -18325,7 +18325,7 @@ Dirty Dancing	Film · 1987	dr,fm,mu,ro
 ~Run Boy Run	Film · 2013	dr,wa
 ~Solino	Film · 2002	cm,dr
 ~House of 9	Film · 2005	th
-~Trick or Treat	Film · 1986	cm,fm,ho,mu
+~Trick or Treat	Film · 1986	an,cm,fm,ho,mu
 ~The Miniver Story	Film · 1950	dr
 ~Wolf Blood	Film · 1925	ac,dr,fa,ho
 ~White Shadow	Film · 2013	dr
@@ -18537,7 +18537,7 @@ Dirty Dancing	Film · 1987	dr,fm,mu,ro
 ~The Tree in a Test Tube	Film · 1942	cm
 ~Our Times	Film · 2015	dr,ro,sf
 ~Man of Ashes	Film · 1986	dr
-~Two Friends	Film · 1955	cm,dr,fm,ro
+~Two Friends	Film · 2015	cm,dr,fm,ro
 ~The Organization	Film · 1971	dr,th
 ~Scheherazade, Tell Me a Story	Film · 2009	dr
 ~Same Kind of Different as Me	Film · 2017	dr
@@ -18931,7 +18931,7 @@ Dirty Dancing	Film · 1987	dr,fm,mu,ro
 ~The Son of Tarzan	Film · 1920	ac,fa
 ~Apaharan	Film · 2005	dr,th
 ~Three Friends and an Invention	Film · 1927	cm
-~Urfin and His Wooden Soldiers	Film · 2017	fa,fm
+~Urfin and His Wooden Soldiers	Film · 2017	an,fa,fm
 ~Close-Knit	Film · 2017	dr
 ~Midnight Runners	Film · 2017	ac
 ~Augustine	Film · 2012	dr
@@ -19344,7 +19344,7 @@ Dirty Dancing	Film · 1987	dr,fm,mu,ro
 ~Berlin, I Love You	Film · 2019	dr,ro
 ~Walled In	Film · 2009	ho
 ~Nero	Film · 1922	dr
-~No Smoking	Film · 2007	dr,ho,th
+~No Smoking	Film · 2007	an,dr,ho,th
 ~Old Wives for New	Film · 1918	dr
 ~He Ran All the Way	Film · 1951	dr,th
 ~Proud Flesh	Film · 1925	cm,dr
@@ -19612,7 +19612,7 @@ Dirty Dancing	Film · 1987	dr,fm,mu,ro
 ~I Want to Go to Prison	Film · 1999	cm
 ~Tsarevich Prosha	Film · 1974	fa,fm
 ~Late Flowers	Film · 1970	dr,mu,ro
-~Alraune	Film · 1928	dr,ho,sf
+~Alraune	Film · 1918	dr,ho,sf
 ~The Fourth	Film · 1972	dr
 ~Chicha	Film · 1991	cm
 ~Crazies	Film · 1991	cm
@@ -20095,7 +20095,7 @@ Unforgiven	Film · 1992	dr,th,wa
 ~The Great Gambler	Film · 1979	th
 ~The Johnstown Flood	Film · 1926	dc,dr
 ~The Man from Hong Kong	Film · 1974	ac
-~The Miracle Maker	Film · 1922	an,cm
+~The Miracle Maker	Film · 2000	an,cm
 ~Chains of Gold	Film · 1991	ac,dr,th
 ~The Phantom of the Opera at the Royal Albert Hall	Film · 2011	dr,mu,ro
 ~The Ragamuffin	Film · 1916	dr
@@ -20303,7 +20303,7 @@ Unforgiven	Film · 1992	dr,th,wa
 ~Do Not Split	Film · 2020	dc
 ~Hyppolit, the Butler	Film · 1931	cm,ro
 ~I.S.S.	Film · 2023	sf,th
-~Small Town Girl	Film · 1953	cm,mu,ro
+~Small Town Girl	Film · 1936	cm,mu,ro
 ~Thank God	Film · 2022	cm
 ~Chain of Fools	Film · 2000	ac,cm,ro
 ~Janie Jones	Film · 2010	dr
@@ -20504,7 +20504,7 @@ Unforgiven	Film · 1992	dr,th,wa
 ~The Mean Season	Film · 1985	th
 ~Up the Creek	Film · 1984	cm
 ~Pierino contro tutti	Film · 1981	cm
-~The Delinquents	Film · 1960	ac,cm,dr,ro
+~The Delinquents	Film · 2023	ac,cm,dr,ro
 ~Bonnard, Pierre and Marthe	Film · 2023	ro
 ~The Retirement Plan	Film · 2023	th
 ~Old Guy	Film · 2024	ac,cm
@@ -20707,7 +20707,7 @@ Up	Film · 2009	an,cm,fa
 ~Roseanna's Grave	Film · 1997	cm,dr,ro
 ~Sam Whiskey	Film · 1969	ac,cm,wa
 ~Premiers désirs	Film · 1984	dr,ro
-~The Take	Film · 2027	ac,dc,dr,th
+~The Take	Film · 2004	ac,dc,dr,th
 ~Think Fast, Mr. Moto	Film · 1937	th
 ~Poison Ivy: The New Seduction	Film · 1997	fm,th
 ~It Runs in the Family	Film · 2003	cm,dr
@@ -20830,7 +20830,7 @@ Up	Film · 2009	an,cm,fa
 ~The Beginning and the End	Film · 1993	dr
 ~The Member of the Wedding	Film · 1952	dr
 ~Test	Film · 2013	dr
-~Pugachev	Film · 1979	dr
+~Pugachev	Film · 1937	dr
 ~The Comebacks	Film · 2007	cm
 ~Burying the Ex	Film · 2014	cm,ho
 ~The Keeping Room	Film · 2014	ac,th
@@ -20953,7 +20953,7 @@ Up	Film · 2009	an,cm,fa
 ~Starry Eyes	Film · 2014	ho
 ~Quantum Love	Film · 2014	dr,ro
 ~Mercenaries	Film · 2014	ac
-~Appleseed Alpha	Film · 2014	sf,wa
+~Appleseed Alpha	Film · 2014	an,sf,wa
 ~Strike First Freddy	Film · 1965	cm
 ~Lone Wolf and Cub: Final Conflict	Film · 1993	dr
 ~Singularity	Film · 2013	sf
@@ -21182,7 +21182,7 @@ Up	Film · 2009	an,cm,fa
 ~Typhoon Noruda	Film · 2015	fa
 ~Satan Met a Lady	Film · 1936	dr,th
 ~Chitchor	Film · 1976	cm,dr,mu,ro
-~Batman Unlimited: Monster Mayhem	Film · 2015
+~Batman Unlimited: Monster Mayhem	Film · 2015	an
 ~Go Away Mr. Tumor	Film · 2015	cm,dr,ro
 ~The Singer Not the Song	Film · 1961	dr,wa
 ~The Governor's Lady	Film · 1915	dr
@@ -21404,7 +21404,7 @@ Up	Film · 2009	an,cm,fa
 ~Gitmo: The New Rules of War	Film · 2006	dc
 ~La Belle captive	Film · 1983	dr,ho,th
 ~Spider-Man Strikes Back	Film · 1978	sf
-~Heroes	Film · 2008	cm,dr,ro
+~Heroes	Film · 1977	cm,dr,ro
 ~Baskin	Film · 2015	ho
 ~Shock Wave	Film · 2017	th
 ~Blue Jeans	Film · 1975	dr,th
@@ -22562,7 +22562,7 @@ The Wizard of Oz	Film · 1939	dr,fa,fm,mu
 ~American Yakuza	Film · 1993	ac,th
 ~Two Times Lotte	Film · 1950	an,cm
 ~Aflatoon	Film · 1997	ac,dr,th
-~Plumíferos	Film · 2010	cm,fm,mu
+~Plumíferos	Film · 2010	an,cm,fm,mu
 ~Voyager	Film · 1991	dr
 ~The Butterfly	Film · 2002	cm,dr
 ~Albela	Film · 2001	cm,dr
@@ -22999,7 +22999,7 @@ The Wizard of Oz	Film · 1939	dr,fa,fm,mu
 ~Period of Adjustment	Film · 1962	cm,dr,ro
 ~Mountain Patrol: Kekexili	Film · 2004	ac,dr
 ~Joi Baba Felunath	Film · 1979	dr,fm,th
-~One More Time	Film · 1970	cm,dr
+~One More Time	Film · 1970	an,cm,dr
 ~Phool Aur Patthar	Film · 1966	ac,dr
 ~Verbo	Film · 2011
 ~The School Teacher	Film · 1975	cm
@@ -23512,7 +23512,7 @@ Tron: Legacy	Film · 2010	ac,sf
 Alien: Covenant	Film · 2017	ac,dr,ho,sf,th
 28 Days Later	Film · 2002	ac,dr,ho,sf
 Yes Man	Film · 2008	cm,ro
-The Secret Life of Pets 2	Film · 2019	cm
+The Secret Life of Pets 2	Film · 2019	an,cm
 Rocky IV	Film · 1985	ac,dr
 The Hunger Games: Mockingjay – Part 1	Film · 2014	ac,dr,sf,wa
 Rocky II	Film · 1979	ac,dr
@@ -24137,7 +24137,7 @@ The Floorwalker	Film · 1916	cm
 The Fireman	Film · 1916	cm
 Newark Athlete	Film · 1891	dc
 The New Janitor	Film · 1914	cm
-Olaf's Frozen Adventure	Film · 2017	cm,fa,fm,mu
+Olaf's Frozen Adventure	Film · 2017	an,cm,fa,fm,mu
 Wizards of Waverly Place: The Movie	Film · 2009	fa,fm
 The Pilgrim	Film · 1923	cm
 Behind the Screen	Film · 1916	cm
@@ -24201,7 +24201,7 @@ Mabel's Married Life	Film · 1914	cm
 Cruel, Cruel Love	Film · 1914	cm
 The Impossible Voyage	Film · 1904	fa,sf
 Mabel's Busy Day	Film · 1914	cm
-Ice Age: A Mammoth Christmas	Film · 2011	cm,fm
+Ice Age: A Mammoth Christmas	Film · 2011	an,cm,fm
 Radio Rebel	Film · 2012	dr,fm,mu
 The Star Wars Holiday Special	Film · 1978	cm,mu,sf
 Jump In!	Film · 2007	cm,dr,fm,ro

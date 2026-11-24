@@ -214,7 +214,7 @@ Beavis and Butt-Head	TV series · 1993	an,cm
 The Lord of the Rings: The Rings of Power	TV series · 2022	dr,fa
 Star Wars: The Clone Wars	TV series · 2008	an,dr,fa,ki,sf
 Marimar	TV series · 1994	dr
-Skibidi Toilet	TV series · 2023	cm,cr,fa,sf
+Skibidi Toilet	TV series · 2023	an,cm,cr,fa,sf
 Teenage Mutant Ninja Turtles	TV series · 2003	an,cm,fa,ki,sf
 Fargo	TV series · 2014	cm,cr,dr
 Clarence	TV series · 2014	an,cm,ki
@@ -514,7 +514,7 @@ The Penguin	TV series · 2024	cr,dr,fa
 Echo	TV series · 2024	fa,sf
 It: Welcome to Derry	TV series · 2025	ho
 Mobile Suit Gundam	TV series · 1979	an,sf
-Arrested Development	TV series · 2013
+Arrested Development	TV series · 2003
 Home and Away	TV series · 1988	dr
 X-Men	TV series · 6767	an,fa,ki,sf
 Black Sails	TV series · 2014	dr
@@ -1071,7 +1071,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Project Runway	TV series · 2004	re
 ~Family Ties	TV series · 1982	cm
 ~The Gentlemen	TV series · 2024	cm,cr
-~Murder Drones	TV series · 2021	cm,ho,sf
+~Murder Drones	TV series · 2021	an,cm,ho,sf
 ~Total Drama	TV series · 2007	an,cm,re
 ~Queen of Tears	TV series · 2024
 ~Bear in the Big Blue House	TV series · 1997	ki
@@ -1087,7 +1087,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Empress Ki	TV series · 2013
 ~Terror in Resonance	TV series · 2014	an,cr
 ~Hell on Wheels	TV series · 2011	dr
-~And Then There Were None	TV series · 1990
+~And Then There Were None	TV series · 2011
 ~Constantine	TV series · 2014	fa
 ~Wayward Pines	TV series · 2015	cr,sf
 ~Black-ish	TV series · 2014	cm
@@ -1111,7 +1111,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Yuri on Ice	TV series · 2016	an
 ~Ben and Holly's Little Kingdom	TV series · 2009	an,cm,fa,ki
 ~Clifford the Big Red Dog	TV series · 2000	an,fa,ki
-~Thunderbirds	TV series · 1965	ki,sf
+~Thunderbirds	TV series · 1965	an,ki,sf
 ~Mi marido tiene familia	TV series · 2017	dr
 ~Martha Speaks	TV series · 2008	an,cm,ki
 ~Top Wing	TV series · 2017	an,cm,ki
@@ -1298,7 +1298,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~The Walking Dead: Dead City	TV series · 2023	dr,ho
 ~Yalı Çapkını	TV series	dr
 ~Sherlock Hound	TV series · 1984	an,cr
-~Danger Mouse	TV series · 2015	an,cm,ki
+~Danger Mouse	TV series · 1981	an,cm,ki
 ~The Walking Dead: Daryl Dixon	TV series · 2023	ho
 ~The Event	TV series · 2010	sf
 ~When Life Gives You Tangerines	TV series · 2025	dr
@@ -1543,7 +1543,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Gute Zeiten, schlechte Zeiten	TV series · 1992	dr
 ~Samurai 7	TV series · 2004	an,sf
 ~My Daddy Long Legs	TV series · 1990	an,dr
-~Holocaust	TV series · 1970
+~Holocaust	TV series · 1999
 ~Dragon Ball Z Kai	TV series · 2009	an
 ~Mobile Suit Gundam Wing	TV series · 1995	an,sf
 ~Caminho das Índias	TV series · 2009	dr
@@ -2093,7 +2093,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Kadın	TV series · 2017	dr
 ~A Million Little Things	TV series · 2018	cm,dr,ki
 ~All American	TV series · 2017	dr
-~Invasion	TV series · 2021	sf
+~Invasion	TV series · 2005	sf
 ~Father Brown	TV series · 2013	cr
 ~Zuzubaland	TV series · 2018	an,cm,fa
 ~Dickinson	TV series · 2019	cm,dr
@@ -2124,7 +2124,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Mobile Fighter G Gundam	TV series · 1994	an,sf
 ~Power Rangers Operation Overdrive	TV series · 2007	sf
 ~Rupert	TV series · 1991	an,ki
-~Angel's Friends	TV series · 2007	fa
+~Angel's Friends	TV series · 2007	an,fa
 ~Unfabulous	TV series · 2004	cm
 ~Life with Boys	TV series · 2011	cm
 ~Tayo the Little Bus	TV series · 2010	an,cm,ki,sf
@@ -2180,7 +2180,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~The Sympathizer	TV · 2024	cm,cr,dr
 ~Kamen Rider Kiva	TV series · 2008	sf
 ~Stitch!	TV series · 2008	an,cm,fa,sf
-~The Inquiry	TV series · 2022
+~The Inquiry	TV series · 2000
 ~Ripley	TV series · 2024	cr,dr
 ~Nobody Wants This	TV series · 2024	cm
 ~Dead Boy Detectives	TV series · 2024	cm,cr,dr,fa
@@ -2238,7 +2238,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Numb Chucks	TV series · 2014	an,cm,fa,ki
 ~Stalker	TV series · 2014	cr
 ~Dominion	TV series · 2014	dr,fa
-~Don't Hug Me I'm Scared	TV series · 2011	cm
+~Don't Hug Me I'm Scared	TV series · 2011	an,cm
 ~Transparent	TV series · 2014	cm,dr
 ~Misaeng	TV series · 2014	dr
 ~Treme	TV series · 2010	dr
@@ -3465,7 +3465,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~The Client List	TV series · 2012	dr
 ~The Big O	TV series · 1999	an,sf
 ~Elisa di Rivombrosa	TV series · 2003
-~Stoked	TV series · 2009	cm
+~Stoked	TV series · 2009	an,cm
 ~Festivalbar	TV · 1964
 ~The Fungies!	TV series · 2020	an
 ~Penn & Teller: Bullshit!	TV series · 2003	cm
@@ -3667,7 +3667,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Bad Guys	TV series · 2014	cr
 ~Heartbeat	TV series · 1992	cm,dr,fa
 ~Late Night with Jimmy Fallon	TV series · 2009	re
-~H₂O: Mermaid Adventures	TV series · 2015	fa
+~H₂O: Mermaid Adventures	TV series · 2015	an,fa
 ~The Voice UK	TV series · 2012	re
 ~La sombra del pasado	TV series · 2014	dr
 ~Cute High Earth Defense Club Love!	TV series · 2015	an,fa,sf
@@ -3745,7 +3745,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Watership Down	TV series · 2018	an,fa,ki
 ~The Worst Witch	TV series · 2017	fa,ki
 ~Knightfall	TV series · 2017	dr
-~George Shrinks	TV series · 2000
+~George Shrinks	TV series · 2000	an
 ~Wiseguy	TV series · 1987	cr
 ~Hello, My Twenties!	TV series · 2016	dr
 ~Ultraseven	TV series · 1967	sf
@@ -3786,7 +3786,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Water Boyy: The Series	TV series · 2017	dr
 ~Hergé's Adventures of Tintin	TV series · 1957	an
 ~Crash & Bernstein	TV series · 2012	cm
-~Harry and His Bucket Full of Dinosaurs	TV series · 2005
+~Harry and His Bucket Full of Dinosaurs	TV series · 2005	an
 ~Terrace House	TV series · 2012	re
 ~Profilage	TV series · 2009	cr
 ~Operación Triunfo	TV series · 2001	re
@@ -4219,7 +4219,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Chef's Table	TV series · 2015
 ~Zero Hour	TV series · 2013	dr
 ~Popular	TV series · 1999	cm,dr
-~Miss Spider's Sunny Patch Friends	TV series · 2004	ki
+~Miss Spider's Sunny Patch Friends	TV series · 2004	an,ki
 ~Prisoners of War	TV series · 2010	dr
 ~¿Quién es quién?	TV series · 2015	dr
 ~Goodbye Mr. Black	TV series · 2016	cr,dr
@@ -4823,7 +4823,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~The Blue Planet	TV series · 2001
 ~The Honourable Woman	TV series · 2014	cr,dr
 ~In de gloria	TV series · 2000	cm
-~The Jungle Bunch	TV series · 2011
+~The Jungle Bunch	TV series · 2011	an
 ~Taxi Brooklyn	TV series · 2014	cm,cr,dr
 ~Into the West	TV series · 2005
 ~Jake 2.0	TV series · 2003	sf
@@ -5061,7 +5061,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~An Idiot Abroad	TV series · 2010
 ~Waterloo Road	TV series · 2006	dr
 ~The Adventures of Sam & Max: Freelance Police	TV series · 1997	an
-~Ultimate Book of Spells	TV series · 2001	fa,ki
+~Ultimate Book of Spells	TV series · 2001	an,fa,ki
 ~The Moxy Show	TV series · 1993	an
 ~Never Mind the Buzzcocks	TV series · 1996	cm
 ~Yellow Boots	TV series · 2012	dr,ki
@@ -5241,7 +5241,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Power Players	TV series · 2019	an,sf
 ~Accidentally on Purpose	TV series · 2009	cm
 ~Id – Invaded	TV series · 2020	an,cr,sf
-~ToddWorld	TV series · 2004
+~ToddWorld	TV series · 2004	an
 ~The Mallorca Files	TV series · 2019	dr
 ~Foreign Exchange	TV series · 2004	fa,ki
 ~X-Play	TV series · 1998
@@ -5310,7 +5310,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Equinox	TV series · 2020	cr
 ~Salve Jorge	TV series · 2012	dr
 ~The Net	TV series · 1998	sf
-~Captain Scarlet and the Mysterons	TV series · 1967	cr,sf
+~Captain Scarlet and the Mysterons	TV series · 1967	an,cr,sf
 ~Mr. Bogus	TV series · 1991	an,cm
 ~Onegai! Samia-don	TV series · 1985	an,fa
 ~Love (ft. Marriage and Divorce)	TV series · 2021	dr
@@ -5678,7 +5678,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Siya Ke Ram	TV series · 2015
 ~Z: The Beginning of Everything	TV series · 2015
 ~The New Adventures of Zorro	TV series · 1997	an
-~Rebellion	TV series · 2013
+~Rebellion	TV series · 2008
 ~Cold Feet	TV series · 1997	cm,dr
 ~Crashing	TV series · 2016	cm
 ~Help!... It's the Hair Bear Bunch!	TV series · 1971	an
@@ -5734,7 +5734,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Zorro: Generation Z	TV series · 2006	an,cm
 ~Bir Zamanlar Osmanlı: Kıyam	TV series · 2012
 ~The Adventures of the Little Prince	TV series · 1978	an,fa
-~Lunar Jim	TV series · 2006
+~Lunar Jim	TV series · 2006	an
 ~Nouvelle Star	TV series · 2003	re
 ~Beethoven	TV series · 1994	an,cm
 ~Final Fantasy: Legend of the Crystals	TV · 1994	am,fa
@@ -5791,7 +5791,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Maria Theresia	TV · 2017	dr
 ~The Jewel in the Crown	TV series · 2016
 ~Rated A for Awesome	TV series · 2011	an,cm,ki
-~Clifford's Puppy Days	TV series · 2003
+~Clifford's Puppy Days	TV series · 2003	an
 ~Caitlin's Way	TV series · 2000	dr
 ~Cañaveral de Pasiones	TV series · 1996	dr
 ~Söz	TV series · 2017	dr
@@ -6449,7 +6449,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~River	TV series · 2015	cr,dr
 ~Temptation	TV series · 2014
 ~Vanished	TV series · 2006	cr
-~Rolling with the Ronks!	TV series · 2016
+~Rolling with the Ronks!	TV series · 2016	an
 ~Reset	TV series · 2014	cr,dr
 ~Manhattan	TV series · 2014	dr
 ~Império	TV series · 2014	dr
@@ -6535,7 +6535,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~The Young Riders	TV series · 1989
 ~Bag of Bones	TV · 2011	ho
 ~Commissaire Moulin	TV series · 1976	cr
-~American Gothic	TV series · 2016	dr
+~American Gothic	TV series · 1995	dr
 ~İlişki Durumu: Karışık	TV series · 2016	cm,dr
 ~Xiao Xiao	TV series
 ~Men Behaving Badly	TV series · 1992	cm
@@ -6600,7 +6600,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Marlon	TV series · 2017	cm
 ~Rosa Diamante	TV series · 2012	dr
 ~The Slim Shady Show	TV series · 2000
-~Go Jetters	TV series · 2015	ki
+~Go Jetters	TV series · 2015	an,ki
 ~Kung Fu: The Legend Continues	TV series · 1993
 ~Labyrinth	TV series · 1987	re
 ~Heat Guy J	TV series · 2002	an,sf
@@ -6668,7 +6668,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Time Jam: Valerian & Laureline	TV series · 2007	an,cm,sf
 ~A Haunting	TV series · 2005
 ~The Fairytaler	TV series · 2002	an,cm,fa
-~Miss Moon	TV series · 2016
+~Miss Moon	TV series · 2016	an
 ~Loopy De Loop	TV series · 1959
 ~The Champions	TV series · 1968	fa,sf
 ~Seiren	TV series · 2017	an
@@ -6937,7 +6937,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~It's Showtime	TV series · 2009
 ~Mother of Mine	TV series · 2019
 ~Gülperi	TV series · 2018
-~Poppy Cat	TV series · 2011
+~Poppy Cat	TV series · 2011	an
 ~Vuslat	TV series · 2019
 ~Da Ali G Show	TV series · 2000	cm
 ~Zeke's Pad	TV series · 2008	an,cm,ki
@@ -7081,7 +7081,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Solomon	TV · 1997	dr
 ~Święta wojna	TV series · 2000	cm
 ~Imagination Movers	TV series · 2008	ki
-~Vipo: Adventures of the Flying Dog	TV series · 2007	ki
+~Vipo: Adventures of the Flying Dog	TV series · 2007	an,ki
 ~Tierra de Pasiones	TV series · 2006	dr
 ~Quiz	TV series · 2000	cr,dr
 ~Train	TV series · 2020
@@ -7312,7 +7312,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Adam-12	TV series · 1968	cr,dr
 ~In the Heat of the Night	TV series · 1988	cr,dr
 ~The Name of the Game	TV series · 1968	cr
-~Crash	TV series · 2024	cm,cr,dr,ki
+~Crash	TV series · 2008	cm,cr,dr,ki
 ~Mary Hartman, Mary Hartman	TV series · 1976	cm,dr
 ~Kaz	TV series · 1978	dr
 ~Apuesta por un amor	TV series · 2004	dr
@@ -7520,7 +7520,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~My Unfortunate Boyfriend	TV series · 2015
 ~The Fades	TV series · 2011	dr
 ~Sete Vidas	TV series · 2015	dr
-~What About Mimi?	TV series · 2000
+~What About Mimi?	TV series · 2000	an
 ~Gangaa	TV series · 2015	dr
 ~Heart of Greed	TV series · 2007	dr
 ~Endangered Species	TV series · 2015	an
@@ -7822,7 +7822,7 @@ Fatmagül'ün Suçu Ne?	TV series · 2010	dr
 ~Untouchable Lovers	TV series · 2018
 ~Get Ed	TV series · 2005	an,sf
 ~Bad Girls	TV series · 1999	dr
-~Grossology	TV series · 2006
+~Grossology	TV series · 2006	an
 ~Man in the Kitchen	TV series · 2017	dr
 ~The Secret of My Love	TV series · 2017	dr
 ~SportsCenter	TV series · 1979
@@ -8412,7 +8412,7 @@ Rise of Empires: Ottoman	TV series · 2020	dr
 Maid	TV series · 2021	dr
 Free European Song Contest	TV series · 2020
 KVN	TV series · 1961	re
-Pleasant Goat and Big Big Wolf	TV series · 2005
+Pleasant Goat and Big Big Wolf	TV series · 2005	an
 Viva La Bam	TV series · 2003	re
 Japan Gold Disc Award	TV series
 The Hills	TV series · 2006	re

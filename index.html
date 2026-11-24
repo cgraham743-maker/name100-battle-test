@@ -644,6 +644,12 @@ function closest(k, keys, max) {
   }
   return best;
 }
+// localMatch against another loaded list (e.g. all Movies while playing Animated Movies)
+function matchIn(db, raw) {
+  const save = { INDEX, CANON_KEYS, RARE_KEYS, META, NAMES };
+  ({ INDEX, CANON_KEYS, RARE_KEYS, META, NAMES } = db);
+  try { return localMatch(raw); } finally { ({ INDEX, CANON_KEYS, RARE_KEYS, META, NAMES } = save); }
+}
 function localMatch(input) {
   const hit = exactMatch(input); if (hit) return hit;
   if (input.includes(',')) { const h2 = exactMatch(input.split(',')[0]); if (h2) return h2; }   // "Paris, Texas" -> Paris
@@ -816,7 +822,7 @@ function wdLive(catId) {
   if (!what) return null;   // People of Color, LGBTQ+, Disney, Heroes & Villains, Video Game Characters: the list only
   const hint = base === 'movies' ? /\bfilm\b|movie/i : WD_KIND[base].hint;
   return { kind: { hint }, what, no: base === 'brands' ? NOT_BRAND : null, sex: base.startsWith('fictional') ? SEX[c.pron] : null,
-    tags, tagProps: ['P31', 'P136'] };
+    tags, tagProps: ['P31', 'P136', 'P2079'] };   // P2079 'made using' holds 'traditional animation' etc.
 }
 // Returns { ok, item } when Wikidata confirms it, { why } when it's the wrong kind, or null (not found / no connection)
 async function wdCheck(raw, catId) {
@@ -1098,8 +1104,7 @@ form.addEventListener('submit', async e => {
   // In a genre/subcategory: something on the main list that our list doesn't tag (yet) gets a live genre check
   let parentHit = null;
   if (c.filter && DB[c.sub]) {
-    const all = DB[c.sub], k = norm(raw);
-    parentHit = all.INDEX.get(k) || all.INDEX.get(k.replace(/^(the|a|an) /, ''));
+    parentHit = matchIn(DB[c.sub], raw);   // typos allowed (101 Dalmations)
   }
   const live = wdLive(cat);
   if (live && (!live.human || raw.trim().split(/\s+/).length >= 2 || parentHit)) {
